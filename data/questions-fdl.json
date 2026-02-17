@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-02-17",
+  "area": "Filosofía del Lenguaje I",
+  "type": "Multiple Choice",
+  "shortName": "fdl",
+  "questions": [
+    {
+      "section": "Tema 1. Introducción",
+      "number": 1,
+      "question": "“Pedro robó las joyas” y “Las joyas fueron robadas por Pedro” expresan:",
+      "options": [
+        "Una misma proposición.",
+        "No expresan ninguna proposición.",
+        "Dos proposiciones diferentes."
+      ],
+      "answer": "Una misma proposición.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 1. Introducción",
+      "number": 2,
+      "question": "¿De qué se ocupa la semántica?",
+      "options": [
+        "De las reglas de formación gramaticales.",
+        "De los aspectos del lenguaje que tienen que ver con su uso y las prácticas comunicativas.",
+        "Del significado de las expresiones y, en concreto, de las relaciones entre lenguaje y realidad."
+      ],
+      "answer": "Del significado de las expresiones y, en concreto, de las relaciones entre lenguaje y realidad.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 1. Introducción",
+      "number": 3,
+      "question": "¿En cuál de los siguientes enunciados está “Pedro” usado (no mencionado)?",
+      "options": [
+        "“Pedro” tiene 5 letras.",
+        "“Pedro” es un nombre propio.",
+        "Pedro ha robado las joyas."
+      ],
+      "answer": "Pedro ha robado las joyas.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 1. Introducción",
+      "number": 4,
+      "question": "Considera el siguiente enunciado: “Pedro” es un ladrón.",
+      "options": [
+        "El enunciado es falso porque Pedro no está usado sino mencionado y, por tanto, refiere a una expresión lingüística.",
+        "El enunciado es falso porque es un uso irónico.",
+        "El enunciado es verdadero en caso de que Pedro sea de hecho un ladrón."
+      ],
+      "answer": "El enunciado es falso porque Pedro no está usado sino mencionado y, por tanto, refiere a una expresión lingüística.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 1. Introducción",
+      "number": 5,
+      "question": "Considera el siguiente enunciado: “La neige est blanche” significa en francés que la nieve es blanca. ¿Qué idioma se usa como metalenguaje?",
+      "options": [
+        "Ambos.",
+        "El francés.",
+        "El español"
+      ],
+      "answer": "El español",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 2. Frege: sentido y referencia",
+      "number": 1,
+      "question": "En el análisis lógico-semántico del lenguaje que hace Frege, ¿por qué se sustituye la estructura gramatical de sujeto-predicado?",
+      "options": [
+        "Por las categorías gramaticales de sintagma nominal y verbal.",
+        "Por la estructura lógico-matemática de argumento-función."
+      ],
+      "answer": "Por la estructura lógico-matemática de argumento-función.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 2. Frege: sentido y referencia",
+      "number": 2,
+      "question": "De acuerdo con Frege, el sentido de una expresión lingüística...",
+      "options": [
+        "Es intersubjetivo, esto es, puede ser compartido.",
+        "Es el objeto designado por la expresión y, por tanto, es objetivo.",
+        "Es subjetivo, al igual que la representación mental."
+      ],
+      "answer": "Es intersubjetivo, esto es, puede ser compartido.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 2. Frege: sentido y referencia",
+      "number": 3,
+      "question": "En la teoría de Frege, el sentido de una oración simple es:",
+      "options": [
+        "Un pensamiento.",
+        "Sólo los nombres propios tienen sentido.",
+        "Su valor de verdad."
+      ],
+      "answer": "Un pensamiento.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 2. Frege: sentido y referencia",
+      "number": 4,
+      "question": "Según, Frege, en el enunciado “Platón cree que Aristóteles está equivocado”...",
+      "options": [
+        "“Aristóteles” no tiene sentido ni referencia.",
+        "“Aristóteles” tiene referencia indirecta (refiere a su sentido usual).",
+        "“Aristóteles” tiene su referencia habitual (refiere a un individuo)."
+      ],
+      "answer": "“Aristóteles” tiene referencia indirecta (refiere a su sentido usual).",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 2. Frege: sentido y referencia",
+      "number": 5,
+      "question": "De acuerdo con el principio de sustituibilidad adoptado por Frege, ¿qué es lo que no cambia al sustituir en un enunciado un término por otro término correferencial?",
+      "options": [
+        "El valor de verdad del enunciado, esto es, su referencia.",
+        "El pensamiento expresado por el enunciado, esto es, su sentido.",
+        "Cambian tanto el sentido como la referencia."
+      ],
+      "answer": "El valor de verdad del enunciado, esto es, su referencia.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 3. Russell y la semántica de las descripciones definidas",
+      "number": 1,
+      "question": "La aportación de un nombre propio a la proposición singular (o russelliana) expresada por un enunciado en el que aparece dicho nombre es:",
+      "options": [
+        "El objeto denotado por el nombre.",
+        "El sentido del nombre.",
+        "La representación mental asociada al nombre."
+      ],
+      "answer": "El objeto denotado por el nombre.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 3. Russell y la semántica de las descripciones definidas",
+      "number": 2,
+      "question": "Los enunciados ‘Héspero es un planeta’ y ‘Fósforo es un planeta’ (donde ‘Héspero’ y ‘Fósforo’ son nombres de Venus)…",
+      "options": [
+        "Expresan dos proposiciones fregeanas diferentes pero la misma proposición russelliana.",
+        "Expresan la misma proposición fregeana y la misma proposición russelliana.",
+        "Expresan la misma proposición fregeana pero proposiciones russellianas diferentes."
+      ],
+      "answer": "Expresan dos proposiciones fregeanas diferentes pero la misma proposición russelliana.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 3. Russell y la semántica de las descripciones definidas",
+      "number": 3,
+      "question": "De acuerdo con Russell:",
+      "options": [
+        "La noción de forma lógica no debe ser utilizada en semántica, ya que es engañosa.",
+        "La forma gramatical de un enunciado es isomórfica con su forma lógica.",
+        "La forma gramatical de un enunciado puede ser engañosa y ocultar su forma lógica."
+      ],
+      "answer": "La forma gramatical de un enunciado puede ser engañosa y ocultar su forma lógica.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 3. Russell y la semántica de las descripciones definidas",
+      "number": 4,
+      "question": "De acuerdo con Russell, en la estructura semántica de una descripción definida hay:",
+      "options": [
+        "Un supuesto de generalidad y pluralidad.",
+        "Un supuesto de no existencia.",
+        "Un supuesto de existencia y un supuesto de unicidad."
+      ],
+      "answer": "Un supuesto de existencia y un supuesto de unicidad.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 3. Russell y la semántica de las descripciones definidas",
+      "number": 5,
+      "question": "De acuerdo con Russell, las descripciones definidas:",
+      "options": [
+        "Son expresiones carentes de significado.",
+        "Son expresiones cuantificacionales.",
+        "Son expresiones referenciales, al igual que los nombres propios."
+      ],
+      "answer": "Son expresiones cuantificacionales.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 4. Referencia directa y externismo semántico",
+      "number": 1,
+      "question": "Siguiendo el análisis kripkeano, el enunciado “Héspero es Fósforo”:",
+      "options": [
+        "Es un enunciado necesario a posteriori.",
+        "Es un enunciado contingente a posteriori.",
+        "Es un enunciado necesario a priori."
+      ],
+      "answer": "Es un enunciado necesario a posteriori.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 4. Referencia directa y externismo semántico",
+      "number": 2,
+      "question": "Supongamos que la descripción que asociamos con el nombre ‘Gabriel García Márquez’ es ‘el autor de Cien años de soledad’. Ahora imaginemos que la persona a quien habitualmente atribuimos el mérito de esa obra (Gabriel García Márquez) en realidad no la escribió, sino que se la robó a una conocida llamada Eugenia Pérez. De acuerdo con el descriptivismo, ¿a quién referiría en esta situación imaginaria el nombre ‘Gabriel García Márquez’?",
+      "options": [
+        "A Gabriel García Márquez.",
+        "A Eugenia Pérez.",
+        "A ninguno de los dos."
+      ],
+      "answer": "A Eugenia Pérez.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 4. Referencia directa y externismo semántico",
+      "number": 3,
+      "question": "De acuerdo con Kripke, ¿qué expresiones son designadores rígidos?",
+      "options": [
+        "Los nombres propios.",
+        "Las descripciones definidas."
+      ],
+      "answer": "Los nombres propios.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 4. Referencia directa y externismo semántico",
+      "number": 4,
+      "question": "De acuerdo con el externismo…",
+      "options": [
+        "La noción de referencia es defectuosa y debe ser reemplazada por la de sentido.",
+        "En la determinación de la referencia de un término intervienen esencialmente entidades externas a la mente.",
+        "En la determinación de la referencia de un término intervienen tanto las ideas de los hablantes como entidades externas a la mente."
+      ],
+      "answer": "En la determinación de la referencia de un término intervienen esencialmente entidades externas a la mente.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 4. Referencia directa y externismo semántico",
+      "number": 5,
+      "question": "El descriptivismo es una teoría…",
+      "options": [
+        "Ambas.",
+        "Internista.",
+        "Externista."
+      ],
+      "answer": "Internista.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 5. Significado y verdad",
+      "number": 1,
+      "question": "La teoría de la verdad de Tarski:",
+      "options": [
+        "No es recursiva.",
+        "Es recursiva y no genera esquemas V (en inglés, esquema T) para todos los enunciados de la lengua objeto.",
+        "Es recursiva y genera esquemas V (en inglés, esquema T) para todos los enunciados de la lengua objeto."
+      ],
+      "answer": "Es recursiva y genera esquemas V (en inglés, esquema T) para todos los enunciados de la lengua objeto.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 5. Significado y verdad",
+      "number": 2,
+      "question": "De acuerdo con Davidson, la tarea de dar una teoría del significado para un lenguaje equivale a la tarea de:",
+      "options": [
+        "Proporcionar sinónimos de las expresiones del lenguaje.",
+        "Indicar a qué sentido fregeano corresponde cada expresión de dicho lenguaje.",
+        "Formular la teoría de la verdad de dicho lenguaje."
+      ],
+      "answer": "Formular la teoría de la verdad de dicho lenguaje.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 5. Significado y verdad",
+      "number": 3,
+      "question": "Los enunciados de habla indirecta como “María dijo que los precios han vuelto a subir” tienen una semántica especialmente compleja. ¿Qué análisis propone Davidson?",
+      "options": [
+        "Prescinde de ofrecer una análisis semántico de este tipo de enunciados.",
+        "Trata al pronombre relativo “que” como un deíctico que denota el contenido de la preferencia original.",
+        "Recurre a sentidos fregeanos."
+      ],
+      "answer": "Trata al pronombre relativo “que” como un deíctico que denota el contenido de la preferencia original.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 5. Significado y verdad",
+      "number": 4,
+      "question": "¿Qué función desempeña el principio de caridad en la situación de interpretación que plantea Davidson?",
+      "options": [
+        "Hace posible la división del trabajo lingüístico.",
+        "Hace posible la interacción humana sin comunicación.",
+        "Hace posible la interpretación radical."
+      ],
+      "answer": "Hace posible la interpretación radical.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 5. Significado y verdad",
+      "number": 5,
+      "question": "La extensión de una expresión simple e es:",
+      "options": [
+        "Una función de mundos posibles a referentes.",
+        "El sentido fregeano de e.",
+        "La contribución de e al valor de verdad del enunciado en que aparece."
+      ],
+      "answer": "La contribución de e al valor de verdad del enunciado en que aparece.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 6. Indéxicos y demostrativos",
+      "number": 1,
+      "question": "Un indéxico se caracteriza por…",
+      "options": [
+        "Ser un nombre propio abreviado.",
+        "Tener siempre extensión vacía.",
+        "Tener referente de manera relativa al contexto de uso."
+      ],
+      "answer": "Tener referente de manera relativa al contexto de uso.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 6. Indéxicos y demostrativos",
+      "number": 2,
+      "question": "Un ejemplo de indéxico puro o automático podría ser…",
+      "options": [
+        "'Él'.",
+        "‘Esto’.",
+        "'Yo'."
+      ],
+      "answer": "'Yo'.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 6. Indéxicos y demostrativos",
+      "number": 3,
+      "question": "En el análisis kaplaniano, el carácter de un indéxico es…",
+      "options": [
+        "El valor de verdad del enunciado en que aparece el indéxico.",
+        "El referente más habitual del indéxico en cuestión.",
+        "Una regla que determina el referente del indéxico en cada contexto."
+      ],
+      "answer": "Una regla que determina el referente del indéxico en cada contexto.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 6. Indéxicos y demostrativos",
+      "number": 4,
+      "question": "Carmen, en Córdoba, y Remedios, en Sevilla, dicen ‘Aquí hace calor’. Sus proferencias tienen:",
+      "options": [
+        "Distinto carácter y distinto contenido.",
+        "El mismo carácter y el mismo contenido.",
+        "El mismo carácter y distinto contenido."
+      ],
+      "answer": "El mismo carácter y distinto contenido.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 6. Indéxicos y demostrativos",
+      "number": 5,
+      "question": "Tomemos los dos enunciados siguientes: (1) ‘El examen es el día 20 de enero a las 10:00’. (2) ‘El examen es ahora’. Supongamos que (2) se pronuncia el día 20 de enero a las 10:00. Estos dos enunciados, en el contexto descrito…",
+      "options": [
+        "Tendrían el mismo contenido y la misma significación cognitiva.",
+        "Tendrían el mismo contenido pero distinta significación cognitiva.",
+        "Tendrían distinto contenido pero la misma significación cognitiva."
+      ],
+      "answer": "Tendrían el mismo contenido pero distinta significación cognitiva.",
+      "explanation": ""
+    }
+  ]
+}
