@@ -1,0 +1,12 @@
+{
+  "name": "learning-studio-data",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev:data": "serve --cors --listen 4173 data",
+    "dev:data:test": "serve --cors --listen 4174 test-data"
+  },
+  "devDependencies": {
+    "serve": "^14.2.5"
+  }
+}

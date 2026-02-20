@@ -7,6 +7,11 @@ Data files used by Learning Studio, so they can be updated and maintained indepe
 - `data/questions-fdl.json`
 - `data/questions-ipc.json`
 - `data/questions-logica1.json`
+- `test-data/areas-mcq-tests.json`
+- `test-data/questions-mcq-tests.json`
+- `test-data/questions-logica1.json`
+- `test-data/questions-ipc.json`
+- `test-data/questions-fdl.json`
 
 ## Versioning
 Each JSON file includes:
@@ -29,3 +34,13 @@ Each JSON file includes:
 - What it does:
   - syncs `data/` to `s3://studio-data.humblyproud.com/`
   - creates a CloudFront invalidation only for `/studio-data/*`
+
+## Local Development
+- Install dependencies:
+  - `npm install`
+- Serve production-like data:
+  - `npm run dev:data`
+  - URL: `http://localhost:4173`
+- Serve stable test data:
+  - `npm run dev:data:test`
+  - URL: `http://localhost:4174`

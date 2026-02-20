@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-02-17",
+  "areas": [
+    {
+      "area": "Lógica I",
+      "file": "questions-logica1.json",
+      "type": "True False",
+      "shortName": "log1"
+    },
+    {
+      "area": "Introducción al Pensamiento Científico",
+      "file": "questions-ipc.json",
+      "type": "Multiple Choice",
+      "shortName": "ipc"
+    },
+    {
+      "area": "Filosofía del Lenguaje",
+      "file": "questions-fdl.json",
+      "type": "Multiple Choice",
+      "shortName": "fdl"
+    },
+    {
+      "area": "Área de Pruebas MCQ",
+      "file": "questions-mcq-tests.json",
+      "type": "Multiple Choice",
+      "shortName": "mcq-tests"
+    }
+  ]
+}

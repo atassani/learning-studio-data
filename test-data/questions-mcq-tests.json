@@ -1,0 +1,34 @@
+[
+  {
+    "section": "Multiple Choice Tests Variable Options",
+    "number": 1,
+    "question": "Question with two options?",
+    "options": ["Option 1.", "Option 2."],
+    "answer": "Option 2.",
+    "explanation": ""
+  },
+  {
+    "section": "Multiple Choice Tests Variable Options",
+    "number": 2,
+    "question": "Question with three options?",
+    "options": ["Option 1.", "Option 2.", "Option 3."],
+    "answer": "Option 2.",
+    "explanation": ""
+  },
+  {
+    "section": "Multiple Choice Tests Variable Options",
+    "number": 3,
+    "question": "Question with four options?",
+    "options": ["Option 1.", "Option 2.", "Option 3.", "Option 4."],
+    "answer": "Option 2.",
+    "explanation": ""
+  },
+  {
+    "section": "Multiple Choice Tests Variable Options",
+    "number": 4,
+    "question": "Question with five options?",
+    "options": ["Option 1.", "Option 2.", "Option 3.", "Option 4.", "Option 5."],
+    "answer": "Option 2.",
+    "explanation": ""
+  }
+]
