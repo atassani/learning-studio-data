@@ -6,19 +6,22 @@
       "area": "Lógica I",
       "file": "questions-logica1.json",
       "type": "True False",
-      "shortName": "log1"
+      "shortName": "log1",
+      "language": "es"
     },
     {
       "area": "Introducción al Pensamiento Científico",
       "file": "questions-ipc.json",
       "type": "Multiple Choice",
-      "shortName": "ipc"
+      "shortName": "ipc",
+      "language": "es"
     },
     {
       "area": "Filosofía del Lenguaje I",
       "file": "questions-fdl.json",
       "type": "Multiple Choice",
-      "shortName": "fdl"
+      "shortName": "fdl",
+      "language": "es"
     }
   ]
 }

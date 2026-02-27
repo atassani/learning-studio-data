@@ -4,6 +4,7 @@
   "area": "Filosofía del Lenguaje I",
   "type": "Multiple Choice",
   "shortName": "fdl",
+  "language": "es",
   "questions": [
     {
       "section": "Tema 1. Introducción",

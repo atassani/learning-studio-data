@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-02-27",
+  "area": "MCQ Test Area (ca)",
+  "type": "Multiple Choice",
+  "shortName": "mcq-tests-ca",
+  "language": "ca",
+  "questions": [
+    {
+      "section": "Mock Section",
+      "number": 1,
+      "question": "Pregunta multillengua de prova",
+      "options": [
+        "Sí",
+        "No"
+      ],
+      "answer": "Sí",
+      "explanation": ""
+    }
+  ]
+}

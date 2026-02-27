@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-02-27",
+  "area": "MCQ Test Area (en)",
+  "type": "Multiple Choice",
+  "shortName": "mcq-tests-en",
+  "language": "en",
+  "questions": [
+    {
+      "section": "Mock Section",
+      "number": 1,
+      "question": "Mock multilingual question",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "Yes",
+      "explanation": ""
+    }
+  ]
+}

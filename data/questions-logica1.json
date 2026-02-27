@@ -4,6 +4,7 @@
   "area": "Lógica I",
   "type": "True False",
   "shortName": "log1",
+  "language": "es",
   "questions": [
     {
       "section": "CUESTIONES SOBRE ARGUMENTOS:",

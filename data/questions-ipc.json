@@ -4,6 +4,7 @@
   "area": "Introducción al Pensamiento Científico",
   "type": "Multiple Choice",
   "shortName": "ipc",
+  "language": "es",
   "questions": [
     {
       "section": "Tema 1. Ciencia, hechos y evidencia",

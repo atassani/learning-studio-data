@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-02-27",
+  "areas": [
+    {
+      "area": "Lógica I",
+      "file": "questions-logica1.json",
+      "type": "True False",
+      "shortName": "log1",
+      "language": "es"
+    },
+    {
+      "area": "MCQ Tests English",
+      "file": "questions-mcq-tests-en.json",
+      "type": "Multiple Choice",
+      "shortName": "mcq-tests-en",
+      "language": "en"
+    },
+    {
+      "area": "MCQ Tests Català",
+      "file": "questions-mcq-tests-ca.json",
+      "type": "Multiple Choice",
+      "shortName": "mcq-tests-ca",
+      "language": "ca"
+    }
+  ]
+}
