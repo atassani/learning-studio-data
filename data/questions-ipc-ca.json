@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "17 de febrer de 2026",
+  "updatedAt": "2026-03-01T17:12:00Z",
   "area": "Introducció al pensament científic",
   "type": "Multiple Choice",
-  "shortName": "IPC",
-  "language": "es",
+  "shortName": "ipc",
+  "language": "ca",
   "questions": [
     {
       "section": "Tema 1. Ciència, fets i proves",
