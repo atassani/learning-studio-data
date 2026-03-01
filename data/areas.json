@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-02-17",
+  "updatedAt": "2026-03-01T11:40:00Z",
   "areas": [
     {
       "area": "Lógica I",
@@ -22,6 +22,48 @@
       "type": "Multiple Choice",
       "shortName": "fdl",
       "language": "es"
+    },
+    {
+      "area": "Lògica I",
+      "file": "questions-ca-log1.json",
+      "type": "True False",
+      "shortName": "log1",
+      "language": "ca"
+    },
+    {
+      "area": "Introducció al Pensament Científic",
+      "file": "questions-ca-ipc.json",
+      "type": "Multiple Choice",
+      "shortName": "ipc",
+      "language": "ca"
+    },
+    {
+      "area": "Filosofia del Llenguatge I",
+      "file": "questions-ca-fdl.json",
+      "type": "Multiple Choice",
+      "shortName": "fdl",
+      "language": "ca"
+    },
+    {
+      "area": "Logic I",
+      "file": "questions-en-log1.json",
+      "type": "True False",
+      "shortName": "log1",
+      "language": "en"
+    },
+    {
+      "area": "Introduction to Scientific Thinking",
+      "file": "questions-en-ipc.json",
+      "type": "Multiple Choice",
+      "shortName": "ipc",
+      "language": "en"
+    },
+    {
+      "area": "Philosophy of Language I",
+      "file": "questions-en-fdl.json",
+      "type": "Multiple Choice",
+      "shortName": "fdl",
+      "language": "en"
     }
   ]
 }
