@@ -1,0 +1,2869 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "17 de febrer de 2026",
+  "area": "Introducció al pensament científic",
+  "type": "Multiple Choice",
+  "shortName": "IPC",
+  "language": "es",
+  "questions": [
+    {
+      "section": "Tema 1. Ciència, fets i proves",
+      "number": 1,
+      "question": "El fet que la Terra tingui més de 4.000 anys:",
+      "options": [
+        "No és objectiu perquè hi ha persones amb opinions diferents sobre la qüestió.",
+        "És objectiu perquè no depèn de si creiem que és veritat o no.",
+        "És objectiu perquè és acceptat per la majoria de la comunitat científica."
+      ],
+      "answer": "És objectiu perquè no depèn de si creiem que és veritat o no.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 1. Ciència, fets i proves",
+      "number": 2,
+      "question": "La ciència ofereix una orientació fiable per a l'acció?",
+      "options": [
+        "La ciència proporciona una orientació fiable per a l'acció perquè es basa en els desitjos i valors de la comunitat científica.",
+        "La ciència no ofereix una orientació fiable per a l'acció perquè està influïda pels interessos de les institucions que financen la recerca científica.",
+        "La ciència proporciona una orientació fiable per a l'acció perquè es basa en proves sobre com funciona el món, i les creences basades en proves tendeixen a conduir al èxit pràctic de manera més fiable que les creences que no es basen en proves."
+      ],
+      "answer": "La ciència proporciona una orientació fiable per a l'acció perquè es basa en proves sobre com funciona el món, i les creences basades en proves tendeixen a conduir al èxit pràctic de manera més fiable que les creences que no es basen en proves.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 1. Ciència, fets i proves",
+      "number": 3,
+      "question": "Què són els arguments d'autoritat?",
+      "options": [
+        "Aquests són arguments que no poden ser objecte de dubte racional.",
+        "Aquests són arguments que ofereixen proves irrefutables a favor d'una tesi.",
+        "Aquests són arguments a favor d'una tesi que apel·len exclusivament al fet que una autoritat l'ha defensada."
+      ],
+      "answer": "Aquests són arguments a favor d'una tesi que apel·len exclusivament al fet que una autoritat l'ha defensada.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 1. Ciència, fets i proves",
+      "number": 4,
+      "question": "Què és un biaix cognitiu?",
+      "options": [
+        "Una creença falsa, però amb utilitat pràctica.",
+        "Una distorsió sistemàtica en l'avaluació i la interpretació de les proves disponibles.",
+        "Un mètode sistemàtic per avaluar les proves disponibles."
+      ],
+      "answer": "Una distorsió sistemàtica en l'avaluació i la interpretació de les proves disponibles.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 1. Ciència, fets i proves",
+      "number": 5,
+      "question": "Una veritat és objectiva si:",
+      "options": [
+        "No hi ha cap desacord sobre aquesta veritat.",
+        "És evident i està més enllà de qualsevol discussió.",
+        "Si és veritat no depèn de les nostres opinions sobre això."
+      ],
+      "answer": "Si és veritat no depèn de les nostres opinions sobre això.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 2. Coneixement empíric i observació",
+      "number": 1,
+      "question": "Segons l'empirisme:",
+      "options": [
+        "Les fonts primàries d'evidència científica són la raó i la reflexió.",
+        "La font principal d'evidència científica és l'experiència observacional.",
+        "La font principal d'evidència científica és la intuïció."
+      ],
+      "answer": "La font principal d'evidència científica és l'experiència observacional.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 2. Coneixement empíric i observació",
+      "number": 2,
+      "question": "L'observació:",
+      "options": [
+        "No ofereix informació objectiva sobre el món, sinó només sobre com creiem que és el món.",
+        "Proporciona informació fallible però generalment fiable sobre com és el món.",
+        "És infal·lible."
+      ],
+      "answer": "Proporciona informació fallible però generalment fiable sobre com és el món.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 2. Coneixement empíric i observació",
+      "number": 3,
+      "question": "La repetició i la replicació de les observacions científiques:",
+      "options": [
+        "Li manca rellevància científica, ja que no ofereix cap nova evidència.",
+        "Té un paper secundari en la recerca, tot i que pot ser important en la formació i educació de científics inexperts.",
+        "Juga un paper essencial en la recerca, ja que permet descobrir possibles errors i garanteix que les dades observacionals resultants siguin utilitzables per a diferents investigadors."
+      ],
+      "answer": "Juga un paper essencial en la recerca, ja que permet descobrir possibles errors i garanteix que les dades observacionals resultants siguin utilitzables per a diferents investigadors.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 2. Coneixement empíric i observació",
+      "number": 4,
+      "question": "L'ús d'eines d'observació:",
+      "options": [
+        "Permet observacions infal·libles.",
+        "Introdueix inevitablement errors i augmenta la inexactitud de l'observació.",
+        "Ens permet superar les limitacions de les nostres habilitats perceptives."
+      ],
+      "answer": "Ens permet superar les limitacions de les nostres habilitats perceptives.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 2. Coneixement empíric i observació",
+      "number": 5,
+      "question": "Evidència empírica científica:",
+      "options": [
+        "Sovint s'obté mitjançant l'ús d'instruments d'observació.",
+        "Només és admissible si es pot obtenir mitjançant observació directa.",
+        "No és objectiu si implica l'ús d'instruments."
+      ],
+      "answer": "Sovint s'obté mitjançant l'ús d'instruments d'observació.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 3. Experimentació",
+      "number": 1,
+      "question": "Què és un experiment?",
+      "options": [
+        "Un experiment consisteix en una sèrie sistemàtica d'observacions realitzades mitjançant instruments.",
+        "Un experiment consisteix a manipular un objecte d'estudi per observar els efectes que se'n deriven.",
+        "Un experiment és una observació el resultat de la qual no es coneix per endavant."
+      ],
+      "answer": "Un experiment consisteix a manipular un objecte d'estudi per observar els efectes que se'n deriven.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 3. Experimentació",
+      "number": 2,
+      "question": "Què és un experiment controlat?",
+      "options": [
+        "Un experiment el resultat del qual es pot predir amb suficient certesa.",
+        "Un experiment dut a terme al laboratori en condicions prou segures, eliminant així els riscos potencials per als experimentadors.",
+        "Un experiment en què s'examinen els efectes de manipular una variable en el sistema estudiat, evitant possibles interferències a causa de variacions en altres variables del sistema."
+      ],
+      "answer": "Un experiment en què s'examinen els efectes de manipular una variable en el sistema estudiat, evitant possibles interferències a causa de variacions en altres variables del sistema.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 3. Experimentació",
+      "number": 3,
+      "question": "Si un experiment botànic demostra que certes plantes creixen més quan s'hi afegeix fertilitzant:",
+      "options": [
+        "Per determinar si el fertilitzant és la causa de l'augment del creixement, cal comparar-lo amb el creixement de plantes idèntiques que no s'han fertilitzat, mantenint constants la il·luminació, el tipus de sòl, la temperatura i el reg.",
+        "Mai no es pot concloure amb suficient certesa que l'augment del creixement es deu al fertilitzant.",
+        "Es pot concloure directament que el fertilitzant és la causa de l'augment del creixement de les plantes."
+      ],
+      "answer": "Per determinar si el fertilitzant és la causa de l'augment del creixement, cal comparar-lo amb el creixement de plantes idèntiques que no s'han fertilitzat, mantenint constants la il·luminació, el tipus de sòl, la temperatura i el reg.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 3. Experimentació",
+      "number": 4,
+      "question": "De què consistia l'experiment de Semmelweis?",
+      "options": [
+        "Semmelweis va estudiar si rentar-se les mans amb desinfectant després de fer autòpsies tenia un efecte en la taxa d'infecció a la sala de maternitat de Viena.",
+        "Semmelweis va dur a terme experiments per descobrir els bacteris que causen infeccions a la clínica de maternitat de Viena.",
+        "Semmelweis va observar que la taxa d'infecció a la clínica on atenen llevadores era constantment més alta que a la clínica on atenen metges i estudiants, a causa de la seva manca de formació quirúrgica."
+      ],
+      "answer": "Semmelweis va estudiar si rentar-se les mans amb desinfectant després de fer autòpsies tenia un efecte en la taxa d'infecció a les sales de maternitat de Viena.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 3. Experimentació",
+      "number": 5,
+      "question": "Tota ciència empírica és experimental?",
+      "options": [
+        "L'única ciència no experimental és la matemàtica.",
+        "Actualment, tota la ciència empírica és experimental.",
+        "Hi ha disciplines científiques empíriques en què el paper dels experiments és limitat i en què les proves empíriques s'obtenen principalment a través d'observacions no experimentals."
+      ],
+      "answer": "Hi ha disciplines científiques empíriques en què el paper dels experiments és limitat i en què les proves empíriques s'obtenen principalment a través d'observacions no experimentals.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 4. El mètode científic",
+      "number": 1,
+      "question": "Quan proposem una hipòtesi, hauríem de creure que és veritat?",
+      "options": [
+        "Proposar p com a hipòtesi implica creure que p és fals.",
+        "Proposar p com a hipòtesi implica considerar p com una possibilitat oberta (les hipòtesis són conjectures).",
+        "Proposar p com a hipòtesi implica creure que p és veritat."
+      ],
+      "answer": "Proposar p com a hipòtesi implica considerar p com una possibilitat oberta (les hipòtesis són conjectures).",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 4. El mètode científic",
+      "number": 2,
+      "question": "Què significa que una hipòtesi sigui empiricament falsificable o refutable?",
+      "options": [
+        "Perquè una hipòtesi sigui empiricament falsable, ha de ser recolzada per les proves empíriques disponibles.",
+        "Perquè una hipòtesi sigui empiricament falsificable, cal que hi hagi proves empíriques disponibles per demostrar-ne la falsedat.",
+        "Perquè una hipòtesi sigui empiricament falsificable, cal que hi hagi la possibilitat que sorgeixi una evidència empírica que la refuti."
+      ],
+      "answer": "Perquè una hipòtesi sigui empiricament falsificable, cal que hi hagi la possibilitat que sorgeixi evidència empírica que la refuti.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 4. El mètode científic",
+      "number": 3,
+      "question": "Quan una hipòtesi és refutada o desmentida empíricament?",
+      "options": [
+        "Una hipòtesi només serà refutada empíricament si totes les seves prediccions resulten incompatibles amb l'evidència empírica disponible.",
+        "Una hipòtesi serà refutada empíricament si alguna de les seves prediccions resulta incompatible amb l'evidència empírica disponible.",
+        "Una hipòtesi serà refutada empíricament si les proves disponibles són compatibles tant amb la falsedat com amb la veritat de la hipòtesi."
+      ],
+      "answer": "Una hipòtesi serà refutada empíricament si alguna de les seves prediccions resulta incompatible amb l'evidència empírica disponible.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 4. El mètode científic",
+      "number": 4,
+      "question": "Les hipòtesis actualment acceptades per la comunitat científica estan obertes a revisió?",
+      "options": [
+        "És habitual que l'aparició de noves proves empíriques porti al rebuig d'hipòtesis científiques que estaven àmpliament acceptades i eren coherents amb les proves disponibles en aquell moment.",
+        "Una hipòtesi que és compatible amb les proves disponibles sempre serà veritable, i per tant no poden aparèixer noves proves per refutar-la.",
+        "En general, una hipòtesi actualment acceptada per la comunitat científica i coherent amb les proves disponibles ara no serà rebutjada en el futur."
+      ],
+      "answer": "És habitual que noves proves empíriques portin al rebuig d'hipòtesis científiques que estaven àmpliament acceptades i eren coherents amb les proves disponibles en aquell moment.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 4. El mètode científic",
+      "number": 5,
+      "question": "Llenguatge científic:",
+      "options": [
+        "Ha de ser evocador, suggeridor i dens, per tal de donar més profunditat al seu missatge.",
+        "Ha de ser clar, precís i intel·ligible.",
+        "Ha de recórrer a significats dobles, significats ambigus i indeterminacions."
+      ],
+      "answer": "Ha de ser clar, precís i intel·ligible.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 5. El problema de l'inducció",
+      "number": 1,
+      "question": "En un raonament deductiu vàlid:",
+      "options": [
+        "Necessàriament, les conclusions sempre seran veritables.",
+        "Necessàriament, si les premisses són falses, les conclusions seran falses.",
+        "Necessàriament, si les premisses són veritables, les conclusions també seran veritables."
+      ],
+      "answer": "Necessàriament, si les premisses són veritables, les conclusions també seran veritables.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 5. El problema de l'inducció",
+      "number": 2,
+      "question": "En el raonament inductiu:",
+      "options": [
+        "Es arriben a certes conclusions basades en la intuïció.",
+        "Comença a partir de premisses generals per arribar a conclusions sobre casos específics.",
+        "Començar a partir de premisses sobre casos particulars per arribar a conclusions generals que van més enllà d'aquests casos particulars."
+      ],
+      "answer": "Començar a partir de premisses sobre casos particulars per arribar a conclusions generals que van més enllà d'aquests casos particulars.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 5. El problema de l'inducció",
+      "number": 3,
+      "question": "Són les generalitzacions inductives fal·libles?",
+      "options": [
+        "Les generalitzacions inductives són infal·libles si es basen en observacions correctes.",
+        "Encara que una inferència inductiva estigui recolzada per un gran nombre d'observacions, en principi sempre és possible que sorgeixin excepcions inesperades.",
+        "Sempre que una generalització inductiva està recolzada per un gran nombre d'observacions, està garantit que aquesta generalització serà certa en tots els casos."
+      ],
+      "answer": "Encara que una inferència inductiva estigui recolzada per un gran nombre d'observacions, en principi sempre és possible que sorgeixin excepcions inesperades.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 5. El problema de l'inducció",
+      "number": 4,
+      "question": "Quantes observacions són necessàries per confirmar de manera definitiva i de manera inductiva una hipòtesi empírica general?",
+      "options": [
+        "Una única observació reeixida és suficient per confirmar una generalització empírica.",
+        "L'observació d'un únic contraexemple és suficient per confirmar de manera definitiva una generalització empírica.",
+        "Per molt alt que sigui el nombre d'observacions coherents amb una generalització empírica, mai no seria suficient per considerar-la definitivament confirmada (ja que sempre existeix la possibilitat de trobar un contraexemple)."
+      ],
+      "answer": "Per molt alt que sigui el nombre d'observacions coherents amb una generalització empírica, mai no seria suficient per considerar-la definitivament confirmada (ja que sempre existeix la possibilitat de trobar un contraexemple).",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 5. El problema de l'inducció",
+      "number": 5,
+      "question": "Quin és el problema amb la inducció?",
+      "options": [
+        "En principi, és possible que les premisses d'una inferència inductiva siguin certes però la generalització a què s'arriba a la conclusió sigui falsa (perquè hi ha excepcions a aquesta generalització que encara no s'han observat).",
+        "Mai no podem saber amb certesa si els premissos del raonament inductiu són veritables.",
+        "El raonament inductiu correcte requereix fer un gran nombre d'observacions, cosa que no sempre és fàcil."
+      ],
+      "answer": "En principi, és possible que les premisses d'una inferència inductiva siguin certes però la generalització a què s'arriba a la conclusió sigui falsa (perquè hi ha excepcions a aquesta generalització que encara no s'han observat).",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 6. Probabilitat i estadística",
+      "number": 1,
+      "question": "Quina és la relació entre probabilitat i incertesa?",
+      "options": [
+        "La probabilitat assignada a un esdeveniment és 0 quan hi ha incertesa sobre si aquest esdeveniment tindrà lloc.",
+        "La probabilitat assignada a un esdeveniment reflecteix la incertesa sobre si aquest esdeveniment tindrà lloc.",
+        "Un esdeveniment només es pot considerar probable si es sap amb certesa que tindrà lloc."
+      ],
+      "answer": "La probabilitat assignada a un esdeveniment reflecteix la incertesa sobre si aquest esdeveniment tindrà lloc.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 6. Probabilitat i estadística",
+      "number": 2,
+      "question": "Què és la mostra estadística?",
+      "options": [
+        "Un cas utilitzat com a exemple en el raonament estadístic.",
+        "Les conclusions finals assolides mitjançant l'anàlisi estadística.",
+        "El conjunt de casos d'una població per a la qual hi ha dades disponibles i a partir de la qual es fan inferències estadístiques sobre la població en conjunt."
+      ],
+      "answer": "El conjunt de casos d'una població per a la qual hi ha dades disponibles i a partir de la qual es fan inferències estadístiques sobre la població en conjunt.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 6. Probabilitat i estadística",
+      "number": 3,
+      "question": "Un resultat extret d'un conjunt de dades (p. ex. una correlació) és estadísticament significatiu:",
+      "options": [
+        "Si representa una contribució nova a la recerca.",
+        "Si té aplicacions pràctiques rellevants.",
+        "Si és prou improbable que aquest resultat es degui a l'atzar (per exemple, una correlació resultant d'una coincidència aleatòria en els casos observats), en lloc de reflectir una propietat genuïna de la població estudiada."
+      ],
+      "answer": "Si és prou improbable que aquest resultat sigui degut a l'atzar (per exemple, una correlació resultant d'una coincidència aleatòria en els casos observats), en lloc de reflectir una propietat genuïna de la població estudiada.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 6. Probabilitat i estadística",
+      "number": 4,
+      "question": "Quina és la relació entre correlació i causalitat?",
+      "options": [
+        "L'existència de correlacions estadístiques entre dues variables és incompatible amb l'existència de relacions causals entre elles.",
+        "La correlació no implica causalitat (tot i que pot constituir una prova de l'existència de relacions causals entre variables correlacionades).",
+        "La correlació implica causalitat: perquè dues variables estiguin correlacionades estadísticament, ha d'existir alguna relació de causalitat entre elles."
+      ],
+      "answer": "La correlació no implica causalitat (tot i que pot constituir una prova de l'existència de relacions causals entre variables correlacionades).",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 6. Probabilitat i estadística",
+      "number": 5,
+      "question": "Una manera d'obtenir una mostra estadística imparcial i representativa de la població estudiada, evitant biaixos en la recollida de dades, és:",
+      "options": [
+        "Utilitza una mostra gran escollida a l'atzar de tota la població.",
+        "Seleccionar mostres que donin resultats coherents amb les expectatives prèvies dels investigadors.",
+        "Seleccioneu mostres petites, centrant-vos en un sector específic de la població."
+      ],
+      "answer": "Utilitza una mostra gran escollida a l'atzar de tota la població.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 7. L'ús de models en la ciència",
+      "number": 1,
+      "question": "En quines ciències s'utilitza més sovint el model nomològic-deductiu?",
+      "options": [
+        "Física i química",
+        "Ciències biològiques i socials",
+        "En tots ells"
+      ],
+      "answer": "Física i química",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 7. L'ús de models en la ciència",
+      "number": 2,
+      "question": "En quines ciències s'utilitzen models?",
+      "options": [
+        "Només en les ciències 'dues'",
+        "Només en les ciències 'suaus'",
+        "En tots ells"
+      ],
+      "answer": "En tots ells",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 7. L'ús de models en la ciència",
+      "number": 3,
+      "question": "Els models científics són...",
+      "options": [
+        "Representacions perfectes dels fenòmens estudiats",
+        "Idealitzacions que serveixen per aproximar les realitats tractades.",
+        "Pautes per a científics"
+      ],
+      "answer": "Idealitzacions que serveixen per aproximar les realitats tractades.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 7. L'ús de models en la ciència",
+      "number": 4,
+      "question": "Els models científics tenen valor explicatiu...",
+      "options": [
+        "Quan estan ben pensats",
+        "Quan són només models matemàtics o conceptuals",
+        "Quan no és possible abordar els fenòmens d'una altra manera"
+      ],
+      "answer": "Quan estan ben pensats",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 7. L'ús de models en la ciència",
+      "number": 5,
+      "question": "Un model és vàlid",
+      "options": [
+        "Si no es basa en suposicions errònies",
+        "Si reflecteix fidelment la realitat",
+        "Si serveix per oferir coneixements útils sobre la realitat"
+      ],
+      "answer": "Si serveix per oferir coneixements útils sobre la realitat",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 8. Paradigmes i canvi científic",
+      "number": 1,
+      "question": "Què proposa Kuhn per entendre com funciona la ciència?",
+      "options": [
+        "Analitzant la psicologia dels científics",
+        "Focalitzant-se en la història de la ciència",
+        "Fent ciència"
+      ],
+      "answer": "Focalitzant-se en la història de la ciència",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 8. Paradigmes i canvi científic",
+      "number": 2,
+      "question": "Què és la ciència normal?",
+      "options": [
+        "Ciència realitzada dins el marc d'un paradigma",
+        "Ciència que no fa cap contribució significativa",
+        "Ciència realitzada d'acord amb els criteris acceptats de rigor i eficàcia."
+      ],
+      "answer": "Ciència realitzada dins el marc d'un paradigma",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 8. Paradigmes i canvi científic",
+      "number": 3,
+      "question": "Què passa més sovint quan es produeix un fenomen que contradueix allò que assumeix un paradigma?",
+      "options": [
+        "Aquest paradigma ha demostrat ser incorrecte.",
+        "Sempre hi ha una revolució científica",
+        "Es entén habitualment que aquestes són anomalies que no posen en perill el paradigma."
+      ],
+      "answer": "Es entén habitualment que aquestes són anomalies que no posen en perill el paradigma.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 8. Paradigmes i canvi científic",
+      "number": 4,
+      "question": "Segons Kuhn, com es produeix el canvi científic?",
+      "options": [
+        "Gradualment",
+        "D'una manera revolucionària",
+        "El canvi científic no existeix realment."
+      ],
+      "answer": "D'una manera revolucionària",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 8. Paradigmes i canvi científic",
+      "number": 5,
+      "question": "Quan es produeix un canvi de paradigma?",
+      "options": [
+        "Quan un nou paradigma demostra ser millor que l'anterior",
+        "Quan el vell paradigma s'esgota i ja no és productiu",
+        "Quan la majoria dels membres de la comunitat científica decideixen adoptar un nou paradigma, independentment dels seus motius per fer-ho."
+      ],
+      "answer": "Quan la majoria dels membres de la comunitat científica decideixen adoptar un nou paradigma, independentment dels seus motius per fer-ho.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 9. El criteri de demarcació",
+      "number": 1,
+      "question": "Quin és el problema amb la demarcació?",
+      "options": [
+        "Determinar els límits ètics de l'activitat científica.",
+        "Comprendre adequadament les implicacions filosòfiques de la ciència",
+        "La recerca de criteris per distingir entre el científic i el no científic"
+      ],
+      "answer": "La recerca de criteris per distingir entre el científic i el no científic",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 9. El criteri de demarcació",
+      "number": 2,
+      "question": "Segons el verificacionisme...",
+      "options": [
+        "El coneixement ha de ser corroborat per l'experiència.",
+        "El coneixement sempre és veritable.",
+        "El coneixement sempre ha de poder expressar-se matemàticament."
+      ],
+      "answer": "El coneixement ha de ser corroborat per l'experiència.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 9. El criteri de demarcació",
+      "number": 3,
+      "question": "Segons el falsificacionisme, no podem estar segurs que tinguem raó, però podem saber...",
+      "options": [
+        "Si estem a prop de ser-ho",
+        "Si hem d'estar en algun moment, encara que sigui molt lluny",
+        "Si ens equivoquem"
+      ],
+      "answer": "Si ens equivoquem",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 9. El criteri de demarcació",
+      "number": 4,
+      "question": "Segons el gir social en la filosofia de la ciència",
+      "options": [
+        "El criteri de demarcació dependrà dels valors i dels aspectes contextuals que determinen el paradigma científic dominant.",
+        "Realment no hi ha cap afirmació o teoria que es pugui considerar científica, ja que tot està determinat socialment.",
+        "Decidir si alguna cosa és científica o no és una qüestió personal, ja que dependrà de l'individu i dels criteris immensurables de cada científic en particular."
+      ],
+      "answer": "El criteri de demarcació dependrà dels valors i dels aspectes contextuals que determinen el paradigma científic dominant.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 9. El criteri de demarcació",
+      "number": 5,
+      "question": "El criteri de demarcació és important...",
+      "options": [
+        "Només per raons teòriques",
+        "Només per motius pràctics",
+        "Tant per raons teòriques com pràctiques"
+      ],
+      "answer": "Tant per raons teòriques com pràctiques",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 10. La ciència i els seus adversaris: ciència versus no-ciència, pseudociència i anti-ciència",
+      "number": 1,
+      "question": "Discurs científic i discurs no científic",
+      "options": [
+        "Són necessàriament oposats.",
+        "Es refereixen a diferents àrees que no necessàriament han de ser irreconciliables.",
+        "Sempre són igualment vàlids científicament."
+      ],
+      "answer": "Són necessàriament oposats.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 10. La ciència i els seus adversaris: ciència versus no-ciència, pseudociència i anti-ciència",
+      "number": 2,
+      "question": "Què és el creacionisme?",
+      "options": [
+        "Es creu que l'univers ha estat creat conscientment.",
+        "És una corrent dins la biologia que coexisteix amb l'evolucionisme.",
+        "És una denominació religiosa que està en auge als Estats Units."
+      ],
+      "answer": "Es creu que l'univers ha estat creat conscientment.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 10. La ciència i els seus adversaris: ciència versus no-ciència, pseudociència i anti-ciència",
+      "number": 3,
+      "question": "En el nostre context actual...",
+      "options": [
+        "El creacionisme s'associa generalment a creences religioses.",
+        "El creacionisme ha estat completament expulsat de la cultura occidental.",
+        "Només alguns grups cristians, principalment protestants, es declaren creacionistes."
+      ],
+      "answer": "El creacionisme s'associa generalment a creences religioses.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 10. La ciència i els seus adversaris: ciència versus no-ciència, pseudociència i anti-ciència",
+      "number": 4,
+      "question": "Quina és la relació entre el creacionisme i la teoria del disseny intel·ligent?",
+      "options": [
+        "La teoria del disseny intel·ligent assumeix el creacionisme.",
+        "Són la mateixa cosa.",
+        "La teoria del disseny intel·ligent és contrària al creacionisme."
+      ],
+      "answer": "La teoria del disseny intel·ligent assumeix el creacionisme.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 10. La ciència i els seus adversaris: ciència versus no-ciència, pseudociència i anti-ciència",
+      "number": 5,
+      "question": "Quan xoquen els discursos no científics amb el discurs científic?",
+      "options": [
+        "Quan els científics els acceptin",
+        "Quan són acceptats per un gran nombre de persones",
+        "Quan són pseudocientífics o antiscientífics"
+      ],
+      "answer": "Quan són pseudocientífics o antiscientífics",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 10.2. Pseudociència",
+      "number": 1,
+      "question": "Què és la pseudociència?",
+      "options": [
+        "No-ciència disfressada de ciència",
+        "Ciència mal concebuda que no dona bons resultats",
+        "El tipus de coneixement que no proporciona garanties suficients per ser considerat científic."
+      ],
+      "answer": "No-ciència disfressada de ciència",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 10.2. Pseudociència",
+      "number": 2,
+      "question": "Per què hi ha discursos no científics que intenten fer-se passar per científics?",
+      "options": [
+        "Perquè rebutja l'estatus privilegiat de la ciència en les nostres societats",
+        "A causa de la desconfiança envers la ciència",
+        "Capitalitzar el crèdit social de la ciència"
+      ],
+      "answer": "Capitalitzar el crèdit social de la ciència",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 10.2. Pseudociència",
+      "number": 3,
+      "question": "Pseudomedicaments",
+      "options": [
+        "Mai no tenen cap efecte sobre aquells que els utilitzen.",
+        "Consisteixen en teràpies alternatives que tracten només aquelles afeccions que la medicina tradicional no aborda.",
+        "No es poden considerar medicaments, segons els criteris científics, perquè la seva seguretat i eficàcia no han estat provades."
+      ],
+      "answer": "No es poden considerar medicaments, segons els criteris científics, perquè la seva seguretat i eficàcia no han estat provades.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 10.2. Pseudociència",
+      "number": 4,
+      "question": "L'homeopatia és",
+      "options": [
+        "Una pseudo-medicina basada en principis que no tenen fonament científic.",
+        "Un altre nom per a totes les teràpies alternatives",
+        "Una forma específica de medicina basada en conceptes i creences sobre la salut i la malaltia que es remunten a fa milers d'anys."
+      ],
+      "answer": "Una pseudo-medicina basada en principis que no tenen fonament científic.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 10.2. Pseudociència",
+      "number": 5,
+      "question": "Des de la perspectiva de la filosofia de la ciència",
+      "options": [
+        "L'homeopatia es pot falsificar.",
+        "L'homeopatia és científica només des de la perspectiva del verificacionisme.",
+        "L'homeopatia no compleix cap dels criteris de demarcació acceptats (verificacionisme, falsacionisme i correspondència amb el paradigma)."
+      ],
+      "answer": "L'homeopatia no compleix cap dels criteris de demarcació acceptats (verificacionisme, falsacionisme i correspondència amb el paradigma).",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 10.3. Antiscència",
+      "number": 1,
+      "question": "Antiscència...",
+      "options": [
+        "Ell argumenta que hi ha moltes maneres diferents de fer ciència.",
+        "Ell afirma que la ciència no té cap impacte en la societat.",
+        "És un discurs basat en la desconfiança envers la ciència."
+      ],
+      "answer": "És un discurs basat en la desconfiança envers la ciència.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 10.3. Antiscència",
+      "number": 2,
+      "question": "Quina d'aquestes tendències és clarament anti-científica?",
+      "options": [
+        "Vegania",
+        "Marxisme",
+        "El moviment antivacunes"
+      ],
+      "answer": "El moviment antivacunes",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 10.3. Antiscència",
+      "number": 3,
+      "question": "Segons els anti-científics...",
+      "options": [
+        "La ciència és incapaç de complir cap criteri de demarcació.",
+        "No importa quin sigui el criteri de demarcació científica perquè la ciència com a tal és una activitat que cal eliminar (o almenys reconsiderar a fons).",
+        "Els científics són incapaços de jutjar la seva pròpia activitat."
+      ],
+      "answer": "No importa quin sigui el criteri de demarcació científica perquè la ciència com a tal és una activitat que cal eliminar (o almenys reconsiderar a fons).",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 10.3. Antiscència",
+      "number": 4,
+      "question": "Què és el geocentrisme?",
+      "options": [
+        "Una escola de pensament actual que sosté que la Terra és plana i que la imatge científica d'una Terra esfèrica és un engany elaborat.",
+        "Una teoria de l'astronomia antiga que ha estat descartada i que ningú no ha recolzat durant almenys tres segles.",
+        "Una teoria científica"
+      ],
+      "answer": "Una escola de pensament actual que sosté que la Terra és plana i que la imatge científica d'una Terra esfèrica és un engany elaborat.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 10.3. Antiscència",
+      "number": 5,
+      "question": "Quina és una de les raons principals per les quals el discurs antiscientific és perillós avui dia?",
+      "options": [
+        "Els anti-científics poden ocupar el lloc dels científics a les universitats i als centres de recerca.",
+        "L'antiscència sovint es pot confondre amb la ciència i confondre els experts.",
+        "Pot fomentar la desconfiança envers la ciència promovent discursos amb implicacions perilloses, com els dels negacionistes del canvi climàtic o els defensors de les teràpies antiviolítiques."
+      ],
+      "answer": "Pot fomentar la desconfiança envers la ciència promovent discursos amb implicacions perilloses, com els dels negacionistes del canvi climàtic o els defensors de les teràpies antiviolítiques.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 11. La ciència com a producte social",
+      "number": 1,
+      "question": "En quin context sorgeixen els estudis CTS?",
+      "options": [
+        "En la revolució científica dels segles XVI i XVII",
+        "Al Regne Unit i als Estats Units durant els anys seixanta i setanta",
+        "A l'Grècia clàssica amb el naixement de la ciència"
+      ],
+      "answer": "Al Regne Unit i als Estats Units durant els anys seixanta i setanta",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 11. La ciència com a producte social",
+      "number": 2,
+      "question": "Tecnociència:",
+      "options": [
+        "És una manera de fer ciència que va sorgir en el context de la Segona Guerra Mundial i que difumina les fronteres entre la ciència i la tecnologia.",
+        "És una branca molt específica de la ciència dedicada a investigar, dissenyar i produir artefactes tècnics.",
+        "És una branca específica dels estudis socials de la ciència que està especialment interessada en els desenvolupaments tecnològics de la ciència."
+      ],
+      "answer": "És una manera de fer ciència que va sorgir en el context de la Segona Guerra Mundial i que difumina les fronteres entre la ciència i la tecnologia.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 11. La ciència com a producte social",
+      "number": 3,
+      "question": "Quins són els noms de les tesis principals del Programa Fuerte?",
+      "options": [
+        "Comunisme, Universalisme, Desinterès, Escepticisme organitzat",
+        "Exactitud, Consistència, Complitud, Elegància",
+        "Causalitat, Imparcialitat, Simetria, Reflexivitat"
+      ],
+      "answer": "Causalitat, Imparcialitat, Simetria, Reflexivitat",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 11. La ciència com a producte social",
+      "number": 4,
+      "question": "Segons el constructivisme social:",
+      "options": [
+        "Tot el coneixement científic és fraudulent.",
+        "La ciència no té una posició privilegiada sobre altres fenòmens com la màgia o la mitologia.",
+        "És impossible explicar com funciona la ciència."
+      ],
+      "answer": "La ciència no té una posició privilegiada sobre altres fenòmens com la màgia o la mitologia.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 11. La ciència com a producte social",
+      "number": 5,
+      "question": "Segons els enfocaments feministes de la ciència:",
+      "options": [
+        "Només la ciència feta per dones és vàlida.",
+        "La ciència està determinada per l'androcentrisme de la societat.",
+        "La ciència no és un coneixement vàlid perquè, atesa la seva naturalesa com a producte d'una societat androcèntrica, només la poden practicar els homes."
+      ],
+      "answer": "La ciència està determinada per l'androcentrisme de la societat.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 12. Com funcionen les institucions científiques?",
+      "number": 1,
+      "question": "Què és la revisió per parells?",
+      "options": [
+        "El procés editorial pel qual els articles científics presentats a una revista són revisats per altres investigadors abans de ser publicats.",
+        "El requisit que un article científic estigui signat per almenys dos autors.",
+        "El compromís adquirit pels autors d'un article científic de no publicar proves manipulades o idees plagiades d'altres investigadors."
+      ],
+      "answer": "El procés editorial pel qual els articles científics presentats a una revista són revisats per altres investigadors abans de ser publicats.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 12. Com funcionen les institucions científiques?",
+      "number": 2,
+      "question": "Les motivacions dels científics:",
+      "options": [
+        "Són exclusivament epistèmics (específicament, la recerca del coneixement objectiu), ja que la ciència aspira a la veritat.",
+        "Quan un científic està motivat per interessos pràctics, els resultats de la seva recerca són fraudulents.",
+        "Inclouen motivacions pràctiques, com ara la recerca de reconeixement i l'obtenció de premis i finançament."
+      ],
+      "answer": "Inclouen motivacions pràctiques, com ara la recerca de reconeixement i l'obtenció de premis i finançament.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 12. Com funcionen les institucions científiques?",
+      "number": 3,
+      "question": "Assajos clínics:",
+      "options": [
+        "Aquests són experiments sobre els efectes de les drogues realitzats exclusivament en animals sota condicions de laboratori controlades.",
+        "Aquests són estudis experimentals que investiguen l'eficàcia i la seguretat d'un medicament o tractament.",
+        "Estan prohibits en la majoria de països perquè impliquen experiments en éssers humans."
+      ],
+      "answer": "Aquests són estudis experimentals que investiguen l'eficàcia i la seguretat d'un medicament o tractament.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 12. Com funcionen les institucions científiques?",
+      "number": 4,
+      "question": "Què és un estudi de replicació?",
+      "options": [
+        "Un estudi en què es plantegen objeccions a un estudi anterior.",
+        "Un estudi que presenta un experiment que refuta una hipòtesi teòrica rellevant.",
+        "Un estudi que pretén reproduir els resultats obtinguts en un experiment anterior."
+      ],
+      "answer": "Un estudi que pretén reproduir els resultats obtinguts en un experiment anterior.",
+      "explanation": ""
+    },
+    {
+      "section": "Tema 12. Com funcionen les institucions científiques?",
+      "number": 5,
+      "question": "Publicacions en revistes científiques especialitzades:",
+      "options": [
+        "La seva funció principal és difondre resultats científics entre la població general.",
+        "Són una de les principals formes de reconeixement per a la feina d'un investigador.",
+        "Són una part secundària de la feina dels científics, ja que no tenen gaire pes en els seus currículums."
+      ],
+      "answer": "Són una de les principals formes de reconeixement per a la feina d'un investigador.",
+      "explanation": ""
+    },
+    {
+      "section": "Examen de setembre de 2025",
+      "number": 1,
+      "question": "Tota ciència empírica és experimental?",
+      "options": [
+        "Hi ha disciplines científiques empíriques en què el paper dels experiments és limitat i en què les proves empíriques s'obtenen principalment a través d'observacions no experimentals.",
+        "Actualment, tota la ciència empírica és experimental, a causa del desenvolupament tecnològic que s'ha assolit (tot i que en el passat també s'utilitzaven observacions no experimentals).",
+        "L'única ciència no experimental és la matemàtica."
+      ],
+      "answer": "Hi ha disciplines científiques empíriques en què el paper dels experiments és limitat i en què les proves empíriques s'obtenen principalment a través d'observacions no experimentals.",
+      "explanation": "No tota la ciència empírica és experimental: en diverses disciplines, les proves provenen principalment d'observacions no experimentals."
+    },
+    {
+      "section": "Examen de setembre de 2025",
+      "number": 2,
+      "question": "Pot un model fals ser vàlid?",
+      "options": [
+        "Sí, si condueix a resultats interessants i rellevants.",
+        "No, perquè només servirà per afegir més confusió.",
+        "Sí, perquè tots els models són, per definició, vàlids per a la ciència."
+      ],
+      "answer": "Sí, si condueix a resultats interessants i rellevants.",
+      "explanation": "Un model es pot idealitzar i ser literalment fals en els detalls, però tot i així ser vàlid si permet explicacions o prediccions i guia inferències útils en el seu domini, com ara el model de Lotka-Volterra per a la predicció de poblacions.",
+      "appearsIn": [
+        "Examen 2024 febrer 2"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2025",
+      "number": 3,
+      "question": "En el raonament inductiu:",
+      "options": [
+        "La conclusió pot ser certa, però algunes de les premisses sempre seran falses.",
+        "La conclusió mai no pot ser estrictament certa, ja que sempre poden sorgir excepcions inesperades.",
+        "La conclusió pot ser certa, però les premisses no necessàriament en garantiran la veracitat."
+      ],
+      "answer": "La conclusió pot ser certa, però les premisses no necessàriament en garantiran la veracitat.",
+      "explanation": "En la inducció, encara que les premisses siguin certes, no garanteixen necessàriament la veritat de la conclusió; per tant, la conclusió pot ser defectuosa.",
+      "appearsIn": [
+        "Tema 5. El problema de l'inducció",
+        "Examen 2025 2 de febrer",
+        "Examen 2023 2 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2025",
+      "number": 4,
+      "question": "Quan es refuta una hipòtesi universal i general?",
+      "options": [
+        "Una hipòtesi universal general és refutada per l'observació d'un únic contraexemple.",
+        "Una hipòtesi universal es refuta només si no és certa en cap cas observat.",
+        "Perquè una hipòtesi general universal sigui refutada, ha de ser complerta en tots els casos observats."
+      ],
+      "answer": "Una hipòtesi universal general és refutada per l'observació d'un únic contraexemple.",
+      "explanation": "Les hipòtesis universals són refutades per un únic contraexemple observat (un cas que viola la generalització)."
+    },
+    {
+      "section": "Examen de setembre de 2025",
+      "number": 5,
+      "question": "Què significa que una hipòtesi sigui empiricament falsificable o refutable?",
+      "options": [
+        "Perquè una hipòtesi sigui empiricament falsificable, cal que hi hagi proves empíriques disponibles per demostrar-ne la falsedat.",
+        "Perquè una hipòtesi sigui empiricament falsable, ha de ser recolzada per les proves empíriques disponibles.",
+        "Perquè una hipòtesi sigui empiricament falsificable, cal que hi hagi la possibilitat que sorgeixi evidència empírica que la refuti."
+      ],
+      "answer": "Perquè una hipòtesi sigui empiricament falsificable, cal que hi hagi la possibilitat que sorgeixi evidència empírica que la refuti.",
+      "explanation": "Ser falsificable significa que (en principi) podria haver-hi proves empíriques que el contradiguin; ha de prohibir observacions possibles.",
+      "appearsIn": [
+        "Tema 4. El mètode científic"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2025",
+      "number": 6,
+      "question": "El coneixement que es transmet dins d'un paradigma",
+      "options": [
+        "Sempre és explícit.",
+        "Sovint no es diu.",
+        "És necessàriament veritat."
+      ],
+      "answer": "Sovint no es diu.",
+      "explanation": "Per a Kuhn, gran part de l'aprenentatge en la ciència normal és tàcit: s'adquireix mitjançant exemples, pràctica i entrenament, no només a través de regles explícites."
+    },
+    {
+      "section": "Examen de setembre de 2025",
+      "number": 7,
+      "question": "Quantificació de l'observació:",
+      "options": [
+        "Permet una comparació precisa de les observacions realitzades per diferents observadors.",
+        "Elimina la possibilitat d'error en l'observació.",
+        "Fa impossible reproduir les observacions científiques."
+      ],
+      "answer": "Permet una comparació precisa de les observacions realitzades per diferents observadors.",
+      "explanation": "La quantificació permet comparar les observacions entre diferents observadors i contextos, millorant el control intersubjectiu i la precisió."
+    },
+    {
+      "section": "Examen de setembre de 2025",
+      "number": 8,
+      "question": "Estudis de replicació i resultats negatius:",
+      "options": [
+        "Tenen una funció principalment educativa, ja que no aporten cap nova evidència.",
+        "Són el tipus d'estudi més comú en les publicacions científiques, ja que requereixen menys recursos que obtenir resultats positius.",
+        "Són essencials per verificar la fiabilitat dels resultats científics."
+      ],
+      "answer": "Són essencials per verificar la fiabilitat dels resultats científics.",
+      "explanation": "La replicació i els resultats negatius són clau per verificar la fiabilitat i detectar errors o biaixos en troballes anteriors."
+    },
+    {
+      "section": "Examen de setembre de 2025",
+      "number": 9,
+      "question": "Segons Kuhn, què determina que un paradigma substitueixi un altre?",
+      "options": [
+        "El canvi de paradigma no sempre es deu exclusivament a un millor suport basat en l'evidència.",
+        "El nou paradigma serà verificat per proves de manera més exhaustiva que l'anterior.",
+        "El nou paradigma serà coherent amb totes les proves disponibles, mentre que l'antic haurà estat falsificat per una anomalia."
+      ],
+      "answer": "El canvi de paradigma no sempre es deu exclusivament a un millor suport basat en l'evidència.",
+      "explanation": "Per a Kuhn, el reemplaçament de paradigmes no depèn només de 'millors proves': els valors, els estàndards i les dinàmiques dins de la comunitat científica també hi juguen un paper.",
+      "appearsIn": [
+        "Examen 2025 1 de febrer",
+        "Examen 2023 2 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2025",
+      "number": 10,
+      "question": "Què és una aproximació?",
+      "options": [
+        "Una hipòtesi provisional que encara no ha estat provada empíricament.",
+        "Un resultat inexacte o incorrecte, però prou proper a la resposta correcta.",
+        "Un resultat imprecís expressat de manera probabilística, de manera que reflecteixi adequadament la incertesa de l'investigador."
+      ],
+      "answer": "Un resultat inexacte o incorrecte, però prou proper a la resposta correcta.",
+      "explanation": "Una aproximació és un resultat inexacte però prou proper al valor correcte per als propòsits pràctics o teòrics del investigador."
+    },
+    {
+      "section": "Examen 2025 1 de febrer",
+      "number": 1,
+      "question": "Una hipòtesi per a la qual no tenim cap prova:",
+      "options": [
+        "No es pot considerar una hipòtesi científica, ja que li falten proves que la recolzin.",
+        "És una hipòtesi que ha estat refutada empíricament.",
+        "Pot ser una veritable hipòtesi."
+      ],
+      "answer": "Pot ser una veritable hipòtesi.",
+      "explanation": "El fet que encara no tinguem proves no implica falsedat; pot ser una hipòtesi veritable que espera ser verificada."
+    },
+    {
+      "section": "Examen 2025 1 de febrer",
+      "number": 2,
+      "question": "Què és un biaix cognitiu?",
+      "options": [
+        "Una distorsió sistemàtica en l'avaluació i interpretació de les proves disponibles.",
+        "Un mètode sistemàtic per avaluar les proves disponibles.",
+        "Una creença falsa, però amb utilitat pràctica."
+      ],
+      "answer": "Una distorsió sistemàtica en l'avaluació i la interpretació de les proves disponibles.",
+      "explanation": "Un biaix cognitiu és una distorsió sistemàtica en la manera com avaluem i interpretem les proves, que pot afectar els judicis i les decisions.",
+      "appearsIn": [
+        "Tema 1. Ciència, fets i proves",
+        "Examen 2022 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2025 1 de febrer",
+      "number": 3,
+      "question": "La repetició i la replicació de les observacions científiques:",
+      "options": [
+        "Li manca rellevància científica, ja que no ofereix cap nova evidència.",
+        "Juga un paper essencial en la recerca, ja que permet descobrir possibles errors i garanteix que les dades observacionals resultants puguin ser utilitzades per diferents investigadors.",
+        "Té un paper secundari en la recerca, tot i que pot ser important en la formació i educació de científics inexpertes."
+      ],
+      "answer": "Juga un paper essencial en la recerca, ja que permet descobrir possibles errors i garanteix que les dades observacionals resultants siguin utilitzables per a diferents investigadors.",
+      "explanation": "La repetició i la replicació permeten detectar errors i asseguren que les proves siguin usables intersubjectivament per diferents investigadors.",
+      "appearsIn": [
+        "Tema 2. Coneixement empíric i observació",
+        "Examen de setembre de 2022"
+      ]
+    },
+    {
+      "section": "Examen 2025 1 de febrer",
+      "number": 4,
+      "question": "S'estima que la temperatura en una habitació és entre 25 i 27 °C:",
+      "options": [
+        "És incorrecte, ja que no proporciona el valor més precís.",
+        "És imprecís, però pot ser correcte.",
+        "No és informatiu, ja que no elimina completament la incertesa."
+      ],
+      "answer": "És imprecís, però pot ser correcte.",
+      "explanation": "Una mesura pot ser inexacta (abast) i, tot i així, correcta si el valor real es troba dins d'aquest abast.",
+      "appearsIn": [
+        "Examen 2024 1 de febrer",
+        "Examen 2022 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2025 1 de febrer",
+      "number": 5,
+      "question": "Les prediccions que es poden derivar d'una hipòtesi són:",
+      "options": [
+        "Aquelles proposicions que tenen com a conseqüència la veritat de la hipòtesi.",
+        "Les conseqüències que se'n derivaran de la veritat de la hipòtesi.",
+        "Aquelles proposicions incompatibles amb la veritat de la hipòtesi."
+      ],
+      "answer": "Les conseqüències que se'n derivaran de la veritat de la hipòtesi.",
+      "explanation": "Aquestes són conseqüències observacionals/empíriques que es derivarien si la hipòtesi fos certa.",
+      "appearsIn": [
+        "Examen 2025 2 de febrer",
+        "Examen 2024 1 de febrer",
+        "Examen 2022 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2025 1 de febrer",
+      "number": 6,
+      "question": "En un raonament deductiu invàlid:",
+      "options": [
+        "Necessàriament, si les premisses són certes, les conclusions seran falses.",
+        "Necessàriament, si les premisses són falses, les conclusions seran falses.",
+        "Els premissos poden ser veritables i les conclusions falses."
+      ],
+      "answer": "Els premissos poden ser veritables i les conclusions falses.",
+      "explanation": "Un argument deductiu invàlid admet contr'exemples: és possible que les premisses siguin veritables i la conclusió sigui falsa.",
+      "appearsIn": [
+        "Examen 2025 2 de febrer",
+        "Examen 2024 febrer 2",
+        "Examen 2023 1 de febrer",
+        "Examen de setembre de 2022"
+      ]
+    },
+    {
+      "section": "Examen 2025 1 de febrer",
+      "number": 7,
+      "question": "Segons el falsificacionisme de Popper:",
+      "options": [
+        "La funció principal de l'observació en la ciència és desmentir hipòtesis, no confirmar-les.",
+        "La funció principal de l'observació en la ciència és confirmar hipòtesis, no pas refutar-les.",
+        "Observar un nombre suficient de casos que satisfan una generalització ens permet concloure que aquesta generalització queda confirmada."
+      ],
+      "answer": "La funció principal de l'observació en la ciència és desmentir hipòtesis, no confirmar-les.",
+      "explanation": "Per a Popper, el paper clau de l'observació és intentar refutar hipòtesis mitjançant proves rigoroses; no hi ha cap verificació definitiva.",
+      "appearsIn": [
+        "Examen de setembre de 2023",
+        "Examen 2022 2 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2025 1 de febrer",
+      "number": 8,
+      "question": "Les motivacions dels científics:",
+      "options": [
+        "Són exclusivament epistèmics (específicament, la recerca del coneixement objectiu), ja que la ciència aspira a la veritat.",
+        "Inclouen motivacions pràctiques, com ara la recerca de reconeixement i l'obtenció de premis i finançament.",
+        "Quan un científic està motivat per interessos pràctics, els resultats de la seva recerca són fraudulents."
+      ],
+      "answer": "Inclouen motivacions pràctiques, com ara la recerca de reconeixement i l'obtenció de premis i finançament.",
+      "explanation": "A més de raons epistèmiques, hi ha incentius pràctics (carrera, finançament, reconeixement) que influeixen en l'activitat científica.",
+      "appearsIn": [
+        "Tema 12. Com funcionen les institucions científiques?",
+        "Examen de setembre de 2024"
+      ]
+    },
+    {
+      "section": "Examen 2025 1 de febrer",
+      "number": 9,
+      "question": "Segons Kuhn, què determina que un paradigma substitueixi un altre?",
+      "options": [
+        "El nou paradigma serà verificat per proves de manera més exhaustiva que l'anterior.",
+        "El canvi de paradigma no sempre es deu exclusivament a un millor suport basat en l'evidència.",
+        "El nou paradigma serà coherent amb totes les proves disponibles, mentre que l'antic haurà estat falsificat per una anomalia."
+      ],
+      "answer": "El canvi de paradigma no sempre es deu exclusivament a un millor suport basat en l'evidència.",
+      "explanation": "Per a Kuhn, el reemplaçament de paradigmes no depèn només de 'millors proves': els valors, els estàndards i les dinàmiques dins de la comunitat científica també hi juguen un paper.",
+      "appearsIn": [
+        "Examen de setembre de 2025",
+        "Examen 2023 2 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2025 1 de febrer",
+      "number": 10,
+      "question": "Models científics:",
+      "options": [
+        "Són idealitzacions.",
+        "Són representacions fidels de la realitat.",
+        "Són hipòtesis científiques que no han estat refutades per proves."
+      ],
+      "answer": "Són idealitzacions.",
+      "explanation": "Els models sovint són idealitzacions o simplificacions: no són còpies perfectes, sinó eines per inferir i comprendre fenòmens."
+    },
+    {
+      "section": "Examen 2025 2 de febrer",
+      "number": 1,
+      "question": "En un raonament deductiu invàlid:",
+      "options": [
+        "Necessàriament, si les premisses són certes, les conclusions seran falses.",
+        "Necessàriament, si les premisses són falses, les conclusions seran falses.",
+        "Els premissos poden ser veritables i les conclusions falses."
+      ],
+      "answer": "Els premissos poden ser veritables i les conclusions falses.",
+      "explanation": "Un argument deductiu invàlid admet contr'exemples: és possible que les premisses siguin veritables i la conclusió sigui falsa.",
+      "appearsIn": [
+        "Examen 2025 1 de febrer",
+        "Examen 2024 febrer 2",
+        "Examen 2023 1 de febrer",
+        "Examen de setembre de 2022"
+      ]
+    },
+    {
+      "section": "Examen 2025 2 de febrer",
+      "number": 2,
+      "question": "Segons el escepticisme humeà sobre l'inducció:",
+      "options": [
+        "No hi ha cap justificació racional per al raonament inductiu.",
+        "Només estem justificats per fer raonament inductiu si comencem a partir d'observacions fetes en condicions ideals.",
+        "Mai no podem estar segurs que els premisses del raonament inductiu siguin veritables."
+      ],
+      "answer": "No hi ha cap justificació racional per al raonament inductiu.",
+      "explanation": "Hume argumenta que no hi ha cap justificació racional no circular per a l'inducció; la nostra dependència de les generalitzacions és un hàbit o costum.",
+      "appearsIn": [
+        "Examen de setembre de 2024"
+      ]
+    },
+    {
+      "section": "Examen 2025 2 de febrer",
+      "number": 3,
+      "question": "Segons el verificacionisme:",
+      "options": [
+        "Les hipòtesis científiques han de ser corroborades per l'experiència.",
+        "Les hipòtesis científiques són sempre veritables.",
+        "Les hipòtesis científiques sempre han de ser expressibles en forma matemàtica."
+      ],
+      "answer": "Les hipòtesis científiques han de ser corroborades per l'experiència.",
+      "explanation": "El verificacionisme vincula l'acceptabilitat/significativitat de les afirmacions empíriques al seu contrast (verificació/confirmació) per mitjà de l'experiència."
+    },
+    {
+      "section": "Examen 2025 2 de febrer",
+      "number": 4,
+      "question": "Quina és la relació entre el verificacionisme i el problema de l'inducció?",
+      "options": [
+        "El verificacionisme aconsegueix resoldre el problema de l'inducció.",
+        "El verificacionisme és susceptible al problema de l'inducció.",
+        "El verificacionisme, en rebutjar l'inductivisme, no té cap connexió amb el problema de l'inducció."
+      ],
+      "answer": "El verificacionisme és susceptible al problema de l'inducció.",
+      "explanation": "El verificacionisme depèn de confirmacions inductives que mai no són definitives; per això és vulnerable al problema de l'inducció."
+    },
+    {
+      "section": "Examen 2025 2 de febrer",
+      "number": 5,
+      "question": "En el raonament inductiu:",
+      "options": [
+        "Les conclusions només són aproximadament certes.",
+        "La veritat de les premisses mai no està garantida.",
+        "La veritat de les conclusions no està garantida per la veritat de les premisses."
+      ],
+      "answer": "La veritat de les conclusions no està garantida per la veritat de les premisses.",
+      "explanation": "En la inducció, encara que les premisses siguin certes, no garanteixen necessàriament la veritat de la conclusió; per tant, la conclusió pot ser defectuosa.",
+      "appearsIn": [
+        "Tema 5. El problema de l'inducció",
+        "Examen de setembre de 2025",
+        "Examen 2023 2 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2025 2 de febrer",
+      "number": 6,
+      "question": "Les prediccions que es poden derivar d'una hipòtesi són:",
+      "options": [
+        "Aquelles proposicions que tenen com a conseqüència la veritat de la hipòtesi.",
+        "Les conseqüències que es derivarien de la veritat de la hipòtesi.",
+        "Aquelles proposicions incompatibles amb la veritat de la hipòtesi."
+      ],
+      "answer": "Les conseqüències que es derivarien de la veracitat de la hipòtesi.",
+      "explanation": "Aquestes són conseqüències observacionals/empíriques que es derivarien si la hipòtesi fos certa.",
+      "appearsIn": [
+        "Examen 2025 1 de febrer",
+        "Examen 2024 1 de febrer",
+        "Examen 2022 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2025 2 de febrer",
+      "number": 7,
+      "question": "Quan un model és científicament acceptable?",
+      "options": [
+        "Només si es basa en suposicions errònies",
+        "Només si reflecteix fidelment la realitat",
+        "Només si serveix per oferir coneixements útils sobre la realitat."
+      ],
+      "answer": "Només si serveix per oferir coneixements útils sobre la realitat.",
+      "explanation": "Un model és acceptable si permet inferències útils (explicar/predir/controlar) sobre la realitat, encara que idealitzi."
+    },
+    {
+      "section": "Examen 2025 2 de febrer",
+      "number": 8,
+      "question": "Quins són els tres criteris de delimitació que hem tractat durant el curs?",
+      "options": [
+        "Correspondència amb el paradigma, la falsificabilitat i la verificabilitat",
+        "Pseudociència, no-ciència i anti-ciència",
+        "Evidència, observació i experimentació"
+      ],
+      "answer": "Correspondència amb el paradigma, la falsificabilitat i la verificabilitat",
+      "explanation": "El curs contrasta la verificabilitat, la falsificabilitat i els enfocaments vinculats als paradigmes/context (gir social)."
+    },
+    {
+      "section": "Examen 2025 2 de febrer",
+      "number": 9,
+      "question": "Segons el constructivisme social:",
+      "options": [
+        "Tot el coneixement científic és fraudulent.",
+        "La ciència no té una posició privilegiada sobre altres fenòmens com la màgia o la mitologia.",
+        "És impossible explicar com funciona la ciència."
+      ],
+      "answer": "La ciència no té una posició privilegiada sobre altres fenòmens com la màgia o la mitologia.",
+      "explanation": "Una tesi típica és que la ciència no té un estatus epistèmic absolut i 'privilegiat' fora de les pràctiques i els contextos; s'analitza com un fenomen social.",
+      "appearsIn": [
+        "Tema 11. La ciència com a producte social"
+      ]
+    },
+    {
+      "section": "Examen 2025 2 de febrer",
+      "number": 10,
+      "question": "Com es diuen les investigacions que busquen reproduir els resultats obtinguts en un experiment anterior?",
+      "options": [
+        "Assajos clínics aleatoritzats",
+        "Estudis de replicació",
+        "Experiments crucials"
+      ],
+      "answer": "Estudis de replicació",
+      "explanation": "La recerca que pretén reproduir els resultats obtinguts en un experiment anterior s'anomena estudis de replicació."
+    },
+    {
+      "section": "Examen de setembre de 2024",
+      "number": 1,
+      "question": "Què és l'evidència?",
+      "options": [
+        "Una creença trivial o irrellevant.",
+        "Una veritat evident.",
+        "Proves o indicis sobre la veritat d'una proposició."
+      ],
+      "answer": "Proves o indicis sobre la veritat d'una proposició.",
+      "explanation": "Les proves són indicis que donen suport (en diferents graus) a la veracitat d'una proposició o d'una hipòtesi.",
+      "appearsIn": [
+        "Examen 2023 1 de febrer",
+        "Examen 2022 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2024",
+      "number": 2,
+      "question": "Quina és la relació entre les creences tradicionals i les proves científiques?",
+      "options": [
+        "Les creences tradicionals sempre són compatibles amb l'evidència científica.",
+        "Les creences tradicionals constitueixen proves científiques fiables.",
+        "Les creences tradicionals que no estan recolzades per proves no seran acceptables científicament."
+      ],
+      "answer": "Les creences tradicionals que no estan recolzades per proves no seran acceptables científicament.",
+      "explanation": "Si no estan recolzades per proves, les creences tradicionals no seran acceptables com a coneixement científic."
+    },
+    {
+      "section": "Examen de setembre de 2024",
+      "number": 3,
+      "question": "Segons el escepticisme humeà sobre l'inducció:",
+      "options": [
+        "No hi ha cap justificació racional per al raonament inductiu: la nostra tendència a acceptar generalitzacions basades en l'observació de casos particulars és simplement un hàbit psicològic, una inclinació mental resultant de la costum.",
+        "Només estem justificats per fer raonament inductiu si comencem a partir d'observacions fetes en condicions ideals.",
+        "Mai no podem estar segurs que els pressupòsits del raonament inductiu siguin veritables."
+      ],
+      "answer": "No hi ha cap justificació racional per al raonament inductiu: la nostra tendència a acceptar generalitzacions basades en l'observació de casos particulars és simplement un hàbit psicològic, una inclinació mental resultant de la costum.",
+      "explanation": "Hume argumenta que no hi ha cap justificació racional no circular per a l'inducció; la nostra dependència de les generalitzacions és un hàbit o costum.",
+      "appearsIn": [
+        "Examen 2025 2 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2024",
+      "number": 4,
+      "question": "Quan dues variables estan perfectament correlacionades:",
+      "options": [
+        "Necessàriament hi ha una relació de causalitat entre ells, ja que d'altra manera no seria un resultat estadísticament significatiu.",
+        "No sempre es pot concloure que hi hagi una relació de causalitat entre ells.",
+        "El resultat és nul, ja que no és estadísticament significatiu."
+      ],
+      "answer": "No sempre es pot concloure que hi hagi una relació de causalitat entre ells.",
+      "explanation": "La correlació no implica causalitat: hi pot haver variables de confusió o relacions no causals que expliquin la correlació.",
+      "appearsIn": [
+        "Examen 2023 2 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2024",
+      "number": 5,
+      "question": "Què és un argument?",
+      "options": [
+        "Un argument és una proposició que s'utilitza com a premissa en el raonament.",
+        "Un argument és una seqüència de proposicions, formada per un conjunt de premisses de les quals se'n deriven certes conclusions.",
+        "Un argument és una proposició veritable."
+      ],
+      "answer": "Un argument és una seqüència de proposicions, formada per un conjunt de premisses de les quals se'n deriven certes conclusions.",
+      "explanation": "Un argument és un conjunt de premisses que pretenen donar suport a una conclusió; no és una única proposició aïllada."
+    },
+    {
+      "section": "Examen de setembre de 2024",
+      "number": 6,
+      "question": "Els models científics són...",
+      "options": [
+        "Representacions perfectes dels fenòmens estudiats.",
+        "Idealitzacions que serveixen per aproximar les realitats tractades.",
+        "Pautes per a científics."
+      ],
+      "answer": "Idealitzacions que serveixen per aproximar les realitats tractades.",
+      "explanation": "Els models tendeixen a idealitzar i simplificar per aproximar fenòmens complexos i permetre inferències útils.",
+      "appearsIn": [
+        "Tema 7. L'ús de models en la ciència"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2024",
+      "number": 7,
+      "question": "Segons el gir social en la filosofia de la ciència...",
+      "options": [
+        "El criteri de demarcació dependrà dels valors i dels aspectes contextuals que determinen el paradigma científic dominant.",
+        "Realment no hi ha cap afirmació o teoria que es pugui considerar científica, ja que tot està determinat socialment.",
+        "Decidir si alguna cosa és científica o no és una qüestió personal, ja que dependrà de l'individu i dels criteris immensurables de cada científic en particular."
+      ],
+      "answer": "El criteri de demarcació dependrà dels valors i dels aspectes contextuals que determinen el paradigma científic dominant.",
+      "explanation": "El gir social emfatitza que allò que compta com a ciència també depèn de valors i contextos que configuren paradigmes i estàndards."
+    },
+    {
+      "section": "Examen de setembre de 2024",
+      "number": 8,
+      "question": "Els models científics són...",
+      "options": [
+        "Representacions perfectes dels fenòmens estudiats",
+        "Idealitzacions que serveixen per aproximar les realitats tractades.",
+        "Pautes per a científics"
+      ],
+      "answer": "Idealitzacions que serveixen per aproximar les realitats tractades.",
+      "explanation": "Els models tendeixen a idealitzar i simplificar per aproximar fenòmens complexos i permetre inferències útils.",
+      "appearsIn": [
+        "Tema 7. L'ús de models en la ciència"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2024",
+      "number": 9,
+      "question": "Les motivacions dels científics:",
+      "options": [
+        "Són exclusivament epistèmics (específicament, la recerca del coneixement objectiu), ja que la ciència aspira a la veritat.",
+        "Inclouen motivacions pràctiques, com ara la recerca de reconeixement i l'obtenció de premis i finançament.",
+        "Quan un científic està motivat per interessos pràctics, els resultats de la seva recerca són fraudulents."
+      ],
+      "answer": "Inclouen motivacions pràctiques, com ara la recerca de reconeixement i l'obtenció de premis i finançament.",
+      "explanation": "A més de raons epistèmiques, hi ha incentius pràctics (carrera, finançament, reconeixement) que influeixen en l'activitat científica.",
+      "appearsIn": [
+        "Tema 12. Com funcionen les institucions científiques?",
+        "Examen 2025 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2024",
+      "number": 10,
+      "question": "Quan xoquen els discursos no científics amb el discurs científic?",
+      "options": [
+        "Quan els científics els acceptin.",
+        "Quan són acceptats per un gran nombre de persones.",
+        "Quan són pseudocientífics o antiscientífics."
+      ],
+      "answer": "Quan són pseudocientífics o antiscientífics.",
+      "explanation": "Choquen quan són pseudocientífics o antiscientífics: busquen substituir o soscavar el discurs científic.",
+      "appearsIn": [
+        "Tema 10. La ciència i els seus adversaris: ciència versus no-ciència, pseudociència i anti-ciència"
+      ]
+    },
+    {
+      "section": "Examen 2024 1 de febrer",
+      "number": 1,
+      "question": "Què és un fet?",
+      "options": [
+        "És un fet que p si i només si p és veritat.",
+        "Un fet és una creença acceptada per la comunitat científica.",
+        "Un fet és una creença que el subjecte considera veritable."
+      ],
+      "answer": "És un fet que p si i només si p és veritat.",
+      "explanation": "Fet: és un fet que p si i només si p és veritat; no és simplement una creença acceptada."
+    },
+    {
+      "section": "Examen 2024 1 de febrer",
+      "number": 2,
+      "question": "Què són els arguments d'autoritat?",
+      "options": [
+        "Aquests són arguments a favor d'una tesi que apel·len exclusivament al fet que una autoritat l'ha defensada.",
+        "Aquests són arguments que ofereixen proves irrefutables a favor d'una tesi.",
+        "Aquests són arguments que no poden ser objecte de dubte racional."
+      ],
+      "answer": "Aquests són arguments a favor d'una tesi que apel·len exclusivament al fet que una autoritat l'ha defensada.",
+      "explanation": "Recorren al suport d'una autoritat a una tesi com a raó principal per acceptar-la; no substitueixen les proves per si mateixes.",
+      "appearsIn": [
+        "Tema 1. Ciència, fets i proves",
+        "Examen 2024 febrer 2"
+      ]
+    },
+    {
+      "section": "Examen 2024 1 de febrer",
+      "number": 3,
+      "question": "Segons l'empirisme:",
+      "options": [
+        "Les fonts primàries d'evidència científica són la raó i la reflexió.",
+        "La font principal d'evidència científica és la intuïció.",
+        "La font principal d'evidència científica és l'experiència observacional."
+      ],
+      "answer": "La font principal d'evidència científica és l'experiència observacional.",
+      "explanation": "L'empirisme sosté que l'evidència principal prové de l'experiència, especialment de l'observació.",
+      "appearsIn": [
+        "Tema 2. Coneixement empíric i observació"
+      ]
+    },
+    {
+      "section": "Examen 2024 1 de febrer",
+      "number": 4,
+      "question": "S'estima que la temperatura en una habitació és entre 25 i 27 °C:",
+      "options": [
+        "És incorrecte i no proporciona un valor màximament precís.",
+        "És imprecís, però pot ser correcte.",
+        "No és informatiu, ja que no elimina completament la incertesa."
+      ],
+      "answer": "És imprecís, però pot ser correcte.",
+      "explanation": "Una mesura pot ser inexacta (abast) i, tot i així, correcta si el valor real es troba dins d'aquest abast.",
+      "appearsIn": [
+        "Examen 2025 1 de febrer",
+        "Examen 2022 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2024 1 de febrer",
+      "number": 5,
+      "question": "Si un experiment botànic mostra que certes plantes creixen més quan s'hi afegeix fertilitzant",
+      "options": [
+        "Es pot concloure directament que el fertilitzant és la causa de l'augment del creixement de les plantes.",
+        "Per determinar si el fertilitzant és la causa de l'augment del creixement, cal comparar-lo amb el creixement de plantes idèntiques que no s'han fertilitzat, mantenint constants la il·luminació, el tipus de sòl, la temperatura i el reg.",
+        "Mai no es pot concloure amb suficient certesa que l'augment del creixement es deu al fertilitzant."
+      ],
+      "answer": "Per determinar si el fertilitzant és la causa de l'augment del creixement, cal comparar-lo amb el creixement de plantes idèntiques que no s'han fertilitzat, mantenint constants la il·luminació, el tipus de sòl, la temperatura i el reg.",
+      "explanation": "Per explicar la causalitat, cal controlar les variables i fer comparacions adequades.",
+      "appearsIn": [
+        "Tema 3. Experimentació"
+      ]
+    },
+    {
+      "section": "Examen 2024 1 de febrer",
+      "number": 6,
+      "question": "Una hipòtesi:",
+      "options": [
+        "No és mai exactament cert, tot i que pot ser una bona aproximació.",
+        "Sempre és empiricament falsable.",
+        "Pot ser empíricament indemostrable."
+      ],
+      "answer": "Pot ser empíricament indemostrable.",
+      "explanation": "Pot haver-hi hipòtesis indemostrables (per exemple, formulades de manera que no es poden refutar empíricament)."
+    },
+    {
+      "section": "Examen 2024 1 de febrer",
+      "number": 7,
+      "question": "Les prediccions que es poden derivar d'una hipòtesi són:",
+      "options": [
+        "Aquelles proposicions que tenen com a conseqüència la veritat de la hipòtesi.",
+        "Les conseqüències que es derivarien de la veracitat de la hipòtesi.",
+        "Aquelles proposicions incompatibles amb la veritat de la hipòtesi."
+      ],
+      "answer": "Les conseqüències que es derivarien de la veritat de la hipòtesi.",
+      "explanation": "Aquestes són conseqüències observacionals/empíriques que es derivarien si la hipòtesi fos certa.",
+      "appearsIn": [
+        "Examen 2025 1 de febrer",
+        "Examen 2025 2 de febrer",
+        "Examen 2022 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2024 1 de febrer",
+      "number": 8,
+      "question": "Què és el raonament?",
+      "options": [
+        "El raonament és una transició entre creences (o altres estats mentals), el propòsit de la qual és adoptar creences correctes o justificades.",
+        "Un argument és un intercanvi verbal dins d'un debat.",
+        "Un argument és una estratègia retòrica per persuadir un públic d'una conclusió, independentment de si està realment justificat."
+      ],
+      "answer": "El raonament és una transició entre creences (o altres estats mentals), el propòsit de la qual és adoptar creences correctes o justificades.",
+      "explanation": "El raonament és una transició entre creences o estats mentals amb l'objectiu d'adoptar creences correctes o justificades."
+    },
+    {
+      "section": "Examen 2024 1 de febrer",
+      "number": 9,
+      "question": "Els models científics tenen valor explicatiu...",
+      "options": [
+        "Quan estan ben pensats.",
+        "Quan són models matemàtics, físics o conceptuals.",
+        "Quan no és possible abordar els fenòmens d'una altra manera."
+      ],
+      "answer": "Quan estan ben pensats.",
+      "explanation": "Un model té valor explicatiu quan està construït per representar factors rellevants i permetre inferències (explicar/predir), no simplement quan s'utilitza perquè no hi ha alternativa.",
+      "appearsIn": [
+        "Tema 7. L'ús de models en la ciència"
+      ]
+    },
+    {
+      "section": "Examen 2024 1 de febrer",
+      "number": 10,
+      "question": "Quan es produeix un canvi de paradigma, segons Kuhn?",
+      "options": [
+        "Quan un nou paradigma demostra ser millor que l'anterior",
+        "Quan el vell paradigma s'esgota i ja no és productiu.",
+        "Quan la majoria dels membres de la comunitat científica decideixen adoptar un nou paradigma, independentment de les raons per les quals"
+      ],
+      "answer": "Quan la majoria dels membres de la comunitat científica decideixen adoptar un nou paradigma, independentment de les raons per les quals",
+      "explanation": "Per a Kuhn, el canvi es consolida quan la comunitat adopta el nou paradigma; no és només una qüestió de 'provar' la superioritat lògica."
+    },
+    {
+      "section": "Examen 2024 febrer 2",
+      "number": 1,
+      "question": "Què són els arguments d'autoritat?",
+      "options": [
+        "Aquests són arguments a favor d'una tesi que apel·len exclusivament al fet que una autoritat l'ha defensada.",
+        "Aquests són arguments que ofereixen proves irrefutables a favor d'una tesi.",
+        "Aquests són arguments que no poden ser objecte de dubte racional."
+      ],
+      "answer": "Aquests són arguments a favor d'una tesi que apel·len exclusivament al fet que una autoritat l'ha defensada.",
+      "explanation": "Recorren al suport d'una autoritat a una tesi com a raó principal per acceptar-la; no substitueixen les proves per si mateixes.",
+      "appearsIn": [
+        "Tema 1. Ciència, fets i proves",
+        "Examen 2024 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2024 febrer 2",
+      "number": 2,
+      "question": "El holisme de la refutació empírica sosté que:",
+      "options": [
+        "Les proves empíriques mai no permeten descartar les hipòtesis científiques.",
+        "En general, l'evidència empírica permet refutar directament hipòtesis aïllades.",
+        "En general, l'evidència empírica no permet refutar directament hipòtesis aïllades, sinó només en combinació amb altres hipòtesis auxiliars i suposicions."
+      ],
+      "answer": "En general, l'evidència empírica no permet refutar directament hipòtesis aïllades, sinó només en combinació amb altres hipòtesis auxiliars i suposicions.",
+      "explanation": "Les proves no refuten hipòtesis aïllades, sinó el conjunt (hipòtesi + auxiliars + condicions inicials) emprat per derivar prediccions, segons la tesi de Quine-Duhem.",
+      "appearsIn": [
+        "Examen 2023 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2024 febrer 2",
+      "number": 3,
+      "question": "En un argument deductiu invàlid:",
+      "options": [
+        "Necessàriament, si les premisses són certes, les conclusions seran falses.",
+        "Necessàriament, si les premisses són falses, les conclusions seran falses.",
+        "Els premisses poden ser veritables i les conclusions falses."
+      ],
+      "answer": "Els premisses poden ser veritables i les conclusions falses.",
+      "explanation": "Un argument deductiu invàlid admet contr'exemples: és possible que les premisses siguin veritables i la conclusió sigui falsa.",
+      "appearsIn": [
+        "Examen 2025 1 de febrer",
+        "Examen 2025 2 de febrer",
+        "Examen 2023 1 de febrer",
+        "Examen de setembre de 2022"
+      ]
+    },
+    {
+      "section": "Examen 2024 2 de febrer",
+      "number": 4,
+      "question": "El problema amb l'inducció és que:",
+      "options": [
+        "L'inducció sempre condueix a conclusions estrictament falses, encara que puguin ser aproximadament correctes.",
+        "Mai no podem estar segurs de si una generalització inductiva és falsa.",
+        "La conclusió del raonament inductiu pot ser falsa encara que totes les premisses siguin veritables."
+      ],
+      "answer": "La conclusió del raonament inductiu pot ser falsa encara que totes les premisses siguin veritables.",
+      "explanation": "Una conclusió inductiva pot ser falsa encara que totes les premisses observacionals siguin certes (pot haver-hi excepcions no observades)."
+    },
+    {
+      "section": "Examen 2024 2 de febrer",
+      "number": 5,
+      "question": "Quina és la relació entre probabilitat i incertesa?",
+      "options": [
+        "Un esdeveniment només es pot considerar probable si es sap amb certesa que tindrà lloc.",
+        "La probabilitat assignada a un esdeveniment reflecteix la incertesa sobre si aquest esdeveniment tindrà lloc.",
+        "La probabilitat assignada a un esdeveniment és 0 quan hi ha incertesa sobre si aquest esdeveniment tindrà lloc."
+      ],
+      "answer": "La probabilitat assignada a un esdeveniment reflecteix la incertesa sobre si aquest esdeveniment tindrà lloc.",
+      "explanation": "La probabilitat reflecteix el grau d'incertesa sobre si un esdeveniment tindrà lloc; no és equivalent a la certesa.",
+      "appearsIn": [
+        "Tema 6. Probabilitat i estadística"
+      ]
+    },
+    {
+      "section": "Examen 2024 2 de febrer",
+      "number": 6,
+      "question": "Pot un model fals ser vàlid?",
+      "options": [
+        "Sí, si condueix a resultats interessants i rellevants.",
+        "No, perquè només servirà per afegir més confusió.",
+        "Sí, perquè tots els models són, per definició, vàlids per a la ciència."
+      ],
+      "answer": "Sí, si condueix a resultats interessants i rellevants.",
+      "explanation": "Un model es pot idealitzar i ser literalment fals en els detalls, però tot i així ser vàlid si permet l'explicació i la predicció i guia inferències útils en el seu domini.",
+      "appearsIn": [
+        "Examen de setembre de 2025"
+      ]
+    },
+    {
+      "section": "Examen 2024 2 de febrer",
+      "number": 7,
+      "question": "Què és la pseudociència?",
+      "options": [
+        "No-ciència disfressada de ciència.",
+        "Ciència mal concebuda que no dona bons resultats.",
+        "El tipus de coneixement que no proporciona garanties suficients per ser considerat científic."
+      ],
+      "answer": "No-ciència disfressada de ciència.",
+      "explanation": "Pseudociència: no-ciència que intenta presentar-se com a ciència per aprofitar-se del seu prestigi.",
+      "appearsIn": [
+        "Tema 10.2. Pseudociència",
+        "Examen 2020 febrer 2"
+      ]
+    },
+    {
+      "section": "Examen 2024 2 de febrer",
+      "number": 8,
+      "question": "Segons el falsificacionisme sofisticat d'Imre Lakatos:",
+      "options": [
+        "Les teories i els postulats científics no es poden considerar aïlladament, ja que formen part de programes de recerca.",
+        "El progrés en la ciència és impossible atesa l'incommensurabilitat dels paradigmes.",
+        "La ciència no representa un tipus de coneixement qualitativament diferent de la resta. El principi que hauria de regir és «tot val»."
+      ],
+      "answer": "Les teories i els postulats científics no es poden considerar aïlladament, ja que formen part de programes de recerca.",
+      "explanation": "Lakatos proposa programes de recerca: no s'avaluen hipòtesis aïllades, sinó nuclis durs i cinturons de protecció."
+    },
+    {
+      "section": "Examen 2024 2 de febrer",
+      "number": 9,
+      "question": "Quin és el problema amb la demarcació?",
+      "options": [
+        "Determinar els límits ètics de l'activitat científica.",
+        "Comprendre adequadament les implicacions filosòfiques de la ciència.",
+        "La recerca de criteris per distingir entre allò que és científic i allò que no és científic."
+      ],
+      "answer": "La recerca de criteris per distingir entre allò que és científic i allò que no és científic.",
+      "explanation": "Consisteix a cercar criteris per distingir la ciència de la no-ciència/pseudociència.",
+      "appearsIn": [
+        "Tema 9. El criteri de demarcació"
+      ]
+    },
+    {
+      "section": "Examen 2024 2 de febrer",
+      "number": 10,
+      "question": "Què és un estudi de replicació?",
+      "options": [
+        "Un estudi en què es plantegen objeccions a un estudi anterior.",
+        "Un estudi que presenta un experiment que refuta una hipòtesi teòrica rellevant.",
+        "Un estudi que pretén reproduir els resultats obtinguts en un experiment anterior."
+      ],
+      "answer": "Un estudi que pretén reproduir els resultats obtinguts en un experiment anterior.",
+      "explanation": "Un estudi de replicació intenta reproduir els resultats d'un estudi anterior per verificar-ne la robustesa.",
+      "appearsIn": [
+        "Tema 12. Com funcionen les institucions científiques?",
+        "Examen 2022 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2023",
+      "number": 1,
+      "question": "Perquè l'observació proporcioni proves científiques valuoses...",
+      "options": [
+        "És essencial que això es dugui a terme mitjançant procediments innovadors que siguin difícils de replicar per altres grups de recerca.",
+        "És desitjable que això es dugui a terme mitjançant procediments estandarditzats que puguin ser replicats per altres grups de recerca.",
+        "S'ha de dur a terme sense l'ajuda d'instruments."
+      ],
+      "answer": "És desitjable que això es dugui a terme mitjançant procediments estandarditzats que puguin ser replicats per altres grups de recerca.",
+      "explanation": "S'ha de dur a terme utilitzant protocols que puguin ser reproduïts per altres grups; la reproducibilitat permet el control intersubjectiu.",
+      "appearsIn": [
+        "Examen 2022 2 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2023",
+      "number": 2,
+      "question": "L'ús d'instruments d'observació...",
+      "options": [
+        "Incrementa necessàriament la inexactitud de l'observació.",
+        "Et permet fer observacions precises.",
+        "Ens permet superar les limitacions de les nostres habilitats perceptives."
+      ],
+      "answer": "Ens permet superar les limitacions de les nostres habilitats perceptives.",
+      "explanation": "Els instruments superen les limitacions perceptives i ens permeten observar i mesurar fenòmens inaccessibles a l'ull nu.",
+      "appearsIn": [
+        "Examen 2022 2 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2023",
+      "number": 3,
+      "question": "Una hipòtesi que és oberta a refutació empírica...",
+      "options": [
+        "És admissible com a hipòtesi científica perquè és falsificable.",
+        "És inadmissible com a hipòtesi científica perquè no és falsificable.",
+        "És inadmissible com a hipòtesi científica perquè és falsa."
+      ],
+      "answer": "És admissible com a hipòtesi científica perquè és falsificable.",
+      "explanation": "Si una hipòtesi és falsificable (es podria refutar amb proves), és admissible com a hipòtesi científica en el sentit popperià.",
+      "appearsIn": [
+        "Examen 2022 2 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2023",
+      "number": 4,
+      "question": "Quin és el problema amb la inducció?",
+      "options": [
+        "El raonament inductiu correcte requereix fer un gran nombre d'observacions, cosa que no sempre és fàcil.",
+        "En principi, és possible que les premisses d'una inferència inductiva siguin certes però la generalització a què s'arriba a la conclusió sigui falsa (perquè hi ha excepcions a aquesta generalització que encara no s'han observat).",
+        "Mai no podem saber amb certesa si els premissos del raonament inductiu són veritables."
+      ],
+      "answer": "En principi, és possible que les premisses d'una inferència inductiva siguin certes però la generalització a què s'arriba a la conclusió sigui falsa (perquè hi ha excepcions a aquesta generalització que encara no s'han observat).",
+      "explanation": "És possible que les premisses observades siguin certes i que la generalització conclosa sigui falsa a causa d'excepcions no observades.",
+      "appearsIn": [
+        "Tema 5. El problema de l'inducció",
+        "Examen 2022 2 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2023",
+      "number": 5,
+      "question": "Segons el falsificacionisme de Popper:",
+      "options": [
+        "La funció principal de l'observació en la ciència és desmentir hipòtesis, no confirmar-les.",
+        "La funció principal de l'observació en la ciència és confirmar hipòtesis, no refutar-les.",
+        "Observar un nombre suficient de casos que compleixen una generalització ens permet concloure que aquesta generalització queda confirmada."
+      ],
+      "answer": "La funció principal de l'observació en la ciència és desmentir hipòtesis, no confirmar-les.",
+      "explanation": "Per a Popper, el paper clau de l'observació és intentar refutar hipòtesis mitjançant proves rigoroses; no hi ha cap verificació definitiva.",
+      "appearsIn": [
+        "Examen 2025 1 de febrer",
+        "Examen 2022 2 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2023",
+      "number": 6,
+      "question": "Quins són els biaixos estadístics?",
+      "options": [
+        "Mètodes utilitzats per analitzar estadísticament grans conjunts de dades.",
+        "Mètodes d'anàlisi estadística que garanteixen resultats imparcials i objectius.",
+        "Distorsions introduïdes en l'anàlisi estadística a causa de deficiències en els mètodes d'anàlisi o de recollida de dades, les quals fan que les conclusions extretes de l'anàlisi no reflecteixin les propietats reals de la població o del fenomen estudiat."
+      ],
+      "answer": "Distorsions introduïdes en l'anàlisi estadística a causa de deficiències en els mètodes d'anàlisi o de recollida de dades, de manera que les conclusions extretes de l'anàlisi no reflecteixen les propietats reals de la població o del fenomen estudiat.",
+      "explanation": "Aquestes són distorsions degudes als mètodes de recollida de dades que fan que l'anàlisi no reflecteixi les propietats reals del fenomen o de la població.",
+      "appearsIn": [
+        "Examen 2022 2 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2023",
+      "number": 7,
+      "question": "Quina és la relació entre el creacionisme i la teoria del disseny intel·ligent?",
+      "options": [
+        "La teoria del disseny intel·ligent assumeix el creacionisme.",
+        "Són la mateixa cosa.",
+        "El creacionisme ha estat substituït per la teoria del disseny intel·ligent."
+      ],
+      "answer": "La teoria del disseny intel·ligent assumeix el creacionisme.",
+      "explanation": "El disseny intel·ligent es presenta com una reformulació del creacionisme per semblar científic.",
+      "appearsIn": [
+        "Tema 10. La ciència i els seus adversaris: ciència versus no-ciència, pseudociència i anti-ciència",
+        "Examen 2022 2 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2023",
+      "number": 8,
+      "question": "Segons els anti-científics...",
+      "options": [
+        "La ciència és incapaç de complir cap criteri de demarcació.",
+        "No importa quin sigui el criteri de demarcació científica perquè la ciència com a tal és una activitat que cal eliminar (o almenys reconsiderar a fons).",
+        "Els científics no són capaços de jutjar la seva pròpia activitat."
+      ],
+      "answer": "No importa quin sigui el criteri de demarcació científica perquè la ciència com a tal és una activitat que cal eliminar (o almenys reconsiderar a fons).",
+      "explanation": "En les posicions radicals, creuen que la ciència hauria de ser eliminada o revisada radicalment; per això el criteri de demarcació els és irrellevant.",
+      "appearsIn": [
+        "Tema 10.3. Antiscència",
+        "Examen 2022 2 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2023",
+      "number": 9,
+      "question": "Segons els enfocaments feministes de la ciència:",
+      "options": [
+        "Només la ciència feta per dones és vàlida.",
+        "La ciència està determinada per l'androcentrisme de la societat.",
+        "La ciència no és un coneixement vàlid perquè, atesa la seva naturalesa com a producte d'una societat androcèntrica, només la poden practicar els homes."
+      ],
+      "answer": "La ciència està determinada per l'androcentrisme de la societat.",
+      "explanation": "Analitza com l'androcentrisme pot distorsionar les preguntes, els mètodes i les interpretacions; no implica que només la ciència feta per dones sigui vàlida.",
+      "appearsIn": [
+        "Tema 11. La ciència com a producte social",
+        "Examen 2022 2 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2023",
+      "number": 10,
+      "question": "Què són els assaigs clínics?",
+      "options": [
+        "Proves realitzades dins d'hospitals i altres centres sanitaris, com ara anàlisis de sang, radiografies, etc.",
+        "Literatura científica especialitzada en els camps de la salut i la biomedicina",
+        "Estudis experimentals que investiguen l'eficàcia i la seguretat d'un medicament o tractament"
+      ],
+      "answer": "Estudis experimentals que investiguen l'eficàcia i la seguretat d'un medicament o tractament",
+      "explanation": "Aquests són estudis experimentals per avaluar l'eficàcia i la seguretat de medicaments o tractaments.",
+      "appearsIn": [
+        "Examen 2022 2 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2023 1 de febrer",
+      "number": 1,
+      "question": "Si la variable X es manipula en un experiment i s'observa l'efecte Y:",
+      "options": [
+        "En general, sempre es pot afirmar que la manipulació en X ha causat l'efecte Y.",
+        "No sempre es pot concloure directament que la variació en X hagi causat l'efecte Y: primer cal descartar la possible interferència d'altres factors.",
+        "Mai no es pot concloure amb suficient certesa que l'efecte Y sigui causat per la manipulació de la variable X."
+      ],
+      "answer": "No sempre es pot concloure directament que la variació en X hagi causat l'efecte Y: primer cal descartar la possible interferència d'altres factors.",
+      "explanation": "Poden existir factors de confusió; cal descartar la interferència abans de poder afirmar la causalitat.",
+      "appearsIn": [
+        "Examen de setembre de 2022"
+      ]
+    },
+    {
+      "section": "Examen 2023 1 de febrer",
+      "number": 2,
+      "question": "El holisme de la refutació empírica sosté que:",
+      "options": [
+        "Les proves empíriques mai no permeten descartar les hipòtesis científiques.",
+        "En general, l'evidència empírica permet refutar directament hipòtesis aïllades.",
+        "En general, l'evidència empírica no permet refutar directament hipòtesis aïllades, sinó només en combinació amb altres hipòtesis auxiliars i suposicions."
+      ],
+      "answer": "En general, l'evidència empírica no permet refutar directament hipòtesis aïllades, sinó només en combinació amb altres hipòtesis auxiliars i suposicions.",
+      "explanation": "Les proves no refuten hipòtesis aïllades, sinó el conjunt (hipòtesi + auxiliars + condicions inicials) emprat per derivar prediccions, segons la tesi de Quine-Duhem.",
+      "appearsIn": [
+        "Examen 2024 febrer 2"
+      ]
+    },
+    {
+      "section": "Examen 2023 1 de febrer",
+      "number": 3,
+      "question": "Quins són els tres criteris principals de demarcació en la filosofia de la ciència?",
+      "options": [
+        "Consistència interna, consistència externa i sistematicitat.",
+        "Verificabilitat, falsificabilitat i correspondència amb el paradigma.",
+        "Contribució epistèmica, utilitat pràctica i progrés científic."
+      ],
+      "answer": "Verificabilitat, falsificabilitat i correspondència amb el paradigma.",
+      "explanation": "La verificabilitat de l'Escola de Viena, la falsificabilitat de Popper i la correspondència amb el paradigma de Kuhn són els tres criteris principals per a la demarcació."
+    },
+    {
+      "section": "Examen 2023 1 de febrer",
+      "number": 4,
+      "question": "Quin és el paper de la probabilitat en la ciència?",
+      "options": [
+        "Els resultats probabilístics no són admissibles en la ciència perquè no ofereixen un coneixement cert.",
+        "Els resultats probabilístics són admissibles en la ciència perquè eliminen completament la incertesa i ofereixen coneixement fiable.",
+        "Els resultats científics sovint es presenten de manera probabilística i són acceptables en la mesura que reflecteixen el grau de suport que ofereixen les proves disponibles."
+      ],
+      "answer": "Els resultats científics sovint es presenten de manera probabilística i són acceptables en la mesura que reflecteixen el grau de suport que ofereixen les proves disponibles.",
+      "explanation": "No és cert que eliminin completament la incertesa, ni tampoc que no siguin admissibles en la ciència."
+    },
+    {
+      "section": "Examen 2023 1 de febrer",
+      "number": 5,
+      "question": "Quina és la relació entre correlació i causalitat?",
+      "options": [
+        "La correlació implica causalitat: perquè dues variables estiguin correlacionades estadísticament, ha d'existir alguna relació de causalitat entre elles.",
+        "La causalitat implica correlació, però la correlació no implica causalitat (tot i que pot constituir una prova de l'existència de relacions causals entre variables correlacionades).",
+        "L'existència de correlacions estadístiques entre dues variables és incompatible amb l'existència de relacions causals entre elles."
+      ],
+      "answer": "La causalitat implica correlació, però la correlació no implica causalitat (tot i que pot constituir una prova de l'existència de relacions causals entre variables correlacionades).",
+      "explanation": "La causalitat normalment implica correlació (de mitjana), però la correlació no implica causalitat.",
+      "appearsIn": [
+        "Tema 6. Probabilitat i estadística"
+      ]
+    },
+    {
+      "section": "Examen 2023 1 de febrer",
+      "number": 6,
+      "question": "Quina és la raó del biaix a favor de publicar resultats positius en revistes científiques?",
+      "options": [
+        "Perquè aquests estudis normalment requereixen menys recursos.",
+        "Perquè els resultats negatius no proporcionen proves fiables.",
+        "Perquè aquests resultats sovint es perceben com més interessants i tenen un impacte més gran."
+      ],
+      "answer": "Perquè aquests resultats sovint es perceben com més interessants i tenen un impacte més gran.",
+      "explanation": "Els resultats positius es perceben com més interessants/novells i de més impacte, distorsionant la publicació."
+    },
+    {
+      "section": "Examen 2023 1 de febrer",
+      "number": 7,
+      "question": "Antiscència...",
+      "options": [
+        "Ell argumenta que hi ha moltes maneres diferents de fer ciència.",
+        "Ell afirma que la ciència no té cap impacte en la societat.",
+        "És un discurs basat en la desconfiança envers la ciència."
+      ],
+      "answer": "És un discurs basat en la desconfiança envers la ciència.",
+      "explanation": "És un discurs de desconfiança envers la ciència i les seves institucions/autoritat.",
+      "appearsIn": [
+        "Tema 10.3. Antiscència"
+      ]
+    },
+    {
+      "section": "Examen 2023 1 de febrer",
+      "number": 8,
+      "question": "En un argument deductiu invàlid:",
+      "options": [
+        "Necessàriament, si les premisses són certes, les conclusions seran falses.",
+        "Necessàriament, si les premisses són falses, les conclusions seran falses.",
+        "Els premissos poden ser veritables i les conclusions falses."
+      ],
+      "answer": "Els premissos poden ser veritables i les conclusions falses.",
+      "explanation": "Un argument deductiu invàlid admet contr'exemples: és possible que les premisses siguin veritables i la conclusió sigui falsa.",
+      "appearsIn": [
+        "Examen 2025 1 de febrer",
+        "Examen 2025 2 de febrer",
+        "Examen 2024 febrer 2",
+        "Examen de setembre de 2022"
+      ]
+    },
+    {
+      "section": "Examen 2023 1 de febrer",
+      "number": 9,
+      "question": "Què és l'evidència?",
+      "options": [
+        "Una creença trivial o irrellevant.",
+        "Una veritat evident.",
+        "Proves o indicis sobre la veritat d'una proposició."
+      ],
+      "answer": "Proves o indicis sobre la veritat d'una proposició.",
+      "explanation": "Les proves són indicis que donen suport (en diferents graus) a la veracitat d'una proposició o d'una hipòtesi.",
+      "appearsIn": [
+        "Examen de setembre de 2024",
+        "Examen 2022 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2023 1 de febrer",
+      "number": 10,
+      "question": "Què significa que dos paradigmes siguin incommensurables?",
+      "options": [
+        "Que són paradigmes incomparables, perquè utilitzen marcs conceptuals i criteris d'avaluació radicalment diferents.",
+        "Aquest ha substituït l'altre mitjançant una revolució científica que va seguir un període de ciència normal.",
+        "Aquests són paradigmes defensats per científics de les escoles rivals, sense que cap d'ells hagi aconseguit imposar-se."
+      ],
+      "answer": "Que són paradigmes incomparables, perquè utilitzen marcs conceptuals i criteris d'avaluació radicalment diferents.",
+      "explanation": "Utilitzen marcs conceptuals i criteris d'avaluació tan diferents que la comparació no és ni neutral ni directa."
+    },
+    {
+      "section": "Examen 2023 2 de febrer",
+      "number": 1,
+      "question": "Un resultat inexacte:",
+      "options": [
+        "És inacceptable en la ciència, ja que s'hi busca la certesa.",
+        "Pot ser cert, malgrat no reduir completament la incertesa.",
+        "És fals en un sentit estricte, però pot ser una bona aproximació."
+      ],
+      "answer": "Pot ser cert, malgrat no reduir completament la incertesa.",
+      "explanation": "Un resultat pot ser inexacte i, tot i així, ser cert/correcte dins d'un interval."
+    },
+    {
+      "section": "Examen 2023 2 de febrer",
+      "number": 2,
+      "question": "Quan dues variables estan perfectament correlacionades:",
+      "options": [
+        "Necessàriament hi ha una relació de causalitat entre ells, ja que d'altra manera no seria un resultat estadísticament significatiu.",
+        "No sempre es pot concloure que hi hagi una relació de causalitat entre ells.",
+        "El resultat és nul, ja que no és estadísticament significatiu."
+      ],
+      "answer": "No sempre es pot concloure que hi hagi una relació de causalitat entre ells.",
+      "explanation": "La correlació no implica causalitat: hi pot haver variables de confusió o relacions no causals que expliquin la correlació.",
+      "appearsIn": [
+        "Examen de setembre de 2024"
+      ]
+    },
+    {
+      "section": "Examen 2023 2 de febrer",
+      "number": 3,
+      "question": "Estudis de replicació:",
+      "options": [
+        "Són més fàcils de publicar, ja que constitueixen el tipus de recerca més important en la ciència.",
+        "Generalment són més difícils de publicar que els resultats positius, ja que aquests solen tenir un impacte més gran.",
+        "Generalment són més fàcils de publicar que els resultats positius, ja que formen la base del mètode científic falsificacionista."
+      ],
+      "answer": "Generalment són més difícils de publicar que els resultats positius, ja que aquests solen tenir un impacte més gran.",
+      "explanation": "Tenen tendència a ser més difícils de publicar que els resultats positius a causa dels incentius i del biaix de publicació cap al que és «novel»."
+    },
+    {
+      "section": "Examen 2023 2 de febrer",
+      "number": 4,
+      "question": "En el raonament inductiu:",
+      "options": [
+        "Les conclusions només són aproximadament certes.",
+        "La veritat de les premisses mai no està garantida.",
+        "La veritat de les conclusions no està garantida per la veritat de les premisses."
+      ],
+      "answer": "La veritat de les conclusions no està garantida per la veritat de les premisses.",
+      "explanation": "En la inducció, fins i tot si les premisses són certes, no garanteixen necessàriament la veritat de la conclusió; per tant, la conclusió pot ser defectuosa.",
+      "appearsIn": [
+        "Tema 5. El problema de l'inducció",
+        "Examen de setembre de 2025",
+        "Examen 2025 2 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2023 2 de febrer",
+      "number": 5,
+      "question": "Segons Kuhn, què determina que un paradigma substitueixi un altre?",
+      "options": [
+        "El nou paradigma serà verificat per proves de manera més exhaustiva que l'anterior.",
+        "El canvi de paradigma no sempre es deu exclusivament a un millor suport basat en l'evidència.",
+        "El nou paradigma serà coherent amb totes les proves disponibles, mentre que l'antic haurà estat falsificat per una anomalia."
+      ],
+      "answer": "El canvi de paradigma no sempre es deu exclusivament a un millor suport basat en l'evidència.",
+      "explanation": "Per a Kuhn, el reemplaçament de paradigmes no depèn només de 'millors proves': els valors, els estàndards i les dinàmiques dins de la comunitat científica també hi juguen un paper.",
+      "appearsIn": [
+        "Examen de setembre de 2025",
+        "Examen 2025 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2023 2 de febrer",
+      "number": 6,
+      "question": "Quantes observacions són necessàries per confirmar de manera definitiva i de manera inductiva una hipòtesi empírica general?",
+      "options": [
+        "Una única observació reeixida és suficient per confirmar una generalització empírica.",
+        "L'observació d'un únic contraexemple és suficient per confirmar de manera definitiva una generalització empírica.",
+        "Per molt alt que sigui el nombre d'observacions coherents amb una generalització empírica, mai no seria suficient per considerar-la definitivament confirmada (ja que sempre existeix la possibilitat de trobar un contraexemple)."
+      ],
+      "answer": "Per molt alt que sigui el nombre d'observacions coherents amb una generalització empírica, mai no seria suficient per considerar-la definitivament confirmada (ja que sempre existeix la possibilitat de trobar un contraexemple).",
+      "explanation": "Segons el falsificacionisme de Popper, no és possible demostrar de manera definitiva una hipòtesi general de manera inductiva, però és possible refutar-la amb un contraexemple.",
+      "appearsIn": [
+        "Tema 5. El problema de l'inducció"
+      ]
+    },
+    {
+      "section": "Examen 2023 2 de febrer",
+      "number": 7,
+      "question": "El raonament a partir de les premisses «Suïssa té una població més gran que la Xina» i «França té una població més gran que Suïssa» fins a la conclusió «França té una població més gran que la Xina» és:",
+      "options": [
+        "Un raonament deductiu invàlid, tot i que les seves premisses són veritables.",
+        "Un raonament deductiu invàlid, ja que algunes de les seves premisses són falses.",
+        "Un argument deductiu vàlid, tot i que algunes de les seves premisses són falses."
+      ],
+      "answer": "Un argument deductiu vàlid, tot i que algunes de les seves premisses són falses.",
+      "explanation": "La inferència és deductivament vàlida per transitivitat, fins i tot si les premisses són falses."
+    },
+    {
+      "section": "Examen 2023 2 de febrer",
+      "number": 8,
+      "question": "Què és un experiment?",
+      "options": [
+        "Un experiment és una observació el resultat de la qual no es coneix per endavant.",
+        "Un experiment consisteix en una sèrie sistemàtica d'observacions realitzades amb instruments.",
+        "Un experiment consisteix a manipular un objecte d'estudi per observar els efectes que se'n deriven."
+      ],
+      "answer": "Un experiment consisteix a manipular un objecte d'estudi per observar els efectes que se'n deriven.",
+      "explanation": "Un experiment implica manipular condicions o variables per observar els efectes de la manipulació.",
+      "appearsIn": [
+        "Tema 3. Experimentació"
+      ]
+    },
+    {
+      "section": "Examen 2023 2 de febrer",
+      "number": 9,
+      "question": "Quina d'aquestes afirmacions és falsificable segons Popper?",
+      "options": [
+        "La força neta aplicada a un cos és proporcional a l'acceleració que adquireix aquest cos.",
+        "El nostre destí està predeterminat per la providència divina.",
+        "La força motriu de la història és la lluita de classes."
+      ],
+      "answer": "La força neta aplicada a un cos és proporcional a l'acceleració adquirida per aquest cos.",
+      "explanation": "Una afirmació física que fa prediccions observables i refutables (per exemple, una llei) és falsificable.",
+      "appearsIn": [
+        "Examen de setembre de 2022"
+      ]
+    },
+    {
+      "section": "Examen 2023 2 de febrer",
+      "number": 10,
+      "question": "Què són els models científics?",
+      "options": [
+        "Representacions dels fenòmens estudiats que són coherents amb totes les proves i observacions disponibles.",
+        "Idealitzacions que serveixen per aproximar les realitats tractades.",
+        "Pautes per a científics."
+      ],
+      "answer": "Idealitzacions que serveixen per aproximar les realitats tractades.",
+      "explanation": "Els models són idealitzacions que ens permeten aproximar la realitat i guiar inferències útils en el seu domini."
+    },
+    {
+      "section": "Examen de setembre de 2022",
+      "number": 1,
+      "question": "Una veritat és objectiva si:",
+      "options": [
+        "No hi ha cap desacord sobre aquesta veritat.",
+        "És evident i està més enllà de qualsevol discussió.",
+        "Si és veritat no depèn de les nostres opinions sobre això."
+      ],
+      "answer": "Si és veritat no depèn de les nostres opinions sobre això.",
+      "explanation": "L'objectivitat consisteix en la independència de les opinions o creences.",
+      "appearsIn": [
+        "Tema 1. Ciència, fets i proves"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2022",
+      "number": 2,
+      "question": "Què és el biaix de confirmació?",
+      "options": [
+        "Tendència a prestar més atenció i donar més pes a les proves que recolzen les teories que estem inclinats a acceptar, i a ignorar les proves contràries.",
+        "En una tendència a qüestionar les nostres creences.",
+        "És una tendència a acceptar l'opinió majoritària del grup al qual pertanyem."
+      ],
+      "answer": "Tendència a prestar més atenció i donar més pes a les proves que recolzen les teories que estem inclinats a acceptar, i a ignorar les proves contràries.",
+      "explanation": "Tendència a cercar/interpretar proves que confirmen les creences prèvies."
+    },
+    {
+      "section": "Examen de setembre de 2022",
+      "number": 3,
+      "question": "La repetició i la replicació de les observacions científiques:",
+      "options": [
+        "Li manca rellevància científica, ja que no ofereix cap nova evidència.",
+        "Juga un paper essencial en la recerca, ja que permet descobrir possibles errors i garanteix que les dades observacionals resultants siguin utilitzables per a diferents investigadors.",
+        "Té un paper secundari en la recerca, tot i que pot ser important en la formació i educació de científics inexperts."
+      ],
+      "answer": "Juga un paper essencial en la recerca, ja que permet descobrir possibles errors i garanteix que les dades observacionals resultants puguin ser utilitzades per diferents investigadors.",
+      "explanation": "La repetició i la replicació permeten detectar errors i asseguren que les proves siguin usables intersubjectivament per diferents investigadors.",
+      "appearsIn": [
+        "Tema 2. Coneixement empíric i observació",
+        "Examen 2025 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2022",
+      "number": 4,
+      "question": "Una mesura imprecisa:",
+      "options": [
+        "És necessàriament incorrecte, ja que no inclou el valor correcte.",
+        "No redueix completament la incertesa sobre la propietat mesurada.",
+        "Està completament desprovist d'utilitat pràctica."
+      ],
+      "answer": "No redueix completament la incertesa sobre la propietat mesurada.",
+      "explanation": "Una mesura imprecisa no elimina tota la incertesa, però pot ser útil i correcta."
+    },
+    {
+      "section": "Examen de setembre de 2022",
+      "number": 5,
+      "question": "Si la variable X es manipula en un experiment i s'observa l'efecte Y. ",
+      "options": [
+        "En general, sempre es pot afirmar que la manipulació en X ha causat l'efecte Y.",
+        "No sempre es pot concloure directament que la variació en X hagi causat l'efecte Y: primer cal descartar la possible interferència d'altres factors.",
+        "Mai no es pot concloure amb suficient certesa que l'efecte Y sigui causat per la manipulació de la variable X."
+      ],
+      "answer": "No sempre es pot concloure directament que la variació en X hagi causat l'efecte Y: primer cal descartar la possible interferència d'altres factors.",
+      "explanation": "Poden existir factors de confusió; cal descartar la interferència abans de poder afirmar la causalitat.",
+      "appearsIn": [
+        "Examen 2023 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2022",
+      "number": 6,
+      "question": "Quins són els premis del raonament?",
+      "options": [
+        "Els pressupòsits del raonament són els prejudicis i els biaixos cognitius de l'agent que realitza el raonament.",
+        "Els pressupòsits d'una línia de raonament són les proposicions que constitueixen el contingut de les creences en què es basa aquest raonament.",
+        "Els pressupòsits d'una línia de raonament són els propòsits pràctics que porten l'agent a emprendre aquest raonament."
+      ],
+      "answer": "Els pressupòsits d'una línia de raonament són les proposicions que constitueixen el contingut de les creences en què es basa aquest raonament.",
+      "explanation": "Les premisses són les proposicions que s'utilitzen per donar suport a la conclusió."
+    },
+    {
+      "section": "Examen de setembre de 2022",
+      "number": 7,
+      "question": "En un argument deductiu invàlid:",
+      "options": [
+        "Necessàriament, si les premisses són certes, les conclusions seran falses.",
+        "Necessàriament, si les premisses són falses, les conclusions seran falses.",
+        "Els premissos poden ser veritables i les conclusions falses."
+      ],
+      "answer": "Els premissos poden ser veritables i les conclusions falses.",
+      "explanation": "Un argument deductiu invàlid admet contr'exemples: és possible que les premisses siguin veritables i la conclusió sigui falsa.",
+      "appearsIn": [
+        "Examen 2025 1 de febrer",
+        "Examen 2025 2 de febrer",
+        "Examen 2024 febrer 2",
+        "Examen 2023 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2022",
+      "number": 8,
+      "question": "Un model és científicament acceptable:",
+      "options": [
+        "Si no es basa en suposicions errònies.",
+        "Si reflecteix fidelment la realitat",
+        "Si permet fer inferències útils sobre la realitat."
+      ],
+      "answer": "Si permet fer inferències útils sobre la realitat.",
+      "explanation": "Els models són idealitzacions que ens permeten apropar-nos a la realitat i guiar inferències útils en el seu domini."
+    },
+    {
+      "section": "Examen de setembre de 2022",
+      "number": 9,
+      "question": "Quina d'aquestes afirmacions és falsificable segons Popper?",
+      "options": [
+        "Els metalls s'expandeixen quan s'escalfen.",
+        "El comportament humà està determinat per l'inconscient.",
+        "La força motriu de la història és la lluita de classes."
+      ],
+      "answer": "Els metalls s'expandeixen quan s'escalfen.",
+      "explanation": "Una afirmació física que fa prediccions observables i refutables (per exemple, una llei) és falsificable.",
+      "appearsIn": [
+        "Examen 2023 2 de febrer"
+      ]
+    },
+    {
+      "section": "Examen de setembre de 2022",
+      "number": 10,
+      "question": "Què mesura el factor d'impacte d'una revista?",
+      "options": [
+        "Les vendes mitjanes dels números de la revista.",
+        "El nombre mitjà de citacions dels articles publicats a la revista.",
+        "El nombre de visites o lectors que rep la revista."
+      ],
+      "answer": "El nombre mitjà de citacions dels articles publicats a la revista.",
+      "explanation": "Aproximar el nombre mitjà de citacions rebudes pels articles de la revista al llarg d'un període de temps."
+    },
+    {
+      "section": "Examen 2022 1 de febrer",
+      "number": 1,
+      "question": "Què és l'evidència?",
+      "options": [
+        "Una creença trivial o irrellevant.",
+        "Una veritat evident.",
+        "Proves o indicis sobre la veritat d'una proposició."
+      ],
+      "answer": "Proves o indicis sobre la veritat d'una proposició.",
+      "explanation": "Les proves són indicis que donen suport (en diferents graus) a la veracitat d'una proposició o d'una hipòtesi.",
+      "appearsIn": [
+        "Examen de setembre de 2024",
+        "Examen 2023 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2022 1 de febrer",
+      "number": 2,
+      "question": "Què és un biaix cognitiu?",
+      "options": [
+        "Una distorsió sistemàtica en l'avaluació i la interpretació de les proves disponibles.",
+        "Un mètode sistemàtic per avaluar les proves disponibles.",
+        "Una creença falsa, però amb utilitat pràctica."
+      ],
+      "answer": "Una distorsió sistemàtica en l'avaluació i la interpretació de les proves disponibles.",
+      "explanation": "Un biaix cognitiu és una distorsió sistemàtica en la manera com avaluem i interpretem les proves, que pot afectar els judicis i les decisions.",
+      "appearsIn": [
+        "Tema 1. Ciència, fets i proves",
+        "Examen 2025 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2022 1 de febrer",
+      "number": 3,
+      "question": "Mesurant que la temperatura en una habitació és entre 25 i 27 °C:",
+      "options": [
+        "És incorrecte, ja que no proporciona el valor més precís.",
+        "És imprecís, però pot ser correcte.",
+        "No és informatiu, ja que no elimina completament la incertesa."
+      ],
+      "answer": "És imprecís, però pot ser correcte.",
+      "explanation": "Una mesura pot ser inexacta (interval) i, tot i així, ser correcta si el valor real es troba dins d'aquest interval.",
+      "appearsIn": [
+        "Examen 2025 1 de febrer",
+        "Examen 2024 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2022 1 de febrer",
+      "number": 4,
+      "question": "Les prediccions que es poden derivar d'una hipòtesi són:",
+      "options": [
+        "Aquelles proposicions que tenen com a conseqüència la veritat de la hipòtesi.",
+        "Les conseqüències que es derivarien de la veritat de la hipòtesi.",
+        "Aquelles proposicions incompatibles amb la veritat de la hipòtesi."
+      ],
+      "answer": "Les conseqüències que es derivarien de la veritat de la hipòtesi.",
+      "explanation": "Aquestes són conseqüències observacionals/empíriques que es derivarien si la hipòtesi fos certa.",
+      "appearsIn": [
+        "Examen 2025 1 de febrer",
+        "Examen 2025 2 de febrer",
+        "Examen 2024 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2022 1 de febrer",
+      "number": 5,
+      "question": "Es pot justificar l'ús del raonament inductiu argumentant que en el passat aquest raonament ha tingut normalment èxit?",
+      "options": [
+        "Sí, aquesta és una justificació acceptable, ja que no pressuposa que el raonament inductiu sigui raonable.",
+        "Aquesta justificació del raonament inductiu és problemàtica perquè és circular, ja que depèn del raonament inductiu.",
+        "Aquesta justificació és problemàtica perquè és fals que en el passat el nostre ús del raonament inductiu hagi tingut normalment èxit."
+      ],
+      "answer": "Aquesta justificació del raonament inductiu és problemàtica perquè és circular, ja que depèn del raonament inductiu.",
+      "explanation": "És circular: utilitza la inducció per justificar la inducció."
+    },
+    {
+      "section": "Examen 2022 1 de febrer",
+      "number": 6,
+      "question": "Segons el falsificacionisme, no podem estar segurs que tinguem raó, però podem saber...",
+      "options": [
+        "Si estem a prop de ser-ho.",
+        "Si hi serem en algun moment, encara que sigui molt lluny.",
+        "Si ens equivoquem."
+      ],
+      "answer": "Si ens equivoquem.",
+      "explanation": "Podem detectar errors: si una predicció falla, sabem que la hipòtesi és falsa o que hi ha un problema auxiliar.",
+      "appearsIn": [
+        "Tema 9. El criteri de demarcació",
+        "Examen 2020 febrer 2"
+      ]
+    },
+    {
+      "section": "Examen 2022 1 de febrer",
+      "number": 7,
+      "question": "Poden ser acceptables les aproximacions en la ciència?",
+      "options": [
+        "No, perquè per definició són falsos i introdueixen inexactituds.",
+        "No, la ciència busca un llenguatge clar i precís, lliure de vagetat.",
+        "Sí, quan són prou a prop de la resposta correcta per als interessos dels investigadors."
+      ],
+      "answer": "Sí, quan són prou propers a la resposta correcta per als interessos dels investigadors.",
+      "explanation": "Sí, quan són prou propers per a finalitats científiques (explicació/predicció/càlcul)."
+    },
+    {
+      "section": "Examen 2022 1 de febrer",
+      "number": 8,
+      "question": "La transició de l'astronomia ptolemaica a la copernicana és, segons Kuhn, un exemple de:",
+      "options": [
+        "Ciència normal.",
+        "Progrés científic.",
+        "Revolució científica"
+      ],
+      "answer": "Revolució científica",
+      "explanation": "És un cas de revolució científica (canvi de paradigma)."
+    },
+    {
+      "section": "Examen 2022 1 de febrer",
+      "number": 9,
+      "question": "Segons el falsificacionisme sofisticat d'Imre Lakatos...",
+      "options": [
+        "Les teories i els postulats científics no es poden considerar aïlladament, ja que formen part de programes de recerca.",
+        "El progrés en la ciència és impossible donada la incommensurabilitat dels paradigmes.",
+        "La ciència no representa un tipus de coneixement qualitativament diferent de la resta. El principi que hauria de regir és «tot val»."
+      ],
+      "answer": "Les teories i els postulats científics no es poden considerar aïlladament, ja que formen part de programes de recerca.",
+      "explanation": "Lakatos argumenta que les teories formen part dels programes de recerca; no s'avaluen en aïllament."
+    },
+    {
+      "section": "Examen 2022 1 de febrer",
+      "number": 10,
+      "question": "Què és un estudi de replicació?",
+      "options": [
+        "Un estudi en què es plantegen objeccions a un estudi anterior.",
+        "Un estudi que presenta un experiment que refuta una hipòtesi teòrica rellevant.",
+        "Un estudi que pretén reproduir els resultats obtinguts en un experiment anterior."
+      ],
+      "answer": "Un estudi que pretén reproduir els resultats obtinguts en un experiment anterior.",
+      "explanation": "Un estudi de replicació intenta reproduir els resultats d'un estudi anterior per verificar-ne la robustesa.",
+      "appearsIn": [
+        "Tema 12. Com funcionen les institucions científiques?",
+        "Examen 2024 febrer 2"
+      ]
+    },
+    {
+      "section": "Examen 2022 2 de febrer",
+      "number": 1,
+      "question": "Perquè l'observació proporcioni proves científiques valuoses...",
+      "options": [
+        "És essencial que això es dugui a terme mitjançant procediments innovadors que siguin difícils de replicar per altres grups de recerca.",
+        "És desitjable que això es dugui a terme mitjançant procediments estandarditzats que puguin ser replicats per altres grups de recerca.",
+        "S'ha de dur a terme sense l'ajuda d'instruments."
+      ],
+      "answer": "És desitjable que això es dugui a terme mitjançant procediments estandarditzats que puguin ser replicats per altres grups de recerca.",
+      "explanation": "S'ha de dur a terme utilitzant protocols que puguin ser reproduïts per altres grups; la reproducibilitat permet el control intersubjectiu.",
+      "appearsIn": [
+        "Examen de setembre de 2023"
+      ]
+    },
+    {
+      "section": "Examen 2022 2 de febrer",
+      "number": 2,
+      "question": "L'ús d'instruments d'observació...",
+      "options": [
+        "Incrementa necessàriament la inexactitud de l'observació.",
+        "Et permet fer observacions precises.",
+        "Ens permet superar les limitacions de les nostres habilitats perceptives."
+      ],
+      "answer": "Ens permet superar les limitacions de les nostres habilitats perceptives.",
+      "explanation": "Els instruments superen les limitacions perceptives i ens permeten observar i mesurar fenòmens inaccessibles a l'ull nu.",
+      "appearsIn": [
+        "Examen de setembre de 2023"
+      ]
+    },
+    {
+      "section": "Examen 2022 2 de febrer",
+      "number": 3,
+      "question": "Una hipòtesi que és oberta a refutació empírica...",
+      "options": [
+        "És admissible com a hipòtesi científica perquè és falsificable.",
+        "És inadmissible com a hipòtesi científica perquè no és falsificable.",
+        "És inadmissible com a hipòtesi científica perquè és falsa."
+      ],
+      "answer": "És admissible com a hipòtesi científica perquè és falsificable.",
+      "explanation": "Si una hipòtesi és falsificable (es podria refutar amb proves), és admissible com a hipòtesi científica en el sentit popperià.",
+      "appearsIn": [
+        "Examen de setembre de 2023"
+      ]
+    },
+    {
+      "section": "Examen 2022 2 de febrer",
+      "number": 4,
+      "question": "Quin és el problema amb la inducció?",
+      "options": [
+        "El raonament inductiu correcte requereix fer un gran nombre d'observacions, cosa que no sempre és fàcil.",
+        "En principi, és possible que les premisses d'una inferència inductiva siguin veritables però la generalització a què s'arriba a la conclusió sigui falsa (perquè hi ha excepcions a aquesta generalització que encara no s'han observat).",
+        "Mai no podem saber amb certesa si les premisses del raonament inductiu són veritables."
+      ],
+      "answer": "En principi, és possible que les premisses d'una inferència inductiva siguin certes però la generalització a què s'arriba a la conclusió sigui falsa (perquè hi ha excepcions a aquesta generalització que encara no s'han observat).",
+      "explanation": "És possible que les premisses observades siguin certes i que la generalització conclosa sigui falsa a causa d'excepcions no observades.",
+      "appearsIn": [
+        "Tema 5. El problema de l'inducció",
+        "Examen de setembre de 2023"
+      ]
+    },
+    {
+      "section": "Examen 2022 2 de febrer",
+      "number": 5,
+      "question": "Segons el falsificacionisme de Popper:",
+      "options": [
+        "La funció principal de l'observació en la ciència és desmentir hipòtesis, no confirmar-les.",
+        "La funció principal de l'observació en la ciència és confirmar hipòtesis, no refutar-les.",
+        "Observar un nombre suficient de casos que compleixen una generalització ens permet concloure que aquesta generalització queda confirmada."
+      ],
+      "answer": "La funció principal de l'observació en la ciència és desmentir hipòtesis, no confirmar-les.",
+      "explanation": "Per a Popper, el paper clau de l'observació és intentar refutar hipòtesis mitjançant proves rigoroses; no hi ha cap verificació definitiva.",
+      "appearsIn": [
+        "Examen 2025 1 de febrer",
+        "Examen de setembre de 2023"
+      ]
+    },
+    {
+      "section": "Examen 2022 2 de febrer",
+      "number": 6,
+      "question": "Quins són els biaixos estadístics?",
+      "options": [
+        "Mètodes utilitzats per analitzar estadísticament grans conjunts de dades.",
+        "Mètodes d'anàlisi estadística que garanteixen resultats imparcials i objectius.",
+        "Distorsions introduïdes en l'anàlisi estadística a causa de deficiències en els mètodes d'anàlisi o de recollida de dades, les quals fan que les conclusions extretes de l'anàlisi no reflecteixin les propietats reals de la població o del fenomen estudiat."
+      ],
+      "answer": "Distorsions introduïdes en l'anàlisi estadística a causa de deficiències en els mètodes d'anàlisi o de recollida de dades, a conseqüència de les quals les conclusions extretes de l'anàlisi no reflecteixen les propietats reals de la població o del fenomen estudiat.",
+      "explanation": "Aquestes són distorsions degudes als mètodes de recollida de dades que fan que l'anàlisi no reflecteixi les propietats reals del fenomen o de la població.",
+      "appearsIn": [
+        "Examen de setembre de 2023"
+      ]
+    },
+    {
+      "section": "Examen 2022 2 de febrer",
+      "number": 7,
+      "question": "Quina és la relació entre el creacionisme i la teoria del disseny intel·ligent?",
+      "options": [
+        "La teoria del disseny intel·ligent assumeix el creacionisme.",
+        "Són la mateixa cosa.",
+        "El creacionisme ha estat substituït per la teoria del disseny intel·ligent."
+      ],
+      "answer": "La teoria del disseny intel·ligent assumeix el creacionisme.",
+      "explanation": "El disseny intel·ligent es presenta com una reformulació del creacionisme per semblar científic.",
+      "appearsIn": [
+        "Tema 10. La ciència i els seus adversaris: ciència versus no-ciència, pseudociència i anti-ciència",
+        "Examen de setembre de 2023"
+      ]
+    },
+    {
+      "section": "Examen 2022 2 de febrer",
+      "number": 8,
+      "question": "Segons els anti-científics...",
+      "options": [
+        "La ciència és incapaç de complir cap criteri de demarcació.",
+        "No importa quin sigui el criteri de demarcació científica perquè la ciència com a tal és una activitat que cal eliminar (o almenys reconsiderar a fons).",
+        "Els científics no són capaços de jutjar la seva pròpia activitat."
+      ],
+      "answer": "No importa quin sigui el criteri de demarcació científica perquè la ciència com a tal és una activitat que cal eliminar (o almenys reconsiderar a fons).",
+      "explanation": "En les posicions radicals, creuen que la ciència hauria de ser eliminada o revisada radicalment; per això el criteri de demarcació els és irrellevant.",
+      "appearsIn": [
+        "Tema 10.3. Antiscència",
+        "Examen de setembre de 2023"
+      ]
+    },
+    {
+      "section": "Examen 2022 2 de febrer",
+      "number": 9,
+      "question": "Segons els enfocaments feministes de la ciència:",
+      "options": [
+        "Només la ciència feta per dones és vàlida.",
+        "La ciència està determinada per l'androcentrisme de la societat.",
+        "La ciència no és un coneixement vàlid perquè, atesa la seva naturalesa com a producte d'una societat androcèntrica, només la poden practicar els homes."
+      ],
+      "answer": "La ciència està determinada per l'androcentrisme de la societat.",
+      "explanation": "Analitza com l'androcentrisme pot distorsionar les preguntes, els mètodes i les interpretacions; no implica que només la ciència feta per dones sigui vàlida.",
+      "appearsIn": [
+        "Tema 11. La ciència com a producte social",
+        "Examen de setembre de 2023"
+      ]
+    },
+    {
+      "section": "Examen 2022 2 de febrer",
+      "number": 10,
+      "question": "Què són els assaigs clínics?",
+      "options": [
+        "Proves realitzades dins dels hospitals i altres centres sanitaris, com ara anàlisis de sang, radiografies, etc.",
+        "Literatura científica especialitzada en els camps de la salut i la biomedicina",
+        "Estudis experimentals que investiguen l'eficàcia i la seguretat d'un medicament o tractament"
+      ],
+      "answer": "Estudis experimentals que investiguen l'eficàcia i la seguretat d'un fàrmac o tractament",
+      "explanation": "Aquests són estudis experimentals per avaluar l'eficàcia i la seguretat de medicaments o tractaments.",
+      "appearsIn": [
+        "Examen de setembre de 2023"
+      ]
+    },
+    {
+      "section": "Examen 2020, 1 de febrer",
+      "number": 1,
+      "question": "El fet que un camp de recerca tingui aplicacions pràctiques potencials:",
+      "options": [
+        "És una prova a favor de certes hipòtesis en aquest camp.",
+        "Pot ser una motivació legítima per treballar en aquest camp de recerca.",
+        "No s'hauria de tenir en compte a l'hora de decidir a quins àmbits de recerca s'assignen els recursos."
+      ],
+      "answer": "Pot ser una motivació legítima per treballar en aquest camp de recerca.",
+      "explanation": "La possibilitat d'aplicacions pot motivar legítimament la recerca, sense ser per si mateixa una prova d'hipòtesis."
+    },
+    {
+      "section": "Examen 2020, 1 de febrer",
+      "number": 2,
+      "question": "Tota ciència empírica és experimental?",
+      "options": [
+        "Hi ha disciplines científiques empíriques en què el paper dels experiments és limitat i en què les proves empíriques s'obtenen principalment a través d'observacions no experimentals.",
+        "Actualment, tota la ciència empírica és experimental.",
+        "L'única ciència no experimental és la matemàtica."
+      ],
+      "answer": "Hi ha disciplines científiques empíriques en què el paper dels experiments és limitat i en què les proves empíriques s'obtenen principalment a través d'observacions no experimentals.",
+      "explanation": "Hi ha ciències empíriques (per exemple, l'astronomia i la geologia) on l'experimentació és limitada i predomina l'observació.",
+      "appearsIn": [
+        "Tema 3. Experimentació"
+      ]
+    },
+    {
+      "section": "Examen 2020, 1 de febrer",
+      "number": 3,
+      "question": "Quan una hipòtesi és refutada o desmentida empíricament?",
+      "options": [
+        "Una hipòtesi serà refutada empíricament si alguna de les seves prediccions resulta incompatible amb l'evidència empírica disponible.",
+        "Una hipòtesi només serà refutada empíricament si totes les seves prediccions resulten incompatibles amb l'evidència empírica disponible.",
+        "Una hipòtesi serà refutada empíricament si les proves disponibles són compatibles tant amb la falsedat com amb la veritat de la hipòtesi."
+      ],
+      "answer": "Una hipòtesi serà refutada empíricament si alguna de les seves prediccions resulta incompatible amb l'evidència empírica disponible.",
+      "explanation": "Una hipòtesi serà refutada empíricament si alguna de les seves prediccions resulta incompatible amb l'evidència empírica disponible.",
+      "appearsIn": [
+        "Tema 4. El mètode científic"
+      ]
+    },
+    {
+      "section": "Examen 2020, 1 de febrer",
+      "number": 4,
+      "question": "Quina és la conclusió d'una línia de raonament?",
+      "options": [
+        "La conclusió d'una línia de raonament és la proposició que constitueix el contingut de la creença a què s'ha arribat en aquest raonament.",
+        "La conclusió d'un argument és la creença que es vol defensar en un debat.",
+        "La conclusió d'una línia de raonament és una creença veritable que està recolzada per proves."
+      ],
+      "answer": "La conclusió d'una línia de raonament és la proposició que constitueix el contingut de la creença a què s'ha arribat en aquest raonament.",
+      "explanation": "La conclusió és la proposició que es manté al final del raonament."
+    },
+    {
+      "section": "Examen 2020, 1 de febrer",
+      "number": 5,
+      "question": "Són les generalitzacions inductives fal·libles?",
+      "options": [
+        "Sempre que una generalització inductiva està recolzada per un gran nombre d'observacions, està garantit que aquesta generalització serà certa en tots els casos.",
+        "Les generalitzacions inductives són infal·libles si es basen en observacions.",
+        "Fins i tot si una inferència inductiva està recolzada per un gran nombre d'observacions, en principi sempre és possible que sorgeixin excepcions inesperades."
+      ],
+      "answer": "Encara que una inferència inductiva estigui recolzada per un gran nombre d'observacions, en principi sempre és possible que sorgeixin excepcions inesperades.",
+      "explanation": "L'aparició d'un contraexemple pot refutar una generalització inductiva.",
+      "appearsIn": [
+        "Tema 5. El problema de l'inducció"
+      ]
+    },
+    {
+      "section": "Examen 2020, 1 de febrer",
+      "number": 6,
+      "question": "Què és la ciència normal?",
+      "options": [
+        "Ciència realitzada dins el marc d'un paradigma",
+        "Ciència que no fa cap contribució significativa",
+        "Ciència realitzada d'acord amb els criteris acceptats de rigor i eficàcia."
+      ],
+      "answer": "Ciència realitzada dins el marc d'un paradigma",
+      "explanation": "La ciència normal consisteix a resoldre problemes dins del marc d'un paradigma establert.",
+      "appearsIn": [
+        "Tema 8. Paradigmes i canvi científic"
+      ]
+    },
+    {
+      "section": "Examen 2020, 1 de febrer",
+      "number": 7,
+      "question": "Quan es produeix un canvi de paradigma?",
+      "options": [
+        "Quan un nou paradigma demostra ser millor que l'anterior",
+        "Quan el vell paradigma s'esgota i ja no és productiu",
+        "Quan la majoria dels membres de la comunitat científica decideixen adoptar un nou paradigma, independentment dels seus motius per fer-ho."
+      ],
+      "answer": "Quan la majoria dels membres de la comunitat científica decideixen adoptar un nou paradigma, independentment dels seus motius per fer-ho.",
+      "explanation": "L'adopció d'un nou paradigma sol estar motivada per la seva major capacitat per resoldre problemes i explicar dades, però també per factors socials.",
+      "appearsIn": [
+        "Tema 8. Paradigmes i canvi científic"
+      ]
+    },
+    {
+      "section": "Examen 2020, 1 de febrer",
+      "number": 8,
+      "question": "Segons el verificacionisme...",
+      "options": [
+        "El coneixement ha de ser corroborat per l'experiència.",
+        "El coneixement sempre és veritable.",
+        "El coneixement sempre ha de poder expressar-se matemàticament."
+      ],
+      "answer": "El coneixement ha de ser corroborat per l'experiència.",
+      "explanation": "El verificacionisme de l'Escola de Viena sosté que una proposició té sentit només si és empíricament verificable.",
+      "appearsIn": [
+        "Tema 9. El criteri de demarcació"
+      ]
+    },
+    {
+      "section": "Examen 2020, 1 de febrer",
+      "number": 9,
+      "question": "Quina d'aquestes afirmacions és falsificable?",
+      "options": [
+        "El nostre destí està predeterminat per la providència divina.",
+        "La posició de les estrelles influeix en la nostra sort.",
+        "La força neta aplicada a un cos és proporcional a l'acceleració que adquireix aquest cos."
+      ],
+      "answer": "La força neta aplicada a un cos és proporcional a l'acceleració que adquireix aquest cos.",
+      "explanation": "La llei física específica és falsable perquè prohibeix certes observacions."
+    },
+    {
+      "section": "Examen 2020, 1 de febrer",
+      "number": 10,
+      "question": "Per què hi ha discursos no científics que intenten fer-se passar per científics?",
+      "options": [
+        "Capitalitzar el crèdit social de la ciència",
+        "A causa de la desconfiança envers la ciència",
+        "Rebutjar l'estatus privilegiat de la ciència en les nostres societats"
+      ],
+      "answer": "Capitalitzar el crèdit social de la ciència",
+      "explanation": "És un discurs pseudocientífic que pretén explotar el prestigi social de la ciència."
+    },
+    {
+      "section": "Examen 2020 febrer 2",
+      "number": 1,
+      "question": "El mètode científic:",
+      "options": [
+        "No es pot aplicar per provar hipòtesis proposades des de tradicions no occidentals.",
+        "És, en principi, aplicable a qualsevol hipòtesi empírica sobre com és el món.",
+        "Simplement ofereix un tipus de prova diferent del que proporciona la tradició, sense que sigui possible dir que una és millor o pitjor que l'altra."
+      ],
+      "answer": "És, en principi, aplicable a qualsevol hipòtesi empírica sobre com és el món.",
+      "explanation": "El mètode científic es defineix com un procediment per posar a prova hipòtesis empíriques davant d'evidències, i en principi és aplicable a qualsevol hipòtesi testable sobre el món, vingui d'on vingui."
+    },
+    {
+      "section": "Examen 2020 febrer 2",
+      "number": 2,
+      "question": "Quines són les regles per formular hipòtesis?",
+      "options": [
+        "No hi ha regles rígides: en principi, es pot formular qualsevol hipòtesi empíricament testable, tot i que és desitjable que posseeixi virtuts com la simplicitat, la generalitat, el poder predictiu o la capacitat explicativa.",
+        "Només és científicament admissible proposar hipòtesis la veritat de les quals ha estat provada per evidències.",
+        "És desitjable proposar hipòtesis que siguin altament improbables."
+      ],
+      "answer": "No hi ha regles rígides: en principi, es pot formular qualsevol hipòtesi empíricament testable, tot i que és desitjable que posseeixi virtuts com la simplicitat, la generalitat, el poder predictiu o la capacitat explicativa.",
+      "explanation": "No hi ha regles rígides per formular hipòtesis; simplement han de ser empíricament testables i, preferiblement, posseir virtuts teòriques com la simplicitat i el poder explicatiu i predictiu."
+    },
+    {
+      "section": "Examen 2020 febrer 2",
+      "number": 3,
+      "question": "Les hipòtesis actualment acceptades per la comunitat científica estan obertes a revisió?",
+      "options": [
+        "En general, una hipòtesi actualment acceptada per la comunitat científica i coherent amb les proves disponibles ara no serà rebutjada en el futur.",
+        "És habitual que noves proves empíriques portin al rebuig d'hipòtesis científiques que estaven àmpliament acceptades i eren coherents amb les proves disponibles en aquell moment.",
+        "Una hipòtesi que és compatible amb les proves disponibles sempre serà veritable, i per tant no poden aparèixer noves proves per refutar-la."
+      ],
+      "answer": "És habitual que l'aparició de noves proves empíriques porti al rebuig d'hipòtesis científiques que estaven àmpliament acceptades i eren coherents amb les proves disponibles en aquell moment.",
+      "explanation": "Les hipòtesis científiques són provisionals i poden ser revisades o rebutjades quan apareixen noves proves empíriques o millors explicacions.",
+      "appearsIn": [
+        "Tema 4. El mètode científic"
+      ]
+    },
+    {
+      "section": "Examen 2020 febrer 2",
+      "number": 4,
+      "question": "Què és l'estadística inferencial?",
+      "options": [
+        "L'estadística inferencial pretén fer inferències (inductives) les conclusions de les quals són aplicables a una població sencera, utilitzant dades d'una part d'aquesta població (mostra estadística) com a prova.",
+        "Les estadístiques inferencials cerquen organitzar dades sobre una població.",
+        "L'estadística inferencial pretén aplicar tècniques computacionals a la producció de dades experimentals."
+      ],
+      "answer": "L'estadística inferencial pretén fer inferències (inductives) les conclusions de les quals són aplicables a una població sencera, utilitzant dades d'una part d'aquesta població (mostra estadística) com a prova.",
+      "explanation": "Inferir una població a partir d'una mostra, quantificant la incertesa."
+    },
+    {
+      "section": "Examen 2020 febrer 2",
+      "number": 5,
+      "question": "Hi ha una correlació clara i significativa entre l'alletament matern i els bons resultats acadèmics:",
+      "options": [
+        "Es pot concloure raonablement que l'alletament matern contribueix a una millora del rendiment acadèmic, tot i que sigui lleu.",
+        "Aquesta correlació mostra que hi ha una relació de causalitat entre l'alletament matern i bons resultats econòmics (si no hi hagués aquesta relació de causalitat, la correlació no seria significativa).",
+        "No es pot concloure directament que l'alletament matern contribueixi a una millora del rendiment acadèmic sense descartar altres factors que puguin explicar la correlació (per exemple, l'associació entre l'alletament matern i l'estat socioeconòmic)."
+      ],
+      "answer": "No es pot concloure directament que l'alletament matern contribueixi a una millora del rendiment acadèmic sense descartar altres factors que puguin explicar la correlació (per exemple, l'associació entre l'alletament matern i l'estatus socioeconòmic).",
+      "explanation": "Una opció més matisada que és coherent amb el pla d'estudis."
+    },
+    {
+      "section": "Examen 2020 febrer 2",
+      "number": 6,
+      "question": "En quines ciències s'utilitza més sovint el model nomològic-deductiu?",
+      "options": [
+        "Física i química",
+        "Ciències biològiques i socials",
+        "En tots ells"
+      ],
+      "answer": "Física i química",
+      "explanation": "El raonament nomològic-deductiu és més comú en les ciències físiques, on hi ha lleis generals clares.",
+      "appearsIn": [
+        "Tema 7. L'ús de models en la ciència"
+      ]
+    },
+    {
+      "section": "Examen 2020 febrer 2",
+      "number": 7,
+      "question": "Pot un ésser viu ser un model científic?",
+      "options": [
+        "No",
+        "Sí",
+        "Només animals de laboratori"
+      ],
+      "answer": "Sí",
+      "explanation": "Un ratolí, per exemple, pot ser un model científic per estudiar malalties humanes.",
+      "appearsIn": [
+        "Tema 7. L'ús de models en la ciència"
+      ]
+    },
+    {
+      "section": "Examen 2020 febrer 2",
+      "number": 8,
+      "question": "Quin és el nom de la postura filosòfica defensada per Paul Feyerabend?",
+      "options": [
+        "Socialisme filosòfic",
+        "Anarquisme filosòfic",
+        "Democràcia filosòfica"
+      ],
+      "answer": "Anarquisme filosòfic",
+      "explanation": "El llibre més conegut de Feyerabend és Contra el mètode: esquema d'una teoria anarquista del coneixement, en què defensa l'anarquisme epistemològic."
+    },
+    {
+      "section": "Examen 2020 febrer 2",
+      "number": 9,
+      "question": "Segons el falsificacionisme, no podem estar segurs que tinguem raó, però podem saber...",
+      "options": [
+        "Si estem a prop de ser-ho",
+        "Si hem d'estar en algun moment, encara que sigui molt lluny",
+        "Si ens equivoquem"
+      ],
+      "answer": "Si ens equivoquem",
+      "explanation": "Podem detectar errors: si una predicció falla, sabem que la hipòtesi és falsa o que hi ha un problema auxiliar.",
+      "appearsIn": [
+        "Tema 9. El criteri de demarcació",
+        "Examen 2022 1 de febrer"
+      ]
+    },
+    {
+      "section": "Examen 2020 febrer 2",
+      "number": 10,
+      "question": "Què és la pseudociència?",
+      "options": [
+        "No-ciència disfressada de ciència",
+        "Ciència mal concebuda que no dona bons resultats",
+        "El tipus de coneixement que no proporciona garanties suficients per ser considerat científic."
+      ],
+      "answer": "No-ciència disfressada de ciència",
+      "explanation": "Pseudociència: no-ciència que intenta presentar-se com a ciència per aprofitar-se del seu prestigi.",
+      "appearsIn": [
+        "Tema 10.2. Pseudociència",
+        "Examen 2024 febrer 2"
+      ]
+    }
+  ]
+}

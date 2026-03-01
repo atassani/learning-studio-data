@@ -1,0 +1,1102 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "17 de febrer de 2026",
+  "area": "Lògica I",
+  "type": "True False",
+  "shortName": "registre1",
+  "language": "es",
+  "questions": [
+    {
+      "section": "PREGUNTES SOBRE ARGUMENTS:",
+      "number": 1,
+      "question": "Perquè un raonament amb premisses veritables sigui vàlid, és necessari però no suficient que la seva conclusió sigui veritable.",
+      "answer": "Cert",
+      "explanation": "Si un argument té una forma vàlida i premisses veritables, necessàriament ha de tenir una conclusió veritable. Un argument amb premisses veritables i una conclusió falsa no pot tenir una forma vàlida, ja que la validesa garanteix que no s'avança del veritable al fals. Però no n'hi ha prou amb tenir premisses veritables i una conclusió veritable per tenir un argument amb una forma vàlida. Per exemple: «2 més 2 són 4. Per tant, Madrid és la capital d'Espanya» és un argument amb premisses i conclusió veritables, però amb una forma lògica invàlida."
+    },
+    {
+      "section": "PREGUNTES SOBRE ARGUMENTS:",
+      "number": 2,
+      "question": "Perquè un raonament sigui vàlid, n'hi ha prou que les seves premisses i la seva conclusió siguin veritables.",
+      "answer": "Fals",
+      "explanation": "Un argument amb premisses i conclusió veritables pot tenir una forma invàlida. Exemple: Madrid és la capital d'Espanya. Per tant, dos més dos són quatre."
+    },
+    {
+      "section": "PREGUNTES SOBRE ARGUMENTS:",
+      "number": 3,
+      "question": "Perquè un raonament sigui vàlid, no cal que les seves premisses siguin veritables.",
+      "answer": "Cert",
+      "explanation": "Una forma vàlida admet tots els tipus de combinacions dels valors de veritat de les premisses i de la conclusió, excepte en el cas de premisses veritables i conclusió falsa. Per tant, hi ha arguments vàlids amb premisses falses."
+    },
+    {
+      "section": "PREGUNTES SOBRE ARGUMENTS:",
+      "number": 4,
+      "question": "Si un argument és vàlid, la seva conclusió és veritable.",
+      "answer": "Fals",
+      "explanation": "La validesa de l'argument segueix els criteris d'implicació. En un argument vàlid, diem que el conjunt de premisses implica la conclusió. Això significa que si totes les premisses fossin veritables, la conclusió seria necessàriament veritable també. La relació d'implicació, la validesa de l'argument, fa que sigui impossible que del veritable se'n derivi el fals. Tanmateix, si introduïm falsedat en les premisses, podem tenir validesa en forma i falsedat en la conclusió."
+    },
+    {
+      "section": "PREGUNTES SOBRE ARGUMENTS:",
+      "number": 5,
+      "question": "Un argument lògicament invàlid té totes les seves premisses veritables i la conclusió falsa.",
+      "answer": "Fals",
+      "explanation": "Un argument invàlid pot tenir qualsevol forma i qualsevol valor de veritat tant en les premisses com en la conclusió. És invàlid perquè la seva forma permet la possibilitat que les premisses siguin veritables i la conclusió falsa, però els altres casos no són impossibles."
+    },
+    {
+      "section": "PREGUNTES SOBRE ARGUMENTS:",
+      "number": 6,
+      "question": "Un argument lògicament invàlid té totes les seves premisses veritables i la conclusió falsa.",
+      "answer": "Fals",
+      "explanation": "Un argument invàlid és aquell que té una forma invàlida, una forma que permet l'existència d'arguments amb qualsevol combinació de valors de veritat, per exemple, premisses veritables i una conclusió veritable: Madrid és la capital d'Espanya i Lisboa és la capital de Portugal. Per tant, París és la capital de França. Aquest raonament és invàlid, tot i que tant les premisses com la conclusió siguin certes, perquè la seva forma permet l'existència de contraexemples: raonaments amb la mateixa forma que tenen premisses certes i una conclusió falsa: Madrid és la capital d'Espanya i Lisboa és la capital de Portugal. Per tant, Roma és la capital de França."
+    },
+    {
+      "section": "PREGUNTES SOBRE ARGUMENTS:",
+      "number": 7,
+      "question": "Els arguments invàlids sempre tenen conclusions falses.",
+      "answer": "Fals",
+      "explanation": "Un argument amb forma invàlida és aquell en què les premisses no impliquen la conclusió, siguin certes o falses. La validesa i la invalidesa es refereixen a la forma lògica de l'argument. Per exemple, «Londres és una ciutat petita. Per tant, Londres és una ciutat espanyola» és un argument invàlid amb una conclusió falsa. Un altre argument amb la mateixa forma invàlida, però amb una conclusió veritable, és: «Londres és una ciutat petita. Per tant, Londres és una ciutat anglesa.»"
+    },
+    {
+      "section": "PREGUNTES SOBRE ARGUMENTS:",
+      "number": 8,
+      "question": "Si un argument és invàlid, la conjunció de les premisses i la conclusió és una contingència.",
+      "answer": "Fals",
+      "explanation": "En un argument invàlid, podem trobar diferents combinacions d'enunciats. Per exemple, podem tenir una premissa contingenta i una conclusió contradictòria, la conjunció de les quals també seria una contradicció. El que no podem tenir són premisses amb contradiccions, perquè aleshores la forma inferencial seria vàlida, ja que es podria concloure qualsevol cosa a partir de la contradicció, ni tampoc podem tenir una conjunció entre les premisses i la conclusió que sigui una tautologia, perquè perquè això fos així, la conclusió hauria de ser tautològica, però aleshores la forma inferencial seria vàlida. La conjunció entre les premisses i la conclusió d'un argument invàlid serà o bé una contingència o bé una contradicció."
+    },
+    {
+      "section": "PREGUNTES SOBRE ARGUMENTS:",
+      "number": 9,
+      "question": "Un argument amb una conclusió falsa no pot ser vàlid.",
+      "answer": "Fals",
+      "explanation": "Si també hi ha falsedat en el conjunt de premisses, la seva forma argumentativa pot ser vàlida. La validesa seria impossible si, donada una conclusió falsa, totes les premisses fossin veritables."
+    },
+    {
+      "section": "PREGUNTES SOBRE ARGUMENTS:",
+      "number": 10,
+      "question": "La conclusió d'un argument vàlid no pot ser falsa.",
+      "answer": "Fals",
+      "explanation": "El que no pot passar en un argument vàlid és que la conclusió sigui falsa quan les premisses són veritables, però hi pot haver arguments vàlids amb una o més premisses falses i una conclusió falsa. La validesa fa referència a la forma de l'argument. Una forma vàlida impedeix el pas de la veritat a la falsedat."
+    },
+    {
+      "section": "PREGUNTES SOBRE ARGUMENTS:",
+      "number": 11,
+      "question": "Un argument que conté una contradicció en les seves premisses és un argument invàlid.",
+      "answer": "Fals",
+      "explanation": "Qualsevol cosa pot derivar d'una contradicció. Per tant, tots els arguments que contenen contradiccions en les seves premisses són arguments lògicament vàlids."
+    },
+    {
+      "section": "PREGUNTES SOBRE ARGUMENTS:",
+      "number": 12,
+      "question": "Si un raonament té premisses veritables i una conclusió falsa, no pot tenir una forma lògica vàlida.",
+      "answer": "Cert",
+      "explanation": "Una forma inferencial vàlida impedeix el cas d'un argument amb premisses veritables i una conclusió falsa. El fals no es pot inferir vàlidament del veritable. Aquest argument serviria com a contraexemple per demostrar la invalidesa de la seva forma inferencial."
+    },
+    {
+      "section": "PREGUNTES SOBRE ARGUMENTS:",
+      "number": 13,
+      "question": "Si un argument és incorrecte, la seva negació és vàlida.",
+      "answer": "Fals",
+      "explanation": "Els arguments no es poden negar."
+    },
+    {
+      "section": "PREGUNTES SOBRE ARGUMENTS:",
+      "number": 14,
+      "question": "Un esquema d'argument és o bé veritable o bé fals.",
+      "answer": "Fals",
+      "explanation": "Un esquema argumentatiu és vàlid o invàlid. La veritat i la falsedat són propietats de les afirmacions."
+    },
+    {
+      "section": "PREGUNTES SOBRE ARGUMENTS:",
+      "number": 15,
+      "question": "Una proposició veritable només implica proposicions veritables.",
+      "answer": "Cert",
+      "explanation": "Parlem d'implicació entre dues proposicions quan les seves formes lògiques (les seves fórmules respectives) fan que sigui impossible que el fals derivi del veritable."
+    },
+    {
+      "section": "PREGUNTES SOBRE ARGUMENTS:",
+      "number": 16,
+      "question": "Un argument només pot ser veritable o fals.",
+      "answer": "Fals",
+      "explanation": "Els arguments només poden ser vàlids o invàlids. 'Veritat' i 'fals' s'apliquen només a les afirmacions."
+    },
+    {
+      "section": "PREGUNTES SOBRE LES FÒRMULES:",
+      "number": 1,
+      "question": "Cada fórmula ben formada és una tautologia.",
+      "answer": "Fals",
+      "explanation": "Una fórmula ben formada és aquella que compleix les regles per formar fórmules. Un cop s'ha obtingut una fórmula, la podem avaluar semànticament i determinar si és una tautologia, una contradicció o una contingència. Hi ha fórmules ben formades de tots tres tipus."
+    },
+    {
+      "section": "PREGUNTES SOBRE LES FÒRMULES:",
+      "number": 2,
+      "question": "Si X és una fórmula contingenta, aleshores Y → (X v ¬ X) també és una fórmula contingenta.",
+      "answer": "Fals",
+      "explanation": "Donat que la consequència és tautològica, el condicional no pot tenir cap cas en què l'antecedent sigui veritable i la consequència falsa, que és l'únic cas en què el condicional seria fals. Per tant, aquest condicional és una tautologia, una fórmula vàlida."
+    },
+    {
+      "section": "PREGUNTES SOBRE LES FÒRMULES:",
+      "number": 3,
+      "question": "Qualsevol fórmula vàlida s'implícita per una contradicció.",
+      "answer": "Cert",
+      "explanation": "D'una contradicció, pot seguir-se lògicament qualsevol cosa; és a dir, una fórmula contradictòria implica qualsevol fórmula."
+    },
+    {
+      "section": "PREGUNTES SOBRE LES FÒRMULES:",
+      "number": 4,
+      "question": "Qualsevol fórmula s'implícita per una contradicció.",
+      "answer": "Cert",
+      "explanation": "La contradicció implica qualsevol fórmula; de la contradicció se'n deriva vàlidament qualsevol fórmula: Ex Contradictione Quodlibet."
+    },
+    {
+      "section": "PREGUNTES SOBRE LES FÒRMULES:",
+      "number": 5,
+      "question": "Si X és una fórmula vàlida, aleshores Y → X també és vàlida.",
+      "answer": "Cert",
+      "explanation": "Si la conseqüència d'aquesta condicional és una tautologia, és impossible trobar un cas que faci falsa la fórmula, és a dir, un cas en què Y sigui veritable i X sigui fals."
+    },
+    {
+      "section": "PREGUNTES SOBRE LES FÒRMULES:",
+      "number": 6,
+      "question": "Si X és una fórmula vàlida, (Y ∧ ¬ Y) → X és una fórmula contingenta.",
+      "answer": "Fals",
+      "explanation": "Una fórmula condicional amb un consequent vàlid no pot tenir cap cas fals; no hi ha cap interpretació que faci que l'antecedent sigui veritable i el consequent fals. És una tautologia."
+    },
+    {
+      "section": "PREGUNTES SOBRE LES FÒRMULES:",
+      "number": 7,
+      "question": "Si X és una fórmula contradictòria, (Y ∧ ¬ Y) → X és una fórmula contingenta.",
+      "answer": "Fals",
+      "explanation": "És una tautologia, una fórmula vàlida, perquè l'antecedent d'aquest condicional també és una contradicció."
+    },
+    {
+      "section": "PREGUNTES SOBRE LES FÒRMULES:",
+      "number": 8,
+      "question": "Si X és una fórmula contradictòria, (Y ∧ ¬ Y) → X és una fórmula vàlida.",
+      "answer": "Cert",
+      "explanation": "L'antecedent d'aquell condicional és una contradicció, i una contradicció (Y ∧ ¬ Y) implica qualsevol fórmula. Una implicació és un condicional vàlid, una tautologia."
+    },
+    {
+      "section": "PREGUNTES SOBRE LES FÒRMULES:",
+      "number": 9,
+      "question": "Si X és una fórmula contradictòria, (Y ∧ ¬ Y) → X és una fórmula contradictòria.",
+      "answer": "Fals",
+      "explanation": "L'antecedent d'aquest condicional és una contradicció, per tant el condicional mai no pot assolir el valor F, ja que el cas V.→ F mai no es pot donar. Per tant, no només no és una contradicció, sinó que qualsevol fórmula de la forma (Y ∧ ¬ Y) → X sempre serà una tautologia."
+    },
+    {
+      "section": "PREGUNTES SOBRE LES FÒRMULES:",
+      "number": 10,
+      "question": "(¬s ∧ t) →p ∧ (¬s ∧ t) → r és una fórmula ben formada.",
+      "answer": "Fals",
+      "explanation": "Cal més parèntesis per desambiguar la fórmula:"
+    },
+    {
+      "section": "PREGUNTES SOBRE LES FÒRMULES:",
+      "number": 11,
+      "question": "De la veritat de p v q se'n deriva la veritat de (¬p ∧ r) → q.",
+      "answer": "Cert",
+      "explanation": "(¬p ∧ r) → q és equivalent a r →(¬p → q), a r →(p v q) i a ¬r v (p v q). A partir de (p v q) se'n dedueix que ¬r v (p v q) per la regla d'inferència v."
+    },
+    {
+      "section": "PROBLEMES D'ARBRES SEMÀNTIQUES",
+      "number": 1,
+      "question": "Un arbre semàntic amb totes les seves branques tancades indica que no hi ha cap interpretació sota la qual les premisses de l'argument puguin ser veritables i la conclusió falsa.",
+      "answer": "Cert",
+      "explanation": "L'arbre semàntic examina si hi ha o no una contradicció en assumir premisses veritables i una conclusió falsa. Si es troba una contradicció en totes les branques (que per tant queden tancades), podem concloure que el cas de premisses veritables i conclusió falsa és impossible."
+    },
+    {
+      "section": "PROBLEMES D'ARBRES SEMÀNTIQUES",
+      "number": 2,
+      "question": "Un arbre semàntic tancat indica que tant les premisses com la conclusió són falses.",
+      "answer": "Fals",
+      "explanation": "Un arbre tancat indica que totes les seves branques contenen contradicció. Això significa que no és possible trobar cap cas de premisses veritables i una conclusió falsa. El conjunt format per les premisses i la negació de la conclusió és inconsistent. L'esquema inferencial examinat és vàlid."
+    },
+    {
+      "section": "PROBLEMES D'ARBRES SEMÀNTIQUES",
+      "number": 3,
+      "question": "Un arbre semàntic obert indica que hi ha una contradicció en el conjunt de fórmules examinades.",
+      "answer": "Fals",
+      "explanation": "La branca oberta indica el contrari: que el conjunt de fórmules examinat és consistent. És possible trobar una interpretació del conjunt en la qual totes les afirmacions són veritables."
+    },
+    {
+      "section": "PROBLEMES D'ARBRES SEMÀNTIQUES",
+      "number": 4,
+      "question": "Un arbre semàntic obert indica que l'argument analitzat és vàlid.",
+      "answer": "Fals",
+      "explanation": "Un arbre obert indica que podem trobar un exemple d'un argument amb la forma examinada en què les premisses són veritables i la conclusió és falsa; és a dir, podem trobar un contraexemple. Per tant, la forma inferencial examinada en aquell arbre és una forma invàlida."
+    },
+    {
+      "section": "PROBLEMES D'ARBRES SEMÀNTIQUES",
+      "number": 5,
+      "question": "Un arbre semàntic amb una branca oberta indica que hi ha exactament una interpretació sota la qual les premisses de l'argument són veritables i la conclusió és falsa.",
+      "answer": "Fals",
+      "explanation": "Una branca oberta indica que l'esquema examinat és invàlid, que hi ha arguments amb aquesta forma tals que les premisses són veritables i la conclusió és falsa, és a dir, que té contraexemples. Quants? Sempre infinits, atesa la recursivitat del llenguatge natural."
+    },
+    {
+      "section": "PROBLEMES D'ARBRES SEMÀNTIQUES",
+      "number": 6,
+      "question": "Un arbre semàntic amb quatre branques tancades i una branca oberta indica que hi ha exactament un contraexemple per a l'esquema d'inferència examinat.",
+      "answer": "Fals",
+      "explanation": "Només indica que l'esquema examinat té contraexemples. Quan un esquema és invàlid, té contraexemples infinits."
+    },
+    {
+      "section": "PROBLEMES D'ARBRES SEMÀNTIQUES",
+      "number": 7,
+      "question": "Un arbre semàntic amb quatre branques tancades i una branca oberta indica que hi ha exactament quatre contraexemples de l'esquema d'inferència examinat.",
+      "answer": "Fals",
+      "explanation": "La branca oberta indica que l'esquema argumentatiu examinat no és vàlid, ja que no hi ha cap contradicció entre premisses veritables i una conclusió falsa. L'esquema té contraexemples (donada la recursivitat del llenguatge, podem dir que té contraexemples infinits)."
+    },
+    {
+      "section": "PROBLEMES D'ARBRES SEMÀNTIQUES",
+      "number": 8,
+      "question": "Un arbre semàntic amb una branca oberta indica que hi ha una interpretació segons la qual les premisses de l'argument són certes i la conclusió és falsa.",
+      "answer": "Cert",
+      "explanation": "Hi ha almenys una interpretació que fa que les premisses siguin veritables i la conclusió falsa. Seria falsa si «un» significa «exactament un». Una branca oberta indica que l'argument és invàlid i, per tant, té contraexemples. De fet, sempre que hi ha contraexemples, n'hi ha d'infinits (a causa de la recursivitat del llenguatge natural)."
+    },
+    {
+      "section": "PROBLEMES D'ARBRES SEMÀNTIQUES",
+      "number": 9,
+      "question": "Un arbre semàntic amb dues branques tancades i dues branques obertes indica que hi ha exactament dos casos de validesa i dos casos d'invalidesa.",
+      "answer": "Fals",
+      "explanation": "Els arguments no tenen casos vàlids, sinó formes vàlides o invàlides. Un arbre obert (independentment de quantes branques estiguin obertes) indica que hi ha contraexemples, per tant la forma examinada és invàlida."
+    },
+    {
+      "section": "PROBLEMES D'ARBRES SEMÀNTIQUES",
+      "number": 10,
+      "question": "Donada una fórmula X, si l'arbre de X roman obert i l'arbre de ¬X també roman obert, podem dir que la fórmula X no és ni vàlida ni contradictòria.",
+      "answer": "Cert",
+      "explanation": "Si l'arbre que comença amb X roman obert, X no és contradictori; té alguna interpretació en la qual resulta ser V. Quan X és V, ¬X és F. Si l'arbre que comença amb ¬X roman obert, ¬X no és contradictori; té alguna interpretació en la qual resulta V. Aquests són casos en què X és F. És a dir, X té casos V i casos F, de manera que és una contingència (ni vàlid ni contradictori)."
+    },
+    {
+      "section": "Qüestions generals",
+      "number": 1,
+      "question": "L'antecedent d'una sentència condicional és veritable només si el seu consequent no és fals.",
+      "answer": "Fals",
+      "explanation": "L'antecedent d'una condició pot ser veritable o fals independentment del seu consequent. Segons els valors de l'antecedent i del consequent, la condició donarà un resultat o un altre."
+    },
+    {
+      "section": "Qüestions generals",
+      "number": 2,
+      "question": "L'antecedent d'una frase condicional és la premissa d'aquesta frase.",
+      "answer": "Fals",
+      "explanation": "Un argument i una proposició tenen estructures diferents. La forma d'una proposició es recull en la fórmula; la d'un argument, en l'esquema inferencial. Un argument es pot transformar en una proposició condicional, però la diferència entre argumentar i afirmar roman, així com la diferència entre la premissa d'un argument i l'antecedent d'una proposició."
+    },
+    {
+      "section": "Qüestions generals",
+      "number": 3,
+      "question": "Algunes condicionals amb conseqüències contradictòries són tautologies.",
+      "answer": "Cert",
+      "explanation": "Quan l'antecedent és també una contradicció, la fórmula resultant és una tautologia."
+    },
+    {
+      "section": "Qüestions generals",
+      "number": 4,
+      "question": "Una implicació és un condicional veritable.",
+      "answer": "Fals",
+      "explanation": "Una relació d'implicació entre dues fórmules A i B es produeix quan és impossible trobar una interpretació que faci la primera veritable i la segona falsa. Aquest és exactament el cas dels condicionals tautològics; el condicional no és simplement veritable, sinó lògicament veritable. Un condicional com «Si Madrid és la capital d'Espanya, llavors París és la capital de França», tot i ser veritable, no és una implicació, sinó un condicional contingent."
+    },
+    {
+      "section": "Qüestions generals",
+      "number": 5,
+      "question": "Un contraexemple és un exemple de contradicció.",
+      "answer": "Fals",
+      "explanation": "Un contraexemple és una interpretació que mostra la invalidesa d'un esquema o d'una fórmula inferencial. Per exemple: «Madrid és la capital de Navarra» és un contraexemple de p. És una afirmació falsa que demostra que p no és una fórmula vàlida."
+    },
+    {
+      "section": "Qüestions generals",
+      "number": 6,
+      "question": "Una llei és una forma lògica que no té contraexemples.",
+      "answer": "Cert",
+      "explanation": "Es pot demostrar a partir d'un conjunt buit de premisses. Si fem un arbre semàntic per a la seva negació, totes les branques es tanquen. Si fem una taula de veritat, veurem que és una tautologia, de manera que no és possible trobar cap enunciat (una interpretació) amb aquesta forma lògica que sigui fals; és a dir, no té contraexemples."
+    },
+    {
+      "section": "Qüestions generals",
+      "number": 7,
+      "question": "Els teoremes són les regles deductives del càlcul axiomàtic.",
+      "answer": "Fals",
+      "explanation": "El càlcul axiomàtic no té regles deductives com a tal, sinó regles de transformació. Els teoremes són fórmules vàlides obtingudes a partir d'axiomes mitjançant regles de transformació."
+    },
+    {
+      "section": "Qüestions generals",
+      "number": 8,
+      "question": "Només s'utilitzen fórmules tautològiques o vàlides en el càlcul axiomàtic.",
+      "answer": "Cert",
+      "explanation": "El càlcul axiomàtic parteix d'axiomes, que són veritats lògiques (tautologies, fórmules vàlides) per stipulació. Mitjançant regles, es demostren teoremes que preserven la validesa dels axiomes. Una altra explicació: Veritat. El càlcul axiomàtic parteix de fórmules que s'accepten com a vàlides o tautològiques i que no es poden demostrar dins del sistema i, mitjançant regles de transformació, demostra la validesa d'altres, de manera que només s'escriuen fórmules vàlides en la cadena de demostració. En altres paraules, les regles de transformació del càlcul axiomàtic no només preserven la veritat de les premisses, si n'hi ha, sinó també la validesa de la seva forma."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 1,
+      "question": "L'antecedent d'una sentència condicional és veritable només si el seu consequent no és fals.",
+      "answer": "Fals",
+      "explanation": "L'antecedent d'una condició pot ser veritable o fals independentment del seu consequent. Segons els valors de l'antecedent i del consequent, la condició donarà un resultat o un altre."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 2,
+      "question": "Perquè un raonament sigui vàlid, n'hi ha prou que les seves premisses i la seva conclusió siguin veritables.",
+      "answer": "Fals",
+      "explanation": "Un argument amb premisses i conclusió veritables pot tenir una forma invàlida. Exemple: Madrid és la capital d'Espanya. Per tant, dos més dos és igual a quatre. La forma invàlida d'aquest argument és: p/q"
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 3,
+      "question": "Només s'utilitzen fórmules tautològiques o vàlides en el càlcul axiomàtic.",
+      "answer": "Cert",
+      "explanation": "El càlcul axiomàtic parteix de fórmules que s'accepten com a vàlides o tautològiques i que no es poden demostrar dins del sistema i, mitjançant regles de transformació, demostra la validesa d'altres de manera que només s'hi inclouen fórmules vàlides en la cadena demostrativa. En altres paraules, les regles de transformació del càlcul axiomàtic no només preserven la veritat de les premisses, si n'hi ha, sinó també la validesa de la seva forma."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 4,
+      "question": "Una implicació és un condicional veritable.",
+      "answer": "Fals",
+      "explanation": "Una relació d'implicació entre dues fórmules A i B es produeix quan és impossible trobar una interpretació que faci la primera veritable i la segona falsa. Aquest és exactament el cas dels condicionals tautològics, que no són simplement veritables, sinó lògicament veritables. Un condicional com «Si Madrid és la capital d'Espanya, llavors París és la capital de França», tot i ser veritable, no és una implicació, sinó un condicional contingent."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 5,
+      "question": "Si X és una fórmula contradictòria, (Y ∧ ¬ Y) → X és una fórmula vàlida.",
+      "answer": "Cert",
+      "explanation": "L'antecedent d'aquell condicional és una contradicció, i una contradicció (Y ∧ ¬ Y) implica qualsevol fórmula. Una implicació és un condicional vàlid, una tautologia."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 6,
+      "question": "Un arbre semàntic amb quatre branques tancades i una branca oberta indica que hi ha exactament quatre contraexemples de l'esquema d'inferència examinat.",
+      "answer": "Fals",
+      "explanation": "La branca oberta indica que l'esquema argumentatiu examinat no és vàlid, ja que no hi ha cap contradicció entre premisses veritables i una conclusió falsa. L'esquema té contraexemples (donada la recursivitat del llenguatge, podem dir que té contraexemples infinits)."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 7,
+      "question": "Algunes condicionals amb conseqüències contradictòries són tautologies.",
+      "answer": "Cert",
+      "explanation": "Una condicional amb un antecedent contradictori i un consequent contradictori és una implicació, una fórmula tautològica. Es pot mostrar un exemple mitjançant una taula de valors de veritat."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 8,
+      "question": "Un argument lògicament invàlid té totes les seves premisses veritables i la conclusió falsa.",
+      "answer": "Fals",
+      "explanation": "Un argument invàlid pot tenir qualsevol forma i qualsevol valor de veritat tant en les premisses com en la conclusió. És invàlid perquè la seva forma permet la possibilitat que les premisses siguin veritables i la conclusió falsa, però els altres casos no són impossibles."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 9,
+      "question": "Un argument només pot ser veritable o fals.",
+      "answer": "Fals",
+      "explanation": "Els arguments només poden ser vàlids o invàlids. 'Veritat' i 'fals' s'apliquen només a les afirmacions."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 10,
+      "question": "Només s'utilitzen fórmules tautològiques o vàlides en el càlcul axiomàtic.",
+      "answer": "Cert",
+      "explanation": "El càlcul axiomàtic es basa en axiomes, que són veritats lògiques (tautologies, fórmules vàlides) per stipulació. Mitjançant regles, es demostren teoremes que preserven la validesa dels axiomes."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 11,
+      "question": "Un arbre semàntic obert indica que l'argument analitzat és vàlid.",
+      "answer": "Fals",
+      "explanation": "Un arbre obert indica que podem trobar un exemple d'un argument amb la forma examinada en què les premisses són veritables i la conclusió és falsa; és a dir, podem trobar un contraexemple. Per tant, la forma inferencial examinada en aquell arbre és una forma invàlida."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 12,
+      "question": "L'antecedent d'una frase condicional és la premissa d'aquesta frase.",
+      "answer": "Fals",
+      "explanation": "Un argument i una proposició tenen estructures diferents. La forma d'una proposició es recull en la fórmula; la d'un argument, en l'esquema inferencial. Un argument es pot transformar en una proposició condicional, però la diferència entre argumentar i afirmar roman, així com la diferència entre la premissa d'un argument i l'antecedent d'una proposició."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 13,
+      "question": "Si X és una fórmula vàlida, (Y ∧ ¬ Y) → X és una fórmula contingenta.",
+      "answer": "Fals",
+      "explanation": "Una fórmula condicional amb un consequent vàlid no pot tenir cap cas fals; no hi ha cap interpretació que faci que l'antecedent sigui veritable i el consequent fals. És una tautologia."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 14,
+      "question": "Un arbre semàntic amb dues branques tancades i dues branques obertes indica que hi ha exactament dos casos vàlids i dos casos invàlids.",
+      "answer": "Fals",
+      "explanation": "Els arguments no tenen casos vàlids, sinó formes vàlides o invàlides. Un arbre obert (independentment de quantes branques estiguin obertes) indica que hi ha contraexemples, per tant la forma examinada és invàlida."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 15,
+      "question": "Algunes condicionals amb conseqüències contradictòries són tautologies.",
+      "answer": "Cert",
+      "explanation": "Aquest és el cas en què l'antecedent també és contradictori. Quan tant l'antecedent com el consequent són contradiccions, no hi ha interpretacions amb un antecedent veritable i un consequent fals; més aviat, totes les interpretacions resulten en la veritat (F → F : T)."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 16,
+      "question": "Un argument lògicament invàlid té totes les seves premisses veritables i la conclusió falsa.",
+      "answer": "Fals",
+      "explanation": "Un argument invàlid és aquell que té una forma invàlida, una forma que permet l'existència d'arguments amb qualsevol combinació de valors de veritat, per exemple, premisses veritables i una conclusió veritable: Madrid és la capital d'Espanya i Lisboa és la capital de Portugal. Per tant, París és la capital de França. Aquest argument és invàlid, tot i que tant les premisses com la conclusió siguin certes, perquè la seva forma permet l'existència de contraexemples: arguments amb la mateixa forma que tenen premisses certes i una conclusió falsa: Madrid és la capital d'Espanya i Lisboa és la capital de Portugal. Per tant, Roma és la capital de França. Forma d'aquest argument invàlid: p ∧ q/ r"
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 17,
+      "question": "Una proposició veritable només implica proposicions veritables.",
+      "answer": "Cert",
+      "explanation": "Parlem d'implicació entre dues proposicions quan les seves formes lògiques (les seves fórmules respectives) fan impossible que el fals derivi del veritable. Totes les proposicions que tenen aquestes mateixes formes tindran la composició T-T, F-F o F-T, però mai T-F. És la forma de la proposició la que fa impossible aquest últim cas."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 18,
+      "question": "Si un argument és vàlid, la seva conclusió és veritable.",
+      "answer": "Fals",
+      "explanation": "La validesa de l'argument segueix els criteris d'implicació. En un argument vàlid, diem que el conjunt de premisses implica la conclusió. Això significa que si totes les premisses fossin veritables, la conclusió seria necessàriament veritable també. La relació d'implicació, la validesa de l'argument, fa impossible que del veritable se'n derivi el fals. Tanmateix, si introduïm falsedat en les premisses, podem tenir validesa en forma i falsedat en la conclusió."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 19,
+      "question": "Cada fórmula ben formada és una tautologia.",
+      "answer": "Fals",
+      "explanation": "Una fórmula ben formada és aquella que compleix les regles per formar fórmules. Un cop s'ha obtingut una fórmula, la podem avaluar semànticament i determinar si és una tautologia, una contradicció o una contingència. Hi ha fórmules ben formades de tots tres tipus."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 20,
+      "question": "Un arbre semàntic tancat indica que tant les premisses com la conclusió són falses.",
+      "answer": "Fals",
+      "explanation": "Un arbre tancat indica que totes les seves branques contenen contradicció. Això significa que no és possible trobar cap cas de premisses veritables i una conclusió falsa. El conjunt format per les premisses i la negació de la conclusió és inconsistent. L'esquema inferencial examinat és vàlid."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 21,
+      "question": "Si un argument és incorrecte, la seva negació és vàlida.",
+      "answer": "Fals",
+      "explanation": "Els arguments no es poden negar."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 22,
+      "question": "Una llei és una forma lògica que no té contraexemples.",
+      "answer": "Cert",
+      "explanation": "Es pot demostrar a partir d'un conjunt buit de premisses. Si fem un arbre semàntic per a la seva negació, totes les branques es tanquen. Si fem una taula de veritat, veurem que és una tautologia, de manera que no és possible trobar cap enunciat (una interpretació) amb aquesta forma lògica que sigui fals; és a dir, no té contraexemples."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 23,
+      "question": "Un arbre semàntic obert indica que hi ha una contradicció en el conjunt de fórmules examinades.",
+      "answer": "Fals",
+      "explanation": "La branca oberta indica el contrari: que el conjunt de fórmules examinat és consistent. És possible trobar una interpretació del conjunt en la qual totes les afirmacions són veritables."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 24,
+      "question": "La conclusió d'un argument vàlid no pot ser falsa.",
+      "answer": "Fals",
+      "explanation": "El que no pot passar en un argument vàlid és que la conclusió sigui falsa quan les premisses són veritables, però poden existir arguments vàlids amb una o més premisses falses i una conclusió falsa. La validesa fa referència a la forma de l'argument. Una forma vàlida impedeix el pas de la veritat a la falsedat."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 25,
+      "question": "Si X és una fórmula contradictòria, (Y∧¬ Y) → X és una fórmula contradictòria.",
+      "answer": "Fals",
+      "explanation": "L'antecedent d'aquell condicional és una contradicció, per tant el condicional mai no pot avaluar-se com a F."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 26,
+      "question": "Un arbre semàntic amb una branca oberta indica que hi ha una interpretació segons la qual les premisses de l'argument són certes i la conclusió és falsa.",
+      "answer": "Cert",
+      "explanation": "Hi ha almenys una interpretació que fa que les premisses siguin veritables i la conclusió falsa. Seria falsa si «un» significa «exactament un». Una branca oberta indica que l'argument és invàlid i, per tant, té contraexemples. De fet, sempre que hi ha contraexemples, n'hi ha d'infinits (a causa de la recursivitat del llenguatge natural)."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 27,
+      "question": "Donada una fórmula X, si l'arbre de X roman obert i l'arbre de ¬X també roman obert, podem dir que la fórmula X no és ni vàlida ni contradictòria.",
+      "answer": "Cert",
+      "explanation": "Si l'arbre que comença amb X roman obert, X no és contradictori; té alguna interpretació en la qual resulta ser V. Quan X és V, ¬X és F. Si l'arbre que comença amb ¬X roman obert, ¬X no és contradictori; té alguna interpretació en la qual resulta V. Aquests són casos en què X és F. És a dir, X té casos V i casos F, de manera que és una contingència (ni vàlid ni contradictori)."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 28,
+      "question": "Algunes condicionals amb conseqüències contradictòries són tautologies.",
+      "answer": "Cert",
+      "explanation": "Aquest és el cas explicat en la primera resposta. Quan l'antecedent també és una contradicció, la fórmula resultant és una tautologia."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 29,
+      "question": "Si un argument és invàlid, la conjunció de les premisses i la conclusió és una contingència.",
+      "answer": "Fals",
+      "explanation": "En un argument invàlid, podem trobar diferents combinacions d'enunciats. Per exemple, podem tenir una premissa contingenta i una conclusió contradictòria, la conjunció de les quals també seria una contradicció. El que no podem tenir són premisses amb contradiccions, perquè aleshores la forma inferencial seria vàlida, ja que podem concloure qualsevol cosa a partir de la contradicció, ni tampoc podem tenir una conjunció entre les premisses i la conclusió que sigui una tautologia, perquè perquè això fos així, la conclusió hauria de ser tautològica, però aleshores la forma inferencial seria vàlida. La conjunció entre les premisses i la conclusió d'un argument invàlid serà o bé una contingència o bé una contradicció."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 30,
+      "question": "Un argument amb una conclusió falsa no pot ser vàlid.",
+      "answer": "Fals",
+      "explanation": "Si també hi ha falsedat en el conjunt de premisses, la seva forma argumentativa pot ser vàlida. La validesa seria impossible si, donada una conclusió falsa, totes les premisses fossin veritables."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 31,
+      "question": "Un arbre semàntic amb quatre branques tancades i una branca oberta indica que hi ha exactament un contraexemple per a l'esquema d'inferència examinat.",
+      "answer": "Fals",
+      "explanation": "Només indica que l'esquema examinat té contraexemples. Quan un esquema és invàlid, té contraexemples infinits."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 32,
+      "question": "Un argument que conté una contradicció en les seves premisses és un argument invàlid.",
+      "answer": "Fals",
+      "explanation": "Qualsevol cosa pot derivar d'una contradicció. Per tant, tots els arguments que contenen contradiccions en les seves premisses són arguments lògicament vàlids."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 33,
+      "question": "Perquè un raonament sigui vàlid, no cal que les seves premisses siguin veritables.",
+      "answer": "Cert",
+      "explanation": "Una forma vàlida admet tots els tipus de combinacions dels valors de veritat de les premisses i de la conclusió, excepte en el cas de premisses veritables i conclusió falsa. Per tant, hi ha arguments vàlids amb premisses falses."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 34,
+      "question": "Si X és una fórmula contradictòria, (Y ∧ ¬Y) → X és una fórmula contingenta.",
+      "answer": "Fals",
+      "explanation": "És una tautologia, una fórmula vàlida, perquè l'antecedent d'aquest condicional també és una contradicció."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 35,
+      "question": "De la veritat de p v q se'n deriva la veritat de (¬p ∧ r) → q.",
+      "answer": "Cert",
+      "explanation": "(¬p ∧ r) → q és equivalent a r →(¬p → q), a r →(p v q) i a ¬r v (p v q). A partir de (p v q) se'n dedueix que ¬r v (p v q) per la regla d'inferència v."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 36,
+      "question": "Els teoremes són les regles deductives del càlcul axiomàtic.",
+      "answer": "Fals",
+      "explanation": "El càlcul axiomàtic no té regles deductives com a tal, sinó regles de transformació. Els teoremes són fórmules vàlides obtingudes a partir d'axiomes mitjançant regles de transformació."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 37,
+      "question": "Un contraexemple és un exemple de contradicció.",
+      "answer": "Fals",
+      "explanation": "Un contraexemple és una interpretació que mostra la invalidesa d'un esquema o d'una fórmula inferencial. Per exemple: «Madrid és la capital de Navarra» és un contraexemple de p. És una afirmació falsa que demostra que p no és una fórmula vàlida."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 38,
+      "question": "Un esquema d'argument és o bé veritable o bé fals.",
+      "answer": "Fals",
+      "explanation": "Un esquema argumentatiu és vàlid o invàlid. La veritat i la falsedat són propietats de les afirmacions."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 39,
+      "question": "Els arguments invàlids sempre tenen conclusions falses.",
+      "answer": "Fals",
+      "explanation": "Un argument amb una forma invàlida és aquell en què les premisses no impliquen la conclusió, siguin certes o falses. Validesa i invalidesa es refereixen a la forma lògica de l'argument. Per exemple, «Londres és una ciutat petita. Per tant, Londres és una ciutat espanyola» és un argument invàlid amb una conclusió falsa i la forma lògica p/q. Un altre argument amb la mateixa forma invàlida, però amb una conclusió veritable, és: «Londres és una ciutat petita. Per tant, Londres és una ciutat anglesa»."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 40,
+      "question": "(¬s ∧ t) →p ∧ (¬s ∧ t) → r és una fórmula ben formada.",
+      "answer": "Fals",
+      "explanation": "Cal més parèntesis per desambiguar la fórmula:"
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 41,
+      "question": "Si un raonament té premisses veritables i una conclusió falsa, no pot tenir una forma lògica vàlida.",
+      "answer": "Cert",
+      "explanation": "Una forma inferencial vàlida impedeix el cas d'un argument amb premisses veritables i una conclusió falsa. El fals no es pot inferir vàlidament del veritable. Aquest argument serviria com a contraexemple per demostrar la invalidesa de la seva forma inferencial."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 42,
+      "question": "Si X és una fórmula vàlida, aleshores Y → X també és vàlida.",
+      "answer": "Cert",
+      "explanation": "Si la conseqüència d'aquesta condicional és una tautologia, és impossible trobar un cas que faci falsa la fórmula, és a dir, un cas en què Y sigui veritable i X sigui fals."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 43,
+      "question": "Un arbre semàntic amb una branca oberta indica que hi ha exactament una interpretació sota la qual les premisses de l'argument són veritables i la conclusió és falsa.",
+      "answer": "Fals",
+      "explanation": "Una branca oberta indica que l'esquema examinat és invàlid, que hi ha arguments amb aquesta forma tals que les premisses són veritables i la conclusió és falsa, és a dir, que té contraexemples. Quants? Sempre infinits, atesa la recursivitat del llenguatge natural."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 44,
+      "question": "Qualsevol fórmula s'implícita per una contradicció.",
+      "answer": "Cert",
+      "explanation": "La contradicció implica qualsevol fórmula; de la contradicció se'n deriva vàlidament qualsevol fórmula: Ex Contradictione Quodlibet. Un condicional que no pot tenir veritat en l'antecedent no tindrà cap cas de falsedat, ja que el condicional només és fals quan té veritat en l'antecedent i falsedat en la conseqüència. Un condicional amb contradicció en l'antecedent és un condicional tautològic, una implicació."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 45,
+      "question": "Perquè un raonament amb premisses veritables sigui vàlid, és necessari però no suficient que la seva conclusió sigui veritable.",
+      "answer": "Cert",
+      "explanation": "Si un argument té una forma vàlida i premisses veritables, necessàriament ha de tenir una conclusió veritable. Un argument amb premisses veritables i una conclusió falsa no pot tenir una forma vàlida, ja que la validesa garanteix que no es passa de veritat a fals. No obstant això, tenir premisses veritables i una conclusió veritable no és una condició suficient per tenir un argument amb una forma vàlida. Per exemple: «2 més 2 són 4. Per tant, Madrid és la capital d'Espanya» és un argument amb premisses i conclusió veritables, però amb una forma lògica invàlida: p/q. Aquesta forma invàlida permet anar del veritable al fals. Una interpretació d'aquesta forma lògica que té una premissa veritable i una conclusió falsa és: «2 més 2 són 4. Per tant, el riu Ebre travessa Sevilla»."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 46,
+      "question": "Si X és una fórmula contingenta, aleshores Y → (X v ¬ X) també és una fórmula contingenta.",
+      "answer": "Fals",
+      "explanation": "Donat que la consequència és tautològica, el condicional no pot tenir cap cas en què l'antecedent sigui veritable i la consequència falsa, que és l'únic cas en què el condicional seria fals. Per tant, aquest condicional és una tautologia, una fórmula vàlida."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 47,
+      "question": "Un arbre semàntic amb totes les seves branques tancades indica que no hi ha cap interpretació sota la qual les premisses de l'argument puguin ser veritables i la conclusió falsa.",
+      "answer": "Cert",
+      "explanation": "L'arbre semàntic examina si hi ha o no una contradicció en assumir premisses veritables i una conclusió falsa. Si es troba una contradicció en totes les branques (que per tant queden tancades), podem concloure que el cas de premisses veritables i conclusió falsa és impossible."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 48,
+      "question": "Qualsevol fórmula vàlida s'implícita per una contradicció.",
+      "answer": "Cert",
+      "explanation": "En primer lloc, perquè qualsevol fórmula implica una tautologia. En segon lloc, perquè de qualsevol contradicció se'n pot deduir lògicament qualsevol cosa; en altres paraules, una fórmula contradictòria implica qualsevol fórmula."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 49,
+      "question": "La forma dels arguments ens diu si són veritables o falsos.",
+      "answer": "Fals",
+      "explanation": "Els arguments no són ni veritables ni falsos. Només les afirmacions ho són. Les formes argumentatives són vàlides o invàlides."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 50,
+      "question": "Les fórmules contingents no tenen contraexemples.",
+      "answer": "Fals",
+      "explanation": "Sent contingenta, tindrà interpretacions veritables i interpretacions falses. Una interpretació falsa (una afirmació amb aquesta forma) és un contraexemple."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 51,
+      "question": "Cada fórmula vàlida està implicada per fórmules contradictòries.",
+      "answer": "Cert",
+      "explanation": "Sent vàlida, essent en el lloc d'una conclusió, és impossible tenir un cas de premisses veritables i conclusió falsa. Les fórmules vàlides s'impliquen en totes les fórmules, incloses les contradictòries. De fet, qualsevol fórmula es pot derivar de la contradicció. En aquest cas, totes les interpretacions serien un cas de pas de fals a veritable. No hi ha possibilitat de trobar un cas amb premisses veritables i una conclusió falsa. Si ens referim a la implicació no com una conseqüència lògica entre premisses i una conclusió, sinó com un condicional vàlid, podem dir que quan un condicional té una fórmula vàlida en el consequent, és impossible trobar un cas amb un antecedent veritable i un consequent fals. Això significa que hi ha implicació passi el que passi en l'antecedent: una fórmula vàlida, una fórmula contingenta o una fórmula contradictòria. Tota fórmula vàlida està implicada per qualsevol fórmula."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 52,
+      "question": "La negació d'una tautologia és una fórmula insatisfàbil.",
+      "answer": "Cert",
+      "explanation": "La negació d'una tautologia és una contradicció, una fórmula que no té valor de veritat, és a dir, és insatisfàbil."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 53,
+      "question": "Perquè un raonament sigui vàlid, no és necessari que la seva conclusió sigui veritable.",
+      "answer": "Cert",
+      "explanation": "La condició de validesa és que no pot haver-hi cap cas de premisses veritables i conclusió falsa. Pot haver-hi falsedat en alguna premissa i en la conclusió."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 54,
+      "question": "Cap condicional amb una conseqüència contradictòria pot ser una tautologia.",
+      "answer": "Fals",
+      "explanation": "Una sentència condicional amb antecedent i consequent contradictoris és una tautologia."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 55,
+      "question": "Si un argument és invàlid, la conjunció de les premisses i la conclusió és una contradicció.",
+      "answer": "Fals",
+      "explanation": "Si l'argument és invàlid, aquesta conjunció pot ser contradictòria, contingenta o tautològica. Totes les possibilitats són possibles."
+    },
+    {
+      "section": "PREGUNTES D'EXÀMEN",
+      "number": 56,
+      "question": "Si una fórmula és invàlida, la seva negació és vàlida.",
+      "answer": "Fals",
+      "explanation": "Si és invàlid (tautologia), pot ser perquè és una contradicció o perquè és una contingència. Si és una contradicció, la seva negació és una tautologia (fórmula vàlida), però si és una contingència, la seva negació és una altra contingència."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 1,
+      "question": "Perquè un raonament amb premisses veritables sigui vàlid, és necessari però no suficient que la seva conclusió sigui veritable.",
+      "answer": "Cert",
+      "explanation": "Si un argument té una forma vàlida i premisses veritables, necessàriament ha de tenir una conclusió veritable. Un argument amb premisses veritables i una conclusió falsa no pot tenir una forma vàlida, ja que la validesa garanteix que no s'avança de veritat a fals. Però no n'hi ha prou amb tenir premisses veritables i una conclusió veritable per tenir un argument amb una forma vàlida. Per exemple:  Per tant, Madrid és la capital d'Espanya\" és un argument amb premisses veritables i una conclusió veritable, però amb una forma lògica invàlida: p / q Aquesta forma invàlida permet passar del veritable al fals. Una interpretació d'aquesta forma lògica que té una premissa veritable i una conclusió falsa: \"2 més 2 és 4. Per tant, el riu Ebre flueix per Sevilla\"."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 2,
+      "question": "Perquè un raonament sigui vàlid, n'hi ha prou que les seves premisses i la seva conclusió siguin veritables.",
+      "answer": "Fals",
+      "explanation": "Un argument amb premisses i conclusió veritables pot tenir una forma invàlida. La clau per entendre-ho és la paraula «suficient», que fa referència a l'adequació del que s'ha afirmat. Un contraexemple d'aquesta afirmació seria: <i>«Madrid és la capital d'Espanya. Per tant, dos més dos són quatre.»</i>"
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 3,
+      "question": "Perquè un raonament sigui vàlid, no cal que les seves premisses siguin veritables.",
+      "answer": "Cert",
+      "explanation": "Una forma vàlida admet tota mena de combinacions dels valors de veritat de les premisses i de la conclusió, excepte en el cas de premisses veritables i conclusió falsa.\n\nLes premisses poden ser falses i l'argument encara pot ser lògicament vàlid. L'única cosa que garanteix un argument vàlid és que, si les premisses són veritables, la conclusió també és veritable, però això no implica que les premisses hagin de ser veritables perquè la conclusió sigui vàlida. Per tant, hi ha arguments vàlids amb premisses falses."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 4,
+      "question": "Un argument amb una conclusió falsa no pot ser vàlid.",
+      "answer": "Fals",
+      "explanation": "Si també hi ha falsedat en el conjunt de premisses, la seva forma argumentativa pot ser vàlida. La validesa seria impossible si, donada una conclusió falsa, totes les premisses fossin veritables."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 5,
+      "question": "Si un argument és vàlid, la seva conclusió és veritable.",
+      "answer": "Fals",
+      "explanation": "La validesa d'un argument segueix els criteris de la implicació lògica. En un argument vàlid, diem que el conjunt de premisses implica la conclusió. Això significa que si totes les premisses fossin certes, la conclusió també seria necessàriament certa. La relació d'implicació, la validesa de l'argument, fa que sigui impossible que del cert se'n derivi el fals.\n\nTanmateix, si introduïm falsedat en les premisses, podem tenir validesa de forma i falsedat en la conclusió."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 6,
+      "question": "Un argument lògicament invàlid té totes les seves premisses veritables i la conclusió falsa.",
+      "answer": "Fals",
+      "explanation": "Un argument invàlid pot tenir qualsevol forma i qualsevol valor de veritat tant en les premisses com en la conclusió. És invàlid perquè la seva forma permet la possibilitat que les premisses siguin veritables i la conclusió falsa, però els altres casos no són impossibles. Per exemple, considerem l'argument de la forma (p∧q)→r\"Madrid és la capital d'Espanya i Lisboa és la capital de Portugal. Per tant, París és la capital de França.\"\" Madrid és la capital d'Espanya i Lisboa és la capital de Portugal. Per tant, Roma és la capital de França.\""
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 7,
+      "question": "Els arguments invàlids sempre tenen conclusions falses.",
+      "answer": "Fals",
+      "explanation": "Un argument amb forma invàlida és aquell en què les premisses no impliquen lògicament la conclusió, siguin certes o falses. La validesa i la invalidesa es refereixen a la forma lògica de l'argument. Per exemple, <i>\"Londres és una ciutat petita. Per tant, Londres és una ciutat espanyola\"</i> és un argument invàlid amb una conclusió falsa i la forma lògica: p → q\n\nUn altre argument amb la mateixa forma invàlida però amb una conclusió veritable és: «Londres és una ciutat petita. Per tant, Londres és una ciutat anglesa.»"
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 8,
+      "question": "Si un argument és invàlid, la conjunció de les premisses i la conclusió és una contingència.",
+      "answer": "Fals",
+      "explanation": "En un argument invàlid, podem trobar diferents combinacions d'enunciats. Per exemple, podem tenir una premissa contingenta i una conclusió contradictòria, la conjunció de les quals també seria una contradicció. El que no podem tenir són premisses contradictòries, perquè aleshores la forma inferencial seria vàlida, ja que es podria concloure qualsevol cosa a partir de la contradicció, ni tampoc podem tenir una conjunció entre les premisses i la conclusió que sigui una tautologia, perquè perquè això fos així, la conclusió hauria de ser tautològica, però aleshores la forma inferencial seria vàlida.\n\nLa conjunció entre les premisses i la conclusió d'un argument invàlid serà o bé una contingència o bé una contradicció."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 9,
+      "question": "Un esquema d'argument és o bé veritable o bé fals.",
+      "answer": "Fals",
+      "explanation": " Un esquema argumentatiu és vàlid o invàlid. La veritat i la falsedat són propietats de les afirmacions."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 10,
+      "question": "La conclusió d'un argument vàlid no pot ser falsa.",
+      "answer": "Fals",
+      "explanation": "El que no pot passar en un argument vàlid és que la conclusió sigui falsa quan les premisses són veritables, però hi pot haver arguments vàlids amb una o més premisses falses i una conclusió falsa. La validesa fa referència a la forma de l'argument. Una forma vàlida impedeix el pas de la veritat a la falsedat."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 11,
+      "question": "Un argument que conté una contradicció en les seves premisses és un argument invàlid.",
+      "answer": "Fals",
+      "explanation": "Qualsevol cosa pot derivar d'una contradicció. Per tant, tots els arguments que contenen contradiccions en les seves premisses són arguments lògicament vàlids."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 12,
+      "question": "Si un raonament té premisses veritables i una conclusió falsa, no pot tenir una forma lògica vàlida.",
+      "answer": "Cert",
+      "explanation": "Una forma inferencial vàlida evita el cas d'un argument amb premisses veritables i una conclusió falsa. Del veritable no se'n dedueix vàlidament el fals. Aquest argument serviria com a contraexemple per demostrar la invalidesa de la seva forma inferencial."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 13,
+      "question": "L'antecedent d'una frase condicional és la premissa d'aquesta frase.",
+      "answer": "Fals",
+      "explanation": "Una condicional és una fórmula (A → B). I les fórmules no tenen ni premisses ni conclusions."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 14,
+      "question": "Una proposició veritable només implica proposicions veritables.",
+      "answer": "Cert",
+      "explanation": "Parlem d'implicació entre dues proposicions quan les seves formes lògiques (les seves fórmules respectives) fan impossible que el fals derivi del veritable. Totes les proposicions que tenen aquestes mateixes formes tindran la composició T-T, F-F o F-T, però mai T-F. És la forma de la proposició la que fa impossible aquest darrer cas."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 15,
+      "question": "Cada fórmula ben formada és una tautologia.",
+      "answer": "Fals",
+      "explanation": "Una fórmula ben formada és aquella que compleix les regles per formar fórmules. Un cop s'ha obtingut una fórmula, la podem avaluar semànticament i determinar si és una tautologia, una contradicció o una contingència. Hi ha fórmules ben formades de tots tres tipus."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 16,
+      "question": "Si X és una fórmula contingenta, aleshores Y →( X ∨ ¬X ) també és una fórmula contingenta.",
+      "answer": "Fals",
+      "explanation": "Donat que la consequència és tautològica, el condicional no pot tenir cap cas en què l'antecedent sigui veritable i la consequència falsa, que és l'únic cas en què el condicional seria fals. Per tant, aquest condicional és una tautologia, una fórmula vàlida."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 17,
+      "question": "Qualsevol fórmula vàlida s'implícita per una contradicció.",
+      "answer": "Cert",
+      "explanation": "En primer lloc, perquè qualsevol fórmula (càrrega de premisses) implica una tautologia. En segon lloc, perquè de qualsevol contradicció se'n pot deduir lògicament qualsevol cosa, és a dir, una fórmula contradictòria implica qualsevol fórmula."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 18,
+      "question": "Un argument només pot ser veritable o fals.",
+      "answer": "Fals",
+      "explanation": "Els arguments només poden ser vàlids o invàlids. 'Veritat' i 'fals' s'apliquen només a les afirmacions."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 19,
+      "question": "L'antecedent d'una sentència condicional és veritable només si el seu consequent no és fals.",
+      "answer": "Fals",
+      "explanation": "L'antecedent d'una condició pot ser veritable o fals independentment del seu consequent. Segons els valors de l'antecedent i del consequent, la condició donarà un resultat o un altre."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 20,
+      "question": "Qualsevol fórmula s'implícita per una contradicció.",
+      "answer": "Cert",
+      "explanation": "La contradicció implica qualsevol fórmula; de la contradicció es pot deduir vàlidament qualsevol fórmula: Ex Contradictione Quodlibet. Un condicional que no pot ser veritable en l'antecedent no tindrà cap cas de falsedat, ja que el condicional només és fals quan l'antecedent és veritable i la conseqüència és falsa. Un condicional amb una contradicció en l'antecedent és un condicional tautològic, una implicació lògica."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 21,
+      "question": "Si X és una fórmula vàlida, aleshores Y → X també és vàlida.",
+      "answer": "Cert",
+      "explanation": "Si la conseqüència d'aquesta condicional és una tautologia, és impossible trobar un cas que faci falsa la fórmula, és a dir, un cas en què Y sigui veritable i X sigui fals."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 22,
+      "question": "Si X és una fórmula vàlida, (Y ∧ ¬Y) → X és una fórmula contingenta.",
+      "answer": "Fals",
+      "explanation": "Una fórmula condicional amb un consequent vàlid no pot tenir cap cas fals; no hi ha cap interpretació que faci que l'antecedent sigui veritable i el consequent fals. És una tautologia."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 23,
+      "question": "Si X és una fórmula contradictòria, (Y ∧ ¬Y) → X és una fórmula contingenta.",
+      "answer": "Fals",
+      "explanation": "És una tautologia, una fórmula vàlida, perquè l'antecedent d'aquest condicional també és una contradicció."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 24,
+      "question": "Si X és una fórmula contradictòria, (Y ∧ ¬Y) → X és una fórmula vàlida.",
+      "answer": "Cert",
+      "explanation": "L'antecedent d'aquest condicional és una contradicció, i una contradicció (Y ∧ ¬Y) implica qualsevol fórmula. Una implicació és un condicional vàlid, una tautologia."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 25,
+      "question": "Si X és una fórmula contradictòria, (Y ∧ ¬Y) → X és una fórmula contradictòria.",
+      "answer": "Fals",
+      "explanation": "L'antecedent d'aquest condicional és una contradicció, per tant el condicional mai no pot assolir el valor F, ja que el cas V → F mai no es pot donar. Per tant, no només no és una contradicció, sinó que qualsevol fórmula de la forma (Y ∧ ¬Y) → X sempre serà una tautologia."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 26,
+      "question": "Qualsevol fórmula insatisfàbil implica una fórmula satisfàbil.",
+      "answer": "Cert",
+      "explanation": "Una fórmula insatisfactible és una contradicció, de la qual es pot concloure qualsevol cosa, inclosa una fórmula satisfactible."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 27,
+      "question": "Una fórmula vàlida només està implicada per fórmules vàlides.",
+      "answer": "Fals",
+      "explanation": "Una fórmula vàlida (tautologia) pot ser implicada tant per fórmules veritables com per fórmules falses."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 28,
+      "question": "Una fórmula satisfàbil només implica fórmules satisfàbils.",
+      "answer": "Fals",
+      "explanation": "Pot ser que una fórmula satisfàbil (contingent) impliqui fórmules vàlides (tautològiques)."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 29,
+      "question": "Una fórmula vàlida només implica fórmules vàlides.",
+      "answer": "Cert",
+      "explanation": "El fet que es doni la implicació (que no pot ser que, donades premisses veritables, tinguem una conclusió falsa), el fet que la fórmula antecedent sigui tautològica (tota veritable), requereix necessàriament que les conclusions que implica siguin també veritables."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 30,
+      "question": "Si X i Y són fórmules lògicament incompatibles, aleshores (X ∧ Y) → Z",
+      "answer": "Cert",
+      "explanation": "El fet que siguin lògicament incompatibles significa que són contradictòries, i com que de qualsevol contradicció se'n pot deduir qualsevol cosa, es pot confirmar que aquest és el cas amb la fórmula que se'ns ha presentat."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 31,
+      "question": "Si (X ∧ Y) → Z, aleshores (X ∧ ¬Z) → ¬Y",
+      "answer": "Cert",
+      "explanation": "Podem verificar-ho amb l'arbre semàntic √ 1. (X ∧ Y) → Z √ 2. ¬[(X ∧ ¬Z) → ¬Y ] √ 3. X ∧ ¬ Z (α2) 4. Y (α2) 5. X (α3)\n 6. ¬Z (α2) √ 7.1 ¬( X ∧Y ) (β 1) 7.2 Z (β 1)\n Tanca amb 6 8.11 ¬ X (β 7.1) 8.12 ¬Y (β 7.1) Tanca amb 5 Tanca amb 4 Com que l'arbre semàntic es tanca, l'argument entre ambdues premisses és vàlid, per tant podem afirmar que hi ha una implicació lògica entre ambdues expressions."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 32,
+      "question": "Si [X, Y, Z] ⊨ W és una deducció correcta, aleshores [X, Y] ⊨ Z → W també és correcta.",
+      "answer": "Cert",
+      "explanation": "Ho podem veure més clarament amb l'arbre semàntic: √ 1. (X ∧ Y ∧ Z) → W √ 2. ¬[(X ∧ Y) → (Z → W)] √ 3. X ∧ Y (α2) √ 4. ¬(Z → W) (α2)\n5. X (α3) 6. Y (α3) 7. Z (α4) 8. ¬W (α4) √ 9.1 ¬(X ∧ (Y ∧ Z)) (β 1) √ 10.12 ¬(Y ∧ Z) (β 9.1) 9.2 W (β 1) Tanca amb 8 10.11 ¬ X (β 9.1) Tanca amb 5 10.121¬Y (β 10.12) 10.122 ¬Z (β 9.1) Tanca amb 6 Tanca amb 7 "
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 33,
+      "question": "Si [X, Y] ⊨ Z és una deducció correcta, aleshores X → (Y → Z) és una fórmula vàlida.",
+      "answer": "Cert",
+      "explanation": "Això correspon a la llei d'importació, però ho podem veure millor amb l'arbre semàntic: √ 1. (X ∧ Y)→ Z √ 2. ¬[X → (Y → Z)] 3. X (α2) √ 4. ¬(Y → Z) (α2) 5. Y (α4)\n 6. ¬Z (α4) √ 7.1 ¬( X ∧Y ) (β 1) 7.2 Z (β 1) Tanca en 6 8.11 ¬ X (β 7.1) Tanca en 3 8.12 ¬Y (β 7.1) Tanca en 5"
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 34,
+      "question": "Si X implica Y, aleshores és una veritat lògica.",
+      "answer": "Fals",
+      "explanation": ""
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 35,
+      "question": "(¬s ∧ t) → p ∧ (¬s ∧ t) → r és una fórmula ben formada.",
+      "answer": "Fals",
+      "explanation": "Cal més parèntesis per desambiguar la fórmula:(¬s ∧ t)→ [p ∧ (¬s ∧ t) → r][(¬s ∧ t) → p ∧ (¬s ∧ t)] → r[(¬s ∧ t) → p] ∧ [(¬s ∧ t) → r]{[(¬s ∧ t) → p] ∧ (¬s ∧ t)} →r"
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 36,
+      "question": "De la veritat de p ∨ q se'n deriva la veritat de (¬p ∧ r)→ q.",
+      "answer": "Cert",
+      "explanation": "Perquè la disjunció sigui veritable, cal que I(p) = 1 o I(q) = 1 (o ambdós):Si I(p) = 0, I(p ∨ q) = 1 només si I(q) = 1. En la condicional, tindríem llavors que el consequent és veritable, de manera que la condicional serà veritable independentment del valor de veritat de l'antecedent. Si I(q)=0, I(p ∨ q)=1 només si I(p)=1. En aquest cas, l'antecedent sempre seria fals, ja que la conjunció seria falsa perquè un dels membres és la negació de p, que seria fals. En altres paraules, tindríem un antecedent fals que sempre ens donaria una condicional vera, independentment del valor de veritat de la conclusió (que en aquest cas ja sabríem que és falsa).D'altra banda, tenim que:{(¬p ∧ r)→ q} ≡<sub>{conm∧}</sub> {(r ∧ ¬p) → q}{(r ∧ ¬p) → q}≡<sub>{exp}</sub> {r → (¬p → q)}{r → (¬p → q)} ≡{r→∨}{r → (p ∨ q)}{r → (p ∨ q)} ≡{I→∨} {¬r ∨ (p ∨ q)}</ul> És a dir, si tenim p ∨ q, mitjançant RI∨ podem construir ¬r ∨ (p ∨ q), que acabem de demostrar que és equivalent a (¬p ∨ r) → r."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 37,
+      "question": "Donada una fórmula X, si l'arbre de X roman obert i l'arbre de ¬X també roman obert, podem dir que la fórmula X no és ni vàlida (tautològica) ni contradictòria.",
+      "answer": "Cert",
+      "explanation": "Si l'arbre de X roman obert, X no és contradictori; té alguna interpretació en la qual resulta ser V. Quan X és V, ¬X és F. Si l'arbre de ¬X roman obert, ¬X no és contradictori; té alguna interpretació en què resulta V. Aquests són casos en què ¬X és F. És a dir, ¬X té casos V i casos F, de manera que és una contingència (ni vàlid ni contradictori)."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 38,
+      "question": "Si un argument és invàlid, la conjunció de les premisses i la conclusió és una contradicció.",
+      "answer": "Fals",
+      "explanation": "Podem tenir un argument amb p V i c V i, tot i així, presentar-lo en una forma invàlida, sense que la relació entre les seves premisses i la seva conclusió constitueixi una contradicció."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 39,
+      "question": "Si X és una fórmula contradictòria, (Y ∧ ¬Y) → X és una fórmula vàlida.",
+      "answer": "Cert",
+      "explanation": "Qualsevol cosa pot derivar d'una contradicció. L'antecedent sempre serà veritable i, per tant, la fórmula sempre serà tautològica, independentment de si és una fórmula contradictòria."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 40,
+      "question": "La negació d'una tautologia és una fórmula insatisfàbil.",
+      "answer": "Cert",
+      "explanation": "La negació d'una tautologia és una contradicció, que al seu torn és una fórmula insatisfàbil, és a dir, és falsa en totes les seves interpretacions. (insatisfabilitat = contradicció)"
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 41,
+      "question": "Un arbre semàntic amb totes les seves branques tancades indica que no hi ha cap interpretació sota la qual les premisses de l'argument puguin ser veritables i la conclusió falsa.",
+      "answer": "Cert",
+      "explanation": "L'arbre semàntic examina si hi ha o no una contradicció en assumir premisses veritables i una conclusió falsa. Si es troba una contradicció en totes les branques (que per tant queden tancades), podem concloure que el cas de premisses veritables i conclusió falsa és impossible."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 42,
+      "question": "Un arbre semàntic obert indica que hi ha una contradicció en el conjunt de fórmules examinades.",
+      "answer": "Fals",
+      "explanation": "La branca oberta indica el contrari: que el conjunt de fórmules examinat és consistent. És possible trobar una interpretació del conjunt en la qual totes les afirmacions són veritables."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 43,
+      "question": "Un arbre semàntic obert indica que l'argument analitzat és vàlid.",
+      "answer": "Fals",
+      "explanation": "Un arbre obert indica que podem trobar un exemple d'un argument amb la forma examinada en què les premisses són veritables i la conclusió és falsa; és a dir, podem trobar un contraexemple. Per tant, la forma inferencial examinada en aquell arbre és una forma invàlida."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 44,
+      "question": "Un arbre semàntic tancat indica que tant les premisses com la conclusió són falses.",
+      "answer": "Fals",
+      "explanation": "Un arbre tancat indica que totes les seves branques contenen contradicció. Això significa que no és possible trobar cap cas de premisses veritables i una conclusió falsa. El conjunt format per les premisses i la negació de la conclusió és inconsistent. L'esquema inferencial examinat és vàlid."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 45,
+      "question": "Un arbre semàntic amb una branca oberta indica que hi ha exactament una interpretació sota la qual les premisses de l'argument són veritables i la conclusió és falsa.",
+      "answer": "Fals",
+      "explanation": "Una branca oberta indica que l'esquema examinat és invàlid, que hi ha arguments amb aquesta forma tals que les premisses són veritables i la conclusió és falsa, és a dir, que té contraexemples. Quants? Sempre infinits, atesa la recursivitat del llenguatge natural."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 46,
+      "question": "Un arbre semàntic amb quatre branques tancades i una branca oberta indica que hi ha exactament quatre contraexemples de l'esquema d'inferència examinat.",
+      "answer": "Fals",
+      "explanation": "La branca oberta indica que l'esquema argumentatiu examinat no és vàlid, ja que no hi ha cap contradicció entre premisses veritables i una conclusió falsa. L'esquema té contraexemples (donada la recursivitat del llenguatge, podem dir que té contraexemples infinits)."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 47,
+      "question": "Un arbre semàntic amb una branca oberta indica que hi ha una interpretació segons la qual les premisses de l'argument són certes i la conclusió és falsa.",
+      "answer": "Cert",
+      "explanation": "Hi ha almenys una interpretació que fa que les premisses siguin veritables i la conclusió falsa. Seria falsa si «un» significa «exactament un». Una branca oberta indica que l'argument és invàlid i, per tant, té contraexemples. De fet, sempre que hi ha contraexemples, n'hi ha d'infinits (a causa de la recursivitat del llenguatge natural)."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 48,
+      "question": "Un arbre semàntic amb dues branques tancades i dues branques obertes indica que hi ha exactament dos casos de validesa i dos casos d'invalidesa.",
+      "answer": "Fals",
+      "explanation": "Els arguments no tenen casos vàlids, sinó formes vàlides o invàlides. Un arbre obert (independentment de quantes branques estiguin obertes) indica que hi ha contraexemples, per tant la forma examinada és invàlida."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 49,
+      "question": "L'antecedent d'una frase condicional és la premissa d'aquesta frase.",
+      "answer": "Fals",
+      "explanation": "Un argument i una proposició tenen estructures diferents. La forma d'una proposició es recull en la fórmula; la d'un argument, en l'esquema inferencial. Un argument es pot transformar en una proposició condicional, però la diferència entre argumentar i afirmar roman, així com la diferència entre la premissa d'un argument i l'antecedent d'una proposició."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 50,
+      "question": "Un contraexemple és un exemple de contradicció.",
+      "answer": "Fals",
+      "explanation": "Un contraexemple és una interpretació que mostra la invalidesa d'un esquema o d'una fórmula inferencial. Per exemple: «Madrid és la capital de Navarra» és un contraexemple de p. És una afirmació falsa que demostra que p no és una fórmula vàlida."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 51,
+      "question": "Algunes condicionals amb conseqüències contradictòries són tautologies.",
+      "answer": "Cert",
+      "explanation": "Quan l'antecedent és també una contradicció, la fórmula resultant és una tautologia, ja que I(X ∧ ¬X)=0, el condicional sempre serà vàlid independentment del valor del consequent I(Y)=0 o I(Y)=1.\n\n Quan tant l'antecedent com el consequent són contradiccions, no hi ha interpretacions amb un antecedent veritable i un consequent fals; més aviat, totes les interpretacions resulten en veritat. Un condicional amb un antecedent contradictori i un consequent contradictori és una implicació, una fórmula tautològica. Es pot mostrar un cas amb una taula de valors de veritat."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 52,
+      "question": "Una implicació és un condicional veritable.",
+      "answer": "Fals",
+      "explanation": "Una relació d'implicació entre dues fórmules A i B es produeix quan és impossible trobar una interpretació que faci la primera veritable i la segona falsa. Aquest és exactament el cas dels condicionals tautològics; el condicional no és simplement veritable, sinó lògicament veritable. Un condicional com «Si Madrid és la capital d'Espanya, aleshores París és la capital de França», tot i ser veritable, no és una implicació, sinó un condicional contingent."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 53,
+      "question": "Una llei és una forma lògica que no té contraexemples.",
+      "answer": "Cert",
+      "explanation": "Es pot demostrar a partir d'un conjunt buit de premisses. Si fem un arbre semàntic per a la seva negació, totes les branques es tancaran. Si fem una taula de veritat, veurem que és una tautologia, per tant, no és possible trobar una proposició (una interpretació) amb aquesta forma lògica que sigui falsa, és a dir, no té contraexemples.\n\nPer exemple: (p→q) → (¬q→¬p) Llei de contraposició (del condicional)\n\npq(p→q)(¬q→¬p)(p→q)→(¬q→¬p)111111</td>00010111100111\n<table class=\"no-border-table\"><td colspan=\"2\" style=\"text-align: centre;\">√ 1. (p → q)<td colspan=\"2\" style=\"text-align: centre;\">√ 2. ¬(¬q→¬p)3.1 ¬p (β 1)3.2 q (β 1)4.1 ¬q (α 2)4.2 ¬q (α 2)5.1 p (α 2)5.2 p (α 2)Es tanca amb 3.1 i 5.1Es tanca amb 3.2 i 4.2"
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 54,
+      "question": "Els teoremes són les regles deductives del càlcul axiomàtic.",
+      "answer": "Fals",
+      "explanation": "El càlcul axiomàtic no té regles deductives com a tal, sinó regles de transformació. Els teoremes són fórmules vàlides obtingudes a partir d'axiomes mitjançant regles de transformació."
+    },
+    {
+      "section": "NOTES PREGUNTES",
+      "number": 55,
+      "question": "Només s'utilitzen fórmules tautològiques o vàlides en el càlcul axiomàtic.",
+      "answer": "Cert",
+      "explanation": "El càlcul axiomàtic parteix d'axiomes, que són veritats lògiques (tautologies, fórmules vàlides) per stipulació. Mitjançant regles, es demostren teoremes que preserven la validesa dels axiomes. \n\nUna altra explicació: El càlcul axiomàtic parteix de fórmules que s'accepten com a vàlides o tautològiques i que no es poden demostrar dins del sistema, i mitjançant regles de transformació demostra la validesa d'altres, de manera que només s'escriuen fórmules vàlides en la cadena de demostració. En altres paraules, les regles de transformació del càlcul axiomàtic no només preserven la veritat de les premisses, si n'hi ha, sinó també la validesa de la seva forma."
+    }
+  ]
+}

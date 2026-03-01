@@ -4,7 +4,7 @@
   "areas": [
     {
       "area": "Lógica I",
-      "file": "questions-logica1.json",
+      "file": "questions-log1.json",
       "type": "True False",
       "shortName": "log1",
       "language": "es"
@@ -25,42 +25,42 @@
     },
     {
       "area": "Lògica I",
-      "file": "questions-ca-log1.json",
+      "file": "questions-log1-ca.json",
       "type": "True False",
       "shortName": "log1",
       "language": "ca"
     },
     {
       "area": "Introducció al Pensament Científic",
-      "file": "questions-ca-ipc.json",
+      "file": "questions-ipc-ca.json",
       "type": "Multiple Choice",
       "shortName": "ipc",
       "language": "ca"
     },
     {
       "area": "Filosofia del Llenguatge I",
-      "file": "questions-ca-fdl.json",
+      "file": "questions-fdl-ca.json",
       "type": "Multiple Choice",
       "shortName": "fdl",
       "language": "ca"
     },
     {
       "area": "Logic I",
-      "file": "questions-en-log1.json",
+      "file": "questions-log1-en.json",
       "type": "True False",
       "shortName": "log1",
       "language": "en"
     },
     {
       "area": "Introduction to Scientific Thinking",
-      "file": "questions-en-ipc.json",
+      "file": "questions-ipc-en.json",
       "type": "Multiple Choice",
       "shortName": "ipc",
       "language": "en"
     },
     {
       "area": "Philosophy of Language I",
-      "file": "questions-en-fdl.json",
+      "file": "questions-fdl-en.json",
       "type": "Multiple Choice",
       "shortName": "fdl",
       "language": "en"

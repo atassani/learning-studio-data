@@ -1,0 +1,1102 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-02-17",
+  "area": "Logic I",
+  "type": "True False",
+  "shortName": "log1",
+  "language": "es",
+  "questions": [
+    {
+      "section": "QUESTIONS ABOUT ARGUMENTS:",
+      "number": 1,
+      "question": "For an argument with true premises to be valid, it is a necessary but not sufficient condition that its conclusion be true.",
+      "answer": "True",
+      "explanation": "If the argument has a valid form and true premises, it must necessarily have a true conclusion. An argument with true premises and false conclusion cannot have valid form, since validity ensures that it does not go from true to false. But it is not a sufficient condition to have true premises and true conclusion to have an argument with a valid form. For example: \"2 plus 2 are 4. Therefore, Madrid is the capital of Spain\" is an argument with true premise and conclusion, but with invalid logical form."
+    },
+    {
+      "section": "QUESTIONS ABOUT ARGUMENTS:",
+      "number": 2,
+      "question": "For an argument to be valid, it is enough for its premises and conclusion to be true.",
+      "answer": "False",
+      "explanation": "An argument with true premises and conclusion can have an invalid form. Example: Madrid is the capital of Spain. Therefore, two and two are four."
+    },
+    {
+      "section": "QUESTIONS ABOUT ARGUMENTS:",
+      "number": 3,
+      "question": "For an argument to be valid, it is not necessary for its premises to be true.",
+      "answer": "True",
+      "explanation": "A valid form admits all kinds of combinations in the truth values of the premises and the conclusion, except the case of true premises and false conclusion. So there are valid arguments with false premises."
+    },
+    {
+      "section": "QUESTIONS ABOUT ARGUMENTS:",
+      "number": 4,
+      "question": "If an argument is valid, its conclusion is true.",
+      "answer": "False",
+      "explanation": "The validity of the argument follows the criteria of implication. In a valid argument we say that the set of premises implies the conclusion. This means that if the premises were all true, the conclusion would necessarily be true as well. The relation of implication, the validity of the argument, makes it impossible for the false to follow from the true. Now, if we put falsity in the premises, we can have validity in the form and falsity in the conclusion."
+    },
+    {
+      "section": "QUESTIONS ABOUT ARGUMENTS:",
+      "number": 5,
+      "question": "A logically invalid argument has all its premises true and the conclusion false.",
+      "answer": "False",
+      "explanation": "An invalid argument can have any form and any truth value in both premises and conclusion. It is invalid because its form allows the case that the premises are true and the conclusion false, but the rest of the cases are not impossible."
+    },
+    {
+      "section": "QUESTIONS ABOUT ARGUMENTS:",
+      "number": 6,
+      "question": "A logically invalid argument has all its premises true and the conclusion false.",
+      "answer": "False",
+      "explanation": "The invalid argument is one that has an invalid form, a form that allows the existence of arguments with any combination of truth values, for example, true premises and true conclusion: Madrid is the capital of Spain and Lisbon is the capital of Portugal Therefore, Paris is the capital of France. This argument is invalid, although both premises and conclusion are true, because its form allows the existence of counterexamples: arguments with the same form that have true premises and false conclusion: Madrid is the capital of Spain and Lisbon is the capital of Portugal, Therefore, Rome is the capital of France."
+    },
+    {
+      "section": "QUESTIONS ABOUT ARGUMENTS:",
+      "number": 7,
+      "question": "Invalid arguments always have a false conclusion.",
+      "answer": "False",
+      "explanation": "An argument with invalid form is one in which the premises do not imply the conclusion, either true or false. Validity and invalidity are said of the logical form of the argument. For example, \"London is a small city. Therefore, London is a Spanish city\" is an invalid argument with a false conclusion. Another argument with the same invalid form, but true conclusion is: \"London is a small city. Therefore, London is an English city.\""
+    },
+    {
+      "section": "QUESTIONS ABOUT ARGUMENTS:",
+      "number": 8,
+      "question": "If an argument is invalid, the conjunction of premises and conclusion is a contingency.",
+      "answer": "False",
+      "explanation": "In an argument with invalid form we can find different combinations of statements. For example, we can have a contingent premise and a contradictory conclusion, whose conjunction would also be a contradiction. What we cannot have is neither premises with contradiction, since then the inferential form would be valid, since from the contradiction we can conclude anything, nor can we have a conjunction between the premises and the conclusion that is a tautology, since for that it would be necessary for the conclusion to be tautological, but then the inferential form would be valid. The conjunction between the premises and the conclusion of an invalid argument will be either a contingency or a contradiction."
+    },
+    {
+      "section": "QUESTIONS ABOUT ARGUMENTS:",
+      "number": 9,
+      "question": "An argument with a false conclusion cannot be valid.",
+      "answer": "False",
+      "explanation": "If in the set of premises there is also falsehood, its argumentative form can be valid. Validity would be impossible if, having a false conclusion, all the premises were true."
+    },
+    {
+      "section": "QUESTIONS ABOUT ARGUMENTS:",
+      "number": 10,
+      "question": "The conclusion of a valid argument cannot be false.",
+      "answer": "False",
+      "explanation": "What cannot happen in a valid argument is that the conclusion is false when the premises are true, but there can be valid arguments with false premises (at least one) and false conclusion. The validity is of the form of the argument. A valid form prevents the passage from true to false."
+    },
+    {
+      "section": "QUESTIONS ABOUT ARGUMENTS:",
+      "number": 11,
+      "question": "An argument that contains contradiction in the set of premises is an invalid argument.",
+      "answer": "False",
+      "explanation": "Anything follows from contradiction. So all arguments that have contradiction in the premises are arguments with valid logical form."
+    },
+    {
+      "section": "QUESTIONS ABOUT ARGUMENTS:",
+      "number": 12,
+      "question": "If an argument has true premises and false conclusion, it cannot have a valid logical form.",
+      "answer": "True",
+      "explanation": "A valid inferential form prevents the case of argument with true premises and false conclusion. From the true does not validly follow the false. Such an argument would serve as a counterexample proving the invalidity of its inferential form."
+    },
+    {
+      "section": "QUESTIONS ABOUT ARGUMENTS:",
+      "number": 13,
+      "question": "If an argument is incorrect, its negation is valid.",
+      "answer": "False",
+      "explanation": "The arguments cannot be denied."
+    },
+    {
+      "section": "QUESTIONS ABOUT ARGUMENTS:",
+      "number": 14,
+      "question": "An argument scheme is either true or false.",
+      "answer": "False",
+      "explanation": "An argument scheme is either valid or invalid. Truth and falsity are properties of statements."
+    },
+    {
+      "section": "QUESTIONS ABOUT ARGUMENTS:",
+      "number": 15,
+      "question": "A true proposition only implies true propositions.",
+      "answer": "True",
+      "explanation": "We speak of implication between two propositions when their logical forms (their respective formulas) make it impossible for the false to follow from the true."
+    },
+    {
+      "section": "QUESTIONS ABOUT ARGUMENTS:",
+      "number": 16,
+      "question": "An argument can only be true or false.",
+      "answer": "False",
+      "explanation": "Arguments have only valid or invalid form. \"True\" and \"false\" apply only to statements."
+    },
+    {
+      "section": "QUESTIONS ABOUT FORMULAS:",
+      "number": 1,
+      "question": "Every well-formed formula is a tautology.",
+      "answer": "False",
+      "explanation": "A well-formed formula is one that complies with the rules of formula formation. Once a formula is obtained, we can evaluate it semantically and determine whether it is a tautology, a contradiction or a contingency. There are well-formed formulas of all three types."
+    },
+    {
+      "section": "QUESTIONS ABOUT FORMULAS:",
+      "number": 2,
+      "question": "If X is a contingent formula, Y → (X v ¬ X) is also contingent.",
+      "answer": "False",
+      "explanation": "Since the consequent has a tautological form, the conditional cannot have any case in which the antecedent is true and the consequent false, the only case in which the conditional would be false. So this conditional is a tautology, a valid formula."
+    },
+    {
+      "section": "QUESTIONS ABOUT FORMULAS:",
+      "number": 3,
+      "question": "Any valid formula is implied by a contradiction.",
+      "answer": "True",
+      "explanation": "From a contradiction anything logically follows, i.e., a contradictory formula implies any formula."
+    },
+    {
+      "section": "QUESTIONS ABOUT FORMULAS:",
+      "number": 4,
+      "question": "Any formula is implied by a contradiction.",
+      "answer": "True",
+      "explanation": "Contradiction implies any formula, from contradiction any formula validly follows: Ex Contradictione Quodlibet."
+    },
+    {
+      "section": "QUESTIONS ABOUT FORMULAS:",
+      "number": 5,
+      "question": "If X is a valid formula, Y → X is also valid.",
+      "answer": "True",
+      "explanation": "If the consequent of that conditional is a tautology, it is impossible to find a case that makes the formula false, that is, a case in which Y would be true and X false."
+    },
+    {
+      "section": "QUESTIONS ABOUT FORMULAS:",
+      "number": 6,
+      "question": "If X is a valid formula, (Y ∧ ¬ Y) → X is a contingent formula.",
+      "answer": "False",
+      "explanation": "A conditional formula with a valid consequent cannot have any case of falsity, there is no interpretation that makes the antecedent true and the consequent false. It is a tautology."
+    },
+    {
+      "section": "QUESTIONS ABOUT FORMULAS:",
+      "number": 7,
+      "question": "If X is a contradictory formula, (Y ∧ ¬ Y) → X is a contingent formula.",
+      "answer": "False",
+      "explanation": "It is a tautology, a valid formula, because the antecedent of that conditional is also a contradiction."
+    },
+    {
+      "section": "QUESTIONS ABOUT FORMULAS:",
+      "number": 8,
+      "question": "If X is a contradictory formula, (Y ∧ ¬ Y) → X is a valid formula.",
+      "answer": "True",
+      "explanation": "The antecedent of that conditional is a contradiction and a contradiction (Y ∧ ¬ Y) implies any formula. An implication is a valid conditional, a tautology."
+    },
+    {
+      "section": "QUESTIONS ABOUT FORMULAS:",
+      "number": 9,
+      "question": "If X is a contradictory formula, (Y ∧ ¬ Y) → X is a contradictory formula.",
+      "answer": "False",
+      "explanation": "The antecedent of that conditional is a contradiction, so the conditional can never reach the value F, since the case V.→ F can never occur. So not only is it not a contradiction, but any formula with the form (Y ∧ ¬ Y) → X will always result in a tautology."
+    },
+    {
+      "section": "QUESTIONS ABOUT FORMULAS:",
+      "number": 10,
+      "question": "(¬s ∧ t) →p ∧ (¬s ∧ t) → r is a well-formed formula.",
+      "answer": "False",
+      "explanation": "More parentheses are needed to disambiguate the formula:"
+    },
+    {
+      "section": "QUESTIONS ABOUT FORMULAS:",
+      "number": 11,
+      "question": "From the truth of p v q follows the truth of ( ¬ p ∧ r ) → q",
+      "answer": "True",
+      "explanation": "( ¬ p ∧ r ) → q is equivalent to r →(¬ p → q) and to r →(p v q) and to ¬ r v (p v q). From (p v q) follows ¬ r v (p v q) by RI v."
+    },
+    {
+      "section": "SEMANTIC TREE ISSUES",
+      "number": 1,
+      "question": "A semantic tree with all its branches closed indicates that there is no interpretation under which the premises of the argument could be true and the conclusion false.",
+      "answer": "True",
+      "explanation": "The semantic tree examines whether or not there is contradiction in assuming true premises and false conclusion. If contradiction is found in all branches (they are thus closed) we can conclude that the case of true premises and false conclusion is impossible."
+    },
+    {
+      "section": "SEMANTIC TREE ISSUES",
+      "number": 2,
+      "question": "A closed semantic tree indicates that both the premises and the conclusion are false.",
+      "answer": "False",
+      "explanation": "A closed tree indicates that all its branches contain contradiction. This means that it is not possible to find any case of true premises and false conclusion. The set formed by the premises and the negation of the conclusion is inconsistent. The inferential scheme examined is valid."
+    },
+    {
+      "section": "SEMANTIC TREE ISSUES",
+      "number": 3,
+      "question": "An open semantic tree indicates that there is a contradiction in the examined set of formulas.",
+      "answer": "False",
+      "explanation": "The open branch indicates the opposite: that the set of formulas examined is consistent. It is possible to find an interpretation of the set in which all statements are true."
+    },
+    {
+      "section": "SEMANTIC TREE ISSUES",
+      "number": 4,
+      "question": "An open semantic tree indicates that the parsed argument is valid.",
+      "answer": "False",
+      "explanation": "An open tree indicates that we can find an example of an argument, with the examined form, in which the premises are true and the conclusion false; that is, we can find a counterexample. Therefore, the inferential form examined in that tree is an invalid form."
+    },
+    {
+      "section": "SEMANTIC TREE ISSUES",
+      "number": 5,
+      "question": "A semantic tree with an open branch indicates that there is exactly one interpretation under which the premises of the argument are true and the conclusion false.",
+      "answer": "False",
+      "explanation": "An open branch indicates that the examined scheme is invalid, that there are arguments with that form such that the premises are true and the conclusion false, i.e., that it has counterexamples. How many? Always infinite, given the recursiveness of natural language."
+    },
+    {
+      "section": "SEMANTIC TREE ISSUES",
+      "number": 6,
+      "question": "A semantic tree with four closed branches and one open branch indicates that there is exactly one counterexample of the inference scheme examined.",
+      "answer": "False",
+      "explanation": "It indicates only that the examined scheme has counterexamples. When a scheme is invalid, it has infinite counterexamples."
+    },
+    {
+      "section": "SEMANTIC TREE ISSUES",
+      "number": 7,
+      "question": "A semantic tree with four closed branches and one open branch indicates that there are exactly four counterexamples of the examined inference scheme.",
+      "answer": "False",
+      "explanation": "The open branch indicates that the examined argument scheme is not valid, since there is no contradiction between true premises and false conclusion. The scheme has counterexamples (given the recursiveness of the language, we can say that it has infinite counterexamples)"
+    },
+    {
+      "section": "SEMANTIC TREE ISSUES",
+      "number": 8,
+      "question": "A semantic tree with an open branch indicates that there is an interpretation under which the premises of the argument are true and the conclusion false.",
+      "answer": "True",
+      "explanation": "There is at least one interpretation that makes the premises true and the conclusion false. It would be false, if by \"one\" is meant \"exactly one\". An open branch indicates that the argument is invalid and therefore has counterexamples. In fact, whenever there are counterexamples, there are infinite counterexamples (because of the recursiveness of natural language)."
+    },
+    {
+      "section": "SEMANTIC TREE ISSUES",
+      "number": 9,
+      "question": "A semantic tree with two closed and two open branches indicates that there are exactly two cases of validity and two cases of invalidity.",
+      "answer": "False",
+      "explanation": "Arguments do not have cases of validity, but valid or invalid form. An open tree (no matter how many branches are open) indicates that there are counterexamples, so the examined form is invalid."
+    },
+    {
+      "section": "SEMANTIC TREE ISSUES",
+      "number": 10,
+      "question": "Given a formula X, if the tree for X remains open and the tree for ¬ X also remains open, we can say that the formula X is neither valid nor contradictory.",
+      "answer": "True",
+      "explanation": "If the tree starting with X is open, X is not contradictory, it has some interpretation in which V. When X is V, ¬ X is F. If the tree starting with ¬ X is open, ¬ X is not contradictory, it has some interpretation in which V results. These are cases in which X is F. That is, X has V cases and F cases, so it is a contingency (neither valid nor contradictory)."
+    },
+    {
+      "section": "GENERAL ISSUES",
+      "number": 1,
+      "question": "The antecedent of a conditional statement is true only if its consequent is not false.",
+      "answer": "False",
+      "explanation": "The antecedent of a conditional can be true or false independently of its consequent. Depending on the values of the antecedent and consequent, one value or another of the conditional will result."
+    },
+    {
+      "section": "GENERAL ISSUES",
+      "number": 2,
+      "question": "The antecedent of a conditional statement is the premise of that statement.",
+      "answer": "False",
+      "explanation": "An argument and a statement have different structures. The form of a statement is contained in the formula; that of an argument in the inferential scheme. An argument can be transformed into a conditional statement, but the difference between arguing and stating and, in parallel, between the premise of an argument and the antecedent of an assertion is maintained."
+    },
+    {
+      "section": "GENERAL ISSUES",
+      "number": 3,
+      "question": "Some conditionals with contradictory consequents are tautologies.",
+      "answer": "True",
+      "explanation": "When the antecedent is also a contradiction, the resulting formula is a tautology."
+    },
+    {
+      "section": "GENERAL ISSUES",
+      "number": 4,
+      "question": "An implication is a true conditional.",
+      "answer": "False",
+      "explanation": "A relation of implication between two formulas A and B occurs when it is impossible to find an interpretation that makes the first one true and the second one false. This is exactly the case of the tautological conditional, the conditional is not simply true, but logically true. A conditional such as \"If Madrid is the capital of Spain, then Paris is the capital of France\", although it is true, is not an implication, but a contingent conditional"
+    },
+    {
+      "section": "GENERAL ISSUES",
+      "number": 5,
+      "question": "A counterexample is an example of contradiction.",
+      "answer": "False",
+      "explanation": "A counterexample is an interpretation that shows the invalidity of an inferential scheme or formula. For example: \"Madrid is the capital of Navarra\" is a counterexample of p. It is a false statement that shows that p is not a valid formula."
+    },
+    {
+      "section": "GENERAL ISSUES",
+      "number": 6,
+      "question": "A law is a logical form that has no counterexamples.",
+      "answer": "True",
+      "explanation": "It can be proved from an empty set of premises. If we make a semantic tree for its negation, all branches will close. If we make a truth table, we will see that it is a tautology, so it is not possible to find a statement (an interpretation) with such a logical form that is false, that is, it has no counterexamples."
+    },
+    {
+      "section": "GENERAL ISSUES",
+      "number": 7,
+      "question": "Theorems are the deductive rules of axiomatic calculus.",
+      "answer": "False",
+      "explanation": "The axiomatic calculus does not have deductive rules properly speaking, but transformation rules. The theorems are valid formulas obtained from the axioms, by means of the transformation rules."
+    },
+    {
+      "section": "GENERAL ISSUES",
+      "number": 8,
+      "question": "In axiomatic calculus only tautological or valid formulas are used.",
+      "answer": "True",
+      "explanation": "Axiomatic calculus starts from axioms, which are logical truths (tautologies, valid formulas) by stipulation. By means of rules, the theorems that preserve the validity of the axioms are proved. Other Explanation: True. The axiomatic calculus starts from formulas that are accepted as valid or tautological not provable in the system and, by means of transformation rules, proves the validity of others so that in the demonstrative chain only valid formulas are written. In other words, the transformation rules of the axiomatic calculus not only preserve the truth of the premises, if any, but also the validity of their form."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 1,
+      "question": "The antecedent of a conditional statement is true only if its consequent is not false.",
+      "answer": "False",
+      "explanation": "The antecedent of a conditional can be true or false independently of its consequent. Depending on the values of the antecedent and consequent, one value or another of the conditional will result."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 2,
+      "question": "For an argument to be valid, it is enough for its premises and conclusion to be true.",
+      "answer": "False",
+      "explanation": "An argument with true premises and conclusion can have an invalid form. Example: Madrid is the capital of Spain. Therefore, two and two are four. The invalid form of this argument is: p/q"
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 3,
+      "question": "In axiomatic calculus only tautological or valid formulas are used.",
+      "answer": "True",
+      "explanation": "The axiomatic calculus starts from formulas that are accepted as valid or tautological and not provable in the system and, by means of transformation rules, proves the validity of others so that only valid formulas are written in the demonstrative chain. In other words, the transformation rules of the axiomatic calculus not only preserve the truth of the premises, if any, but also the validity of their form."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 4,
+      "question": "An implication is a true conditional.",
+      "answer": "False",
+      "explanation": "A relation of implication between two formulas A and B occurs when it is impossible to find an interpretation that makes the first true and the second false. This is exactly the case of the tautological conditional, the conditional that is not simply true, but logically true. A conditional such as \"If Madrid is the capital of Spain, then Paris is the capital of France\", although true, is not an implication, but a contingent conditional."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 5,
+      "question": "If X is a contradictory formula, (Y ∧ ¬ Y) → X is a valid formula.",
+      "answer": "True",
+      "explanation": "The antecedent of that conditional is a contradiction and a contradiction (Y ∧ ¬ Y) implies any formula. An implication is a valid conditional, a tautology."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 6,
+      "question": "A semantic tree with four closed branches and one open branch indicates that there are exactly four counterexamples of the examined inference scheme.",
+      "answer": "False",
+      "explanation": "The open branch indicates that the argument scheme examined is not valid, since there is no contradiction between true premises and false conclusion. The scheme has counterexamples (given the recursiveness of the language, we can say that it has infinite counterexamples)"
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 7,
+      "question": "Some conditionals with contradictory consequent are tautologies.",
+      "answer": "True",
+      "explanation": "A conditional with contradictory antecedent and contradictory consequent is an implication, a tautological formula. A case can be shown with a truth table."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 8,
+      "question": "A logically invalid argument has all its premises true and the conclusion false.",
+      "answer": "False",
+      "explanation": "An invalid argument can have any form and any truth value in both premises and conclusion. It is invalid because its form allows the case that the premises are true and the conclusion false, but the rest of the cases are not impossible."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 9,
+      "question": "An argument can only be true or false.",
+      "answer": "False",
+      "explanation": "Arguments have only valid or invalid form. \"True\" and \"false\" apply only to statements."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 10,
+      "question": "In axiomatic calculus only tautological or valid formulas are used.",
+      "answer": "True",
+      "explanation": "Axiomatic calculus starts from axioms, which are logical truths (tautologies, valid formulas) by stipulation. By means of rules, the theorems that preserve the validity of the axioms are proved."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 11,
+      "question": "An open semantic tree indicates that the parsed argument is valid.",
+      "answer": "False",
+      "explanation": "An open tree indicates that we can find an example of an argument, with the examined form, in which the premises are true and the conclusion false; that is, we can find a counterexample. Therefore the inferential form examined in that tree is an invalid form."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 12,
+      "question": "The antecedent of a conditional statement is the premise of that statement.",
+      "answer": "False",
+      "explanation": "An argument and a statement have different structures. The form of a statement is contained in the formula; that of an argument in the inferential scheme. An argument can be transformed into a conditional statement, but the difference between arguing and stating and, in parallel, between the premise of an argument and the antecedent of an assertion is maintained."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 13,
+      "question": "If X is a valid formula, (Y ∧ ¬ Y) → X is a contingent formula.",
+      "answer": "False",
+      "explanation": "A conditional formula with a valid consequent cannot have any case of falsity, there is no interpretation that makes the antecedent true and the consequent false. It is a tautology."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 14,
+      "question": "A semantic tree with two closed and two open branches indicates that there are exactly two cases of validity and two cases of invalidity.",
+      "answer": "False",
+      "explanation": "Arguments do not have cases of validity, but valid or invalid form. An open tree (no matter how many branches are open) indicates that there are counterexamples, so the examined form is invalid."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 15,
+      "question": "Some conditionals with contradictory consequent are tautologies.",
+      "answer": "True",
+      "explanation": "This is the case when the antecedent is also contradictory. When both antecedent and consequent are contradictions, there are no interpretations with true antecedent and false consequent, but all interpretations result in the true (F → F : V)."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 16,
+      "question": "A logically invalid argument has all its premises true and the conclusion false.",
+      "answer": "False",
+      "explanation": "The invalid argument is one that has an invalid form, a form that allows the existence of arguments with any combination of truth values, for example, true premises and true conclusion: Madrid is the capital of Spain and Lisbon is the capital of Portugal Therefore, Paris is the capital of France. This argument is invalid, although both premises and conclusion are true, because its form allows the existence of counterexamples: arguments with the same form that have true premises and false conclusion: Madrid is the capital of Spain and Lisbon is the capital of Portugal Therefore, Rome is the capital of France. Form of this invalid argument: p ∧ q/ r"
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 17,
+      "question": "A true proposition only implies true propositions.",
+      "answer": "True",
+      "explanation": "We speak of implication between two propositions when their logical forms (their respective formulas) make it impossible for the false to follow from the true. All propositions having the same forms will have the composition V-V, F-F or F-V, but never V-F. It is the form of the proposition that makes this last case impossible."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 18,
+      "question": "If an argument is valid, its conclusion is true.",
+      "answer": "False",
+      "explanation": "The validity of the argument follows the criteria of implication. In a valid argument we say that the set of premises implies the conclusion. This means that if the premises were all true, the conclusion would necessarily be true as well. The relation of implication, the validity of the argument, makes it impossible for the false to follow from the true. Now, if we put falsity in the premises, we can have validity in the form and falsity in the conclusion."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 19,
+      "question": "Every well-formed formula is a tautology.",
+      "answer": "False",
+      "explanation": "A well-formed formula is one that complies with the rules of formula formation. Once a formula is obtained, we can evaluate it semantically and determine whether it is a tautology, a contradiction or a contingency. There are well-formed formulas of all three types."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 20,
+      "question": "A closed semantic tree indicates that both the premises and the conclusion are false.",
+      "answer": "False",
+      "explanation": "A closed tree indicates that all its branches contain contradiction. This means that it is not possible to find any case of true premises and false conclusion. The set formed by the premises and the negation of the conclusion is inconsistent. The inferential scheme examined is valid."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 21,
+      "question": "If an argument is incorrect, its negation is valid.",
+      "answer": "False",
+      "explanation": "The arguments cannot be denied."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 22,
+      "question": "A law is a logical form that has no counterexamples.",
+      "answer": "True",
+      "explanation": "It can be proved from an empty set of premises. If we make a semantic tree for its negation, all branches will close. If we make a truth table, we will see that it is a tautology, so it is not possible to find a statement (an interpretation) with such a logical form that is false, that is, it has no counterexamples."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 23,
+      "question": "An open semantic tree indicates that there is a contradiction in the examined set of formulas.",
+      "answer": "False",
+      "explanation": "The open branch indicates the opposite: that the set of formulas examined is consistent. It is possible to find an interpretation of the set in which all statements are true."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 24,
+      "question": "The conclusion of a valid argument cannot be false.",
+      "answer": "False",
+      "explanation": "What cannot happen in a valid argument is that the conclusion is false when the premises are true, but there can be valid arguments with false premises (at least one) and false conclusion. The validity is of the form of the argument. A valid form prevents the passage from true to false."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 25,
+      "question": "If X is a contradictory formula, (Y∧¬ Y) → X is a contradictory formula.",
+      "answer": "False",
+      "explanation": "The antecedent of that conditional is a contradiction, so the conditional can never reach the value F."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 26,
+      "question": "A semantic tree with an open branch indicates that there is an interpretation under which the premises of the argument are true and the conclusion false.",
+      "answer": "True",
+      "explanation": "There is at least one interpretation that makes the premises true and the conclusion false. It would be false, if by \"one\" is meant \"exactly one\". An open branch indicates that the argument is invalid and therefore has counterexamples. In fact, whenever there are counterexamples, there are infinite counterexamples (because of the recursiveness of natural language)."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 27,
+      "question": "Given a formula X, if the tree for X remains open and the tree for ¬ X also remains open, we can say that the formula X is neither valid nor contradictory.",
+      "answer": "True",
+      "explanation": "If the tree starting with X is open, X is not contradictory, it has some interpretation in which V. When X is V, ¬ X is F. If the tree starting with ¬ X is open, ¬ X is not contradictory, it has some interpretation in which V results. These are cases in which X is F. That is, X has V cases and F cases, so it is a contingency (neither valid nor contradictory)."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 28,
+      "question": "Some conditionals with contradictory consequents are tautologies.",
+      "answer": "True",
+      "explanation": "This is the case explained in the first answer. When the antecedent is also a contradiction, the resulting formula is a tautology."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 29,
+      "question": "If an argument is invalid, the conjunction of premises and conclusion is a contingency.",
+      "answer": "False",
+      "explanation": "In an argument with invalid form we can find different combinations of statements. For example, we can have a contingent premise and a contradictory conclusion, whose conjunction would also be a contradiction. What we cannot have is neither premises with contradiction, since then the inferential form would be valid, since from the contradiction we can conclude anything, nor can we have a conjunction between the premises and the conclusion that is a tautology, since for that it would be necessary for the conclusion to be tautological, but then the inferential form would be valid. The conjunction between the premises and the conclusion of an invalid argument will be either a contingency or a contradiction."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 30,
+      "question": "An argument with a false conclusion cannot be valid.",
+      "answer": "False",
+      "explanation": "If in the set of premises there is also falsehood, its argumentative form can be valid. Validity would be impossible if, having a false conclusion, all the premises were true."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 31,
+      "question": "A semantic tree with four closed branches and one open branch indicates that there is exactly one counterexample of the inference scheme examined.",
+      "answer": "False",
+      "explanation": "It indicates only that the examined scheme has counterexamples. When a scheme is invalid, it has infinite counterexamples."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 32,
+      "question": "An argument that contains contradiction in the set of premises is an invalid argument.",
+      "answer": "False",
+      "explanation": "Anything follows from contradiction. So all arguments that have contradiction in the premises are arguments with valid logical form."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 33,
+      "question": "For an argument to be valid, it is not necessary for its premises to be true.",
+      "answer": "True",
+      "explanation": "A valid form admits all kinds of combinations in the truth values of the premises and the conclusion, except the case of true premises and false conclusion. So there are valid arguments with false premises."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 34,
+      "question": "If X is a contradictory formula, (Y∧¬ Y) → X is a contingent formula.",
+      "answer": "False",
+      "explanation": "It is a tautology, a valid formula, because the antecedent of that conditional is also a contradiction."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 35,
+      "question": "From the truth of p v q follows the truth of ( ¬ p ∧ r ) → q",
+      "answer": "True",
+      "explanation": "( ¬ p ∧ r ) → q is equivalent to r →(¬ p → q) and to r →(p v q) and to ¬ r v (p v q). From (p v q) follows ¬ r v (p v q) by RI v."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 36,
+      "question": "Theorems are the deductive rules of axiomatic calculus.",
+      "answer": "False",
+      "explanation": "The axiomatic calculus does not have deductive rules properly speaking, but transformation rules. The theorems are valid formulas obtained from the axioms, by means of the transformation rules."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 37,
+      "question": "A counterexample is an example of contradiction.",
+      "answer": "False",
+      "explanation": "A counterexample is an interpretation that shows the invalidity of an inferential scheme or formula. For example: \"Madrid is the capital of Navarra\" is a counterexample of p. It is a false statement that shows that p is not a valid formula."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 38,
+      "question": "An argument scheme is either true or false.",
+      "answer": "False",
+      "explanation": "An argument scheme is either valid or invalid. Truth and falsity are properties of statements."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 39,
+      "question": "Invalid arguments always have a false conclusion.",
+      "answer": "False",
+      "explanation": "An argument with invalid form is one in which the premises do not imply the conclusion, either true or false. Validity and invalidity are said of the logical form of the argument. For example, \"London is a small city. Therefore, London is a Spanish city\" is an invalid argument with false conclusion and logical form: p/q Another argument with the same invalid form, but true conclusion is: \"London is a small city. Therefore, London is an English city.\""
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 40,
+      "question": "(¬s ∧ t) →p ∧ (¬s ∧ t) → r is a well-formed formula.",
+      "answer": "False",
+      "explanation": "More parentheses are needed to disambiguate the formula:"
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 41,
+      "question": "If an argument has true premises and false conclusion, it cannot have a valid logical form.",
+      "answer": "True",
+      "explanation": "A valid inferential form prevents the case of argument with true premises and false conclusion. From the true does not validly follow the false. Such an argument would serve as a counterexample proving the invalidity of its inferential form."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 42,
+      "question": "If X is a valid formula, Y → X is also valid.",
+      "answer": "True",
+      "explanation": "If the consequent of that conditional is a tautology, it is impossible to find a case that makes the formula false, that is, a case in which Y would be true and X false."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 43,
+      "question": "A semantic tree with an open branch indicates that there is exactly one interpretation under which the premises of the argument are true and the conclusion false.",
+      "answer": "False",
+      "explanation": "An open branch indicates that the examined scheme is invalid, that there are arguments with that form such that the premises are true and the conclusion false, i.e., that it has counterexamples. How many? Always infinite, given the recursiveness of natural language."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 44,
+      "question": "Any formula is implied by a contradiction.",
+      "answer": "True",
+      "explanation": "Contradiction implies any formula, from contradiction any formula validly follows: Ex Contradictione Quodlibet. A conditional that cannot have truth in its antecedent, will not have any case of falsity, since the conditional is only false when it has truth in the antecedent and falsity in the consequent. A conditional with contradiction in the antecedent is a tautological conditional, an implication."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 45,
+      "question": "For an argument with true premises to be valid, it is a necessary but not sufficient condition that its conclusion be true.",
+      "answer": "True",
+      "explanation": "If the argument has a valid form and true premises, it must necessarily have a true conclusion. An argument with true premises and false conclusion cannot have valid form, since validity ensures that it does not go from true to false. But it is not a sufficient condition to have true premises and true conclusion to have an argument with a valid form. For example: \"2 plus 2 are 4. Therefore Madrid is the capital of Spain\" is an argument with true premise and conclusion, but with invalid logical form: p/q This invalid form does allow going from true to false. An interpretation of this logical form with true premise and false conclusion: \"2 plus 2 is 4. Therefore, the river Ebro flows through Seville\"."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 46,
+      "question": "If X is a contingent formula, Y → (X v ¬ X) is also contingent.",
+      "answer": "False",
+      "explanation": "Since the consequent has a tautological form, the conditional cannot have any case in which the antecedent is true and the consequent false, the only case in which the conditional would be false. So this conditional is a tautology, a valid formula."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 47,
+      "question": "A semantic tree with all its branches closed indicates that there is no interpretation under which the premises of the argument could be true and the conclusion false.",
+      "answer": "True",
+      "explanation": "The semantic tree examines whether or not there is contradiction in assuming true premises and false conclusion. If contradiction is found in all branches (they are thus closed) we can conclude that the case of true premises and false conclusion is impossible."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 48,
+      "question": "Any valid formula is implied by a contradiction.",
+      "answer": "True",
+      "explanation": "First, because a tautology is implied by any formula. Secondly, because anything logically follows from a contradiction, i.e., a contradictory formula implies any formula."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 49,
+      "question": "The form of the arguments tells us whether they are true or false.",
+      "answer": "False",
+      "explanation": "Arguments are neither true nor false. Only statements are. Argumentative forms are either valid or invalid."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 50,
+      "question": "Contingent formulas have no counterexamples.",
+      "answer": "False",
+      "explanation": "Being contingent, it will have true interpretations and false interpretations. A false interpretation (a statement with that form) is a counterexample."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 51,
+      "question": "Every valid formula is implied by contradictory formulas.",
+      "answer": "True",
+      "explanation": "Being valid, being in the place of a conclusion, it is impossible to have a case of true premises and false conclusion. Valid formulas are implied by all formulas, also by contradictory ones. In fact, any formula is derived from the contradiction. In this case, all interpretations would be a case of passing from false to true. There is no possibility of finding a case with true premises and false conclusion. If we refer to implication not as a logical consequence between premises and conclusion, but as a valid conditional, we can say that when a conditional has a valid formula in the consequent, it is impossible to find a case with true antecedent and false consequent. This means that there is implication whatever there is in the antecedent: a valid formula, a contingent one or a contradictory one. Every valid formula is implied by any formula."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 52,
+      "question": "The negation of a tautology is an unsatisfiable formula.",
+      "answer": "True",
+      "explanation": "The negation of a tautology is a contradiction, a formula that has no case of truth, that is, unsatisfiable."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 53,
+      "question": "For an argument to be valid, it is not necessary for its conclusion to be true.",
+      "answer": "True",
+      "explanation": "The condition for validity is that there cannot be a case of true premises and false conclusion. The case of falsity in some premises and in the conclusion is possible."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 54,
+      "question": "No conditional with contradictory consequent can be a tautology.",
+      "answer": "False",
+      "explanation": "A conditional with contradictory antecedent and consequent is a tautology."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 55,
+      "question": "If an argument is invalid, the conjunction of premises and conclusion is a contradiction.",
+      "answer": "False",
+      "explanation": "If the argument is invalid, that conjunction may be contradictory or a contingency or a tautology. All possibilities are possible."
+    },
+    {
+      "section": "EXAMINATION ISSUES",
+      "number": 56,
+      "question": "If a formula is not valid, its negation is valid.",
+      "answer": "False",
+      "explanation": "If it is not valid (tautology), it may be because it is a contradiction or because it is a contingency. If it is a contradiction, its negation is a tautology (valid formula), but if it is a contingency, its negation is another contingency."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 1,
+      "question": "For an argument with true premises to be valid, it is a necessary but not sufficient condition that its conclusion be true.",
+      "answer": "True",
+      "explanation": "If the argument has a valid form and true premises, it must necessarily have a true conclusion. An argument with true premises and false conclusion cannot have a valid form, since validity ensures that it does not go from true to false. But it is not a sufficient condition to have true premises and true conclusion to have an argument with a valid form. For example: <i>\"2 plus 2 are 4. Therefore, Madrid is the capital of Spain\"</i> is an argument with true premise and conclusion, but with invalid logical form: p / q This invalid form does allow going from true to false. An interpretation of this logical form that has true premise and false conclusion: <i>\"2 plus 2 are 4. Therefore, the Ebro river passes through Seville\"</i>."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 2,
+      "question": "For an argument to be valid, it is enough for its premises and conclusion to be true.",
+      "answer": "False",
+      "explanation": "An argument with true premises and conclusion can have an invalid form. The key to understand this is the word \"enough\", which refers to the sufficiency of the statement. A counterexample to this statement would be: <i>\"Madrid is the capital of Spain. Therefore, two and two are four.\"</i>"
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 3,
+      "question": "For an argument to be valid, it is not necessary for its premises to be true.",
+      "answer": "True",
+      "explanation": "A valid form admits all kinds of combinations in the truth values of the premises and the conclusion, except for the case of true premises and false conclusion. The premises can be false and the argument be logically valid. The only thing that guarantees a valid argument is that, if the premises are true, the conclusion is also true, but that does not imply that the premises have to be true for the conclusion to be valid. So there are valid arguments with false premises."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 4,
+      "question": "An argument with a false conclusion cannot be valid.",
+      "answer": "False",
+      "explanation": "If in the set of premises there is also falsehood, its argumentative form can be valid. Validity would be impossible if, having a false conclusion, all the premises were true."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 5,
+      "question": "If an argument is valid, its conclusion is true.",
+      "answer": "False",
+      "explanation": "The validity of the argument follows the criteria of logical implication. In a valid argument we say that the set of premises implies the conclusion. This means that if the premises were all true, the conclusion would necessarily be true as well. The relation of implication, the validity of the argument, makes it impossible for the false to follow from the true. <i>Now, if we put falsity in the premises, we can have validity in the form and falsity in the conclusion"
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 6,
+      "question": "A logically invalid argument has all its premises true and the conclusion false.",
+      "answer": "False",
+      "explanation": "An invalid argument can have any form and any truth value in both premises and conclusion. It is invalid because its form allows for the case that the premises are true and the conclusion false, but the other cases are not impossible. For example, let be the argument of the form (p∧q)→r<ul><li><li><i>\"Madrid is capital of Spain and Lisbon is capital of Portugal. Therefore, Paris is the capital of France.\"</i></li></li></ul>This argument is invalid, although both premises and conclusion are true, because its form allows the existence of counterexamples: arguments with the same form that have true premises and false conclusion, such as:<ul><li><i>\"Madrid is the capital of Spain and Lisbon is the capital of Portugal, Therefore, Rome is the capital of France.\"</i></li></ul>"
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 7,
+      "question": "Invalid arguments always have a false conclusion.",
+      "answer": "False",
+      "explanation": "An argument with invalid form is one in which the premises do not logically imply the conclusion, either true or false. Validity and invalidity are said of the logical form of the argument. For example, <i>\"London is a small city. Therefore, London is a Spanish city\"</i> is an invalid argument with false conclusion and logical form: p → q Another argument with that same invalid form, but true conclusion is: <i>\"London is a small city. Therefore, London is an English city.\"</i>"
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 8,
+      "question": "If an argument is invalid, the conjunction of premises and conclusion is a contingency.",
+      "answer": "False",
+      "explanation": "In an argument with invalid form we can find different combinations of statements. For example, we can have a contingent premise and a contradictory conclusion, whose conjunction would also be a contradiction. What we cannot have is premises in contradiction, since then the inferential form would be valid, since from the contradiction we can conclude anything, nor can we have a conjunction between premises and conclusion that is a tautology, since for that it would be necessary for the conclusion to be tautological, but then the inferential form would be valid. The conjunction between premises and conclusion of an invalid argument will be either a contingency or a contradiction."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 9,
+      "question": "An argument scheme is either true or false.",
+      "answer": "False",
+      "explanation": " An argument scheme is either valid or invalid. Truth and falsity are properties of statements."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 10,
+      "question": "The conclusion of a valid argument cannot be false.",
+      "answer": "False",
+      "explanation": "What cannot happen in a valid argument is that the conclusion is false when the premises are true, but there can be valid arguments with false premises (at least one) and false conclusion. The validity is of the form of the argument. A valid form prevents the passage from true to false."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 11,
+      "question": "An argument that contains contradiction in the set of premises is an invalid argument.",
+      "answer": "False",
+      "explanation": "Anything follows from contradiction. So all arguments that have contradiction in the premises are arguments with valid logical form."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 12,
+      "question": "If an argument has true premises and false conclusion, it cannot have a valid logical form.",
+      "answer": "True",
+      "explanation": "A valid inferential form prevents the case of argument with true premises and false conclusion. From the true does not validly follow the false. Such an argument would serve as a counterexample proving the invalidity of its inferential form."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 13,
+      "question": "The antecedent of a conditional statement is the premise of that statement.",
+      "answer": "False",
+      "explanation": "A conditional is a formula (A → B) . And formulas have neither premises nor conclusion."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 14,
+      "question": "A true proposition only implies true propositions.",
+      "answer": "True",
+      "explanation": "We speak of implication between two propositions when their logical forms (their respective formulas) make it impossible for the false to follow from the true. All propositions having the same forms will have the composition V-V, F-F or F-V, but never V-F. It is the form of the proposition that makes this last case impossible."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 15,
+      "question": "Every well-formed formula is a tautology.",
+      "answer": "False",
+      "explanation": "A well-formed formula is one that complies with the rules of formula formation. Once a formula is obtained, we can evaluate it semantically and determine whether it is a tautology, a contradiction or a contingency. There are well-formed formulas of all three types."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 16,
+      "question": "If X is a contingent formula, Y →( X ∨ ¬X ) is also contingent.",
+      "answer": "False",
+      "explanation": "Since the consequent has a tautological form, the conditional cannot have any case in which the antecedent is true and the consequent false, the only case in which the conditional would be false. So this conditional is a tautology, a valid formula."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 17,
+      "question": "Any valid formula is implied by a contradiction.",
+      "answer": "True",
+      "explanation": "First, because a tautology is implied by any formula (load of premises). Secondly, because anything logically follows from a contradiction, i.e., a contradictory formula implies any formula."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 18,
+      "question": "An argument can only be true or false.",
+      "answer": "False",
+      "explanation": "Arguments have only valid or invalid form. \"True\" and \"false\" apply only to statements."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 19,
+      "question": "The antecedent of a conditional statement is true only if its consequent is not false.",
+      "answer": "False",
+      "explanation": "The antecedent of a conditional can be true or false independently of its consequent. Depending on the values of the antecedent and consequent, one value or another of the conditional will result."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 20,
+      "question": "Any formula is implied by a contradiction.",
+      "answer": "True",
+      "explanation": "Contradiction implies any formula, from contradiction any formula follows validly: <i>Ex Contradictione Quodlibet</i>. A conditional that cannot have truth in its antecedent, will have no case of falsity, since the conditional is only false when it has truth in the antecedent and falsity in the consequent. A conditional with contradiction in the antecedent is a tautological conditional, a logical implication."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 21,
+      "question": "If X is a valid formula, Y → X is also valid.",
+      "answer": "True",
+      "explanation": "If the consequent of that conditional is a tautology, it is impossible to find a case that makes the formula false, that is, a case in which Y would be true and X false."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 22,
+      "question": "If X is a valid formula, (Y ∧ ¬Y) → X is a contingent formula.",
+      "answer": "False",
+      "explanation": "A conditional formula with a valid consequent cannot have any case of falsity, there is no interpretation that makes the antecedent true and the consequent false. It is a tautology."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 23,
+      "question": "If X is a contradictory formula, (Y ∧ ¬Y) → X is a contingent formula.",
+      "answer": "False",
+      "explanation": "It is a tautology, a valid formula, because the antecedent of that conditional is also a contradiction."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 24,
+      "question": "If X is a contradictory formula, (Y ∧ ¬Y) → X is a valid formula.",
+      "answer": "True",
+      "explanation": "The antecedent of that conditional is a contradiction and a contradiction (Y ∧ ¬Y) implies any formula. An implication is a valid conditional, a tautology."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 25,
+      "question": "If X is a contradictory formula, (Y ∧ ¬Y) → X is a contradictory formula.",
+      "answer": "False",
+      "explanation": "The antecedent of that conditional is a contradiction, so the conditional can never reach the value F, since the case V → F can never occur. So not only is it not a contradiction, but any formula with the form (Y ∧ ¬Y) → X will always result in a tautology."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 26,
+      "question": "A satisfiable formula is implied by any unsatisfiable formula",
+      "answer": "True",
+      "explanation": "An unsatisfiable formula is a contradiction, from which anything can be concluded, among them, a satisfiable formula."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 27,
+      "question": "A valid formula is implied only by valid formulas",
+      "answer": "False",
+      "explanation": "A valid formula (tautology) can be implied by both true and false formulas."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 28,
+      "question": "A satisfiable formula only implies satisfiable formulas",
+      "answer": "False",
+      "explanation": "It could be the case that a satisfiable (contingent) formula implies valid (tautological) formulas."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 29,
+      "question": "A valid formula only implies valid formulas",
+      "answer": "True",
+      "explanation": "The fact that the implication is given (that it cannot be the case that in the presence of true premises, we have a false conclusion), the fact that the antecedent formula is tautological (everything true) requires by force that the conclusions it implies are also true."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 30,
+      "question": "If X and Y are logically incompatible formulas, then (X ∧ Y) → Z",
+      "answer": "True",
+      "explanation": "That they are logically incompatible means that they are contradictory, and since anything follows from a contradiction, in fact it can be confirmed that the formula we are considering is true."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 31,
+      "question": "If (X ∧ Y) → Z , then (X ∧ ¬Z) → ¬Y",
+      "answer": "True",
+      "explanation": "We can check this with the semantic tree √ 1. (X ∧ Y) → Z √ 2. ¬[(X ∧ ¬Z) → ¬Y ] √ 3. X ∧ ¬ Z (α2) 4. Y (α2) 5. X (α3) 6. ¬Z (α2) √ 7.1 ¬( X ∧Y ) (β 1) 7.2 Z (β 1) Closes with 6 8.11 ¬ X (β 7.1) 8.12 ¬Y (β 7.1) Closes with 5 Closes with 4 As the semantic tree closes, the argument between both premises is valid, so we can state that there is a logical implication between both expressions."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 32,
+      "question": "If [X ,Y , Z] ⊨ W is a correct deduction, then [X ,Y] ⊨ Z → W is also correct",
+      "answer": "True",
+      "explanation": "We see it better with the semantic tree: √ 1. (X ∧ Y ∧Z) → W √ 2. ¬[(X ∧ Y) → (Z → W)] √ 3. X ∧ Y (α2) √ 4. ¬(Z → W) (α2) 5. X (α3) 6. Y (α3) 7. Z (α4) 8. ¬W (α4) √ 9.1 ¬(X ∧ (Y ∧ Z)) (β 1) √ 10.12 ¬(Y ∧ z ) (β 9.1) 9.2 W (β 1) Closes with 8 10.11 ¬ X (β 9.1) Closes with 5 10.121¬Y (β 10.12) 10.122 ¬Z (β 9.1) Closes with 6 Closes with 7"
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 33,
+      "question": "If [X ,Y] ⊨ Z is a correct deduction, then X → (Y → Z) is a valid formula",
+      "answer": "True",
+      "explanation": "Corresponds with the import law, but we see it better with the semantic tree: √ 1. (X ∧ Y)→ Z √ 2. ¬[X → (Y → Z)] 3. X (α2) √ 4. ¬(Y → Z) (α2) 5. Y (α4) 6. ¬Z (α4) √ 7.1 ¬( X ∧Y ) (β 1) 7.2 Z (β 1) Closes in 6 8.11 ¬ X (β 7.1) Closes in 3 8.12 ¬Y (β 7.1) Closes in 5"
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 34,
+      "question": "If X implies Y then it is a logical truth",
+      "answer": "False",
+      "explanation": ""
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 35,
+      "question": "(¬s ∧ t) → p ∧ (¬s ∧ t) → r is a well-formed formula.",
+      "answer": "False",
+      "explanation": "More parentheses are needed to disambiguate the formula:<ul><li>(¬s ∧ t)→ [p ∧ (¬s ∧ t) → r]</li><li>[(¬s ∧ t) → p ∧ ( ¬s ∧ t)] → r</li><li>[(¬s ∧ t) → p] ∧ [(¬s ∧ t) → r]</li><li>__DEEPL_PH_PH_0__ →r</li></ul>"
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 36,
+      "question": "From the truth of p ∨ q follows the truth of (¬p ∧ r)→ q.",
+      "answer": "True",
+      "explanation": "For the disjunction to be true, at least I(p)=1 or I(q)=1 (or both):<ul><li>If I(p)=0 , I(p ∨ q)=1 only if I(q)=1 . In the conditional we would then have that the consequent is true, then the conditional will be true whatever the truth value of the antecedent.</li><li>If I(q)=0 , I(p ∨ q)=1 only if I(p)=1 . In this case the antecedent would always be false, since the conjunction would be false as one of the members would be the negation of p , which would be false. That is, we would have a false antecedent that will always give us a true conditional regardless of the truth value of the conclusion (which in this case we would already know to be false).</li></ul>On the other hand, we have that:<ul><li>{(¬p ∧ r)→ q} ≡<sub>{conm∧}</sub> {(r ∧ ¬p) → q}</li><li>{(r ∧ ¬p) → q}≡<sub>{exp}</sub> {r → (¬p → q)}</li><li>{r → (¬p → q)} ≡<sub>{r→∨}</sub>{r → (p ∨ q)}</li><li>{r → (p ∨ q)} ≡<sub>{I→∨}</sub> {¬r ∨ (p ∨ q)}</li></ul>Es decir, if we have p ∨ q, by RI∨ we can construct ¬r ∨ (p ∨ q) which we have just shown to be equivalent to (¬p ∨ r) → r"
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 37,
+      "question": "Given a formula X , if the tree for X remains open and the tree for ¬X also remains open, we can say that the formula X is neither valid (tautological) nor contradictory.",
+      "answer": "True",
+      "explanation": "If the tree for X remains open, X is not contradictory, it has some interpretation in which V results. When X is V, ¬X is F. If the tree for ¬X remains open, ¬X is not contradictory, it has some interpretation in which V results. These are cases in which ¬X is F. That is, ¬X has V cases and F cases, so it is a contingency (neither valid nor contradictory)."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 38,
+      "question": "If an argument is invalid, the conjunction of the premises and the conclusion is a contradiction",
+      "answer": "False",
+      "explanation": "we can have an argument with p V and c V and still present an invalid form, without the relation between its premises and conclusion implying a contradiction"
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 39,
+      "question": "If X is a contradictory formula, (Y ∧ ¬Y) → X is a valid formula",
+      "answer": "True",
+      "explanation": "anything follows from a contradiction. The antecedent will always be true and therefore the formula will always be tautological, regardless of whether it is a contradictory formula."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 40,
+      "question": "The negation of a tautology is an unsatisfiable formula",
+      "answer": "True",
+      "explanation": "the negation of a tautology is a contradiction, which is itself an unsatisfiable formula, that is, it is false in all its interpretations (unsatisfiability=contradictoriness)"
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 41,
+      "question": "A semantic tree with all its branches closed indicates that there is no interpretation under which the premises of the argument could be true and the conclusion false.",
+      "answer": "True",
+      "explanation": "The semantic tree examines whether or not there is contradiction in assuming true premises and false conclusion. If contradiction is found in all branches (they are thus closed) we can conclude that the case of true premises and false conclusion is impossible."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 42,
+      "question": "An open semantic tree indicates that there is a contradiction in the examined set of formulas.",
+      "answer": "False",
+      "explanation": "The open branch indicates the opposite: that the set of formulas examined is consistent. It is possible to find an interpretation of the set in which all statements are true."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 43,
+      "question": "An open semantic tree indicates that the parsed argument is valid.",
+      "answer": "False",
+      "explanation": "An open tree indicates that we can find an example of an argument, with the examined form, in which the premises are true and the conclusion false; that is, we can find a counterexample. Therefore, the inferential form examined in that tree is an invalid form."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 44,
+      "question": "A closed semantic tree indicates that both premises and conclusion are false.",
+      "answer": "False",
+      "explanation": "A closed tree indicates that all its branches contain contradiction. This means that it is not possible to find any case of true premises and false conclusion. The set formed by the premises and the negation of the conclusion is inconsistent. The inferential scheme examined is valid."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 45,
+      "question": "A semantic tree with an open branch indicates that there is exactly one interpretation under which the premises of the argument are true and the conclusion false.",
+      "answer": "False",
+      "explanation": "An open branch indicates that the examined scheme is invalid, that there are arguments with that form such that the premises are true and the conclusion false, i.e., that it has counterexamples. How many? Always infinite, given the recursiveness of natural language."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 46,
+      "question": "A semantic tree with four closed branches and one open branch indicates that there are exactly four counterexamples of the examined inference scheme.",
+      "answer": "False",
+      "explanation": "The open branch indicates that the argument scheme examined is not valid, since there is no contradiction between true premises and false conclusion. The scheme has counterexamples (given the recursiveness of the language, we can say that it has infinite counterexamples)."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 47,
+      "question": "A semantic tree with an open branch indicates that there is an interpretation under which the premises of the argument are true and the conclusion false.",
+      "answer": "True",
+      "explanation": "There is at least one interpretation that makes the premises true and the conclusion false. It would be false, if by \"one\" is meant \"exactly one\". An open branch indicates that the argument is invalid and therefore has counterexamples. In fact, whenever there are counterexamples, there are infinite counterexamples (because of the recursiveness of natural language)."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 48,
+      "question": "A semantic tree with two closed and two open branches indicates that there are exactly two cases of validity and two cases of invalidity.",
+      "answer": "False",
+      "explanation": "Arguments do not have cases of validity, but valid or invalid form. An open tree (no matter how many branches are open) indicates that there are counterexamples, so the examined form is invalid."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 49,
+      "question": "The antecedent of a conditional statement is the premise of that statement.",
+      "answer": "False",
+      "explanation": "An argument and a statement have different structures. The form of an utterance is contained in the formula; that of an argument in the inferential scheme. An argument can be transformed into a conditional statement, but the difference between arguing and stating and, in parallel, between the premise of an argument and the antecedent of an assertion is maintained."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 50,
+      "question": "A counterexample is an example of contradiction.",
+      "answer": "False",
+      "explanation": "A counterexample is an interpretation that shows the invalidity of an inferential scheme or formula. For example: <i>\"Madrid is the capital of Navarre\"</i> is a counterexample of p. It is a false statement that shows that p is not a valid formula."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 51,
+      "question": "Some conditionals with contradictory consequents are tautologies.",
+      "answer": "True",
+      "explanation": "When the antecedent is also a contradiction, the resulting formula is a tautology, since from it I(X ∧ ¬X)=0 , the conditional will always be valid whatever the value of the consequent I(Y)=0 or I(Y)=1.\n\n When both (antecedent and consequent) are contradictions, there are no interpretations with true antecedent and false consequent, but all interpretations result in the true. A conditional with contradictory antecedent and contradictory consequent is an implication, a tautological formula. A case can be shown with a truth table."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 52,
+      "question": "An implication is a true conditional.",
+      "answer": "False",
+      "explanation": "A relation of implication between two formulas A and B occurs when it is impossible to find an interpretation that makes the first one true and the second one false. This is exactly the case of the tautological conditional, the conditional is not simply true, but logically true. A conditional such as <i>\"If Madrid is the capital of Spain, then Paris is the capital of France\"</i>, although true, is not an implication, but a contingent conditional."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 53,
+      "question": "A law is a logical form that has no counterexamples.",
+      "answer": "True",
+      "explanation": "It can be proved from an empty set of premises. If we make a semantic tree for its negation, all branches will close. If we make a truth table, we will see that it is a tautology, so it is not possible to find a statement (an interpretation) with such a logical form that is false, that is, it has no counterexamples.\n\nFor example: (p→q) → (¬q→¬p) <strong>Law of counterexample (of the condicional)</strong> <table><tr><th>p</th><th>q</th><th>(p→q)</th><th>(¬q→¬p)</th><th>(p→q)→(¬q→¬p)</th></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td></tr><tr><td>0</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>0</td><td>0</td><td>1</td><td>1</td><td>1</td></tr></table> <table class=\"no-border-table\"><tr><td colspan=\"2\" style=\"text-align: center;\">√ 1. (p → q)</td></tr><tr><tr><td colspan=\"2\" style=\"text-align: center;\">√ 2. ¬(¬q→¬p)</td></tr><tr><tr><td>3.1 ¬p (β 1)</td><td>3.2 q (β 1)</td><tr><tr><td>4.1 ¬q (α 2)</td><td>4.2 ¬q (α 2)</td></tr><tr><tr><tr><td>5.1 p (α 2)</td><td>5.2 p (α 2)</td></tr><tr><tr><td>Close with 3.1 and 5.1</td><td>Close with 3.2 4.2</td></tr></table>"
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 54,
+      "question": "Theorems are the deductive rules of axiomatic calculus.",
+      "answer": "False",
+      "explanation": "The axiomatic calculus does not have deductive rules properly speaking, but transformation rules. The theorems are valid formulas obtained from the axioms, by means of the transformation rules."
+    },
+    {
+      "section": "QUESTIONS FROM THE NOTES",
+      "number": 55,
+      "question": "In axiomatic calculus only tautological or valid formulas are used.",
+      "answer": "True",
+      "explanation": "The axiomatic calculus starts from axioms, which are logical truths (tautologies, valid formulas) by stipulation. By means of rules, the theorems that preserve the validity of the axioms are proved. Other Explanation: True: The axiomatic calculus starts from formulas that are accepted as valid or tautological and not provable in the system and, by means of transformation rules, proves the validity of others so that only valid formulas are written in the demonstrative chain. In other words, the transformation rules of the axiomatic calculus not only preserve the truth of the premises, if any, but also the validity of their form."
+    }
+  ]
+}

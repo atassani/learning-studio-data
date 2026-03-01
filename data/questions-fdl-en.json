@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-03-15T15:13:00Z",
+  "area": "Philosophy of Language I",
+  "type": "Multiple Choice",
+  "shortName": "fdl",
+  "language": "en",
+  "questions": [
+    {
+      "section": "Topic 1. Introduction",
+      "number": 1,
+      "question": "“Pedro stole the jewels” and “The jewels were stolen by Pedro” express:",
+      "options": [
+        "The same proposition.",
+        "They do not express any proposition.",
+        "Two different propositions."
+      ],
+      "answer": "The same proposition.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 1. Introduction",
+      "number": 2,
+      "question": "What is semantics concerned with?",
+      "options": [
+        "The rules of grammatical formation.",
+        "Those aspects of language related to its use and communicative practices.",
+        "The meaning of expressions and, specifically, the relations between language and reality."
+      ],
+      "answer": "The meaning of expressions and, specifically, the relations between language and reality.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 1. Introduction",
+      "number": 3,
+      "question": "In which of the following statements is “Pedro” used (not mentioned)?",
+      "options": [
+        "“Pedro” has 5 letters.",
+        "“Pedro” is a proper name.",
+        "Pedro has stolen the jewels."
+      ],
+      "answer": "Pedro has stolen the jewels.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 1. Introduction",
+      "number": 4,
+      "question": "Consider the following statement: “Pedro” is a thief.",
+      "options": [
+        "The statement is false because Pedro is not used but mentioned and therefore refers to a linguistic expression.",
+        "The statement is false because it is ironic.",
+        "The statement is true if Pedro is in fact a thief."
+      ],
+      "answer": "The statement is false because Pedro is not used but mentioned and therefore refers to a linguistic expression.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 1. Introduction",
+      "number": 5,
+      "question": "Consider the following statement: “La neige est blanche” means in French that snow is white. Which language is used as the metalanguage?",
+      "options": [
+        "Both.",
+        "French.",
+        "Spanish"
+      ],
+      "answer": "Spanish",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 2. Frege: Sense and Reference",
+      "number": 1,
+      "question": "In Frege’s logical-semantic analysis of language, why is the grammatical subject–predicate structure replaced?",
+      "options": [
+        "By the grammatical categories of noun phrase and verb phrase.",
+        "By the logical-mathematical structure of argument and function."
+      ],
+      "answer": "By the logical-mathematical structure of argument and function.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 2. Frege: Sense and Reference",
+      "number": 2,
+      "question": "According to Frege, the sense of a linguistic expression...",
+      "options": [
+        "Is intersubjective, that is, it can be shared.",
+        "Is the object designated by the expression and therefore is objective.",
+        "Is subjective, like a mental representation."
+      ],
+      "answer": "Is intersubjective, that is, it can be shared.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 2. Frege: Sense and Reference",
+      "number": 3,
+      "question": "In Frege’s theory, the sense of a simple sentence is:",
+      "options": [
+        "A thought.",
+        "Only proper names have sense.",
+        "Its truth value."
+      ],
+      "answer": "A thought.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 2. Frege: Sense and Reference",
+      "number": 4,
+      "question": "According to Frege, in the statement “Plato believes that Aristotle is mistaken”...",
+      "options": [
+        "“Aristotle” has neither sense nor reference.",
+        "“Aristotle” has indirect reference (it refers to its usual sense).",
+        "“Aristotle” has its usual reference (it refers to an individual)."
+      ],
+      "answer": "“Aristotle” has indirect reference (it refers to its usual sense).",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 2. Frege: Sense and Reference",
+      "number": 5,
+      "question": "According to the principle of substitutivity adopted by Frege, what does not change when one term is replaced by another coreferential term in a statement?",
+      "options": [
+        "The truth value of the statement, that is, its reference.",
+        "The thought expressed by the statement, that is, its sense.",
+        "Both sense and reference change."
+      ],
+      "answer": "The truth value of the statement, that is, its reference.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 3. Russell and the Semantics of Definite Descriptions",
+      "number": 1,
+      "question": "The contribution of a proper name to the singular (or Russellian) proposition expressed by a statement in which that name appears is:",
+      "options": [
+        "The object denoted by the name.",
+        "The sense of the name.",
+        "The mental representation associated with the name."
+      ],
+      "answer": "The object denoted by the name.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 3. Russell and the Semantics of Definite Descriptions",
+      "number": 2,
+      "question": "The statements ‘Hesperus is a planet’ and ‘Phosphorus is a planet’ (where ‘Hesperus’ and ‘Phosphorus’ are names of Venus)…",
+      "options": [
+        "Express two different Fregean propositions but the same Russellian proposition.",
+        "Express the same Fregean proposition and the same Russellian proposition.",
+        "Express the same Fregean proposition but different Russellian propositions."
+      ],
+      "answer": "Express two different Fregean propositions but the same Russellian proposition.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 3. Russell and the Semantics of Definite Descriptions",
+      "number": 3,
+      "question": "According to Russell:",
+      "options": [
+        "The notion of logical form should not be used in semantics, since it is misleading.",
+        "The grammatical form of a statement is isomorphic with its logical form.",
+        "The grammatical form of a statement can be misleading and conceal its logical form."
+      ],
+      "answer": "The grammatical form of a statement can be misleading and conceal its logical form.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 3. Russell and the Semantics of Definite Descriptions",
+      "number": 4,
+      "question": "According to Russell, in the semantic structure of a definite description there is:",
+      "options": [
+        "An assumption of generality and plurality.",
+        "An assumption of non-existence.",
+        "An assumption of existence and an assumption of uniqueness."
+      ],
+      "answer": "An assumption of existence and an assumption of uniqueness.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 3. Russell and the Semantics of Definite Descriptions",
+      "number": 5,
+      "question": "According to Russell, definite descriptions:",
+      "options": [
+        "Are meaningless expressions.",
+        "Are quantificational expressions.",
+        "Are referential expressions, like proper names."
+      ],
+      "answer": "Are quantificational expressions.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 4. Direct Reference and Semantic Externalism",
+      "number": 1,
+      "question": "Following Kripke’s analysis, the statement “Hesperus is Phosphorus”:",
+      "options": [
+        "Is a necessary a posteriori statement.",
+        "Is a contingent a posteriori statement.",
+        "Is a necessary a priori statement."
+      ],
+      "answer": "Is a necessary a posteriori statement.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 4. Direct Reference and Semantic Externalism",
+      "number": 2,
+      "question": "Suppose that the description we associate with the name ‘Gabriel García Márquez’ is ‘the author of One Hundred Years of Solitude’. Now imagine that the person to whom we usually attribute the merit of that work (Gabriel García Márquez) did not in fact write it, but stole it from an acquaintance named Eugenia Pérez. According to descriptivism, to whom would the name ‘Gabriel García Márquez’ refer in this imagined situation?",
+      "options": [
+        "To Gabriel García Márquez.",
+        "To Eugenia Pérez.",
+        "To neither of them."
+      ],
+      "answer": "To Eugenia Pérez.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 4. Direct Reference and Semantic Externalism",
+      "number": 3,
+      "question": "According to Kripke, which expressions are rigid designators?",
+      "options": [
+        "Proper names.",
+        "Definite descriptions."
+      ],
+      "answer": "Proper names.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 4. Direct Reference and Semantic Externalism",
+      "number": 4,
+      "question": "According to externalism…",
+      "options": [
+        "The notion of reference is defective and must be replaced by that of sense.",
+        "In determining the reference of a term, entities external to the mind essentially intervene.",
+        "In determining the reference of a term, both the speakers’ ideas and entities external to the mind intervene."
+      ],
+      "answer": "In determining the reference of a term, entities external to the mind essentially intervene.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 4. Direct Reference and Semantic Externalism",
+      "number": 5,
+      "question": "Descriptivism is a theory…",
+      "options": [
+        "Both.",
+        "Internalist.",
+        "Externalist."
+      ],
+      "answer": "Internalist.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 5. Meaning and Truth",
+      "number": 1,
+      "question": "Tarski’s theory of truth:",
+      "options": [
+        "Is not recursive.",
+        "Is recursive and does not generate T-schemas (in English, T-schema) for all statements of the object language.",
+        "Is recursive and generates T-schemas (in English, T-schema) for all statements of the object language."
+      ],
+      "answer": "Is recursive and generates T-schemas (in English, T-schema) for all statements of the object language.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 5. Meaning and Truth",
+      "number": 2,
+      "question": "According to Davidson, giving a theory of meaning for a language amounts to the task of:",
+      "options": [
+        "Providing synonyms for the expressions of the language.",
+        "Indicating which Fregean sense corresponds to each expression of that language.",
+        "Formulating the theory of truth for that language."
+      ],
+      "answer": "Formulating the theory of truth for that language.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 5. Meaning and Truth",
+      "number": 3,
+      "question": "Indirect speech statements such as “Maria said that prices have risen again” have a particularly complex semantics. What analysis does Davidson propose?",
+      "options": [
+        "He refrains from offering a semantic analysis of this type of statement.",
+        "He treats the relative pronoun “that” as a demonstrative that denotes the content of the original utterance.",
+        "He appeals to Fregean senses."
+      ],
+      "answer": "He treats the relative pronoun “that” as a demonstrative that denotes the content of the original utterance.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 5. Meaning and Truth",
+      "number": 4,
+      "question": "What role does the principle of charity play in Davidson’s account of interpretation?",
+      "options": [
+        "It makes the division of linguistic labor possible.",
+        "It makes human interaction possible without communication.",
+        "It makes radical interpretation possible."
+      ],
+      "answer": "It makes radical interpretation possible.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 5. Meaning and Truth",
+      "number": 5,
+      "question": "The extension of a simple expression e is:",
+      "options": [
+        "A function from possible worlds to referents.",
+        "The Fregean sense of e.",
+        "The contribution of e to the truth value of the statement in which it appears."
+      ],
+      "answer": "The contribution of e to the truth value of the statement in which it appears.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 6. Indexicals and Demonstratives",
+      "number": 1,
+      "question": "An indexical is characterized by…",
+      "options": [
+        "Being an abbreviated proper name.",
+        "Always having empty extension.",
+        "Having a referent relative to the context of use."
+      ],
+      "answer": "Having a referent relative to the context of use.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 6. Indexicals and Demonstratives",
+      "number": 2,
+      "question": "An example of a pure or automatic indexical could be…",
+      "options": [
+        "'He'.",
+        "‘This’.",
+        "'I'."
+      ],
+      "answer": "'I'.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 6. Indexicals and Demonstratives",
+      "number": 3,
+      "question": "In Kaplan’s analysis, the character of an indexical is…",
+      "options": [
+        "The truth value of the statement in which the indexical appears.",
+        "The most usual referent of the indexical in question.",
+        "A rule that determines the referent of the indexical in each context."
+      ],
+      "answer": "A rule that determines the referent of the indexical in each context.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 6. Indexicals and Demonstratives",
+      "number": 4,
+      "question": "Carmen, in Córdoba, and Remedios, in Seville, say ‘It is hot here’. Their utterances have:",
+      "options": [
+        "Different character and different content.",
+        "The same character and the same content.",
+        "The same character and different content."
+      ],
+      "answer": "The same character and different content.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 6. Indexicals and Demonstratives",
+      "number": 5,
+      "question": "Consider the following two statements: (1) ‘The exam is on January 20 at 10:00.’ (2) ‘The exam is now.’ Suppose that (2) is uttered on January 20 at 10:00. These two statements, in the described context…",
+      "options": [
+        "Would have the same content and the same cognitive significance.",
+        "Would have the same content but different cognitive significance.",
+        "Would have different content but the same cognitive significance."
+      ],
+      "answer": "Would have the same content but different cognitive significance.",
+      "explanation": ""
+    }
+  ]
+}

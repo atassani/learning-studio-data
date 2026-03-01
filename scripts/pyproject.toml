@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "learning-studio-scripts"
+version = "0.1.0"
+description = "Python automation scripts for learning-studio-data"
+requires-python = ">=3.11"
+dependencies = [
+  "requests>=2.31,<3",
+]
+
+[project.optional-dependencies]
+translate = [
+  "requests>=2.31,<3",
+]
+qa = [
+  "pytest>=8,<9",
+  "ruff>=0.6,<1",
+]
+
+[project.scripts]
+translate-json = "translate_json:main"
+
+[tool.setuptools]
+py-modules = ["translate_json"]

@@ -1,0 +1,3 @@
+# Compatibility shim. Preferred install method:
+#   pip install -e ".[translate]"
+-e .[translate]

@@ -1,0 +1,2869 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-02-17",
+  "area": "Introduction to Scientific Thinking",
+  "type": "Multiple Choice",
+  "shortName": "ipc",
+  "language": "es",
+  "questions": [
+    {
+      "section": "Science, facts and evidence",
+      "number": 1,
+      "question": "The fact that the Earth is more than 4000 years old:",
+      "options": [
+        "It is not objective because there are people with different opinions about it.",
+        "It is objective because it does not depend on whether or not we believe it to be true.",
+        "It is objective because it is accepted by the majority of the scientific community."
+      ],
+      "answer": "It is objective because it does not depend on whether or not we believe it to be true.",
+      "explanation": ""
+    },
+    {
+      "section": "Science, facts and evidence",
+      "number": 2,
+      "question": "does science offer a reliable guide to action?",
+      "options": [
+        "Science provides reliable guidance for action because it is based on the desires and values of the scientific community.",
+        "Science does not provide a reliable guide to action because it is influenced by the interests of the institutions that fund scientific research.",
+        "Science provides a reliable guide to action because it is supported by evidence about what the world is like, and evidence-based beliefs tend to lead to practical success more reliably than beliefs that are not based on evidence."
+      ],
+      "answer": "Science provides a reliable guide to action because it is supported by evidence about what the world is like, and evidence-based beliefs tend to lead to practical success more reliably than beliefs that are not based on evidence.",
+      "explanation": ""
+    },
+    {
+      "section": "Science, facts and evidence",
+      "number": 3,
+      "question": "what are the arguments of authority?",
+      "options": [
+        "These are arguments that cannot be subject to rational doubt.",
+        "These are arguments that offer unquestionable evidence in favor of a thesis.",
+        "These are arguments in favor of a thesis that appeal exclusively to the fact that an authority has defended it."
+      ],
+      "answer": "These are arguments in favor of a thesis that appeal exclusively to the fact that an authority has defended it.",
+      "explanation": ""
+    },
+    {
+      "section": "Science, facts and evidence",
+      "number": 4,
+      "question": "what is a cognitive bias?",
+      "options": [
+        "A false belief but with practical utility.",
+        "A systematic distortion in the evaluation and interpretation of the available evidence.",
+        "A systematic method for evaluating the available evidence."
+      ],
+      "answer": "A systematic distortion in the evaluation and interpretation of the available evidence.",
+      "explanation": ""
+    },
+    {
+      "section": "Science, facts and evidence",
+      "number": 5,
+      "question": "A truth is objective if:",
+      "options": [
+        "There is no disagreement about this truth.",
+        "It is evident and does not admit of discussion.",
+        "Whether it is true does not depend on our opinions about it."
+      ],
+      "answer": "Whether it is true does not depend on our opinions about it.",
+      "explanation": ""
+    },
+    {
+      "section": "Theme 2. Empirical knowledge and observation",
+      "number": 1,
+      "question": "According to empiricism:",
+      "options": [
+        "The main source of scientific evidence is reason and reflection.",
+        "The main source of scientific evidence is observational experience.",
+        "The main source of scientific evidence is intuition."
+      ],
+      "answer": "The main source of scientific evidence is observational experience.",
+      "explanation": ""
+    },
+    {
+      "section": "Theme 2. Empirical knowledge and observation",
+      "number": 2,
+      "question": "Observation:",
+      "options": [
+        "It does not offer objective information about the world, but only about how we think the world is.",
+        "It provides fallible, but generally reliable, information about what the world is like.",
+        "It is infallible."
+      ],
+      "answer": "It provides fallible, but generally reliable, information about what the world is like.",
+      "explanation": ""
+    },
+    {
+      "section": "Theme 2. Empirical knowledge and observation",
+      "number": 3,
+      "question": "The repetition and replication of scientific observations:",
+      "options": [
+        "It lacks scientific relevance, as it does not offer novel evidence.",
+        "It has a secondary role in research, although it can be important in the training and education process of inexperienced scientists.",
+        "It plays an essential role in research, as it allows the discovery of possible errors and ensures that the resulting observational evidence is usable by different researchers."
+      ],
+      "answer": "It plays an essential role in research, as it allows the discovery of possible errors and ensures that the resulting observational evidence is usable by different researchers.",
+      "explanation": ""
+    },
+    {
+      "section": "Theme 2. Empirical knowledge and observation",
+      "number": 4,
+      "question": "The use of observation instruments:",
+      "options": [
+        "It allows infallible observations to be made.",
+        "It inevitably introduces errors and increases the imprecision of the observation.",
+        "It allows us to overcome limitations of our perceptive capacities."
+      ],
+      "answer": "It allows us to overcome limitations of our perceptive capacities.",
+      "explanation": ""
+    },
+    {
+      "section": "Theme 2. Empirical knowledge and observation",
+      "number": 5,
+      "question": "Scientific empirical evidence:",
+      "options": [
+        "It is often obtained through the use of observational instruments.",
+        "It is only admissible if it can be obtained by direct observation.",
+        "It is not objective if it involves the use of instruments."
+      ],
+      "answer": "It is often obtained through the use of observational instruments.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 3. Experimentation",
+      "number": 1,
+      "question": "what is an experiment?",
+      "options": [
+        "An experiment consists of a systematic series of observations made with the use of instruments.",
+        "An experiment consists of the manipulation of an object of study in order to observe the effects resulting from that manipulation.",
+        "An experiment is an observation whose outcome is not known in advance."
+      ],
+      "answer": "An experiment consists of the manipulation of an object of study in order to observe the effects resulting from that manipulation.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 3. Experimentation",
+      "number": 2,
+      "question": "what is a controlled experiment?",
+      "options": [
+        "An experiment whose outcome can be predicted with sufficient certainty.",
+        "An experiment carried out in the laboratory with sufficient safety conditions, thus eliminating possible risks for the experimenters.",
+        "An experiment in which the effects of manipulating a variable of the system under study are examined, avoiding possible interferences due to variations in other variables of the system."
+      ],
+      "answer": "An experiment in which the effects of manipulating a variable of the system under study are examined, avoiding possible interferences due to variations in other variables of the system.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 3. Experimentation",
+      "number": 3,
+      "question": "If in a botany experiment it is observed that certain plants grow more when fertilizer is added:",
+      "options": [
+        "To find out if the cause of the increased growth is the fertilizer, a comparison should be made with the growth of identical plants that have not been supplied with fertilizer, keeping lighting, soil type, temperature and irrigation constant.",
+        "It can never be concluded with sufficient certainty that the increased growth is due to fertilizer.",
+        "It can be directly concluded that fertilizer is the cause of increased plant growth."
+      ],
+      "answer": "To find out if the cause of the increased growth is the fertilizer, a comparison should be made with the growth of identical plants that have not been supplied with fertilizer, keeping lighting, soil type, temperature and irrigation constant.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 3. Experimentation",
+      "number": 4,
+      "question": "what did the Semmelweis experiment consist of?",
+      "options": [
+        "Semmelweis studied whether hand washing with disinfectant after performing autopsies had an effect on the infection rate in the Vienna maternity hospital.",
+        "Semmelweis conducted experiments to discover the bacteria causing the infections in the Vienna maternity clinic.",
+        "Semmelweis observed that the rate of infections in the clinic staffed by midwives was consistently higher than in those staffed by physicians and students, due to their lack of surgical training."
+      ],
+      "answer": "Semmelweis studied whether hand washing with disinfectant after performing autopsies had an effect on the infection rate in the Vienna maternity hospital.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 3. Experimentation",
+      "number": 5,
+      "question": "is all science empirical experimental?",
+      "options": [
+        "The only non-experimental science is mathematics.",
+        "At present, all empirical science is experimental.",
+        "There are scientific disciplines of an empirical nature in which the role of experiments is limited, and in which empirical evidence is obtained mainly through non-experimental observations."
+      ],
+      "answer": "There are scientific disciplines of an empirical nature in which the role of experiments is limited, and in which empirical evidence is obtained mainly through non-experimental observations.",
+      "explanation": ""
+    },
+    {
+      "section": "Theme 4. The scientific method",
+      "number": 1,
+      "question": "when we propose a hypothesis, must we believe it to be true?",
+      "options": [
+        "Proposing p as a hypothesis implies believing that p is false.",
+        "Proposing p as a hypothesis implies considering p as an open possibility (hypotheses are conjectures).",
+        "Proposing p as a hypothesis implies believing that p is true."
+      ],
+      "answer": "Proposing p as a hypothesis implies considering p as an open possibility (hypotheses are conjectures).",
+      "explanation": ""
+    },
+    {
+      "section": "Theme 4. The scientific method",
+      "number": 2,
+      "question": "what does it mean for a hypothesis to be empirically falsifiable or refutable?",
+      "options": [
+        "For a hypothesis to be empirically falsifiable it must be supported by the available empirical evidence.",
+        "For a hypothesis to be empirically falsifiable there must be empirical evidence available to show its falsity.",
+        "For a hypothesis to be empirically falsifiable there must be the possibility of empirical evidence to refute it."
+      ],
+      "answer": "For a hypothesis to be empirically falsifiable there must be the possibility of empirical evidence to refute it.",
+      "explanation": ""
+    },
+    {
+      "section": "Theme 4. The scientific method",
+      "number": 3,
+      "question": "when is a hypothesis empirically disproved or falsified?",
+      "options": [
+        "A hypothesis will be empirically disproved only if all its predictions turn out to be incompatible with the available empirical evidence.",
+        "A hypothesis will be empirically refuted if any of its predictions turn out to be incompatible with the available empirical evidence.",
+        "A hypothesis will be empirically disproved if the available evidence is compatible with both the falsity and the truth of the hypothesis."
+      ],
+      "answer": "A hypothesis will be empirically refuted if any of its predictions turn out to be incompatible with the available empirical evidence.",
+      "explanation": ""
+    },
+    {
+      "section": "Theme 4. The scientific method",
+      "number": 4,
+      "question": "are hypotheses currently accepted by the scientific community revisable?",
+      "options": [
+        "It is common that the emergence of new empirical evidence leads to the rejection of scientific hypotheses that were widely accepted and that conformed to the evidence available up to that time.",
+        "A hypothesis that is compatible with the available evidence will always be true, and therefore no new evidence can appear to refute it.",
+        "In general, a hypothesis currently accepted by the scientific community, and compatible with the evidence now available, will not be rejected in the future."
+      ],
+      "answer": "It is common that the appearance of new empirical evidence leads to the rejection of scientific hypotheses that were widely accepted and that conformed to the evidence available up to that time.",
+      "explanation": ""
+    },
+    {
+      "section": "Theme 4. The scientific method",
+      "number": 5,
+      "question": "Scientific language:",
+      "options": [
+        "It must be evocative, suggestive and dense, in order to give greater depth to its message.",
+        "It must be clear, precise and intelligible.",
+        "It has to resort to double meanings, ambiguous meanings and indeterminacy."
+      ],
+      "answer": "It must be clear, precise and intelligible.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 5. The problem of induction",
+      "number": 1,
+      "question": "In a valid deductive reasoning:",
+      "options": [
+        "Necessarily, the conclusions will always be true.",
+        "Necessarily, if the premises are false, the conclusions will be false.",
+        "Necessarily, if the premises are true, the conclusions will also be true."
+      ],
+      "answer": "Necessarily, if the premises are true, the conclusions will also be true.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 5. The problem of induction",
+      "number": 2,
+      "question": "In inductive reasoning:",
+      "options": [
+        "Certain conclusions are reached on the basis of intuition.",
+        "It starts from general premises to reach conclusions on particular cases.",
+        "It starts from premises about particular cases to reach general conclusions that go beyond such particular cases."
+      ],
+      "answer": "It starts from premises about particular cases to reach general conclusions that go beyond such particular cases.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 5. The problem of induction",
+      "number": 3,
+      "question": "are inductive generalizations fallible?",
+      "options": [
+        "Inductive generalizations are infallible if they are based on correct observations.",
+        "Even if an inductive inference is supported by a large number of observations, it is in principle always possible for unexpected exceptions to appear.",
+        "Whenever an inductive generalization is supported by a large number of observations, it is guaranteed that such a generalization will be fulfilled in any case."
+      ],
+      "answer": "Even if an inductive inference is supported by a large number of observations, it is in principle always possible for unexpected exceptions to appear.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 5. The problem of induction",
+      "number": 4,
+      "question": "how many observations are necessary to confirm inductively, definitively, a general empirical hypothesis?",
+      "options": [
+        "A single successful observation is sufficient to confirm an empirical generalization.",
+        "The observation of a single counterexample is sufficient to definitively confirm an empirical generalization.",
+        "No matter how high the number of observations in agreement with an empirical generalization, it would never be enough to consider it definitively confirmed (since there is always the possibility of finding a counterexample)."
+      ],
+      "answer": "No matter how high the number of observations in agreement with an empirical generalization, it would never be enough to consider it definitively confirmed (since there is always the possibility of finding a counterexample).",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 5. The problem of induction",
+      "number": 5,
+      "question": "what is the problem with induction?",
+      "options": [
+        "In principle, it is an open possibility that the premises of an inductive inference are true but the generalization reached in the conclusion is false (because there are as yet unobserved exceptions to such a generalization).",
+        "We can never know with certainty whether the premises of an inductive reasoning are true.",
+        "Correct inductive reasoning requires making a large number of observations, which is not always easy."
+      ],
+      "answer": "In principle, it is an open possibility that the premises of an inductive inference are true but the generalization reached in the conclusion is false (because there are as yet unobserved exceptions to such a generalization).",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 6. Probability and statistics",
+      "number": 1,
+      "question": "what is the relationship between probability and uncertainty?",
+      "options": [
+        "The probability assigned to an event is 0 when there is uncertainty as to whether the event will occur.",
+        "The probability assigned to an event reflects the uncertainty as to whether the event will occur.",
+        "An event can only be taken as probable if it is known with certainty that it will happen."
+      ],
+      "answer": "The probability assigned to an event reflects the uncertainty as to whether the event will occur.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 6. Probability and statistics",
+      "number": 2,
+      "question": "what is the statistical sample?",
+      "options": [
+        "A case used as an example in statistical reasoning.",
+        "Final conclusions reached through statistical analysis.",
+        "The set of cases in a population for which data are available, and from which statistical inferences are made about the population as a whole."
+      ],
+      "answer": "The set of cases in a population for which data are available, and from which statistical inferences are made about the population as a whole.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 6. Probability and statistics",
+      "number": 3,
+      "question": "A result extracted from a data set (e.g. a correlation) is statistically significant:",
+      "options": [
+        "If it represents a novel contribution to research.",
+        "If it has relevant practical applications.",
+        "If it is sufficiently improbable that such a result is due to chance (e.g. a correlation resulting from a chance coincidence in the observed cases), rather than reflecting a genuine property of the population studied."
+      ],
+      "answer": "If it is sufficiently improbable that such a result is due to chance (e.g. a correlation resulting from a chance coincidence in the observed cases), rather than reflecting a genuine property of the population studied.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 6. Probability and statistics",
+      "number": 4,
+      "question": "what is the relationship between correlation and causation?",
+      "options": [
+        "The existence of statistical correlations between two variables is incompatible with the existence of causal relationships between them.",
+        "Correlation does not imply causation (although it may constitute evidence of the existence of causal relationships between correlated variables)",
+        "Correlation implies causation: for two variables to be statistically correlated, there must be some causal relationship between them."
+      ],
+      "answer": "Correlation does not imply causation (although it may constitute evidence of the existence of causal relationships between correlated variables)",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 6. Probability and statistics",
+      "number": 5,
+      "question": "One way to obtain an unbiased and representative statistical sample of the population studied, avoiding bias in data collection is:",
+      "options": [
+        "Use a large, randomly selected sample from the entire population.",
+        "Choose samples that support results consistent with the researchers' prior expectations.",
+        "Choose small samples, focusing on a specific sector of the population."
+      ],
+      "answer": "Use a large, randomly selected sample from the entire population.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 7. The use of models in science",
+      "number": 1,
+      "question": "in which sciences is the use of the nomological-deductive model most frequent?",
+      "options": [
+        "Physics and chemistry",
+        "Biological and social sciences",
+        "In all of them"
+      ],
+      "answer": "Physics and chemistry",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 7. The use of models in science",
+      "number": 2,
+      "question": "in which sciences are models used?",
+      "options": [
+        "Only in the \"hard\" sciences",
+        "Only in the \"soft\" sciences",
+        "In all of them"
+      ],
+      "answer": "In all of them",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 7. The use of models in science",
+      "number": 3,
+      "question": "Scientific models are..",
+      "options": [
+        "Perfect representations of the studied phenomena",
+        "Idealizations that serve to approximate the realities addressed",
+        "Guidelines for scientists"
+      ],
+      "answer": "Idealizations that serve to approximate the realities addressed",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 7. The use of models in science",
+      "number": 4,
+      "question": "Scientific models have explanatory value..",
+      "options": [
+        "When they are well thought out",
+        "When they are only mathematical or conceptual models",
+        "When it is not possible to deal with the phenomena in any other way"
+      ],
+      "answer": "When they are well thought out",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 7. The use of models in science",
+      "number": 5,
+      "question": "One model is valid",
+      "options": [
+        "If it is not based on erroneous assumptions",
+        "If it accurately reflects reality",
+        "If it serves to provide useful knowledge about reality"
+      ],
+      "answer": "If it serves to provide useful knowledge about reality",
+      "explanation": ""
+    },
+    {
+      "section": "Paradigms and scientific change",
+      "number": 1,
+      "question": "what does Kuhn propose to understand how science works?",
+      "options": [
+        "Analyze the psychology of scientists",
+        "Looking at the history of science",
+        "Doing science"
+      ],
+      "answer": "Looking at the history of science",
+      "explanation": ""
+    },
+    {
+      "section": "Paradigms and scientific change",
+      "number": 2,
+      "question": "what is normal science?",
+      "options": [
+        "Science that is done within the framework of a paradigm",
+        "Science that makes no relevant contribution",
+        "Science that is done according to accepted criteria of rigor and efficacy"
+      ],
+      "answer": "Science that is done within the framework of a paradigm",
+      "explanation": ""
+    },
+    {
+      "section": "Paradigms and scientific change",
+      "number": 3,
+      "question": "what happens most frequently when a phenomenon occurs that contradicts what is assumed by a paradigm?",
+      "options": [
+        "This paradigm proves to be erroneous",
+        "There is always a scientific revolution",
+        "These are commonly understood to be anomalies that do not jeopardize the paradigm"
+      ],
+      "answer": "These are commonly understood to be anomalies that do not jeopardize the paradigm",
+      "explanation": ""
+    },
+    {
+      "section": "Paradigms and scientific change",
+      "number": 4,
+      "question": "According to Kuhn, how does scientific change occur?",
+      "options": [
+        "Progressively",
+        "In a revolutionary way",
+        "Scientific change does not really exist"
+      ],
+      "answer": "In a revolutionary way",
+      "explanation": ""
+    },
+    {
+      "section": "Paradigms and scientific change",
+      "number": 5,
+      "question": "when does a paradigm shift occur?",
+      "options": [
+        "When a new paradigm proves to be better than the previous one",
+        "When the old paradigm becomes exhausted and no longer productive",
+        "When the majority of the members of the scientific community decide to take on a new paradigm, regardless of the reasons why they do so"
+      ],
+      "answer": "When the majority of the members of the scientific community decide to take on a new paradigm, regardless of the reasons why they do so",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 9. The demarcation criterion",
+      "number": 1,
+      "question": "what is the demarcation problem?",
+      "options": [
+        "Determine the ethical limits of scientific activity",
+        "Adequately understand the philosophical implications of science",
+        "The search for criteria to distinguish the scientific from the non-scientific"
+      ],
+      "answer": "The search for criteria to distinguish the scientific from the non-scientific",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 9. The demarcation criterion",
+      "number": 2,
+      "question": "According to verificationism..",
+      "options": [
+        "Knowledge must be corroborated by experience",
+        "Knowledge is always true",
+        "Knowledge must always be expressed in mathematical form"
+      ],
+      "answer": "Knowledge must be corroborated by experience",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 9. The demarcation criterion",
+      "number": 3,
+      "question": "According to falsificationism, we cannot be sure we are right, but we can know...",
+      "options": [
+        "If we are close to being",
+        "If we are going to be at some point, even if it is very far away",
+        "If we are wrong"
+      ],
+      "answer": "If we are wrong",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 9. The demarcation criterion",
+      "number": 4,
+      "question": "According to the social turn in the philosophy of science",
+      "options": [
+        "The demarcation criterion will depend on the values and contextual aspects that determine the dominant scientific paradigm",
+        "There is really no statement or theory that can be considered scientific, since everything is socially determined",
+        "Deciding whether something is scientific or not is a personal matter, since it will depend on the individual and incommensurable criteria of each particular scientist"
+      ],
+      "answer": "The demarcation criterion will depend on the values and contextual aspects that determine the dominant scientific paradigm",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 9. The demarcation criterion",
+      "number": 5,
+      "question": "The demarcation criterion is important..",
+      "options": [
+        "For theoretical reasons only",
+        "For practical reasons only",
+        "For both theoretical and practical reasons"
+      ],
+      "answer": "For both theoretical and practical reasons",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 10. Science and its enemies: science vs. non-science, pseudoscience and anti-science",
+      "number": 1,
+      "question": "Scientific and non-scientific discourse",
+      "options": [
+        "They are necessarily at odds with each other",
+        "They refer to different areas that need not be irreconcilable",
+        "They are always equally valid scientifically"
+      ],
+      "answer": "They are necessarily at odds with each other",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 10. Science and its enemies: science vs. non-science, pseudoscience and anti-science",
+      "number": 2,
+      "question": "what is creationism?",
+      "options": [
+        "It is the belief that the universe has been created consciously",
+        "It is a current within biology that coexists with evolutionism",
+        "It is a religious denomination with a great boom in the United States"
+      ],
+      "answer": "It is the belief that the universe has been created consciously",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 10. Science and its enemies: science vs. non-science, pseudoscience and anti-science",
+      "number": 3,
+      "question": "In our current context..",
+      "options": [
+        "Creationism is generally linked to religious beliefs",
+        "Creationism has been completely banished from Western culture",
+        "Only a few Christian groups, mostly Protestant, declare themselves to be creationist"
+      ],
+      "answer": "Creationism is generally linked to religious beliefs",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 10. Science and its enemies: science vs. non-science, pseudoscience and anti-science",
+      "number": 4,
+      "question": "what is the relationship between creationism and intelligent design theory?",
+      "options": [
+        "Intelligent design theory assumes creationism",
+        "They are the same thing",
+        "Intelligent design theory is contrary to creationism"
+      ],
+      "answer": "Intelligent design theory assumes creationism",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 10. Science and its enemies: science vs. non-science, pseudoscience and anti-science",
+      "number": 5,
+      "question": "when do non-scientific discourses confront scientific discourse?",
+      "options": [
+        "When they are assumed by scientists",
+        "When they are accepted by a large number of people",
+        "When they are pseudoscientific or anti-scientific"
+      ],
+      "answer": "When they are pseudoscientific or anti-scientific",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 10.2. Pseudoscience",
+      "number": 1,
+      "question": "what is pseudoscience?",
+      "options": [
+        "Non-science masquerading as science",
+        "Poorly conceived science that does not provide good results",
+        "The type of knowledge that does not show sufficient guarantees to be considered as scientific"
+      ],
+      "answer": "Non-science masquerading as science",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 10.2. Pseudoscience",
+      "number": 2,
+      "question": "why are there non-scientific discourses that try to pass themselves off as scientific?",
+      "options": [
+        "Because it rejects the privileged status of science in our societies",
+        "Mistrust of science",
+        "To take advantage of the social credit of science"
+      ],
+      "answer": "To take advantage of the social credit of science",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 10.2. Pseudoscience",
+      "number": 3,
+      "question": "Pseudo-medicines",
+      "options": [
+        "They never have any effect on those who use them",
+        "They consist of alternative therapies that treat only those conditions that traditional medicine does not address",
+        "They cannot be considered as medicines, according to scientific criteria, because they have not demonstrated their safety and effectiveness"
+      ],
+      "answer": "They cannot be considered as medicines, according to scientific criteria, because they have not demonstrated their safety and effectiveness",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 10.2. Pseudoscience",
+      "number": 4,
+      "question": "Homeopathy is",
+      "options": [
+        "A pseudo-medicine based on principles that have no scientific basis",
+        "Another name for all alternative therapies",
+        "A concrete way of doing medicine that is based on conceptions and beliefs about health and disease that are thousands of years old"
+      ],
+      "answer": "A pseudo-medicine based on principles that have no scientific basis",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 10.2. Pseudoscience",
+      "number": 5,
+      "question": "From a philosophy of science point of view",
+      "options": [
+        "Homeopathy can be falsified",
+        "Homeopathy is scientific only from the perspective of verificationism",
+        "Homeopathy does not meet any of the accepted demarcation criteria (verificationism, falsificationism and paradigm correspondence)"
+      ],
+      "answer": "Homeopathy does not meet any of the accepted demarcation criteria (verificationism, falsificationism and paradigm correspondence)",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 10.3. Anticipation",
+      "number": 1,
+      "question": "The anti-science..",
+      "options": [
+        "Defends that there are many different ways of doing science",
+        "He argues that science has no impact on society",
+        "It is a discourse based on distrust of science"
+      ],
+      "answer": "It is a discourse based on distrust of science",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 10.3. Anticipation",
+      "number": 2,
+      "question": "which of these currents is clearly anti-scientific?",
+      "options": [
+        "Veganism",
+        "Marxism",
+        "The anti-vaccine movement"
+      ],
+      "answer": "The anti-vaccine movement",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 10.3. Anticipation",
+      "number": 3,
+      "question": "According to the anti-scientists..",
+      "options": [
+        "Science is not able to meet any demarcation criterion",
+        "It does not matter what the scientific demarcation criterion is because science as such is an activity that should be eliminated (or at least deeply reconsidered)",
+        "Scientists are not capable of judging their own activity"
+      ],
+      "answer": "It does not matter what the scientific demarcation criterion is because science as such is an activity that should be eliminated (or at least deeply reconsidered)",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 10.3. Anticipation",
+      "number": 4,
+      "question": "what is terraplanning?",
+      "options": [
+        "A current school of thought that holds that the Earth is flat and that the scientific image of a spherical Earth is an elaborate hoax",
+        "A now discarded assumption of ancient astronomy that no one has been able to sustain for at least three centuries",
+        "A scientific theory"
+      ],
+      "answer": "A current school of thought that holds that the Earth is flat and that the scientific image of a spherical Earth is an elaborate hoax",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 10.3. Anticipation",
+      "number": 5,
+      "question": "what is one of the main reasons why anti-science discourse is dangerous today?",
+      "options": [
+        "Anti-scientists can take the place of scientists in universities and research centers",
+        "Anti-science can often be mistaken for science and mislead experts",
+        "It can foster distrust of science by promoting discourse with dangerous implications such as that of climate change deniers or anti-vaccine advocates."
+      ],
+      "answer": "It can foster distrust of science by promoting discourse with dangerous implications such as that of climate change deniers or anti-vaccine advocates.",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 11. Science as a social product",
+      "number": 1,
+      "question": "in what context do STS studies arise?",
+      "options": [
+        "In the scientific revolution of the sixteenth and seventeenth centuries",
+        "In the United Kingdom and the United States in the 1960s and 1970s",
+        "In Classical Greece with the birth of science"
+      ],
+      "answer": "In the United Kingdom and the United States in the 1960s and 1970s",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 11. Science as a social product",
+      "number": 2,
+      "question": "Technoscience:",
+      "options": [
+        "It is a way of doing science that emerged in the context of World War II and blurred the boundaries between science and technology",
+        "It is a very specific branch of science dedicated to research, design and production of technical devices",
+        "It is a particular stream of the social studies of science particularly interested in technological developments in science"
+      ],
+      "answer": "It is a way of doing science that emerged in the context of World War II and blurred the boundaries between science and technology",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 11. Science as a social product",
+      "number": 3,
+      "question": "what are the names of the main theses of the Strong Program?",
+      "options": [
+        "Communism, Universalism, Disinterestedness, Organized Skepticism",
+        "Accuracy, Consistency, Comprehensiveness, Elegance",
+        "Causality, Impartiality, Symmetry, Reflexivity"
+      ],
+      "answer": "Causality, Impartiality, Symmetry, Reflexivity",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 11. Science as a social product",
+      "number": 4,
+      "question": "According to social constructivism:",
+      "options": [
+        "All scientific knowledge is fraudulent",
+        "Science does not have a privileged position compared to other phenomena such as magic or mythology",
+        "It is by no means possible to explain the functioning of science"
+      ],
+      "answer": "Science does not have a privileged position compared to other phenomena such as magic or mythology",
+      "explanation": ""
+    },
+    {
+      "section": "Topic 11. Science as a social product",
+      "number": 5,
+      "question": "According to feminist approaches to science:",
+      "options": [
+        "Only science done by women is valid",
+        "Science is determined by the androcentrism of society",
+        "Science is not valid knowledge because, given its nature as a product of an androcentric society, it can only be exercised by men"
+      ],
+      "answer": "Science is determined by the androcentrism of society",
+      "explanation": ""
+    },
+    {
+      "section": "How do scientific institutions work?",
+      "number": 1,
+      "question": "what is peer review?",
+      "options": [
+        "The editorial process by which scientific articles submitted to a journal are reviewed by other researchers before publication.",
+        "The requirement that a scientific article be signed by at least two authors.",
+        "The commitment acquired by the authors of a scientific article not to publish evidence manipulated or ideas plagiarized from other researchers."
+      ],
+      "answer": "The editorial process by which scientific articles submitted to a journal are reviewed by other researchers before publication.",
+      "explanation": ""
+    },
+    {
+      "section": "How do scientific institutions work?",
+      "number": 2,
+      "question": "The motivations of scientists:",
+      "options": [
+        "They are exclusively epistemic (specifically the search for objective knowledge), since science aspires to truth.",
+        "When a scientist is motivated by practical interests, the results of his research are fraudulent.",
+        "They include practical motivations, such as seeking recognition and obtaining awards and funding."
+      ],
+      "answer": "They include practical motivations, such as seeking recognition and obtaining awards and funding.",
+      "explanation": ""
+    },
+    {
+      "section": "How do scientific institutions work?",
+      "number": 3,
+      "question": "Clinical trials:",
+      "options": [
+        "These are experiments on the effects of drugs performed exclusively on animals under controlled laboratory conditions.",
+        "These are experimental studies in which the effectiveness and safety of a drug or treatment is investigated.",
+        "They are banned in most countries because they involve human experimentation."
+      ],
+      "answer": "These are experimental studies in which the effectiveness and safety of a drug or treatment is investigated.",
+      "explanation": ""
+    },
+    {
+      "section": "How do scientific institutions work?",
+      "number": 4,
+      "question": "what is a replication study?",
+      "options": [
+        "A study in which objections to a previous study are raised.",
+        "A study in which an experiment is presented that disproves a relevant theoretical hypothesis.",
+        "A study that seeks to reproduce the results obtained in a previous experiment."
+      ],
+      "answer": "A study that seeks to reproduce the results obtained in a previous experiment.",
+      "explanation": ""
+    },
+    {
+      "section": "How do scientific institutions work?",
+      "number": 5,
+      "question": "Publications in specialized scientific journals:",
+      "options": [
+        "Their main function is to disseminate scientific results among the general population.",
+        "They are one of the main forms of recognition of a researcher's work.",
+        "They are a secondary part of the scientists' activity, since they do not have much weight in their curriculum."
+      ],
+      "answer": "They are one of the main forms of recognition of a researcher's work.",
+      "explanation": ""
+    },
+    {
+      "section": "Exam 2025 September",
+      "number": 1,
+      "question": "is all science empirical experimental?",
+      "options": [
+        "There are scientific disciplines of an empirical nature in which the role of experiments is limited, and in which empirical evidence is obtained mainly through non-experimental observations.",
+        "At present, all empirical science is experimental, due to the technological development achieved (although in the past, non-experimental observations were also used).",
+        "The only non-experimental science is mathematics."
+      ],
+      "answer": "There are scientific disciplines of an empirical nature in which the role of experiments is limited, and in which empirical evidence is obtained mainly through non-experimental observations.",
+      "explanation": "Not all empirical science is experimental: in several disciplines the evidence comes mainly from non-experimental observations."
+    },
+    {
+      "section": "Exam 2025 September",
+      "number": 2,
+      "question": "can a fake model be valid?",
+      "options": [
+        "Yes, if it leads to interesting and relevant results",
+        "No, because it will only add up to confusion",
+        "Yes, because all models are, by definition, valid for science"
+      ],
+      "answer": "Yes, if it leads to interesting and relevant results",
+      "explanation": "A model can idealize and be literally false in detail and still be valid if it can explain/predict and guide useful inferences in its domain, such as the Lotka-Volterra model for population prediction.",
+      "appearsIn": [
+        "Exam 2024 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2025 September",
+      "number": 3,
+      "question": "In inductive reasoning:",
+      "options": [
+        "The conclusion may be true, but some of the premises will always be false.",
+        "The conclusion can never be strictly true, since unexpected exceptions are always possible.",
+        "The conclusion may be true, but the premises will not necessarily guarantee that it is true."
+      ],
+      "answer": "The conclusion may be true, but the premises will not necessarily guarantee that it is true.",
+      "explanation": "In induction, even if the premises are true, they do not necessarily guarantee the truth of the conclusion; therefore, the conclusion may fail.",
+      "appearsIn": [
+        "Topic 5. The problem of induction",
+        "Exam 2025 February 2",
+        "Exam 2023 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2025 September",
+      "number": 4,
+      "question": "when is a universal general hypothesis disproved?",
+      "options": [
+        "A universal general hypothesis is refuted by the observation of a single counterexample.",
+        "A universal general hypothesis is disproved only if it is not fulfilled in any observed case.",
+        "For a universal general hypothesis to be disproved, it must be fulfilled in every observed case."
+      ],
+      "answer": "A universal general hypothesis is refuted by the observation of a single counterexample.",
+      "explanation": "Universal hypotheses are refuted by a single observed counterexample (a case that violates the generalization)."
+    },
+    {
+      "section": "Exam 2025 September",
+      "number": 5,
+      "question": "what does it mean for a hypothesis to be empirically falsifiable or refutable?",
+      "options": [
+        "For a hypothesis to be empirically falsifiable there must be empirical evidence available to show its falsity.",
+        "For a hypothesis to be empirically falsifiable it must be supported by the available empirical evidence.",
+        "For a hypothesis to be empirically falsifiable there must be the possibility of empirical evidence to refute it."
+      ],
+      "answer": "For a hypothesis to be empirically falsifiable there must be the possibility of empirical evidence to refute it.",
+      "explanation": "To be falsifiable means that there could be (in principle) empirical evidence that contradicts it; it must prohibit possible observations.",
+      "appearsIn": [
+        "Theme 4. The scientific method"
+      ]
+    },
+    {
+      "section": "Exam 2025 September",
+      "number": 6,
+      "question": "The knowledge that is transmitted within a paradigm",
+      "options": [
+        "It is always explicit",
+        "It is often tacit",
+        "It is necessarily true"
+      ],
+      "answer": "It is often tacit",
+      "explanation": "For Kuhn, much of the learning in normal science is tacit: it is acquired through examples, practice and training, not just explicit rules."
+    },
+    {
+      "section": "Exam 2025 September",
+      "number": 7,
+      "question": "Quantification of the observation:",
+      "options": [
+        "It allows accurate comparison of observations made by different observers.",
+        "Eliminates the possibility of error in the observation.",
+        "It makes it impossible to reproduce scientific observations."
+      ],
+      "answer": "It allows accurate comparison of observations made by different observers.",
+      "explanation": "Quantifying allows comparison of observations between different observers and contexts, improving intersubjective control and precision."
+    },
+    {
+      "section": "Exam 2025 September",
+      "number": 8,
+      "question": "Replication studies and negative results:",
+      "options": [
+        "They have a mainly pedagogical function, since they do not provide novel evidence.",
+        "They are the most frequent type of study in scientific publications, since they require fewer resources than obtaining positive results.",
+        "They are essential for testing the reliability of scientific results."
+      ],
+      "answer": "They are essential for testing the reliability of scientific results.",
+      "explanation": "Replication and negative results are key to check reliability and detect errors or biases in previous findings."
+    },
+    {
+      "section": "Exam 2025 September",
+      "number": 9,
+      "question": "according to Kuhn, what determines that one paradigm replaces another?",
+      "options": [
+        "The paradigm shift is not always due exclusively to improved evidentiary support.",
+        "The new paradigm will be verified by evidence more completely than the previous one.",
+        "The new paradigm will be compatible with all available evidence, while the old paradigm will have been falsified by an anomaly."
+      ],
+      "answer": "The paradigm shift is not always due exclusively to improved evidentiary support.",
+      "explanation": "For Kuhn, paradigm replacement does not depend only on 'best evidence': values, standards and scientific community dynamics also play a role.",
+      "appearsIn": [
+        "Exam 2025 February 1",
+        "Exam 2023 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2025 September",
+      "number": 10,
+      "question": "what is an approximation?",
+      "options": [
+        "A tentative hypothesis that has not yet been subjected to empirical testing.",
+        "An inaccurate or incorrect result, but sufficiently close to the correct answer.",
+        "An imprecise result expressed probabilistically, in a way that adequately reflects the uncertainty of the investigator."
+      ],
+      "answer": "An inaccurate or incorrect result, but sufficiently close to the correct answer.",
+      "explanation": "An approximation is a result that is inaccurate but close enough to the correct value for the practical or theoretical purposes of the researcher."
+    },
+    {
+      "section": "Exam 2025 February 1",
+      "number": 1,
+      "question": "A hypothesis for which we have no evidence:",
+      "options": [
+        "It cannot be put forward as a scientific hypothesis, since it lacks evidential support.",
+        "This hypothesis has been empirically disproved.",
+        "This may be a true hypothesis."
+      ],
+      "answer": "This may be a true hypothesis.",
+      "explanation": "The fact that we do not yet have evidence does not imply falsity; it may be a true hypothesis pending testing."
+    },
+    {
+      "section": "Exam 2025 February 1",
+      "number": 2,
+      "question": "what is a cognitive bias?",
+      "options": [
+        "A systematic distortion in the evaluation and interpretation of the available evidence.",
+        "A systematic method for evaluating the available evidence.",
+        "A false belief but with practical utility."
+      ],
+      "answer": "A systematic distortion in the evaluation and interpretation of the available evidence.",
+      "explanation": "A cognitive bias is a systematic distortion in how we evaluate and interpret evidence, which can affect judgments and decisions.",
+      "appearsIn": [
+        "Science, facts and evidence",
+        "Exam 2022 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2025 February 1",
+      "number": 3,
+      "question": "The repetition and replication of scientific observations:",
+      "options": [
+        "It lacks scientific relevance, as it does not offer novel evidence.",
+        "It plays an essential role in research, as it allows the discovery of possible errors and ensures that the resulting observational evidence is usable by different researchers.",
+        "It has a secondary role in research, although it can be important in the training and education process of inexperienced scientists."
+      ],
+      "answer": "It plays an essential role in research, as it allows the discovery of possible errors and ensures that the resulting observational evidence is usable by different researchers.",
+      "explanation": "Repetition and replication make it possible to detect errors and ensure that the evidence is inter-subjectively usable by different researchers.",
+      "appearsIn": [
+        "Theme 2. Empirical knowledge and observation",
+        "Exam 2022 September"
+      ]
+    },
+    {
+      "section": "Exam 2025 February 1",
+      "number": 4,
+      "question": "The temperature in a room is estimated to be between 25 and 27°C (77 and 77°F):",
+      "options": [
+        "It is incorrect, as it does not give a maximally accurate value.",
+        "It is imprecise, but may be correct.",
+        "It is not informative, as it does not completely eliminate uncertainty."
+      ],
+      "answer": "It is imprecise, but may be correct.",
+      "explanation": "A measurement can be imprecise (range) and still be correct if the actual value is within that range.",
+      "appearsIn": [
+        "Exam 2024 February 1",
+        "Exam 2022 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2025 February 1",
+      "number": 5,
+      "question": "The predictions that can be derived from a hypothesis are:",
+      "options": [
+        "Those propositions that have as a consequence the truth of the hypothesis.",
+        "The consequences that will follow from the truth of the hypothesis.",
+        "Those propositions incompatible with the truth of the hypothesis."
+      ],
+      "answer": "The consequences that will follow from the truth of the hypothesis.",
+      "explanation": "They are observational/empirical consequences that would follow if the hypothesis were true.",
+      "appearsIn": [
+        "Exam 2025 February 2",
+        "Exam 2024 February 1",
+        "Exam 2022 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2025 February 1",
+      "number": 6,
+      "question": "In invalid deductive reasoning:",
+      "options": [
+        "Necessarily, if the premises are true, the conclusions will be false.",
+        "Necessarily, if the premises are false, the conclusions will be false.",
+        "The premises may be true and the conclusions false."
+      ],
+      "answer": "The premises may be true and the conclusions false.",
+      "explanation": "An invalid deductive argument admits counterexamples: it is possible that the premises are true and the conclusion false.",
+      "appearsIn": [
+        "Exam 2025 February 2",
+        "Exam 2024 February 2",
+        "Exam 2023 February 1",
+        "Exam 2022 September"
+      ]
+    },
+    {
+      "section": "Exam 2025 February 1",
+      "number": 7,
+      "question": "According to Popper's falsificationism:",
+      "options": [
+        "The main function of observation in science is to disprove hypotheses, not to confirm them.",
+        "The main function of observation in science is to confirm hypotheses, not to disprove them.",
+        "The observation of a sufficient number of cases that fulfill a generalization allows us to conclude that such generalization is confirmed."
+      ],
+      "answer": "The main function of observation in science is to disprove hypotheses, not to confirm them.",
+      "explanation": "For Popper, the key role of observation is to attempt to disprove hypotheses by means of severe contrasts; there is no definitive verification.",
+      "appearsIn": [
+        "Exam 2023 September",
+        "Exam 2022 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2025 February 1",
+      "number": 8,
+      "question": "The motivations of scientists:",
+      "options": [
+        "They are exclusively epistemic (specifically the search for objective knowledge), since science aspires to truth.",
+        "They include practical motivations, such as seeking recognition and obtaining awards and funding.",
+        "When a scientist is motivated by practical interests, the results of his research are fraudulent."
+      ],
+      "answer": "They include practical motivations, such as seeking recognition and obtaining awards and funding.",
+      "explanation": "In addition to epistemic reasons, there are practical incentives (career, funding, recognition) that influence scientific activity.",
+      "appearsIn": [
+        "How do scientific institutions work?",
+        "Exam 2024 September"
+      ]
+    },
+    {
+      "section": "Exam 2025 February 1",
+      "number": 9,
+      "question": "according to Kuhn, what determines that one paradigm replaces another?",
+      "options": [
+        "The new paradigm will be verified by evidence more completely than the previous one.",
+        "The paradigm shift is not always due exclusively to improved evidentiary support.",
+        "The new paradigm will be compatible with all available evidence, while the old paradigm will have been falsified by an anomaly."
+      ],
+      "answer": "The paradigm shift is not always due exclusively to better evidentiary support.",
+      "explanation": "For Kuhn, paradigm replacement does not depend only on 'best evidence': values, standards and scientific community dynamics also play a role.",
+      "appearsIn": [
+        "Exam 2025 September",
+        "Exam 2023 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2025 February 1",
+      "number": 10,
+      "question": "Scientific models:",
+      "options": [
+        "These are idealizations.",
+        "They are faithful representations of reality.",
+        "They are scientific hypotheses that have not been refuted by evidence."
+      ],
+      "answer": "These are idealizations.",
+      "explanation": "Models are usually idealizations or simplifications: not perfect copies, but tools for inferring and understanding phenomena."
+    },
+    {
+      "section": "Exam 2025 February 2",
+      "number": 1,
+      "question": "In invalid deductive reasoning:",
+      "options": [
+        "Necessarily, if the premises are true, the conclusions will be false.",
+        "Necessarily, if the premises are false, the conclusions will be false.",
+        "The premises may be true and the conclusions false."
+      ],
+      "answer": "The premises may be true and the conclusions false.",
+      "explanation": "An invalid deductive argument admits counterexamples: it is possible that the premises are true and the conclusion false.",
+      "appearsIn": [
+        "Exam 2025 February 1",
+        "Exam 2024 February 2",
+        "Exam 2023 February 1",
+        "Exam 2022 September"
+      ]
+    },
+    {
+      "section": "Exam 2025 February 2",
+      "number": 2,
+      "question": "According to Humean skepticism about induction:",
+      "options": [
+        "There is no rational justification for inductive reasoning.",
+        "We are only justified in making inductive reasoning if we start from observations made under ideal conditions.",
+        "We can never be sure whether the premises of an inductive reasoning are true."
+      ],
+      "answer": "There is no rational justification for inductive reasoning.",
+      "explanation": "Hume argues that there is no non-circular rational justification for induction; our reliance on generalizations is habit or custom.",
+      "appearsIn": [
+        "Exam 2024 September"
+      ]
+    },
+    {
+      "section": "Exam 2025 February 2",
+      "number": 3,
+      "question": "According to verificationism:",
+      "options": [
+        "Scientific hypotheses must be corroborated by experience",
+        "Scientific hypotheses are always true",
+        "Scientific hypotheses must always be expressed mathematically"
+      ],
+      "answer": "Scientific hypotheses must be corroborated by experience",
+      "explanation": "Verificationism links the acceptability/meaningfulness of empirical statements to their contrast (verification/confirmation) by experience."
+    },
+    {
+      "section": "Exam 2025 February 2",
+      "number": 4,
+      "question": "what is the relationship between verificationism and the problem of induction?",
+      "options": [
+        "Verificationism succeeds in solving the problem of induction",
+        "Verificationism is susceptible to the problem of induction",
+        "Verificationism, by rejecting inductivism, has no bearing on the problem of induction"
+      ],
+      "answer": "Verificationism is susceptible to the problem of induction",
+      "explanation": "Verificationism depends on inductive confirmations that are never definitive; that is why it is vulnerable to the problem of induction."
+    },
+    {
+      "section": "Exam 2025 February 2",
+      "number": 5,
+      "question": "In inductive reasoning:",
+      "options": [
+        "The conclusions are only approximately true.",
+        "The truth of the premises is never guaranteed.",
+        "The truth of the conclusions is not guaranteed by the truth of the premises."
+      ],
+      "answer": "The truth of the conclusions is not guaranteed by the truth of the premises.",
+      "explanation": "In induction, even if the premises are true, they do not necessarily guarantee the truth of the conclusion; therefore, the conclusion may fail.",
+      "appearsIn": [
+        "Topic 5. The problem of induction",
+        "Exam 2025 September",
+        "Exam 2023 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2025 February 2",
+      "number": 6,
+      "question": "The predictions that can be derived from a hypothesis are:",
+      "options": [
+        "Those propositions that have as a consequence the truth of the hypothesis.",
+        "The consequences that would follow from the truth of the hypothesis.",
+        "Those propositions incompatible with the truth of the hypothesis."
+      ],
+      "answer": "The consequences that would follow from the truth of the hypothesis.",
+      "explanation": "They are observational/empirical consequences that would follow if the hypothesis were true.",
+      "appearsIn": [
+        "Exam 2025 February 1",
+        "Exam 2024 February 1",
+        "Exam 2022 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2025 February 2",
+      "number": 7,
+      "question": "when is a model scientifically acceptable?",
+      "options": [
+        "Only if it is not based on erroneous assumptions",
+        "Only if it accurately reflects reality",
+        "Only if it serves to provide useful knowledge about reality"
+      ],
+      "answer": "Only if it serves to provide useful knowledge about reality",
+      "explanation": "A model is acceptable if it allows useful inferences (explaining/predicting/controlling) about reality, even if it idealizes."
+    },
+    {
+      "section": "Exam 2025 February 2",
+      "number": 8,
+      "question": "what are the three demarcation criteria that we have addressed during the course?",
+      "options": [
+        "Paradigm correspondence, falsifiability, and verifiability",
+        "Pseudoscience, non-science and anti-science",
+        "Evidence, observation and experimentation"
+      ],
+      "answer": "Paradigm correspondence, falsifiability, and verifiability",
+      "explanation": "In the course, verifiability, falsifiability and paradigm/context-related approaches (social turn) are contrasted."
+    },
+    {
+      "section": "Exam 2025 February 2",
+      "number": 9,
+      "question": "According to social constructivism:",
+      "options": [
+        "All scientific knowledge is fraudulent",
+        "Science does not have a privileged position compared to other phenomena such as magic or mythology",
+        "It is by no means possible to explain the functioning of science"
+      ],
+      "answer": "Science does not have a privileged position compared to other phenomena such as magic or mythology",
+      "explanation": "A typical thesis is that science does not have an absolute 'privileged' epistemic status apart from practices and contexts; it is analyzed as a social phenomenon.",
+      "appearsIn": [
+        "Topic 11. Science as a social product"
+      ]
+    },
+    {
+      "section": "Exam 2025 February 2",
+      "number": 10,
+      "question": "what are investigations that seek to reproduce results obtained in a previous experiment called?",
+      "options": [
+        "Randomized clinical trials",
+        "Replication studies",
+        "Crucial experiments"
+      ],
+      "answer": "Replication studies",
+      "explanation": "Research that seeks to reproduce results obtained in a previous experiment is called a replication study."
+    },
+    {
+      "section": "Exam 2024 September",
+      "number": 1,
+      "question": "what is the evidence?",
+      "options": [
+        "A trivial or irrelevant belief.",
+        "An obvious truth.",
+        "Proofs or indications about the truth of a proposition."
+      ],
+      "answer": "Proofs or indications about the truth of a proposition.",
+      "explanation": "Evidence is proof/indicia that support (to varying degrees) the truth of a proposition or hypothesis.",
+      "appearsIn": [
+        "Exam 2023 February 1",
+        "Exam 2022 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2024 September",
+      "number": 2,
+      "question": "what is the relationship between traditional beliefs and scientific evidence?",
+      "options": [
+        "Traditional beliefs are always compatible with scientific evidence.",
+        "Traditional beliefs constitute reliable scientific evidence.",
+        "Traditional beliefs that are not supported by evidence will not be scientifically acceptable."
+      ],
+      "answer": "Traditional beliefs that are not supported by evidence will not be scientifically acceptable.",
+      "explanation": "If not supported by evidence, traditional beliefs will not be acceptable as scientific knowledge."
+    },
+    {
+      "section": "Exam 2024 September",
+      "number": 3,
+      "question": "According to Humean skepticism about induction:",
+      "options": [
+        "There is no rational justification for inductive reasoning: our tendency to accept generalizations from the observation of particular cases is a mere psychological habit, a mental inclination born of habit.",
+        "We are only justified in making inductive reasoning if we start from observations made under ideal conditions.",
+        "We can never be sure whether the premises of an inductive reasoning are true."
+      ],
+      "answer": "There is no rational justification for inductive reasoning: our tendency to accept generalizations from the observation of particular cases is a mere psychological habit, a mental inclination born of habit.",
+      "explanation": "Hume argues that there is no non-circular rational justification for induction; our reliance on generalizations is habit or custom.",
+      "appearsIn": [
+        "Exam 2025 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2024 September",
+      "number": 4,
+      "question": "When two variables are perfectly correlated:",
+      "options": [
+        "There is necessarily a causal relationship between them, otherwise it would not be a statistically significant result.",
+        "It cannot always be concluded that there is a causal relationship between them.",
+        "The result is null, since it is not statistically significant."
+      ],
+      "answer": "It cannot always be concluded that there is a causal relationship between them.",
+      "explanation": "Correlation does not imply causation: there may be confounding variables or non-causal relationships that explain the correlation.",
+      "appearsIn": [
+        "Exam 2023 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2024 September",
+      "number": 5,
+      "question": "what is an argument?",
+      "options": [
+        "An argument is a proposition used as a premise in reasoning.",
+        "An argument is a sequence of propositions, consisting of a set of premises from which certain conclusions follow.",
+        "An argument is a true proposition."
+      ],
+      "answer": "An argument is a sequence of propositions, consisting of a set of premises from which certain conclusions follow.",
+      "explanation": "An argument is a set of premises intended to support a conclusion; it is not a single isolated proposition."
+    },
+    {
+      "section": "Exam 2024 September",
+      "number": 6,
+      "question": "Scientific models are...",
+      "options": [
+        "Perfect representations of the phenomena studied.",
+        "Idealizations that serve to approximate the realities addressed.",
+        "Guidelines for scientists."
+      ],
+      "answer": "Idealizations that serve to approximate the realities addressed.",
+      "explanation": "Models often idealize and simplify to approximate complex phenomena and allow useful inferences.",
+      "appearsIn": [
+        "Topic 7. The use of models in science"
+      ]
+    },
+    {
+      "section": "Exam 2024 September",
+      "number": 7,
+      "question": "According to the social turn of the philosophy of science....",
+      "options": [
+        "The demarcation criterion will depend on the values and contextual aspects that determine the dominant scientific paradigm.",
+        "There is really no statement or theory that can be considered scientific, since everything is socially determined.",
+        "Deciding whether something is scientific or not is a personal matter, since it will depend on the individual and incommensurable criteria of each particular scientist."
+      ],
+      "answer": "The demarcation criterion will depend on the values and contextual aspects that determine the dominant scientific paradigm.",
+      "explanation": "The social turn emphasizes that what counts as science also depends on values and contexts that shape paradigms and standards."
+    },
+    {
+      "section": "Exam 2024 September",
+      "number": 8,
+      "question": "Scientific models are...",
+      "options": [
+        "Perfect representations of the studied phenomena",
+        "Idealizations that serve to approximate the realities addressed",
+        "Guidelines for scientists"
+      ],
+      "answer": "Idealizations that serve to approximate the realities addressed",
+      "explanation": "Models often idealize and simplify to approximate complex phenomena and allow useful inferences.",
+      "appearsIn": [
+        "Topic 7. The use of models in science"
+      ]
+    },
+    {
+      "section": "Exam 2024 September",
+      "number": 9,
+      "question": "The motivations of scientists:",
+      "options": [
+        "They are exclusively epistemic (specifically the search for objective knowledge), since science aspires to truth.",
+        "They include practical motivations, such as seeking recognition and obtaining awards and funding.",
+        "When a scientist is motivated by practical interests, the results of his research are fraudulent."
+      ],
+      "answer": "They include practical motivations, such as seeking recognition and obtaining awards and funding.",
+      "explanation": "In addition to epistemic reasons, there are practical incentives (career, funding, recognition) that influence scientific activity.",
+      "appearsIn": [
+        "How do scientific institutions work?",
+        "Exam 2025 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2024 September",
+      "number": 10,
+      "question": "when do non-scientific discourses confront scientific discourse?",
+      "options": [
+        "When they are assumed by scientists.",
+        "When they are accepted by a large number of people.",
+        "When they are pseudoscientific or anti-scientific."
+      ],
+      "answer": "When they are pseudoscientific or anti-scientific.",
+      "explanation": "They are confronted when they are pseudoscientific or anti-scientific: they seek to replace or erode scientific discourse.",
+      "appearsIn": [
+        "Topic 10. Science and its enemies: science vs. non-science, pseudoscience and anti-science"
+      ]
+    },
+    {
+      "section": "Exam 2024 February 1",
+      "number": 1,
+      "question": "what is a fact?",
+      "options": [
+        "It is a fact that p if and only if it is true that p.",
+        "A fact is a belief accepted by the scientific community.",
+        "A fact is a belief that the subject believes to be true."
+      ],
+      "answer": "It is a fact that p if and only if it is true that p.",
+      "explanation": "Fact: it is a fact that p is true if and only if p is true; it is not merely an accepted belief."
+    },
+    {
+      "section": "Exam 2024 February 1",
+      "number": 2,
+      "question": "what are the arguments of authority?",
+      "options": [
+        "These are arguments in favor of a thesis that appeal exclusively to the fact that an authority has defended it.",
+        "These are arguments that offer unquestionable evidence in favor of a thesis.",
+        "These are arguments that cannot be subject to rational doubt."
+      ],
+      "answer": "These are arguments in favor of a thesis that appeal exclusively to the fact that an authority has defended it.",
+      "explanation": "They appeal to an authority's support of a thesis as the main reason for accepting it; they do not substitute for evidence on their own.",
+      "appearsIn": [
+        "Science, facts and evidence",
+        "Exam 2024 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2024 February 1",
+      "number": 3,
+      "question": "According to empiricism:",
+      "options": [
+        "The main source of scientific evidence is reason and reflection.",
+        "The main source of scientific evidence is intuition.",
+        "The main source of scientific evidence is observational experience."
+      ],
+      "answer": "The main source of scientific evidence is observational experience.",
+      "explanation": "Empiricism holds that the main evidence comes from experience, especially observation.",
+      "appearsIn": [
+        "Theme 2. Empirical knowledge and observation"
+      ]
+    },
+    {
+      "section": "Exam 2024 February 1",
+      "number": 4,
+      "question": "The temperature in a room is estimated to be between 25 and 27°C (77 and 77°F):",
+      "options": [
+        "It is incorrect, and does not give a maximally accurate value.",
+        "It is imprecise, but may be correct.",
+        "It is not informative, as it does not completely eliminate uncertainty."
+      ],
+      "answer": "It is imprecise, but may be correct.",
+      "explanation": "A measurement can be imprecise (range) and still be correct if the actual value is within that range.",
+      "appearsIn": [
+        "Exam 2025 February 1",
+        "Exam 2022 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2024 February 1",
+      "number": 5,
+      "question": "If an experiment in botany shows that certain plants grow more when fertilizer is added to them",
+      "options": [
+        "It can be directly concluded that fertilizer is the cause of increased plant growth.",
+        "To find out if the cause of the increased growth is the fertilizer, a comparison should be made with the growth of identical plants that have not been supplied with fertilizer, keeping lighting, soil type, temperature and irrigation constant.",
+        "It can never be concluded with sufficient certainty that the increased growth is due to fertilizer."
+      ],
+      "answer": "To find out if the cause of the increased growth is the fertilizer, a comparison should be made with the growth of identical plants that have not been supplied with fertilizer, keeping lighting, soil type, temperature and irrigation constant.",
+      "explanation": "To explain causality it is necessary to control variables and make appropriate comparisons.",
+      "appearsIn": [
+        "Topic 3. Experimentation"
+      ]
+    },
+    {
+      "section": "Exam 2024 February 1",
+      "number": 6,
+      "question": "A hypothesis:",
+      "options": [
+        "It is never exactly true, although it can be a good approximation.",
+        "It is always empirically falsifiable.",
+        "It may be empirically infallible."
+      ],
+      "answer": "It may be empirically infallible.",
+      "explanation": "There may be infallible hypotheses (e.g., formulated in such a way that they do not allow empirical refutation)."
+    },
+    {
+      "section": "Exam 2024 February 1",
+      "number": 7,
+      "question": "The predictions that can be derived from a hypothesis are:",
+      "options": [
+        "Those propositions that have as a consequence the truth of the hypothesis.",
+        "The consequences that would follow from the truth of the hypothesis.",
+        "Those propositions incompatible with the truth of the hypothesis."
+      ],
+      "answer": "The consequences that would follow from the truth of the hypothesis.",
+      "explanation": "They are observational/empirical consequences that would follow if the hypothesis were true.",
+      "appearsIn": [
+        "Exam 2025 February 1",
+        "Exam 2025 February 2",
+        "Exam 2022 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2024 February 1",
+      "number": 8,
+      "question": "what is a reasoning?",
+      "options": [
+        "A reasoning is a transition between beliefs (or other mental states), the purpose of which is to adopt correct or justified beliefs.",
+        "A reasoning is a verbal exchange within a debate.",
+        "A rationale is a rhetorical strategy to persuade an audience of a conclusion, regardless of whether it is actually justified."
+      ],
+      "answer": "A reasoning is a transition between beliefs (or other mental states), the purpose of which is to adopt correct or justified beliefs.",
+      "explanation": "Reasoning is a transition between beliefs/mental states aimed at adopting correct or justified beliefs."
+    },
+    {
+      "section": "Exam 2024 February 1",
+      "number": 9,
+      "question": "Scientific models have explanatory value...",
+      "options": [
+        "When they are well thought out.",
+        "When they are mathematical, physical or conceptual models.",
+        "When it is not possible to address the phenomena in any other way."
+      ],
+      "answer": "When they are well thought out.",
+      "explanation": "A model has explanatory value when it is constructed to represent the relevant factors and allow inferences (explain/predict), not simply when it is used because there is no alternative.",
+      "appearsIn": [
+        "Topic 7. The use of models in science"
+      ]
+    },
+    {
+      "section": "Exam 2024 February 1",
+      "number": 10,
+      "question": "when does a paradigm shift occur, according to Kuhn?",
+      "options": [
+        "When a new paradigm proves to be better than the previous one",
+        "When the old paradigm is exhausted and no longer productive.",
+        "When the majority of the members of the scientific community decide to take on a new paradigm, regardless of the reasons why"
+      ],
+      "answer": "When the majority of the members of the scientific community decide to take on a new paradigm, regardless of the reasons why",
+      "explanation": "For Kuhn, change is consolidated when the community adopts the new paradigm; it is not just a matter of 'demonstrating' logical superiority."
+    },
+    {
+      "section": "Exam 2024 February 2",
+      "number": 1,
+      "question": "what are the arguments of authority?",
+      "options": [
+        "These are arguments in favor of a thesis that appeal exclusively to the fact that an authority has defended it.",
+        "These are arguments that offer unquestionable evidence in favor of a thesis.",
+        "These are arguments that cannot be subject to rational doubt."
+      ],
+      "answer": "These are arguments in favor of a thesis that appeal exclusively to the fact that an authority has defended it.",
+      "explanation": "They appeal to an authority's support of a thesis as the main reason for accepting it; they do not substitute for evidence on their own.",
+      "appearsIn": [
+        "Science, facts and evidence",
+        "Exam 2024 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2024 February 2",
+      "number": 2,
+      "question": "Empirical refutation holism holds that:",
+      "options": [
+        "Empirical evidence never allows us to discard scientific hypotheses.",
+        "In general, empirical evidence allows us to directly refute isolated hypotheses.",
+        "In general, empirical evidence does not allow direct refutation of isolated hypotheses, but only in combination with other auxiliary hypotheses and assumptions."
+      ],
+      "answer": "In general, empirical evidence does not allow direct refutation of isolated hypotheses, but only in combination with other auxiliary hypotheses and assumptions.",
+      "explanation": "The evidence does not refute isolated hypotheses, but the set (hypotheses + auxiliary + initial conditions) used to derive predictions, according to the Quine-Duhem thesis.",
+      "appearsIn": [
+        "Exam 2023 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2024 February 2",
+      "number": 3,
+      "question": "In invalid deductive reasoning:",
+      "options": [
+        "Necessarily, if the premises are true, the conclusions will be false.",
+        "Necessarily, if the premises are false, the conclusions will be false.",
+        "The premises may be true and the conclusions false."
+      ],
+      "answer": "The premises may be true and the conclusions false.",
+      "explanation": "An invalid deductive argument admits counterexamples: it is possible that the premises are true and the conclusion false.",
+      "appearsIn": [
+        "Exam 2025 February 1",
+        "Exam 2025 February 2",
+        "Exam 2023 February 1",
+        "Exam 2022 September"
+      ]
+    },
+    {
+      "section": "Exam 2024 February 2",
+      "number": 4,
+      "question": "The problem of induction is due to the fact that:",
+      "options": [
+        "Induction always leads to strictly false conclusions, even though they may be approximately correct.",
+        "We can never be sure whether an inductive generalization is false.",
+        "The conclusion of an inductive reasoning can be false even if all the premises are true."
+      ],
+      "answer": "The conclusion of an inductive reasoning can be false even if all the premises are true.",
+      "explanation": "An inductive conclusion may be false even if all the observational premises are true (there may be unobserved exceptions)."
+    },
+    {
+      "section": "Exam 2024 February 2",
+      "number": 5,
+      "question": "what is the relationship between probability and uncertainty?",
+      "options": [
+        "An event can only be taken as probable if it is known with certainty that it will happen.",
+        "The probability assigned to an event reflects the uncertainty about whether the event will occur.",
+        "The probability assigned to an event is 0 when there is uncertainty as to whether the event will occur."
+      ],
+      "answer": "The probability assigned to an event reflects the uncertainty about whether the event will occur.",
+      "explanation": "Probability reflects the degree of uncertainty as to whether an event will occur; it is not equivalent to certainty.",
+      "appearsIn": [
+        "Topic 6. Probability and statistics"
+      ]
+    },
+    {
+      "section": "Exam 2024 February 2",
+      "number": 6,
+      "question": "can a fake model be valid?",
+      "options": [
+        "Yes, if it leads to interesting and relevant results.",
+        "No, because it will only add to the confusion.",
+        "Yes, because all models are, by definition, valid for science."
+      ],
+      "answer": "Yes, if it leads to interesting and relevant results.",
+      "explanation": "A model can idealize and be literally false in detail and still be valid if it can explain/predict and guide useful inferences in its domain.",
+      "appearsIn": [
+        "Exam 2025 September"
+      ]
+    },
+    {
+      "section": "Exam 2024 February 2",
+      "number": 7,
+      "question": "what is pseudoscience?",
+      "options": [
+        "Non-science masquerading as science.",
+        "Poorly conceived science that does not offer good results.",
+        "The type of knowledge that does not show sufficient guarantees to be considered scientific."
+      ],
+      "answer": "Non-science masquerading as science.",
+      "explanation": "Pseudoscience: non-science that tries to present itself as science in order to take advantage of its prestige.",
+      "appearsIn": [
+        "Topic 10.2. Pseudoscience",
+        "2020 Test February 2"
+      ]
+    },
+    {
+      "section": "Exam 2024 February 2",
+      "number": 8,
+      "question": "According to Imre Lakatos' sophisticated falsificationism:",
+      "options": [
+        "Scientific theories and postulates cannot be considered in isolation, as they are part of research programs.",
+        "Progress in science is impossible given the incommensurability of paradigms",
+        "Science does not suppose a type of knowledge qualitatively different from the rest. The principle that should govern is \"anything goes\"."
+      ],
+      "answer": "Scientific theories and postulates cannot be considered in isolation, as they are part of research programs.",
+      "explanation": "Lakatos proposes research programs: isolated hypotheses are not evaluated, but hard cores and protective belts."
+    },
+    {
+      "section": "Exam 2024 February 2",
+      "number": 9,
+      "question": "what is the demarcation problem?",
+      "options": [
+        "Determine the ethical limits of scientific activity.",
+        "Adequately understand the philosophical implications of science.",
+        "The search for criteria to distinguish the scientific from the non-scientific."
+      ],
+      "answer": "The search for criteria to distinguish the scientific from the non-scientific.",
+      "explanation": "It consists of looking for criteria to distinguish science from non-science/pseudoscience.",
+      "appearsIn": [
+        "Topic 9. The demarcation criterion"
+      ]
+    },
+    {
+      "section": "Exam 2024 February 2",
+      "number": 10,
+      "question": "what is a replication study?",
+      "options": [
+        "A study in which objections to a previous study are raised.",
+        "A study in which an experiment is presented that disproves a relevant theoretical hypothesis.",
+        "A study that seeks to reproduce the results obtained in a previous experiment."
+      ],
+      "answer": "A study that seeks to reproduce the results obtained in a previous experiment.",
+      "explanation": "A replication study attempts to reproduce results from a previous study to test its robustness.",
+      "appearsIn": [
+        "How do scientific institutions work?",
+        "Exam 2022 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2023 September",
+      "number": 1,
+      "question": "In order for the observation to provide valuable scientific evidence...",
+      "options": [
+        "It is essential that it be carried out by means of novel procedures that are difficult to reproduce by other research groups.",
+        "It is desirable that this be done by means of protocolized processes that can be reproduced by other research groups.",
+        "It must be performed without the aid of instruments."
+      ],
+      "answer": "It is desirable that this be done by means of protocolized processes that can be reproduced by other research groups.",
+      "explanation": "It should be performed with protocols that can be reproduced by other groups; reproducibility allows intersubjective control.",
+      "appearsIn": [
+        "Exam 2022 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2023 September",
+      "number": 2,
+      "question": "The use of observation instruments...",
+      "options": [
+        "It necessarily increases the imprecision of the observation.",
+        "It allows infallible observations to be made.",
+        "It allows us to overcome limitations of our perceptive capacities."
+      ],
+      "answer": "It allows us to overcome limitations of our perceptive capacities.",
+      "explanation": "Instruments overcome perceptual limitations and make it possible to observe/measure phenomena inaccessible to the naked eye.",
+      "appearsIn": [
+        "Exam 2022 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2023 September",
+      "number": 3,
+      "question": "A hypothesis that is open to empirical refutation...",
+      "options": [
+        "It is admissible as a scientific hypothesis, because it is falsifiable.",
+        "It is inadmissible as a scientific hypothesis, because it is not falsifiable.",
+        "It is inadmissible as a scientific hypothesis, because it is false."
+      ],
+      "answer": "It is admissible as a scientific hypothesis, because it is falsifiable.",
+      "explanation": "If a hypothesis is falsifiable (it could be refuted by evidence), it is admissible as a scientific hypothesis in the Popperian sense.",
+      "appearsIn": [
+        "Exam 2022 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2023 September",
+      "number": 4,
+      "question": "what is the problem with induction?",
+      "options": [
+        "Correct inductive reasoning requires making a large number of observations, which is not always easy.",
+        "In principle, it is an open possibility that the premises of an inductive inference are true but the generalization reached in the conclusion is false (because there are as yet unobserved exceptions to such a generalization).",
+        "We can never know with certainty whether the premises of an inductive reasoning are true."
+      ],
+      "answer": "In principle, it is an open possibility that the premises of an inductive inference are true but the generalization reached in the conclusion is false (because there are as yet unobserved exceptions to such a generalization).",
+      "explanation": "It is possible that observed premises are true and the concluded generalization is false due to unobserved exceptions.",
+      "appearsIn": [
+        "Topic 5. The problem of induction",
+        "Exam 2022 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2023 September",
+      "number": 5,
+      "question": "According to Popper's falsificationism:",
+      "options": [
+        "The main function of observation in science is to disprove hypotheses, not to confirm them.",
+        "The main function of observation in science is to confirm hypotheses, not to disprove them.",
+        "The observation of a sufficient number of cases that fulfill a generalization allows us to conclude that such generalization is confirmed."
+      ],
+      "answer": "The main function of observation in science is to disprove hypotheses, not to confirm them.",
+      "explanation": "For Popper, the key role of observation is to attempt to disprove hypotheses by means of severe contrasts; there is no definitive verification.",
+      "appearsIn": [
+        "Exam 2025 February 1",
+        "Exam 2022 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2023 September",
+      "number": 6,
+      "question": "what are statistical biases?",
+      "options": [
+        "Methods used to statistically analyze large data sets.",
+        "Statistical analysis methods that guarantee unbiased and objective results.",
+        "Distortions introduced in the statistical analysis, due to deficiencies in the methods of analysis or data collection, as a result of which the conclusions drawn in the analysis do not reflect genuine properties of the population or phenomenon studied."
+      ],
+      "answer": "Distortions introduced in the statistical analysis, due to deficiencies in the methods of analysis or data collection, as a result of which the conclusions drawn in the analysis do not reflect genuine properties of the population or phenomenon studied.",
+      "explanation": "These are distortions due to methods/data collection that cause the analysis not to reflect real properties of the phenomenon or population.",
+      "appearsIn": [
+        "Exam 2022 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2023 September",
+      "number": 7,
+      "question": "what is the relationship between creationism and intelligent design theory?",
+      "options": [
+        "Intelligent design theory assumes creationism",
+        "They are the same thing",
+        "Creationism has now been replaced by the theory of intelligent design"
+      ],
+      "answer": "Intelligent design theory assumes creationism",
+      "explanation": "Intelligent design is presented as a reformulation of creationism in order to appear scientific.",
+      "appearsIn": [
+        "Topic 10. Science and its enemies: science vs. non-science, pseudoscience and anti-science",
+        "Exam 2022 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2023 September",
+      "number": 8,
+      "question": "According to the anti-scientists...",
+      "options": [
+        "Science is not able to meet any demarcation criterion",
+        "It does not matter what the scientific demarcation criterion is because science as such is an activity that should be eliminated (or at least deeply reconsidered)",
+        "Scientists are not capable of judging their own activity."
+      ],
+      "answer": "It does not matter what the scientific demarcation criterion is because science as such is an activity that should be eliminated (or at least deeply reconsidered)",
+      "explanation": "In strong positions, they consider that science should be eliminated or radically revised; therefore, the demarcation criterion is irrelevant to them.",
+      "appearsIn": [
+        "Topic 10.3. Anticipation",
+        "Exam 2022 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2023 September",
+      "number": 9,
+      "question": "According to feminist approaches to science:",
+      "options": [
+        "Only science done by women is valid",
+        "Science is determined by the androcentrism of society",
+        "Science is not valid knowledge because, given its nature as a product of an androcentric society, it can only be exercised by men"
+      ],
+      "answer": "Science is determined by the androcentrism of society",
+      "explanation": "It discusses how androcentrism can bias questions, methods and interpretations; it does not imply that only science done by women is valid.",
+      "appearsIn": [
+        "Topic 11. Science as a social product",
+        "Exam 2022 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2023 September",
+      "number": 10,
+      "question": "what are clinical trials?",
+      "options": [
+        "Tests that are carried out within hospitals and other healthcare facilities, such as blood tests, x-rays, etc.",
+        "Specialized scientific literature in the areas of health and biomedicine",
+        "Experimental studies in which the effectiveness and safety of a drug or treatment is investigated"
+      ],
+      "answer": "Experimental studies in which the effectiveness and safety of a drug or treatment is investigated",
+      "explanation": "These are experimental studies to evaluate the effectiveness and safety of drugs or treatments.",
+      "appearsIn": [
+        "Exam 2022 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2023 February 1",
+      "number": 1,
+      "question": "If in an experiment the variable X is manipulated and then an effect Y is observed:",
+      "options": [
+        "In general, it can always be stated that the manipulation in X has caused effect Y.",
+        "It cannot always be concluded directly that the variation in X has caused effect Y: the possible interference of other factors must first be ruled out.",
+        "It can never be concluded with sufficient certainty that an effect Y is caused by manipulation of a variable X."
+      ],
+      "answer": "It cannot always be concluded directly that the variation in X has caused effect Y: the possible interference of other factors must first be ruled out.",
+      "explanation": "There may be confounding factors; interference must be ruled out before causality can be established.",
+      "appearsIn": [
+        "Exam 2022 September"
+      ]
+    },
+    {
+      "section": "Exam 2023 February 1",
+      "number": 2,
+      "question": "Holism of empirical refutation holds that:",
+      "options": [
+        "Empirical evidence never allows us to discard scientific hypotheses.",
+        "In general, empirical evidence allows us to directly refute isolated hypotheses.",
+        "In general, empirical evidence does not allow direct refutation of isolated hypotheses, but only in combination with other auxiliary hypotheses and assumptions."
+      ],
+      "answer": "In general, empirical evidence does not allow direct refutation of isolated hypotheses, but only in combination with other auxiliary hypotheses and assumptions.",
+      "explanation": "The evidence does not refute isolated hypotheses, but the set (hypotheses + auxiliary + initial conditions) used to derive predictions, according to the Quine-Duhem thesis.",
+      "appearsIn": [
+        "Exam 2024 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2023 February 1",
+      "number": 3,
+      "question": "what are the three main demarcation criteria in philosophy of science?",
+      "options": [
+        "Internal coherence, external coherence and systematicity.",
+        "Verifiability, falsifiability and correspondence with the paradigm.",
+        "Epistemic contribution, practical utility and scientific progress."
+      ],
+      "answer": "Verifiability, falsifiability and correspondence with the paradigm.",
+      "explanation": "Vienna School verifiability, Popper's falsifiability and correspondence with Kuhn's paradigm are the three main criteria of demarcation."
+    },
+    {
+      "section": "Exam 2023 February 1",
+      "number": 4,
+      "question": "what is the role of probability in science?",
+      "options": [
+        "Probabilistic results are not admissible in science, because they do not provide certain knowledge.",
+        "Probabilistic results are admissible in science because they completely eliminate uncertainty and provide certain knowledge.",
+        "Scientific results are often presented in a probabilistic manner, and are acceptable to the extent that they reflect the degree of support offered by the available evidence."
+      ],
+      "answer": "Scientific results are often presented in a probabilistic manner, and are acceptable to the extent that they reflect the degree of support offered by the available evidence.",
+      "explanation": "It is not true that they completely eliminate uncertainty, nor is it true that they are not admissible in science."
+    },
+    {
+      "section": "Exam 2023 February 1",
+      "number": 5,
+      "question": "what is the relationship between correlation and causation?",
+      "options": [
+        "Correlation implies causation: for two variables to be statistically correlated, there must be some causal relationship between them.",
+        "Causation implies correlation, but correlation does not imply causation (although it may constitute evidence of the existence of causal relationships between correlated variables).",
+        "The existence of statistical correlations between two variables is incompatible with the existence of causal relationships between them."
+      ],
+      "answer": "Causation implies correlation, but correlation does not imply causation (although it may constitute evidence of the existence of causal relationships between correlated variables).",
+      "explanation": "Causation usually implies correlation (on average), but correlation does not imply causation.",
+      "appearsIn": [
+        "Topic 6. Probability and statistics"
+      ]
+    },
+    {
+      "section": "Exam 2023 February 1",
+      "number": 6,
+      "question": "what is the reason for the bias in favor of publishing positive results in scientific journals?",
+      "options": [
+        "These studies usually require fewer resources.",
+        "Negative results do not provide reliable evidence.",
+        "These results are often perceived as more interesting and have a greater impact."
+      ],
+      "answer": "These results are often perceived as more interesting and have a greater impact.",
+      "explanation": "Positive results are perceived as more interesting/novel and of greater impact, biasing the publication."
+    },
+    {
+      "section": "Exam 2023 February 1",
+      "number": 7,
+      "question": "The anti-science...",
+      "options": [
+        "He argues that there are many different ways of doing science.",
+        "He argues that science has no impact on society.",
+        "It is a discourse based on distrust of science."
+      ],
+      "answer": "It is a discourse based on distrust of science.",
+      "explanation": "It is a discourse of distrust towards science and its institutions/authority.",
+      "appearsIn": [
+        "Topic 10.3. Anticipation"
+      ]
+    },
+    {
+      "section": "Exam 2023 February 1",
+      "number": 8,
+      "question": "In invalid deductive reasoning:",
+      "options": [
+        "Necessarily, if the premises are true, the conclusions will be false.",
+        "Necessarily, if the premises are false, the conclusions will be false.",
+        "The premises may be true and the conclusions false."
+      ],
+      "answer": "The premises may be true and the conclusions false.",
+      "explanation": "An invalid deductive argument admits counterexamples: it is possible that the premises are true and the conclusion false.",
+      "appearsIn": [
+        "Exam 2025 February 1",
+        "Exam 2025 February 2",
+        "Exam 2024 February 2",
+        "Exam 2022 September"
+      ]
+    },
+    {
+      "section": "Exam 2023 February 1",
+      "number": 9,
+      "question": "what is the evidence?",
+      "options": [
+        "A trivial or irrelevant belief.",
+        "An obvious truth.",
+        "Proofs or indications about the truth of a proposition."
+      ],
+      "answer": "Proofs or indications about the truth of a proposition.",
+      "explanation": "Evidence is proof/indicia that support (to varying degrees) the truth of a proposition or hypothesis.",
+      "appearsIn": [
+        "Exam 2024 September",
+        "Exam 2022 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2023 February 1",
+      "number": 10,
+      "question": "what does it mean to say that two paradigms are incommensurable?",
+      "options": [
+        "That they are incomparable paradigms, because they use radically different conceptual frameworks and evaluation criteria.",
+        "That one of them has replaced the other, by means of a scientific revolution after a period of normal science.",
+        "That they are paradigms defended by scientists of rival schools, without one of them having finally prevailed."
+      ],
+      "answer": "That they are incomparable paradigms, because they use radically different conceptual frameworks and evaluation criteria.",
+      "explanation": "That they use such different conceptual frameworks and evaluation criteria that the comparison is neither neutral nor direct."
+    },
+    {
+      "section": "Exam 2023 February 2",
+      "number": 1,
+      "question": "An imprecise result:",
+      "options": [
+        "It is inadmissible in science, since certainty is sought.",
+        "It may be true, despite not completely reducing uncertainty.",
+        "It is false in a strict sense, but it can be a good approximation."
+      ],
+      "answer": "It may be true, despite not completely reducing uncertainty.",
+      "explanation": "A result can be imprecise and still true/correct within a range."
+    },
+    {
+      "section": "Exam 2023 February 2",
+      "number": 2,
+      "question": "When two variables are perfectly correlated:",
+      "options": [
+        "There is necessarily a causal relationship between them, otherwise it would not be a statistically significant result.",
+        "It cannot always be concluded that there is a causal relationship between them.",
+        "The result is null, since it is not statistically significant."
+      ],
+      "answer": "It cannot always be concluded that there is a causal relationship between them.",
+      "explanation": "Correlation does not imply causation: there may be confounding variables or non-causal relationships that explain the correlation.",
+      "appearsIn": [
+        "Exam 2024 September"
+      ]
+    },
+    {
+      "section": "Exam 2023 February 2",
+      "number": 3,
+      "question": "Replication studies:",
+      "options": [
+        "They are easier to publish, since they constitute the most important type of research in science.",
+        "They are generally more difficult to publish than positive results, as these tend to have a greater impact.",
+        "They are generally easier to publish than positive results, since they form the basis of the falsificationist scientific method."
+      ],
+      "answer": "They are generally more difficult to publish than positive results, as these tend to have a greater impact.",
+      "explanation": "They tend to be more difficult to publish than positive results due to incentives and publication bias towards 'novelty'."
+    },
+    {
+      "section": "Exam 2023 February 2",
+      "number": 4,
+      "question": "In inductive reasoning:",
+      "options": [
+        "The conclusions are only approximately true.",
+        "The truth of the premises is never guaranteed.",
+        "The truth of the conclusions is not guaranteed by the truth of the premises."
+      ],
+      "answer": "The truth of the conclusions is not guaranteed by the truth of the premises.",
+      "explanation": "In induction, even if the premises are true, they do not necessarily guarantee the truth of the conclusion; therefore, the conclusion may fail.",
+      "appearsIn": [
+        "Topic 5. The problem of induction",
+        "Exam 2025 September",
+        "Exam 2025 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2023 February 2",
+      "number": 5,
+      "question": "according to Kuhn, what determines that one paradigm replaces another?",
+      "options": [
+        "The new paradigm will be verified by evidence more completely than the previous one.",
+        "The paradigm shift is not always due exclusively to improved evidentiary support.",
+        "The new paradigm will be compatible with all available evidence, while the old paradigm will have been falsified by an anomaly."
+      ],
+      "answer": "The paradigm shift is not always due exclusively to improved evidentiary support.",
+      "explanation": "For Kuhn, paradigm replacement does not depend only on 'best evidence': values, standards and scientific community dynamics also play a role.",
+      "appearsIn": [
+        "Exam 2025 September",
+        "Exam 2025 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2023 February 2",
+      "number": 6,
+      "question": "how many observations are necessary to confirm inductively, definitively, a general empirical hypothesis?",
+      "options": [
+        "A single successful observation is sufficient to confirm an empirical generalization.",
+        "The observation of a single counterexample is sufficient to definitively confirm an empirical generalization.",
+        "No matter how high the number of observations in agreement with an empirical generalization, it would never be enough to consider it definitively confirmed (since there is always the possibility of finding a counterexample)."
+      ],
+      "answer": "No matter how high the number of observations in agreement with an empirical generalization, it would never be enough to consider it definitively confirmed (since there is always the possibility of finding a counterexample).",
+      "explanation": "According to Popper's falsadationalism it is not possible to prove inductively a general hypothesis definitively but it is possible to refute it with a counterexample.",
+      "appearsIn": [
+        "Topic 5. The problem of induction"
+      ]
+    },
+    {
+      "section": "Exam 2023 February 2",
+      "number": 7,
+      "question": "The reasoning from the premises \"Switzerland has more population than China\" and \"France has more population than Switzerland\" to the conclusion \"France has more population than China\" is:",
+      "options": [
+        "An invalid deductive reasoning, although its premises are true.",
+        "An invalid deductive reasoning, since some of its premises are false.",
+        "A valid deductive reasoning, although some of its premises are false."
+      ],
+      "answer": "A valid deductive reasoning, although some of its premises are false.",
+      "explanation": "The inference is deductively valid by transitivity, even if the premises are false."
+    },
+    {
+      "section": "Exam 2023 February 2",
+      "number": 8,
+      "question": "what is an experiment?",
+      "options": [
+        "An experiment is an observation whose outcome is not known in advance.",
+        "An experiment consists of a systematic series of observations made with the use of instruments.",
+        "An experiment consists of the manipulation of an object of study in order to observe the effects resulting from that manipulation."
+      ],
+      "answer": "An experiment consists of the manipulation of an object of study in order to observe the effects resulting from that manipulation.",
+      "explanation": "An experiment involves manipulating conditions/variables to observe effects of the manipulation.",
+      "appearsIn": [
+        "Topic 3. Experimentation"
+      ]
+    },
+    {
+      "section": "Exam 2023 February 2",
+      "number": 9,
+      "question": "which of these statements is falsifiable according to Popper?",
+      "options": [
+        "The net force applied to a body is proportional to the acceleration of the body",
+        "Our destiny is predetermined by divine providence.",
+        "The motor of history is the class struggle."
+      ],
+      "answer": "The net force applied to a body is proportional to the acceleration of the body",
+      "explanation": "A physical statement that makes refutable observable predictions (e.g., a law) is falsifiable.",
+      "appearsIn": [
+        "Exam 2022 September"
+      ]
+    },
+    {
+      "section": "Exam 2023 February 2",
+      "number": 10,
+      "question": "what are scientific models?",
+      "options": [
+        "Representations of the phenomena studied compatible with all available evidence and observations.",
+        "Idealizations that serve to approximate the realities addressed.",
+        "Guidelines for scientists."
+      ],
+      "answer": "Idealizations that serve to approximate the realities addressed.",
+      "explanation": "Models are idealizations that allow us to approximate reality and guide useful inferences in their domain."
+    },
+    {
+      "section": "Exam 2022 September",
+      "number": 1,
+      "question": "A truth is objective if:",
+      "options": [
+        "There is no disagreement about such truth.",
+        "It is evident and does not admit of discussion.",
+        "Whether it is true does not depend on our opinions about it."
+      ],
+      "answer": "Whether it is true does not depend on our opinions about it.",
+      "explanation": "Objectivity consists of independence with respect to opinions or beliefs.",
+      "appearsIn": [
+        "Science, facts and evidence"
+      ]
+    },
+    {
+      "section": "Exam 2022 September",
+      "number": 2,
+      "question": "what is confirmation bias?",
+      "options": [
+        "In a tendency to pay more attention and give more weight to evidence that favors theses we are inclined to accept, and to ignore evidence to the contrary.",
+        "In a tendency to question our beliefs.",
+        "It is a tendency to accept the majority opinion of the group to which we belong."
+      ],
+      "answer": "In a tendency to pay more attention and give more weight to evidence that favors theses we are inclined to accept, and to ignore evidence to the contrary.",
+      "explanation": "Tendency to seek/interpret evidence that confirms previous beliefs."
+    },
+    {
+      "section": "Exam 2022 September",
+      "number": 3,
+      "question": "The repetition and replication of scientific observations:",
+      "options": [
+        "It lacks scientific relevance, as it does not offer novel evidence.",
+        "It plays an essential role in research, as it allows the discovery of possible errors and ensures that the resulting observational evidence is usable by different researchers.",
+        "It has a secondary role in research, although it can be important in the training and education process of inexperienced scientists."
+      ],
+      "answer": "It plays an essential role in research, as it allows the discovery of possible errors and ensures that the resulting observational evidence is usable by different researchers.",
+      "explanation": "Repetition and replication make it possible to detect errors and ensure that the evidence is inter-subjectively usable by different researchers.",
+      "appearsIn": [
+        "Theme 2. Empirical knowledge and observation",
+        "Exam 2025 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2022 September",
+      "number": 4,
+      "question": "An imprecise measure:",
+      "options": [
+        "It is necessarily erroneous, since it does not include the correct value.",
+        "It does not completely reduce the uncertainty about the measured property.",
+        "It is of no practical use whatsoever."
+      ],
+      "answer": "It does not completely reduce the uncertainty about the measured property.",
+      "explanation": "An imprecise measurement does not eliminate all uncertainty, but it can be useful and correct."
+    },
+    {
+      "section": "Exam 2022 September",
+      "number": 5,
+      "question": "If in an experiment the variable X is manipulated and an effect Y is subsequently observed",
+      "options": [
+        "In general, it can always be stated that the manipulation in X has caused effect Y.",
+        "It cannot always be concluded directly that the variation in X has caused effect Y: the possible interference of other factors must first be ruled out.",
+        "It can never be concluded with sufficient certainty that an effect Y is caused by the manipulation of a variable X."
+      ],
+      "answer": "It cannot always be concluded directly that the variation in X has caused effect Y: the possible interference of other factors must first be ruled out.",
+      "explanation": "There may be confounding factors; interference must be ruled out before causality can be established.",
+      "appearsIn": [
+        "Exam 2023 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2022 September",
+      "number": 6,
+      "question": "what are the premises of a reasoning?",
+      "options": [
+        "The premises of a reasoning are the cognitive biases and prejudices of the agent performing the reasoning.",
+        "The premises of a reasoning are the propositions that constitute the content of the beliefs from which the reasoning starts.",
+        "The premises of a reasoning are the practical purposes that lead the agent to perform such reasoning."
+      ],
+      "answer": "The premises of a reasoning are the propositions that constitute the content of the beliefs from which the reasoning starts.",
+      "explanation": "The premises are the propositions that support the conclusion."
+    },
+    {
+      "section": "Exam 2022 September",
+      "number": 7,
+      "question": "In invalid deductive reasoning:",
+      "options": [
+        "Necessarily, if the premises are true, the conclusions will be false.",
+        "Necessarily, if the premises are false, the conclusions will be false.",
+        "The premises may be true and the conclusions false."
+      ],
+      "answer": "The premises may be true and the conclusions false.",
+      "explanation": "An invalid deductive argument admits counterexamples: it is possible that the premises are true and the conclusion false.",
+      "appearsIn": [
+        "Exam 2025 February 1",
+        "Exam 2025 February 2",
+        "Exam 2024 February 2",
+        "Exam 2023 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2022 September",
+      "number": 8,
+      "question": "A model is scientifically acceptable:",
+      "options": [
+        "If it is not based on erroneous assumptions.",
+        "If it accurately reflects reality",
+        "If it allows useful inferences to be made about reality."
+      ],
+      "answer": "If it allows useful inferences to be made about reality.",
+      "explanation": "Models are idealizations that allow us to approximate reality and guide useful inferences in their domain."
+    },
+    {
+      "section": "Exam 2022 September",
+      "number": 9,
+      "question": "which of these statements is falsifiable according to Popper?",
+      "options": [
+        "Metals expand when heated.",
+        "Human behavior is determined by the unconscious.",
+        "The motor of history is the class struggle."
+      ],
+      "answer": "Metals expand when heated.",
+      "explanation": "A physical statement that makes refutable observable predictions (e.g., a law) is falsifiable.",
+      "appearsIn": [
+        "Exam 2023 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2022 September",
+      "number": 10,
+      "question": "what does the impact factor of a journal measure?",
+      "options": [
+        "The average sales of the magazine's issues.",
+        "The average number of citations of the articles published in the journal.",
+        "The number of visits or readers the magazine receives."
+      ],
+      "answer": "The average number of citations of the articles published in the journal.",
+      "explanation": "Approximates the average number of citations received by journal articles in a period."
+    },
+    {
+      "section": "Exam 2022 February 1",
+      "number": 1,
+      "question": "what is the evidence?",
+      "options": [
+        "A trivial or irrelevant belief.",
+        "An obvious truth.",
+        "Proofs or indications about the truth of a proposition."
+      ],
+      "answer": "Proofs or indications about the truth of a proposition.",
+      "explanation": "Evidence is proof/indicia that support (to varying degrees) the truth of a proposition or hypothesis.",
+      "appearsIn": [
+        "Exam 2024 September",
+        "Exam 2023 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2022 February 1",
+      "number": 2,
+      "question": "what is a cognitive bias?",
+      "options": [
+        "A systematic distortion in the evaluation and interpretation of the available evidence.",
+        "A systematic method for evaluating the available evidence.",
+        "A false belief but with practical utility."
+      ],
+      "answer": "A systematic distortion in the evaluation and interpretation of the available evidence.",
+      "explanation": "A cognitive bias is a systematic distortion in how we evaluate and interpret evidence, which can affect judgments and decisions.",
+      "appearsIn": [
+        "Science, facts and evidence",
+        "Exam 2025 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2022 February 1",
+      "number": 3,
+      "question": "The measurement that the temperature in a room is between 25 and 27°C:",
+      "options": [
+        "It is incorrect, as it does not give a maximally accurate value.",
+        "It is imprecise, but may be correct.",
+        "It is not informative, as it does not completely eliminate uncertainty."
+      ],
+      "answer": "It is imprecise, but may be correct.",
+      "explanation": "A measurement can be imprecise (range) and still be correct if the actual value is within that range.",
+      "appearsIn": [
+        "Exam 2025 February 1",
+        "Exam 2024 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2022 February 1",
+      "number": 4,
+      "question": "The predictions that can be derived from a hypothesis are:",
+      "options": [
+        "Those propositions that have as a consequence the truth of the hypothesis.",
+        "The consequences that would follow from the truth of the hypothesis.",
+        "Those propositions incompatible with the truth of the hypothesis."
+      ],
+      "answer": "The consequences that would follow from the truth of the hypothesis.",
+      "explanation": "They are observational/empirical consequences that would follow if the hypothesis were true.",
+      "appearsIn": [
+        "Exam 2025 February 1",
+        "Exam 2025 February 2",
+        "Exam 2024 February 1"
+      ]
+    },
+    {
+      "section": "Exam 2022 February 1",
+      "number": 5,
+      "question": "can the use of inductive reasoning be justified by arguing that in the past such reasoning has usually been successful?",
+      "options": [
+        "Yes, this is an acceptable justification, since it does not presuppose that inductive reasoning is reasonable.",
+        "This justification of inductive reasoning is problematic because it is circular, since it itself relies on inductive reasoning.",
+        "This justification is problematic because it is false that in the past our use of inductive reasoning has usually been successful."
+      ],
+      "answer": "This justification of inductive reasoning is problematic because it is circular, since it itself relies on inductive reasoning.",
+      "explanation": "It is circular: it uses induction to justify induction."
+    },
+    {
+      "section": "Exam 2022 February 1",
+      "number": 6,
+      "question": "According to falsificationism, we cannot be sure we are right, but we can know....",
+      "options": [
+        "If we are close to being so.",
+        "If we are going to be at some point, even if it is far away.",
+        "If we are wrong."
+      ],
+      "answer": "If we are wrong.",
+      "explanation": "We can detect errors: if a prediction fails, we know that the hypothesis is false or there is an auxiliary problem.",
+      "appearsIn": [
+        "Topic 9. The demarcation criterion",
+        "2020 Test February 2"
+      ]
+    },
+    {
+      "section": "Exam 2022 February 1",
+      "number": 7,
+      "question": "can approximations be acceptable in science?",
+      "options": [
+        "No, because by definition they are false and introduce inaccuracies.",
+        "No, science seeks clear and precise language, free of vagueness.",
+        "Yes, when they are sufficiently close to the correct answer for the researchers' interests."
+      ],
+      "answer": "Yes, when they are sufficiently close to the correct answer for the researchers' interests.",
+      "explanation": "Yes, when they are close enough for scientific purpose (explanation/prediction/calculation)."
+    },
+    {
+      "section": "Exam 2022 February 1",
+      "number": 8,
+      "question": "The passage from Ptolemaic to Copernican astronomy is, according to Kuhn, an example of:",
+      "options": [
+        "Normal science.",
+        "Scientific progress.",
+        "Scientific revolution."
+      ],
+      "answer": "Scientific revolution.",
+      "explanation": "It is a case of scientific revolution (paradigm shift)."
+    },
+    {
+      "section": "Exam 2022 February 1",
+      "number": 9,
+      "question": "According to the sophisticated falsificationism of Imre Lakatos...",
+      "options": [
+        "Scientific theories and postulates cannot be considered in isolation, as they are part of research programs.",
+        "Progress in science is impossible given the incommensurability of paradigms",
+        "Science does not suppose a type of knowledge qualitatively different from the rest. The principle that should govern is \"anything goes\"."
+      ],
+      "answer": "Scientific theories and postulates cannot be considered in isolation, as they are part of research programs.",
+      "explanation": "Lakatos argues that theories are part of research programs; they are not evaluated in isolation."
+    },
+    {
+      "section": "Exam 2022 February 1",
+      "number": 10,
+      "question": "what is a replication study?",
+      "options": [
+        "A study in which objections to a previous study are raised.",
+        "A study in which an experiment is presented that disproves a relevant theoretical hypothesis.",
+        "A study that seeks to reproduce the results obtained in a previous experiment."
+      ],
+      "answer": "A study that seeks to reproduce the results obtained in a previous experiment.",
+      "explanation": "A replication study attempts to reproduce results from a previous study to test its robustness.",
+      "appearsIn": [
+        "How do scientific institutions work?",
+        "Exam 2024 February 2"
+      ]
+    },
+    {
+      "section": "Exam 2022 February 2",
+      "number": 1,
+      "question": "In order for the observation to provide valuable scientific evidence...",
+      "options": [
+        "It is essential that it be carried out by means of novel procedures that are difficult to reproduce by other research groups.",
+        "It is desirable that this be done by means of protocolized processes that can be reproduced by other research groups.",
+        "It must be performed without the aid of instruments."
+      ],
+      "answer": "It is desirable that this be done by means of protocolized processes that can be reproduced by other research groups.",
+      "explanation": "It should be performed with protocols that can be reproduced by other groups; reproducibility allows intersubjective control.",
+      "appearsIn": [
+        "Exam 2023 September"
+      ]
+    },
+    {
+      "section": "Exam 2022 February 2",
+      "number": 2,
+      "question": "The use of observation instruments...",
+      "options": [
+        "It necessarily increases the imprecision of the observation.",
+        "It allows infallible observations to be made.",
+        "It allows us to overcome limitations of our perceptive capacities."
+      ],
+      "answer": "It allows us to overcome limitations of our perceptive capacities.",
+      "explanation": "Instruments overcome perceptual limitations and make it possible to observe/measure phenomena inaccessible to the naked eye.",
+      "appearsIn": [
+        "Exam 2023 September"
+      ]
+    },
+    {
+      "section": "Exam 2022 February 2",
+      "number": 3,
+      "question": "A hypothesis that is subject to empirical refutation...",
+      "options": [
+        "It is admissible as a scientific hypothesis, because it is falsifiable.",
+        "It is inadmissible as a scientific hypothesis, because it is not falsifiable.",
+        "It is inadmissible as a scientific hypothesis, because it is false."
+      ],
+      "answer": "It is admissible as a scientific hypothesis, because it is falsifiable.",
+      "explanation": "If a hypothesis is falsifiable (it could be refuted by evidence), it is admissible as a scientific hypothesis in the Popperian sense.",
+      "appearsIn": [
+        "Exam 2023 September"
+      ]
+    },
+    {
+      "section": "Exam 2022 February 2",
+      "number": 4,
+      "question": "what is the problem with induction?",
+      "options": [
+        "Correct inductive reasoning requires making a large number of observations, which is not always easy.",
+        "In principle, it is an open possibility that the premises of an inductive inference are true but the generalization reached in the conclusion is false (because there are as yet unobserved exceptions to such a generalization).",
+        "We can never know with certainty whether the premises of an inductive reasoning are true."
+      ],
+      "answer": "In principle, it is an open possibility that the premises of an inductive inference are true but the generalization reached in the conclusion is false (because there are as yet unobserved exceptions to such a generalization).",
+      "explanation": "It is possible that observed premises are true and the concluded generalization is false due to unobserved exceptions.",
+      "appearsIn": [
+        "Topic 5. The problem of induction",
+        "Exam 2023 September"
+      ]
+    },
+    {
+      "section": "Exam 2022 February 2",
+      "number": 5,
+      "question": "According to Popper's falsificationism:",
+      "options": [
+        "The main function of observation in science is to disprove hypotheses, not to confirm them.",
+        "The main function of observation in science is to confirm hypotheses, not to disprove them.",
+        "The observation of a sufficient number of cases that fulfill a generalization allows us to conclude that such generalization is confirmed."
+      ],
+      "answer": "The main function of observation in science is to disprove hypotheses, not to confirm them.",
+      "explanation": "For Popper, the key role of observation is to attempt to disprove hypotheses by means of severe contrasts; there is no definitive verification.",
+      "appearsIn": [
+        "Exam 2025 February 1",
+        "Exam 2023 September"
+      ]
+    },
+    {
+      "section": "Exam 2022 February 2",
+      "number": 6,
+      "question": "what are statistical biases?",
+      "options": [
+        "Methods used to statistically analyze large data sets.",
+        "Statistical analysis methods that guarantee unbiased and objective results.",
+        "Distortions introduced in the statistical analysis, due to deficiencies in the methods of analysis or data collection, as a result of which the conclusions drawn in the analysis do not reflect genuine properties of the population or phenomenon studied."
+      ],
+      "answer": "Distortions introduced in the statistical analysis, due to deficiencies in the methods of analysis or data collection, as a result of which the conclusions drawn in the analysis do not reflect genuine properties of the population or phenomenon studied.",
+      "explanation": "These are distortions due to methods/data collection that cause the analysis not to reflect real properties of the phenomenon or population.",
+      "appearsIn": [
+        "Exam 2023 September"
+      ]
+    },
+    {
+      "section": "Exam 2022 February 2",
+      "number": 7,
+      "question": "what is the relationship between creationism and intelligent design theory?",
+      "options": [
+        "Intelligent design theory assumes creationism",
+        "They are the same thing",
+        "Creationism has now been replaced by the theory of intelligent design"
+      ],
+      "answer": "Intelligent design theory assumes creationism",
+      "explanation": "Intelligent design is presented as a reformulation of creationism in order to appear scientific.",
+      "appearsIn": [
+        "Topic 10. Science and its enemies: science vs. non-science, pseudoscience and anti-science",
+        "Exam 2023 September"
+      ]
+    },
+    {
+      "section": "Exam 2022 February 2",
+      "number": 8,
+      "question": "According to the anti-scientists...",
+      "options": [
+        "Science is not able to meet any demarcation criterion",
+        "It does not matter what the scientific demarcation criterion is because science as such is an activity that should be eliminated (or at least deeply reconsidered)",
+        "Scientists are not capable of judging their own activity."
+      ],
+      "answer": "It does not matter what the scientific demarcation criterion is because science as such is an activity that should be eliminated (or at least deeply reconsidered)",
+      "explanation": "In strong positions, they consider that science should be eliminated or radically revised; therefore, the demarcation criterion is irrelevant to them.",
+      "appearsIn": [
+        "Topic 10.3. Anticipation",
+        "Exam 2023 September"
+      ]
+    },
+    {
+      "section": "Exam 2022 February 2",
+      "number": 9,
+      "question": "According to feminist approaches to science:",
+      "options": [
+        "Only science done by women is valid",
+        "Science is determined by the androcentrism of society",
+        "Science is not valid knowledge because, given its nature as a product of an androcentric society, it can only be exercised by men"
+      ],
+      "answer": "Science is determined by the androcentrism of society",
+      "explanation": "It discusses how androcentrism can bias questions, methods and interpretations; it does not imply that only science done by women is valid.",
+      "appearsIn": [
+        "Topic 11. Science as a social product",
+        "Exam 2023 September"
+      ]
+    },
+    {
+      "section": "Exam 2022 February 2",
+      "number": 10,
+      "question": "what are clinical trials?",
+      "options": [
+        "Tests that are performed within hospitals and other healthcare facilities, such as blood tests, x-rays, etc.",
+        "Specialized scientific literature in the areas of health and biomedicine",
+        "Experimental studies in which the effectiveness and safety of a drug or treatment is investigated"
+      ],
+      "answer": "Experimental studies in which the effectiveness and safety of a drug or treatment is investigated",
+      "explanation": "These are experimental studies to evaluate the effectiveness and safety of drugs or treatments.",
+      "appearsIn": [
+        "Exam 2023 September"
+      ]
+    },
+    {
+      "section": "2020 Test February 1",
+      "number": 1,
+      "question": "The fact that a field of research has potential practical applications:",
+      "options": [
+        "It is evidence in favor of certain hypotheses in that field.",
+        "It may be a legitimate motivation to work in that field of research.",
+        "It should not be taken into account when deciding to which research fields to allocate resources."
+      ],
+      "answer": "It may be a legitimate motivation to work in that field of research.",
+      "explanation": "The possibility of applications can legitimately motivate research, without itself being evidence of a hypothesis."
+    },
+    {
+      "section": "2020 Test February 1",
+      "number": 2,
+      "question": "is all science empirical experimental?",
+      "options": [
+        "There are scientific disciplines of an empirical nature in which the role of experiments is limited, and in which empirical evidence is obtained mainly through non-experimental observations.",
+        "At present, all empirical science is experimental.",
+        "The only non-experimental science is mathematics."
+      ],
+      "answer": "There are scientific disciplines of an empirical nature in which the role of experiments is limited, and in which empirical evidence is obtained mainly through non-experimental observations.",
+      "explanation": "There are empirical sciences (e.g. astronomy, geology) where experiment is limited and observation predominates.",
+      "appearsIn": [
+        "Topic 3. Experimentation"
+      ]
+    },
+    {
+      "section": "2020 Test February 1",
+      "number": 3,
+      "question": "when is a hypothesis empirically disproved or falsified?",
+      "options": [
+        "A hypothesis will be empirically refuted if any of its predictions turn out to be incompatible with the available empirical evidence.",
+        "A hypothesis will be empirically disproved only if all its predictions turn out to be incompatible with the available empirical evidence.",
+        "A hypothesis will be empirically disproved if the available evidence is compatible with both the falsity and the truth of the hypothesis."
+      ],
+      "answer": "A hypothesis will be empirically refuted if any of its predictions turn out to be incompatible with the available empirical evidence.",
+      "explanation": "A hypothesis will be empirically refuted if any of its predictions turn out to be incompatible with the available empirical evidence.",
+      "appearsIn": [
+        "Theme 4. The scientific method"
+      ]
+    },
+    {
+      "section": "2020 Test February 1",
+      "number": 4,
+      "question": "what is the conclusion of a reasoning?",
+      "options": [
+        "The conclusion of a reasoning is the proposition that constitutes the content of the belief arrived at in that reasoning.",
+        "The conclusion of a reasoning is the belief to be defended in a debate.",
+        "The conclusion of a reasoning is a true belief that is supported by evidence."
+      ],
+      "answer": "The conclusion of a reasoning is the proposition that constitutes the content of the belief arrived at in that reasoning.",
+      "explanation": "The conclusion is the proposition that holds at the end of the reasoning."
+    },
+    {
+      "section": "2020 Test February 1",
+      "number": 5,
+      "question": "are inductive generalizations fallible?",
+      "options": [
+        "Whenever an inductive generalization is supported by a large number of observations, it is guaranteed that such a generalization will be fulfilled in any case.",
+        "Inductive generalizations are infallible if they are based on observations",
+        "Even if an inductive inference is supported by a large number of observations, unexpected exceptions are always possible in principle."
+      ],
+      "answer": "Even if an inductive inference is supported by a large number of observations, unexpected exceptions are always possible in principle.",
+      "explanation": "The appearance of a counterexample can refute an inductive generalization.",
+      "appearsIn": [
+        "Topic 5. The problem of induction"
+      ]
+    },
+    {
+      "section": "2020 Test February 1",
+      "number": 6,
+      "question": "what is normal science?",
+      "options": [
+        "Science that is done within the framework of a paradigm",
+        "Science that makes no relevant contribution",
+        "Science that is done according to accepted criteria of rigor and efficacy"
+      ],
+      "answer": "Science that is done within the framework of a paradigm",
+      "explanation": "Normal science consists of solving problems within the framework of an established paradigm.",
+      "appearsIn": [
+        "Paradigms and scientific change"
+      ]
+    },
+    {
+      "section": "2020 Test February 1",
+      "number": 7,
+      "question": "when does a paradigm shift occur?",
+      "options": [
+        "When a new paradigm proves to be better than the previous one",
+        "When the old paradigm becomes exhausted and no longer productive",
+        "When the majority of the members of the scientific community decide to take on a new paradigm, regardless of the reasons why they do so"
+      ],
+      "answer": "When the majority of the members of the scientific community decide to take on a new paradigm, regardless of the reasons why they do so",
+      "explanation": "The adoption of a new paradigm is usually motivated by its greater ability to solve problems and explain data, but also by social factors.",
+      "appearsIn": [
+        "Paradigms and scientific change"
+      ]
+    },
+    {
+      "section": "2020 Test February 1",
+      "number": 8,
+      "question": "According to verificationism...",
+      "options": [
+        "Knowledge must be corroborated by experience",
+        "Knowledge is always true",
+        "Knowledge must always be able to be expressed mathematically"
+      ],
+      "answer": "Knowledge must be corroborated by experience",
+      "explanation": "The verificationism of the Vienna School holds that a proposition is meaningful if and only if it can be empirically verified.",
+      "appearsIn": [
+        "Topic 9. The demarcation criterion"
+      ]
+    },
+    {
+      "section": "2020 Test February 1",
+      "number": 9,
+      "question": "which of these statements is falsifiable?",
+      "options": [
+        "Our destiny is predetermined by a divine providence",
+        "The position of the stars influences our fortune",
+        "The net force applied to a body is proportional to the acceleration of the body"
+      ],
+      "answer": "The net force applied to a body is proportional to the acceleration of the body",
+      "explanation": "The concrete physical law is falsifiable because it prohibits certain observations."
+    },
+    {
+      "section": "2020 Test February 1",
+      "number": 10,
+      "question": "why are there non-scientific discourses that try to pass themselves off as scientific?",
+      "options": [
+        "To take advantage of the social credit of science",
+        "Mistrust of science",
+        "Rejection of the privileged status of science in our societies"
+      ],
+      "answer": "To take advantage of the social credit of science",
+      "explanation": "It is the pseudoscientific discourses that seek to take advantage of the social prestige of science."
+    },
+    {
+      "section": "2020 Test February 2",
+      "number": 1,
+      "question": "The scientific method:",
+      "options": [
+        "It cannot be applied to test hypotheses from non-Western traditions.",
+        "It is in principle applicable to any empirical hypothesis about how the world is.",
+        "It simply offers a different type of evidence than that provided by tradition, without it being possible to say that one is better or worse than the other."
+      ],
+      "answer": "It is in principle applicable to any empirical hypothesis about how the world is.",
+      "explanation": "The scientific method is defined as a procedure for testing empirical hypotheses with evidence, and in principle is applicable to any hypothesis about the world that is testable, wherever it comes from."
+    },
+    {
+      "section": "2020 Test February 2",
+      "number": 2,
+      "question": "what are the rules for formulating hypotheses?",
+      "options": [
+        "There are no rigid rules: in principle, any empirically testable hypothesis can be formulated, although it is desirable that it presents virtues such as simplicity, generality, predictive power or explanatory capacity.",
+        "It is only scientifically permissible to put forward hypotheses whose truth has been proven by evidence.",
+        "It is desirable to propose hypotheses that are highly improbable."
+      ],
+      "answer": "There are no rigid rules: in principle, any empirically testable hypothesis can be formulated, although it is desirable that it presents virtues such as simplicity, generality, predictive power or explanatory capacity.",
+      "explanation": "There are no rigid rules for formulating hypotheses; it is sufficient that they are empirically testable and it is preferable that they have theoretical virtues such as simplicity and explanatory/predictive power."
+    },
+    {
+      "section": "2020 Test February 2",
+      "number": 3,
+      "question": "are hypotheses currently accepted by the scientific community revisable?",
+      "options": [
+        "In general, a hypothesis currently accepted by the scientific community, and compatible with the evidence now available, will not be rejected in the future.",
+        "It is common that the emergence of new empirical evidence leads to the rejection of scientific hypotheses that were widely accepted and that conformed to the evidence available up to that time.",
+        "A hypothesis that is compatible with the available evidence will always be true, and therefore no new evidence can appear to refute it."
+      ],
+      "answer": "It is common that the appearance of new empirical evidence leads to the rejection of scientific hypotheses that were widely accepted and that conformed to the evidence available up to that time.",
+      "explanation": "Scientific hypotheses are provisional and can be revised or rejected when new empirical evidence or better explanations appear.",
+      "appearsIn": [
+        "Theme 4. The scientific method"
+      ]
+    },
+    {
+      "section": "2020 Test February 2",
+      "number": 4,
+      "question": "what is inferential statistics?",
+      "options": [
+        "Inferential statistics seeks to make (inductive) inferences whose conclusions are applicable to a population as a whole, taking as evidence data on part of that population (statistical sample).",
+        "Inferential statistics seeks to sort data about a population.",
+        "Inferential statistics seeks to apply computational techniques to the production of experimental data."
+      ],
+      "answer": "Inferential statistics seeks to make (inductive) inferences whose conclusions are applicable to a population as a whole, taking as evidence data on part of that population (statistical sample).",
+      "explanation": "Inferring a population from a sample, quantifying uncertainty."
+    },
+    {
+      "section": "2020 Test February 2",
+      "number": 5,
+      "question": "There is a clear and significant correlation between breastfeeding and good academic results:",
+      "options": [
+        "It can be justifiably concluded that breastfeeding contributes to improved academic outcomes, even if only slightly.",
+        "This correlation shows that there is a causal relationship between breastfeeding and good economic performance (if there were no such causal relationship, the correlation would not be significant).",
+        "It cannot be directly concluded that breastfeeding contributes to improved academic outcomes, unless other factors that may explain the correlation (for example, the association between breastfeeding and socioeconomic status) are ruled out."
+      ],
+      "answer": "It cannot be directly concluded that breastfeeding contributes to improved academic outcomes, unless other factors that may explain the correlation (for example, the association between breastfeeding and socioeconomic status) are ruled out.",
+      "explanation": "More nuanced and coherent option with the syllabus."
+    },
+    {
+      "section": "2020 Test February 2",
+      "number": 6,
+      "question": "in which sciences is the use of the nomological-deductive model most frequent?",
+      "options": [
+        "Physics and chemistry",
+        "Biological and social sciences",
+        "In all of them"
+      ],
+      "answer": "Physics and chemistry",
+      "explanation": "Nomological-deductive is more common in physical sciences, where there are clear general laws.",
+      "appearsIn": [
+        "Topic 7. The use of models in science"
+      ]
+    },
+    {
+      "section": "2020 Test February 2",
+      "number": 7,
+      "question": "can a living being be a scientific model?",
+      "options": [
+        "No",
+        "Yes",
+        "Laboratory animals only"
+      ],
+      "answer": "Yes",
+      "explanation": "A mouse, for example, can be a scientific model for studying human diseases.",
+      "appearsIn": [
+        "Topic 7. The use of models in science"
+      ]
+    },
+    {
+      "section": "2020 Test February 2",
+      "number": 8,
+      "question": "what is the name given to the philosophical position advocated by Paul Feyerabend?",
+      "options": [
+        "Philosophical socialism",
+        "Philosophical anarchism",
+        "Philosophical democracy"
+      ],
+      "answer": "Philosophical anarchism",
+      "explanation": "Feyerabend's best known book is \"Against Method: Outline of an Anarchistic Theory of Knowledge\", where he defends epistemological anarchism."
+    },
+    {
+      "section": "2020 Test February 2",
+      "number": 9,
+      "question": "According to falsificationism, we cannot be sure we are right, but we can know....",
+      "options": [
+        "If we are close to being",
+        "If we are going to be at some point, even if it is very far away",
+        "If we are wrong"
+      ],
+      "answer": "If we are wrong",
+      "explanation": "We can detect errors: if a prediction fails, we know that the hypothesis is false or there is an auxiliary problem.",
+      "appearsIn": [
+        "Topic 9. The demarcation criterion",
+        "Exam 2022 February 1"
+      ]
+    },
+    {
+      "section": "2020 Test February 2",
+      "number": 10,
+      "question": "what is pseudoscience?",
+      "options": [
+        "Non-science masquerading as science",
+        "Poorly conceived science that does not provide good results",
+        "The type of knowledge that does not show sufficient guarantees to be considered as scientific"
+      ],
+      "answer": "Non-science masquerading as science",
+      "explanation": "Pseudoscience: non-science that tries to present itself as science in order to take advantage of its prestige.",
+      "appearsIn": [
+        "Topic 10.2. Pseudoscience",
+        "Exam 2024 February 2"
+      ]
+    }
+  ]
+}
