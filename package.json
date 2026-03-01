@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "dev:data": "serve --cors --listen 4173 data",
-    "dev:data:test": "serve --cors --listen 4174 test-data"
+    "dev:data:test": "serve --cors --listen 4174 test-data",
+    "audit:lang": "node scripts/audit-language-data.mjs",
+    "audit:lang:strict": "node scripts/audit-language-data.mjs --strict-translation"
   },
   "devDependencies": {
     "serve": "^14.2.5"

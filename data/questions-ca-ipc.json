@@ -7,7 +7,7 @@
   "language": "ca",
   "questions": [
     {
-      "section": "Tema 1. Ciencia, hechos y evidencia",
+      "section": "Tema 1. Ciència, fets i evidència",
       "number": 1,
       "question": "El hecho de que la Tierra tiene más de 4000 años de antigüedad:",
       "options": [
@@ -19,7 +19,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 1. Ciencia, hechos y evidencia",
+      "section": "Tema 1. Ciència, fets i evidència",
       "number": 2,
       "question": "¿Ofrece la ciencia una guía fiable para la acción?",
       "options": [
@@ -31,7 +31,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 1. Ciencia, hechos y evidencia",
+      "section": "Tema 1. Ciència, fets i evidència",
       "number": 3,
       "question": "¿En qué consisten los argumentos de autoridad?",
       "options": [
@@ -43,7 +43,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 1. Ciencia, hechos y evidencia",
+      "section": "Tema 1. Ciència, fets i evidència",
       "number": 4,
       "question": "¿Qué es un sesgo cognitivo?",
       "options": [
@@ -55,7 +55,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 1. Ciencia, hechos y evidencia",
+      "section": "Tema 1. Ciència, fets i evidència",
       "number": 5,
       "question": "Una verdad es objetiva si:",
       "options": [
@@ -67,7 +67,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 2. Conocimiento empírico y observación",
+      "section": "Tema 2. Coneixement empíric i observació",
       "number": 1,
       "question": "De acuerdo con el empirismo:",
       "options": [
@@ -79,7 +79,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 2. Conocimiento empírico y observación",
+      "section": "Tema 2. Coneixement empíric i observació",
       "number": 2,
       "question": "La observación:",
       "options": [
@@ -91,7 +91,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 2. Conocimiento empírico y observación",
+      "section": "Tema 2. Coneixement empíric i observació",
       "number": 3,
       "question": "La repetición y replicación de observaciones científicas:",
       "options": [
@@ -103,7 +103,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 2. Conocimiento empírico y observación",
+      "section": "Tema 2. Coneixement empíric i observació",
       "number": 4,
       "question": "El uso de instrumentos de observación:",
       "options": [
@@ -115,7 +115,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 2. Conocimiento empírico y observación",
+      "section": "Tema 2. Coneixement empíric i observació",
       "number": 5,
       "question": "La evidencia empírica científica:",
       "options": [
@@ -127,7 +127,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 3. Experimentación",
+      "section": "Tema 3. Experimentació",
       "number": 1,
       "question": "¿Qué es un experimento?",
       "options": [
@@ -139,7 +139,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 3. Experimentación",
+      "section": "Tema 3. Experimentació",
       "number": 2,
       "question": "¿Qué es un experimento controlado?",
       "options": [
@@ -151,7 +151,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 3. Experimentación",
+      "section": "Tema 3. Experimentació",
       "number": 3,
       "question": "Si en un experimento en botánica se observa que ciertas plantas crecen más cuando se les añade fertilizante:",
       "options": [
@@ -163,7 +163,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 3. Experimentación",
+      "section": "Tema 3. Experimentació",
       "number": 4,
       "question": "¿En qué consistió el experimento de Semmelweis?",
       "options": [
@@ -175,7 +175,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 3. Experimentación",
+      "section": "Tema 3. Experimentació",
       "number": 5,
       "question": "¿Es toda la ciencia empírica experimental?",
       "options": [
@@ -187,7 +187,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 4. El método científico",
+      "section": "Tema 4. El mètode científic",
       "number": 1,
       "question": "¿Cuando proponemos una hipótesis, hemos de creer que es verdadera?",
       "options": [
@@ -199,7 +199,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 4. El método científico",
+      "section": "Tema 4. El mètode científic",
       "number": 2,
       "question": "¿Qué quiere decir que una hipótesis sea falsable o refutable empíricamente?",
       "options": [
@@ -211,7 +211,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 4. El método científico",
+      "section": "Tema 4. El mètode científic",
       "number": 3,
       "question": "¿Cuándo queda refutada o falsada empíricamente una hipótesis?",
       "options": [
@@ -223,7 +223,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 4. El método científico",
+      "section": "Tema 4. El mètode científic",
       "number": 4,
       "question": "¿Son revisables hipótesis actualmente aceptadas por la comunidad científica?",
       "options": [
@@ -235,7 +235,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 4. El método científico",
+      "section": "Tema 4. El mètode científic",
       "number": 5,
       "question": "El lenguaje científico:",
       "options": [
@@ -247,7 +247,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 5. El problema de la inducción",
+      "section": "Tema 5. El problema de la inducció",
       "number": 1,
       "question": "En un razonamiento deductivo válido:",
       "options": [
@@ -259,7 +259,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 5. El problema de la inducción",
+      "section": "Tema 5. El problema de la inducció",
       "number": 2,
       "question": "En un razonamiento inductivo:",
       "options": [
@@ -271,7 +271,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 5. El problema de la inducción",
+      "section": "Tema 5. El problema de la inducció",
       "number": 3,
       "question": "¿Son falibles las generalizaciones inductivas?",
       "options": [
@@ -283,7 +283,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 5. El problema de la inducción",
+      "section": "Tema 5. El problema de la inducció",
       "number": 4,
       "question": "¿Cuántas observaciones son necesarias para confirmar inductivamente, de manera definitiva, una hipótesis general empírica?",
       "options": [
@@ -295,7 +295,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 5. El problema de la inducción",
+      "section": "Tema 5. El problema de la inducció",
       "number": 5,
       "question": "¿Cuál es el problema de la inducción?",
       "options": [
@@ -307,7 +307,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 6. Probabilidad y estadística",
+      "section": "Tema 6. Probabilitat i estadística",
       "number": 1,
       "question": "¿Cuál es la relación entre probabilidad e incertidumbre?",
       "options": [
@@ -319,7 +319,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 6. Probabilidad y estadística",
+      "section": "Tema 6. Probabilitat i estadística",
       "number": 2,
       "question": "¿Qué es la muestra estadística?",
       "options": [
@@ -331,7 +331,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 6. Probabilidad y estadística",
+      "section": "Tema 6. Probabilitat i estadística",
       "number": 3,
       "question": "Un resultado extraído a partir de un conjunto de datos (e.g. una correlación) es estadísticamente significativo:",
       "options": [
@@ -343,7 +343,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 6. Probabilidad y estadística",
+      "section": "Tema 6. Probabilitat i estadística",
       "number": 4,
       "question": "¿Cuál es la relación entre correlación y causalidad?",
       "options": [
@@ -355,7 +355,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 6. Probabilidad y estadística",
+      "section": "Tema 6. Probabilitat i estadística",
       "number": 5,
       "question": "Una manera de obtener una muestra estadística imparcial y representativa de la población estudiada, evitando sesgos en la recolección de datos es:",
       "options": [
@@ -367,7 +367,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 7. El uso de los modelos en ciencia",
+      "section": "Tema 7. L'ús dels models en ciència",
       "number": 1,
       "question": "¿En qué ciencias es más frecuente el uso del modelo nomológico-deductivo?",
       "options": [
@@ -379,7 +379,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 7. El uso de los modelos en ciencia",
+      "section": "Tema 7. L'ús dels models en ciència",
       "number": 2,
       "question": "¿En qué ciencias se utilizan modelos?",
       "options": [
@@ -391,7 +391,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 7. El uso de los modelos en ciencia",
+      "section": "Tema 7. L'ús dels models en ciència",
       "number": 3,
       "question": "Los modelos científicos son…",
       "options": [
@@ -403,7 +403,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 7. El uso de los modelos en ciencia",
+      "section": "Tema 7. L'ús dels models en ciència",
       "number": 4,
       "question": "Los modelos científicos tienen valor explicativo…",
       "options": [
@@ -415,7 +415,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 7. El uso de los modelos en ciencia",
+      "section": "Tema 7. L'ús dels models en ciència",
       "number": 5,
       "question": "Un modelo es válido",
       "options": [
@@ -427,7 +427,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 8. Paradigmas y cambio científico",
+      "section": "Tema 8. Paradigmes i canvi científic",
       "number": 1,
       "question": "¿Qué propone Kuhn para comprender el funcionamiento de la ciencia?",
       "options": [
@@ -439,7 +439,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 8. Paradigmas y cambio científico",
+      "section": "Tema 8. Paradigmes i canvi científic",
       "number": 2,
       "question": "¿Qué es la ciencia normal?",
       "options": [
@@ -451,7 +451,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 8. Paradigmas y cambio científico",
+      "section": "Tema 8. Paradigmes i canvi científic",
       "number": 3,
       "question": "¿Qué ocurre más frecuentemente cuándo se da un fenómeno que contradice lo asumido por un paradigma?",
       "options": [
@@ -463,7 +463,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 8. Paradigmas y cambio científico",
+      "section": "Tema 8. Paradigmes i canvi científic",
       "number": 4,
       "question": "Según Kuhn, ¿cómo se produce el cambio científico?",
       "options": [
@@ -475,7 +475,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 8. Paradigmas y cambio científico",
+      "section": "Tema 8. Paradigmes i canvi científic",
       "number": 5,
       "question": "¿Cuándo se produce un cambio de paradigma?",
       "options": [
@@ -487,7 +487,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 9. El criterio de demarcación",
+      "section": "Tema 9. El criteri de demarcació",
       "number": 1,
       "question": "¿En qué consiste el problema de la demarcación?",
       "options": [
@@ -499,7 +499,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 9. El criterio de demarcación",
+      "section": "Tema 9. El criteri de demarcació",
       "number": 2,
       "question": "Según el verificacionismo…",
       "options": [
@@ -511,7 +511,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 9. El criterio de demarcación",
+      "section": "Tema 9. El criteri de demarcació",
       "number": 3,
       "question": "Según el falsacionismo, no podemos estar seguros de estar en lo cierto pero podemos saber…",
       "options": [
@@ -523,7 +523,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 9. El criterio de demarcación",
+      "section": "Tema 9. El criteri de demarcació",
       "number": 4,
       "question": "Según el giro social de la filosofía de la ciencia",
       "options": [
@@ -535,7 +535,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 9. El criterio de demarcación",
+      "section": "Tema 9. El criteri de demarcació",
       "number": 5,
       "question": "El criterio de demarcación es importante…",
       "options": [
@@ -547,7 +547,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 10. La ciencia y sus enemigos: ciencia vs. no ciencia, pseudociencia y anticiencia",
+      "section": "Tema 10. La ciència i els seus enemics: ciència vs. no-ciència, pseudociència i anticiència",
       "number": 1,
       "question": "El discurso científico y el discurso no científico",
       "options": [
@@ -559,7 +559,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 10. La ciencia y sus enemigos: ciencia vs. no ciencia, pseudociencia y anticiencia",
+      "section": "Tema 10. La ciència i els seus enemics: ciència vs. no-ciència, pseudociència i anticiència",
       "number": 2,
       "question": "¿Qué es el creacionismo?",
       "options": [
@@ -571,7 +571,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 10. La ciencia y sus enemigos: ciencia vs. no ciencia, pseudociencia y anticiencia",
+      "section": "Tema 10. La ciència i els seus enemics: ciència vs. no-ciència, pseudociència i anticiència",
       "number": 3,
       "question": "En nuestro contexto actual…",
       "options": [
@@ -583,7 +583,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 10. La ciencia y sus enemigos: ciencia vs. no ciencia, pseudociencia y anticiencia",
+      "section": "Tema 10. La ciència i els seus enemics: ciència vs. no-ciència, pseudociència i anticiència",
       "number": 4,
       "question": "¿Cuál es la relación entre el creacionismo y la teoría del diseño inteligente?",
       "options": [
@@ -595,7 +595,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 10. La ciencia y sus enemigos: ciencia vs. no ciencia, pseudociencia y anticiencia",
+      "section": "Tema 10. La ciència i els seus enemics: ciència vs. no-ciència, pseudociència i anticiència",
       "number": 5,
       "question": "¿Cuándo los discursos no-científicos se enfrentan al discurso científico?",
       "options": [
@@ -607,7 +607,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 10.2. Pseudociencia",
+      "section": "Tema 10.2. Pseudociència",
       "number": 1,
       "question": "¿Qué es la pseudociencia?",
       "options": [
@@ -619,7 +619,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 10.2. Pseudociencia",
+      "section": "Tema 10.2. Pseudociència",
       "number": 2,
       "question": "¿Por qué hay discursos no-científicos que intentan hacerse pasar por científicos?",
       "options": [
@@ -631,7 +631,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 10.2. Pseudociencia",
+      "section": "Tema 10.2. Pseudociència",
       "number": 3,
       "question": "Las pseudomedicinas",
       "options": [
@@ -643,7 +643,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 10.2. Pseudociencia",
+      "section": "Tema 10.2. Pseudociència",
       "number": 4,
       "question": "La homeopatía es",
       "options": [
@@ -655,7 +655,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 10.2. Pseudociencia",
+      "section": "Tema 10.2. Pseudociència",
       "number": 5,
       "question": "Desde un punto de vista de la filosofía de la ciencia",
       "options": [
@@ -667,7 +667,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 10.3. Anticiencia",
+      "section": "Tema 10.3. Anticiència",
       "number": 1,
       "question": "La anti-ciencia…",
       "options": [
@@ -679,7 +679,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 10.3. Anticiencia",
+      "section": "Tema 10.3. Anticiència",
       "number": 2,
       "question": "¿Cuál de estas corrientes es claramente anti-científica?",
       "options": [
@@ -691,7 +691,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 10.3. Anticiencia",
+      "section": "Tema 10.3. Anticiència",
       "number": 3,
       "question": "Según los anticientificistas…",
       "options": [
@@ -703,7 +703,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 10.3. Anticiencia",
+      "section": "Tema 10.3. Anticiència",
       "number": 4,
       "question": "¿Qué es el terraplanismo?",
       "options": [
@@ -715,7 +715,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 10.3. Anticiencia",
+      "section": "Tema 10.3. Anticiència",
       "number": 5,
       "question": "¿Cuál es una de las principales razones por las que es hoy en día peligroso el discurso anti-científico?",
       "options": [
@@ -727,7 +727,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 11. La ciencia como producto social",
+      "section": "Tema 11. La ciència com a producte social",
       "number": 1,
       "question": "¿En qué contexto surgen los estudios CTS?",
       "options": [
@@ -739,7 +739,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 11. La ciencia como producto social",
+      "section": "Tema 11. La ciència com a producte social",
       "number": 2,
       "question": "La tecnociencia:",
       "options": [
@@ -751,7 +751,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 11. La ciencia como producto social",
+      "section": "Tema 11. La ciència com a producte social",
       "number": 3,
       "question": "¿Cuáles son los nombres de las principales tesis del Programa Fuerte?",
       "options": [
@@ -763,7 +763,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 11. La ciencia como producto social",
+      "section": "Tema 11. La ciència com a producte social",
       "number": 4,
       "question": "Según el constructivismo social:",
       "options": [
@@ -775,7 +775,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 11. La ciencia como producto social",
+      "section": "Tema 11. La ciència com a producte social",
       "number": 5,
       "question": "Según los enfoques feministas de la ciencia:",
       "options": [
@@ -787,7 +787,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 12. ¿Cómo funcionan las instituciones científicas?",
+      "section": "Tema 12. Com funcionen les institucions científiques?",
       "number": 1,
       "question": "¿Qué es la revisión por pares?",
       "options": [
@@ -799,7 +799,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 12. ¿Cómo funcionan las instituciones científicas?",
+      "section": "Tema 12. Com funcionen les institucions científiques?",
       "number": 2,
       "question": "Las motivaciones de los científicos:",
       "options": [
@@ -811,7 +811,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 12. ¿Cómo funcionan las instituciones científicas?",
+      "section": "Tema 12. Com funcionen les institucions científiques?",
       "number": 3,
       "question": "Los ensayos clínicos:",
       "options": [
@@ -823,7 +823,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 12. ¿Cómo funcionan las instituciones científicas?",
+      "section": "Tema 12. Com funcionen les institucions científiques?",
       "number": 4,
       "question": "¿Qué es un estudio de replicación?",
       "options": [
@@ -835,7 +835,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 12. ¿Cómo funcionan las instituciones científicas?",
+      "section": "Tema 12. Com funcionen les institucions científiques?",
       "number": 5,
       "question": "Las publicaciones en revistas científicas especializadas:",
       "options": [
@@ -847,7 +847,7 @@
       "explanation": ""
     },
     {
-      "section": "Examen 2025 Septiembre",
+      "section": "Examen 2025 Setembre",
       "number": 1,
       "question": "¿Es toda la ciencia empírica experimental?",
       "options": [
@@ -859,7 +859,7 @@
       "explanation": "No toda ciencia empírica es experimental: en varias disciplinas la evidencia proviene sobre todo de observaciones no experimentales."
     },
     {
-      "section": "Examen 2025 Septiembre",
+      "section": "Examen 2025 Setembre",
       "number": 2,
       "question": "¿Puede un modelo falso ser válido?",
       "options": [
@@ -870,11 +870,11 @@
       "answer": "Sí, si da lugar a resultados interesantes y pertinentes",
       "explanation": "Un modelo puede idealizar y ser literalmente falso en detalles y aun así ser válido si permite explicar/predicir y guiar inferencias útiles en su dominio, como por ejemplo el de Lotka-Volterra para predicción de poblaciones.",
       "appearsIn": [
-        "Examen 2024 Febrero 2"
+        "Examen 2024 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2025 Septiembre",
+      "section": "Examen 2025 Setembre",
       "number": 3,
       "question": "En un razonamiento inductivo:",
       "options": [
@@ -885,13 +885,13 @@
       "answer": "La conclusión puede ser verdadera, pero las premisas no garantizarán que lo sea necesariamente.",
       "explanation": "En la inducción, aunque las premisas sean verdaderas, no garantizan necesariamente la verdad de la conclusión; por eso la conclusión puede fallar.",
       "appearsIn": [
-        "Tema 5. El problema de la inducción",
-        "Examen 2025 Febrero 2",
-        "Examen 2023 Febrero 2"
+        "Tema 5. El problema de la inducció",
+        "Examen 2025 Febrer 2",
+        "Examen 2023 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2025 Septiembre",
+      "section": "Examen 2025 Setembre",
       "number": 4,
       "question": "¿Cuando queda refutada una hipótesis general universal?",
       "options": [
@@ -903,7 +903,7 @@
       "explanation": "Las hipótesis universales se refutan con un solo contraejemplo observado (un caso que viola la generalización)."
     },
     {
-      "section": "Examen 2025 Septiembre",
+      "section": "Examen 2025 Setembre",
       "number": 5,
       "question": "¿Qué quiere decir que una hipótesis sea falsable o refutable empíricamente?",
       "options": [
@@ -914,11 +914,11 @@
       "answer": "Para que una hipótesis sea falsable empíricamente debe existir la posibilidad de que surja evidencia empírica que la refute.",
       "explanation": "Ser falsable significa que podría existir (en principio) evidencia empírica que la contradiga; debe prohibir observaciones posibles.",
       "appearsIn": [
-        "Tema 4. El método científico"
+        "Tema 4. El mètode científic"
       ]
     },
     {
-      "section": "Examen 2025 Septiembre",
+      "section": "Examen 2025 Setembre",
       "number": 6,
       "question": "El conocimiento que se transmite dentro de un paradigma",
       "options": [
@@ -930,7 +930,7 @@
       "explanation": "Para Kuhn, gran parte del aprendizaje en ciencia normal es tácito: se adquiere con ejemplos, práctica y entrenamiento, no solo con reglas explícitas."
     },
     {
-      "section": "Examen 2025 Septiembre",
+      "section": "Examen 2025 Setembre",
       "number": 7,
       "question": "La cuantificación de la observación:",
       "options": [
@@ -942,7 +942,7 @@
       "explanation": "Cuantificar permite comparar observaciones entre distintos observadores y contextos, mejorando control intersubjetivo y precisión."
     },
     {
-      "section": "Examen 2025 Septiembre",
+      "section": "Examen 2025 Setembre",
       "number": 8,
       "question": "Los estudios de replicación y los resultados negativos:",
       "options": [
@@ -954,7 +954,7 @@
       "explanation": "La replicación y los resultados negativos son claves para comprobar la fiabilidad y detectar errores o sesgos en hallazgos previos."
     },
     {
-      "section": "Examen 2025 Septiembre",
+      "section": "Examen 2025 Setembre",
       "number": 9,
       "question": "¿Según Kuhn, qué determina que un paradigma sustituya a otro?",
       "options": [
@@ -965,12 +965,12 @@
       "answer": "El cambio de paradigma no siempre se debe exclusivamente a un mejor apoyo evidencial.",
       "explanation": "Para Kuhn el reemplazo de paradigmas no depende solo de 'mejor evidencia': influyen también valores, estándares y dinámicas de comunidad científica.",
       "appearsIn": [
-        "Examen 2025 Febrero 1",
-        "Examen 2023 Febrero 2"
+        "Examen 2025 Febrer 1",
+        "Examen 2023 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2025 Septiembre",
+      "section": "Examen 2025 Setembre",
       "number": 10,
       "question": "¿Qué es una aproximación?",
       "options": [
@@ -982,7 +982,7 @@
       "explanation": "Una aproximación es un resultado inexacto pero suficientemente cercano al valor correcto para los fines prácticos o teóricos del investigador."
     },
     {
-      "section": "Examen 2025 Febrero 1",
+      "section": "Examen 2025 Febrer 1",
       "number": 1,
       "question": "Una hipótesis para la que no tenemos evidencia:",
       "options": [
@@ -994,7 +994,7 @@
       "explanation": "Que aún no tengamos evidencia no implica falsedad; puede ser una hipótesis verdadera pendiente de contrastación."
     },
     {
-      "section": "Examen 2025 Febrero 1",
+      "section": "Examen 2025 Febrer 1",
       "number": 2,
       "question": "¿Qué es un sesgo cognitivo?",
       "options": [
@@ -1005,12 +1005,12 @@
       "answer": "Una distorsión sistemática en la evaluación e interpretación de la evidencia disponible.",
       "explanation": "Un sesgo cognitivo es una distorsión sistemática en cómo evaluamos e interpretamos evidencia, que puede afectar a juicios y decisiones.",
       "appearsIn": [
-        "Tema 1. Ciencia, hechos y evidencia",
-        "Examen 2022 Febrero 1"
+        "Tema 1. Ciència, fets i evidència",
+        "Examen 2022 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2025 Febrero 1",
+      "section": "Examen 2025 Febrer 1",
       "number": 3,
       "question": "La repetición y replicación de observaciones científicas:",
       "options": [
@@ -1021,12 +1021,12 @@
       "answer": "Tiene un papel esencial en la investigación, ya que permite descubrir posibles errores y garantiza que la evidencia observacional resultante sea utilizable por distintos investigadores.",
       "explanation": "Repetición y replicación permiten detectar errores y asegurar que la evidencia es utilizable intersubjetivamente por distintos investigadores.",
       "appearsIn": [
-        "Tema 2. Conocimiento empírico y observación",
-        "Examen 2022 Septiembre"
+        "Tema 2. Coneixement empíric i observació",
+        "Examen 2022 Setembre"
       ]
     },
     {
-      "section": "Examen 2025 Febrero 1",
+      "section": "Examen 2025 Febrer 1",
       "number": 4,
       "question": "La estimación de que la temperatura en una habitación es de entre 25 y 27°C:",
       "options": [
@@ -1037,12 +1037,12 @@
       "answer": "Es imprecisa, pero puede ser correcta.",
       "explanation": "Una medida puede ser imprecisa (rango) y aun así correcta si el valor real está dentro de ese rango.",
       "appearsIn": [
-        "Examen 2024 Febrero 1",
-        "Examen 2022 Febrero 1"
+        "Examen 2024 Febrer 1",
+        "Examen 2022 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2025 Febrero 1",
+      "section": "Examen 2025 Febrer 1",
       "number": 5,
       "question": "Las predicciones derivables de una hipótesis son:",
       "options": [
@@ -1053,13 +1053,13 @@
       "answer": "Las consecuencias que se seguirán de la verdad de la hipótesis.",
       "explanation": "Son consecuencias observacionales/empíricas que se seguirían si la hipótesis fuese verdadera.",
       "appearsIn": [
-        "Examen 2025 Febrero 2",
-        "Examen 2024 Febrero 1",
-        "Examen 2022 Febrero 1"
+        "Examen 2025 Febrer 2",
+        "Examen 2024 Febrer 1",
+        "Examen 2022 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2025 Febrero 1",
+      "section": "Examen 2025 Febrer 1",
       "number": 6,
       "question": "En un razonamiento deductivo invalido:",
       "options": [
@@ -1070,14 +1070,14 @@
       "answer": "Puede que las premisas sean verdaderas y las conclusiones falsas.",
       "explanation": "Un argumento deductivo inválido admite contraejemplos: es posible que las premisas sean verdaderas y la conclusión falsa.",
       "appearsIn": [
-        "Examen 2025 Febrero 2",
-        "Examen 2024 Febrero 2",
-        "Examen 2023 Febrero 1",
-        "Examen 2022 Septiembre"
+        "Examen 2025 Febrer 2",
+        "Examen 2024 Febrer 2",
+        "Examen 2023 Febrer 1",
+        "Examen 2022 Setembre"
       ]
     },
     {
-      "section": "Examen 2025 Febrero 1",
+      "section": "Examen 2025 Febrer 1",
       "number": 7,
       "question": "Según el falsacionismo de Popper:",
       "options": [
@@ -1088,12 +1088,12 @@
       "answer": "La función principal de la observación en la ciencia es refutar hipótesis, no confirmarlas.",
       "explanation": "Para Popper el papel clave de la observación es intentar refutar hipótesis mediante contrastaciones severas; no hay verificación definitiva.",
       "appearsIn": [
-        "Examen 2023 Septiembre",
-        "Examen 2022 Febrero 2"
+        "Examen 2023 Setembre",
+        "Examen 2022 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2025 Febrero 1",
+      "section": "Examen 2025 Febrer 1",
       "number": 8,
       "question": "Las motivaciones de los científicos:",
       "options": [
@@ -1104,12 +1104,12 @@
       "answer": "Incluyen motivaciones prácticas, como la búsqueda de reconocimiento y la obtención de premios y financiación.",
       "explanation": "Además de motivos epistémicos, hay incentivos prácticos (carrera, financiación, reconocimiento) que influyen en la actividad científica.",
       "appearsIn": [
-        "Tema 12. ¿Cómo funcionan las instituciones científicas?",
-        "Examen 2024 Septiembre"
+        "Tema 12. Com funcionen les institucions científiques?",
+        "Examen 2024 Setembre"
       ]
     },
     {
-      "section": "Examen 2025 Febrero 1",
+      "section": "Examen 2025 Febrer 1",
       "number": 9,
       "question": "¿Según Kuhn, qué determina que un paradigma sustituya a otro?",
       "options": [
@@ -1120,12 +1120,12 @@
       "answer": "El cambio de paradigma no siempre se debe exclusivamente a un mejor apoyo evidencial.",
       "explanation": "Para Kuhn el reemplazo de paradigmas no depende solo de 'mejor evidencia': influyen también valores, estándares y dinámicas de comunidad científica.",
       "appearsIn": [
-        "Examen 2025 Septiembre",
-        "Examen 2023 Febrero 2"
+        "Examen 2025 Setembre",
+        "Examen 2023 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2025 Febrero 1",
+      "section": "Examen 2025 Febrer 1",
       "number": 10,
       "question": "Los modelos científicos:",
       "options": [
@@ -1137,7 +1137,7 @@
       "explanation": "Los modelos suelen ser idealizaciones o simplificaciones: no copias perfectas, sino herramientas para inferir y entender fenómenos."
     },
     {
-      "section": "Examen 2025 Febrero 2",
+      "section": "Examen 2025 Febrer 2",
       "number": 1,
       "question": "En un razonamiento deductivo invalido:",
       "options": [
@@ -1148,14 +1148,14 @@
       "answer": "Puede que las premisas sean verdaderas y las conclusiones falsas.",
       "explanation": "Un argumento deductivo inválido admite contraejemplos: es posible que las premisas sean verdaderas y la conclusión falsa.",
       "appearsIn": [
-        "Examen 2025 Febrero 1",
-        "Examen 2024 Febrero 2",
-        "Examen 2023 Febrero 1",
-        "Examen 2022 Septiembre"
+        "Examen 2025 Febrer 1",
+        "Examen 2024 Febrer 2",
+        "Examen 2023 Febrer 1",
+        "Examen 2022 Setembre"
       ]
     },
     {
-      "section": "Examen 2025 Febrero 2",
+      "section": "Examen 2025 Febrer 2",
       "number": 2,
       "question": "Segun el escepticismo humeano sobre la inducción:",
       "options": [
@@ -1166,11 +1166,11 @@
       "answer": "No existe justificación racional para realizar razonamientos inductivos.",
       "explanation": "Hume sostiene que no hay justificación racional no circular para la inducción; nuestra confianza en generalizaciones es hábito o costumbre.",
       "appearsIn": [
-        "Examen 2024 Septiembre"
+        "Examen 2024 Setembre"
       ]
     },
     {
-      "section": "Examen 2025 Febrero 2",
+      "section": "Examen 2025 Febrer 2",
       "number": 3,
       "question": "Según el verificacionismo:",
       "options": [
@@ -1182,7 +1182,7 @@
       "explanation": "El verificacionismo vincula la aceptabilidad/meaningfulness de enunciados empíricos a su contraste (verificación/confirmación) por la experiencia."
     },
     {
-      "section": "Examen 2025 Febrero 2",
+      "section": "Examen 2025 Febrer 2",
       "number": 4,
       "question": "¿Cuál es la relación entre el verificacionismo y el problema de la inducción?",
       "options": [
@@ -1194,7 +1194,7 @@
       "explanation": "El verificacionismo depende de confirmaciones inductivas nunca definitivas; por eso es vulnerable al problema de la inducción."
     },
     {
-      "section": "Examen 2025 Febrero 2",
+      "section": "Examen 2025 Febrer 2",
       "number": 5,
       "question": "En un razonamiento inductivo:",
       "options": [
@@ -1205,13 +1205,13 @@
       "answer": "La verdad de las conclusiones no está garantizada por la verdad de las premisas.",
       "explanation": "En la inducción, aunque las premisas sean verdaderas, no garantizan necesariamente la verdad de la conclusión; por eso la conclusión puede fallar.",
       "appearsIn": [
-        "Tema 5. El problema de la inducción",
-        "Examen 2025 Septiembre",
-        "Examen 2023 Febrero 2"
+        "Tema 5. El problema de la inducció",
+        "Examen 2025 Setembre",
+        "Examen 2023 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2025 Febrero 2",
+      "section": "Examen 2025 Febrer 2",
       "number": 6,
       "question": "Las predicciones derivables de una hipótesis son:",
       "options": [
@@ -1222,13 +1222,13 @@
       "answer": "Las consecuencias que se seguirían de la verdad de la hipótesis.",
       "explanation": "Son consecuencias observacionales/empíricas que se seguirían si la hipótesis fuese verdadera.",
       "appearsIn": [
-        "Examen 2025 Febrero 1",
-        "Examen 2024 Febrero 1",
-        "Examen 2022 Febrero 1"
+        "Examen 2025 Febrer 1",
+        "Examen 2024 Febrer 1",
+        "Examen 2022 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2025 Febrero 2",
+      "section": "Examen 2025 Febrer 2",
       "number": 7,
       "question": "¿Cuando un modelo es aceptable científicamente?",
       "options": [
@@ -1240,7 +1240,7 @@
       "explanation": "Un modelo es aceptable si permite inferencias útiles (explicar/predicir/controlar) sobre la realidad, aunque idealice."
     },
     {
-      "section": "Examen 2025 Febrero 2",
+      "section": "Examen 2025 Febrer 2",
       "number": 8,
       "question": "¿Cuáles son los tres criterios de demarcación que hemos abordado durante el curso?",
       "options": [
@@ -1252,7 +1252,7 @@
       "explanation": "En el curso se contraponen verificabilidad, falsabilidad y enfoques ligados a paradigmas/contexto (giro social)."
     },
     {
-      "section": "Examen 2025 Febrero 2",
+      "section": "Examen 2025 Febrer 2",
       "number": 9,
       "question": "Según el constructivismo social:",
       "options": [
@@ -1263,11 +1263,11 @@
       "answer": "La ciencia no tiene una posición privilegiada frente a otros fenómenos como la magia o la mitología",
       "explanation": "Una tesis típica es que la ciencia no tiene un estatus epistémico absoluto 'privilegiado' al margen de prácticas y contextos; se analiza como fenómeno social.",
       "appearsIn": [
-        "Tema 11. La ciencia como producto social"
+        "Tema 11. La ciència com a producte social"
       ]
     },
     {
-      "section": "Examen 2025 Febrero 2",
+      "section": "Examen 2025 Febrer 2",
       "number": 10,
       "question": "¿Cómo se llaman las investigaciones que buscan reproducir resultados obtenidos en un experimento previo?",
       "options": [
@@ -1279,7 +1279,7 @@
       "explanation": "Las investigaciones que buscan reproducir resultados obtenidos en un experimento previo se llaman estudios de replicación."
     },
     {
-      "section": "Examen 2024 Septiembre",
+      "section": "Examen 2024 Setembre",
       "number": 1,
       "question": "¿Qué es la evidencia?",
       "options": [
@@ -1290,12 +1290,12 @@
       "answer": "Pruebas o indicios acerca de la verdad de una proposición.",
       "explanation": "Evidencia son pruebas/indicios que apoyan (en distinto grado) la verdad de una proposición o hipótesis.",
       "appearsIn": [
-        "Examen 2023 Febrero 1",
-        "Examen 2022 Febrero 1"
+        "Examen 2023 Febrer 1",
+        "Examen 2022 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2024 Septiembre",
+      "section": "Examen 2024 Setembre",
       "number": 2,
       "question": "¿Cuál es la relación entre las creencias tradicionales y la evidencia científica?",
       "options": [
@@ -1307,7 +1307,7 @@
       "explanation": "Si no están respaldadas por evidencia, las creencias tradicionales no serán aceptables como conocimiento científico."
     },
     {
-      "section": "Examen 2024 Septiembre",
+      "section": "Examen 2024 Setembre",
       "number": 3,
       "question": "Según el escepticismo humeano sobre la inducción:",
       "options": [
@@ -1318,11 +1318,11 @@
       "answer": "No existe justificación racional para realizar razonamientos inductivos: nuestra tendencia a aceptar generalizaciones a partir de la observación de casos particulares es un mero hábito psicológico, una inclinación mental fruto de la costumbre.",
       "explanation": "Hume sostiene que no hay justificación racional no circular para la inducción; nuestra confianza en generalizaciones es hábito o costumbre.",
       "appearsIn": [
-        "Examen 2025 Febrero 2"
+        "Examen 2025 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2024 Septiembre",
+      "section": "Examen 2024 Setembre",
       "number": 4,
       "question": "Cuando dos variables están perfectamente correlacionadas:",
       "options": [
@@ -1333,11 +1333,11 @@
       "answer": "No siempre puede concluirse que exista una relación causal entre ellas.",
       "explanation": "Correlación no implica causalidad: puede haber variables de confusión o relaciones no causales que expliquen la correlación.",
       "appearsIn": [
-        "Examen 2023 Febrero 2"
+        "Examen 2023 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2024 Septiembre",
+      "section": "Examen 2024 Setembre",
       "number": 5,
       "question": "¿Qué es un argumento?",
       "options": [
@@ -1349,7 +1349,7 @@
       "explanation": "Un argumento es un conjunto de premisas que pretenden apoyar una conclusión; no es una sola proposición aislada."
     },
     {
-      "section": "Examen 2024 Septiembre",
+      "section": "Examen 2024 Setembre",
       "number": 6,
       "question": "Los modelos científicos son...",
       "options": [
@@ -1360,11 +1360,11 @@
       "answer": "Idealizaciones que sirven para aproximarse a las realidades abordadas.",
       "explanation": "Los modelos suelen idealizar y simplificar para aproximarse a fenómenos complejos y permitir inferencias útiles.",
       "appearsIn": [
-        "Tema 7. El uso de los modelos en ciencia"
+        "Tema 7. L'ús dels models en ciència"
       ]
     },
     {
-      "section": "Examen 2024 Septiembre",
+      "section": "Examen 2024 Setembre",
       "number": 7,
       "question": "Según el giro social de la filosofía de la ciencia...",
       "options": [
@@ -1376,7 +1376,7 @@
       "explanation": "El giro social subraya que lo que cuenta como ciencia depende también de valores y contextos que configuran paradigmas y estándares."
     },
     {
-      "section": "Examen 2024 Septiembre",
+      "section": "Examen 2024 Setembre",
       "number": 8,
       "question": "Los modelos científicos son...",
       "options": [
@@ -1387,11 +1387,11 @@
       "answer": "Idealizaciones que sirven para aproximarse a las realidades abordadas",
       "explanation": "Los modelos suelen idealizar y simplificar para aproximarse a fenómenos complejos y permitir inferencias útiles.",
       "appearsIn": [
-        "Tema 7. El uso de los modelos en ciencia"
+        "Tema 7. L'ús dels models en ciència"
       ]
     },
     {
-      "section": "Examen 2024 Septiembre",
+      "section": "Examen 2024 Setembre",
       "number": 9,
       "question": "Las motivaciones de los científicos:",
       "options": [
@@ -1402,12 +1402,12 @@
       "answer": "Incluyen motivaciones prácticas, como la búsqueda de reconocimiento y la obtención de premios y financiación.",
       "explanation": "Además de motivos epistémicos, hay incentivos prácticos (carrera, financiación, reconocimiento) que influyen en la actividad científica.",
       "appearsIn": [
-        "Tema 12. ¿Cómo funcionan las instituciones científicas?",
-        "Examen 2025 Febrero 1"
+        "Tema 12. Com funcionen les institucions científiques?",
+        "Examen 2025 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2024 Septiembre",
+      "section": "Examen 2024 Setembre",
       "number": 10,
       "question": "¿Cuando los discursos no-científicos se enfrentan al discurso científico?",
       "options": [
@@ -1418,11 +1418,11 @@
       "answer": "Cuando son pseudocientíficos o anticientíficos.",
       "explanation": "Se enfrentan cuando son pseudocientíficos o anticientíficos: pretenden sustituir o erosionar el discurso científico.",
       "appearsIn": [
-        "Tema 10. La ciencia y sus enemigos: ciencia vs. no ciencia, pseudociencia y anticiencia"
+        "Tema 10. La ciència i els seus enemics: ciència vs. no-ciència, pseudociència i anticiència"
       ]
     },
     {
-      "section": "Examen 2024 Febrero 1",
+      "section": "Examen 2024 Febrer 1",
       "number": 1,
       "question": "¿Qué es un hecho?",
       "options": [
@@ -1434,7 +1434,7 @@
       "explanation": "Hecho: es un hecho que p si y solo si p es verdad; no es meramente una creencia aceptada."
     },
     {
-      "section": "Examen 2024 Febrero 1",
+      "section": "Examen 2024 Febrer 1",
       "number": 2,
       "question": "¿En qué consisten los argumentos de autoridad?",
       "options": [
@@ -1445,12 +1445,12 @@
       "answer": "Son argumentos a favor de una tesis que apelan exclusivamente al hecho de que una autoridad la ha defendido.",
       "explanation": "Apelan a que una autoridad sostiene una tesis como razón principal para aceptarla; no sustituyen la evidencia por sí solos.",
       "appearsIn": [
-        "Tema 1. Ciencia, hechos y evidencia",
-        "Examen 2024 Febrero 2"
+        "Tema 1. Ciència, fets i evidència",
+        "Examen 2024 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2024 Febrero 1",
+      "section": "Examen 2024 Febrer 1",
       "number": 3,
       "question": "De acuerdo con el empirismo:",
       "options": [
@@ -1461,11 +1461,11 @@
       "answer": "La principal fuente de evidencia científica es la experiencia observacional.",
       "explanation": "El empirismo sostiene que la evidencia principal procede de la experiencia, especialmente la observación.",
       "appearsIn": [
-        "Tema 2. Conocimiento empírico y observación"
+        "Tema 2. Coneixement empíric i observació"
       ]
     },
     {
-      "section": "Examen 2024 Febrero 1",
+      "section": "Examen 2024 Febrer 1",
       "number": 4,
       "question": "La estimación de que la temperatura en una habitación es de entre 25 y 27°C:",
       "options": [
@@ -1476,12 +1476,12 @@
       "answer": "Es imprecisa, pero puede ser correcta.",
       "explanation": "Una medida puede ser imprecisa (rango) y aun así correcta si el valor real está dentro de ese rango.",
       "appearsIn": [
-        "Examen 2025 Febrero 1",
-        "Examen 2022 Febrero 1"
+        "Examen 2025 Febrer 1",
+        "Examen 2022 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2024 Febrero 1",
+      "section": "Examen 2024 Febrer 1",
       "number": 5,
       "question": "Si en un experimento en botánica se observa que ciertas plantas crecen más cuando se les añade fertilizante",
       "options": [
@@ -1492,11 +1492,11 @@
       "answer": "Para averiguar si la causa del mayor crecimiento es el fertilizante, hay que hacer una comparación con el crecimiento de plantas idénticas a las que no se ha suministrado fertilizante, manteniendo constante la iluminación, el tipo de suelo, la temperatura y el riego.",
       "explanation": "Para explicar la causalidad es necesario controlar variables y hacer comparaciones adecuadas.",
       "appearsIn": [
-        "Tema 3. Experimentación"
+        "Tema 3. Experimentació"
       ]
     },
     {
-      "section": "Examen 2024 Febrero 1",
+      "section": "Examen 2024 Febrer 1",
       "number": 6,
       "question": "Una hipótesis:",
       "options": [
@@ -1508,7 +1508,7 @@
       "explanation": "Puede haber hipótesis infalsables (p. ej., formuladas de modo que no permitan refutación empírica)."
     },
     {
-      "section": "Examen 2024 Febrero 1",
+      "section": "Examen 2024 Febrer 1",
       "number": 7,
       "question": "Las predicciones derivables de una hipótesis son:",
       "options": [
@@ -1519,13 +1519,13 @@
       "answer": "Las consecuencias que se seguirían de la verdad de la hipótesis.",
       "explanation": "Son consecuencias observacionales/empíricas que se seguirían si la hipótesis fuese verdadera.",
       "appearsIn": [
-        "Examen 2025 Febrero 1",
-        "Examen 2025 Febrero 2",
-        "Examen 2022 Febrero 1"
+        "Examen 2025 Febrer 1",
+        "Examen 2025 Febrer 2",
+        "Examen 2022 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2024 Febrero 1",
+      "section": "Examen 2024 Febrer 1",
       "number": 8,
       "question": "¿Qué es un razonamiento?",
       "options": [
@@ -1537,7 +1537,7 @@
       "explanation": "Razonar es una transición entre creencias/estados mentales orientada a adoptar creencias correctas o justificadas."
     },
     {
-      "section": "Examen 2024 Febrero 1",
+      "section": "Examen 2024 Febrer 1",
       "number": 9,
       "question": "Los modelos científicos tienen valor explicativo...",
       "options": [
@@ -1548,11 +1548,11 @@
       "answer": "Cuando están bien planteados.",
       "explanation": "El valor explicativo lo tiene un modelo cuando está construido para representar los factores relevantes y permitir inferencias (explicar/predicir), no simplemente cuando se usa porque no hay otra alternativa.",
       "appearsIn": [
-        "Tema 7. El uso de los modelos en ciencia"
+        "Tema 7. L'ús dels models en ciència"
       ]
     },
     {
-      "section": "Examen 2024 Febrero 1",
+      "section": "Examen 2024 Febrer 1",
       "number": 10,
       "question": "¿Cuándo se produce un cambio de paradigma, según Kuhn?",
       "options": [
@@ -1564,7 +1564,7 @@
       "explanation": "Para Kuhn el cambio se consolida cuando la comunidad adopta el nuevo paradigma; no es solo cuestión de 'demostrar' superioridad lógica."
     },
     {
-      "section": "Examen 2024 Febrero 2",
+      "section": "Examen 2024 Febrer 2",
       "number": 1,
       "question": "¿En qué consisten los argumentos de autoridad?",
       "options": [
@@ -1575,12 +1575,12 @@
       "answer": "Son argumentos a favor de una tesis que apelan exclusivamente al hecho de que una autoridad la ha defendido.",
       "explanation": "Apelan a que una autoridad sostiene una tesis como razón principal para aceptarla; no sustituyen la evidencia por sí solos.",
       "appearsIn": [
-        "Tema 1. Ciencia, hechos y evidencia",
-        "Examen 2024 Febrero 1"
+        "Tema 1. Ciència, fets i evidència",
+        "Examen 2024 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2024 Febrero 2",
+      "section": "Examen 2024 Febrer 2",
       "number": 2,
       "question": "El holismo de la refutación empírica sostiene que:",
       "options": [
@@ -1591,11 +1591,11 @@
       "answer": "En general, la evidencia empírica no permite refutar directamente hipótesis aisladas, sino solo en combinación con otras hipótesis auxiliares y presuposiciones.",
       "explanation": "La evidencia no refuta hipótesis aisladas, sino el conjunto (hipótesis + auxiliares + condiciones iniciales) usado para derivar predicciones, según la tesis de Quine-Duhem.",
       "appearsIn": [
-        "Examen 2023 Febrero 1"
+        "Examen 2023 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2024 Febrero 2",
+      "section": "Examen 2024 Febrer 2",
       "number": 3,
       "question": "En un razonamiento deductivo inválido:",
       "options": [
@@ -1606,14 +1606,14 @@
       "answer": "Puede que las premisas sean verdaderas y las conclusiones falsas.",
       "explanation": "Un argumento deductivo inválido admite contraejemplos: es posible que las premisas sean verdaderas y la conclusión falsa.",
       "appearsIn": [
-        "Examen 2025 Febrero 1",
-        "Examen 2025 Febrero 2",
-        "Examen 2023 Febrero 1",
-        "Examen 2022 Septiembre"
+        "Examen 2025 Febrer 1",
+        "Examen 2025 Febrer 2",
+        "Examen 2023 Febrer 1",
+        "Examen 2022 Setembre"
       ]
     },
     {
-      "section": "Examen 2024 Febrero 2",
+      "section": "Examen 2024 Febrer 2",
       "number": 4,
       "question": "El problema de la inducción se debe a que:",
       "options": [
@@ -1625,7 +1625,7 @@
       "explanation": "Una conclusión inductiva puede ser falsa aunque todas las premisas observacionales sean verdaderas (pueden existir excepciones no observadas)."
     },
     {
-      "section": "Examen 2024 Febrero 2",
+      "section": "Examen 2024 Febrer 2",
       "number": 5,
       "question": "¿Cuál es la relación entre probabilidad e incertidumbre?",
       "options": [
@@ -1636,11 +1636,11 @@
       "answer": "La probabilidad asignada a un evento refleja la incertidumbre acerca de si dicho evento ocurrirá.",
       "explanation": "La probabilidad refleja el grado de incertidumbre sobre si ocurrirá un evento; no equivale a certeza.",
       "appearsIn": [
-        "Tema 6. Probabilidad y estadística"
+        "Tema 6. Probabilitat i estadística"
       ]
     },
     {
-      "section": "Examen 2024 Febrero 2",
+      "section": "Examen 2024 Febrer 2",
       "number": 6,
       "question": "¿Puede un modelo falso ser válido?",
       "options": [
@@ -1651,11 +1651,11 @@
       "answer": "Sí, si da lugar a resultados interesantes y pertinentes.",
       "explanation": "Un modelo puede idealizar y ser literalmente falso en detalles y aun así ser válido si permite explicar/predicir y guiar inferencias útiles en su dominio.",
       "appearsIn": [
-        "Examen 2025 Septiembre"
+        "Examen 2025 Setembre"
       ]
     },
     {
-      "section": "Examen 2024 Febrero 2",
+      "section": "Examen 2024 Febrer 2",
       "number": 7,
       "question": "¿Qué es la pseudociencia?",
       "options": [
@@ -1666,12 +1666,12 @@
       "answer": "No-ciencia haciéndose pasar por ciencia.",
       "explanation": "Pseudociencia: no-ciencia que intenta presentarse como ciencia para aprovechar su prestigio.",
       "appearsIn": [
-        "Tema 10.2. Pseudociencia",
-        "Examen 2020 Febrero 2"
+        "Tema 10.2. Pseudociència",
+        "Examen 2020 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2024 Febrero 2",
+      "section": "Examen 2024 Febrer 2",
       "number": 8,
       "question": "Según el falsacionismo sofisticado de Imre Lakatos:",
       "options": [
@@ -1683,7 +1683,7 @@
       "explanation": "Lakatos propone programas de investigación: no se evalúan hipótesis aisladas, sino núcleos duros y cinturones protectores."
     },
     {
-      "section": "Examen 2024 Febrero 2",
+      "section": "Examen 2024 Febrer 2",
       "number": 9,
       "question": "¿En qué consiste el problema de la demarcación?",
       "options": [
@@ -1694,11 +1694,11 @@
       "answer": "La búsqueda de criterios para distinguir lo científico de lo no científico.",
       "explanation": "Consiste en buscar criterios para distinguir ciencia de no-ciencia/pseudociencia.",
       "appearsIn": [
-        "Tema 9. El criterio de demarcación"
+        "Tema 9. El criteri de demarcació"
       ]
     },
     {
-      "section": "Examen 2024 Febrero 2",
+      "section": "Examen 2024 Febrer 2",
       "number": 10,
       "question": "¿Qué es un estudio de replicación?",
       "options": [
@@ -1709,12 +1709,12 @@
       "answer": "Un estudio en el que se busca reproducir los resultados obtenidos en un experimento previo.",
       "explanation": "Un estudio de replicación intenta reproducir resultados de un estudio previo para comprobar su robustez.",
       "appearsIn": [
-        "Tema 12. ¿Cómo funcionan las instituciones científicas?",
-        "Examen 2022 Febrero 1"
+        "Tema 12. Com funcionen les institucions científiques?",
+        "Examen 2022 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2023 Septiembre",
+      "section": "Examen 2023 Setembre",
       "number": 1,
       "question": "Para que la observación ofrezca evidencia científica valiosa...",
       "options": [
@@ -1725,11 +1725,11 @@
       "answer": "Es deseable que se realice mediante procesos protocolarizados que puedan ser reproducidos por otros grupos de investigación.",
       "explanation": "Debe realizarse con protocolos reproducibles por otros grupos; la reproducibilidad permite control intersubjetivo.",
       "appearsIn": [
-        "Examen 2022 Febrero 2"
+        "Examen 2022 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2023 Septiembre",
+      "section": "Examen 2023 Setembre",
       "number": 2,
       "question": "El uso de instrumentos de observación...",
       "options": [
@@ -1740,11 +1740,11 @@
       "answer": "Permite superar limitaciones de nuestras capacidades perceptivas.",
       "explanation": "Los instrumentos superan limitaciones perceptivas y permiten observar/medir fenómenos inaccesibles a simple vista.",
       "appearsIn": [
-        "Examen 2022 Febrero 2"
+        "Examen 2022 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2023 Septiembre",
+      "section": "Examen 2023 Setembre",
       "number": 3,
       "question": "Una hipótesis que quede expuesta a ser refutada empíricamente...",
       "options": [
@@ -1755,11 +1755,11 @@
       "answer": "Es admisible como hipótesis científica, porque es falsable.",
       "explanation": "Si una hipótesis es falsable (podría ser refutada por evidencia), es admisible como hipótesis científica en sentido popperiano.",
       "appearsIn": [
-        "Examen 2022 Febrero 2"
+        "Examen 2022 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2023 Septiembre",
+      "section": "Examen 2023 Setembre",
       "number": 4,
       "question": "¿Cuál es el problema de la inducción?",
       "options": [
@@ -1770,12 +1770,12 @@
       "answer": "En principio, es una posibilidad abierta que las premisas de una inferencia inductiva sean verdaderas pero la generalización alcanzada en la conclusión sea falsa (porque haya excepciones todavía no observadas a tal generalización).",
       "explanation": "Es posible que premisas observadas sean verdaderas y la generalización concluida sea falsa por excepciones no observadas.",
       "appearsIn": [
-        "Tema 5. El problema de la inducción",
-        "Examen 2022 Febrero 2"
+        "Tema 5. El problema de la inducció",
+        "Examen 2022 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2023 Septiembre",
+      "section": "Examen 2023 Setembre",
       "number": 5,
       "question": "Según el falsacionismo de Popper:",
       "options": [
@@ -1786,12 +1786,12 @@
       "answer": "La función principal de la observación en la ciencia es refutar hipótesis, no confirmarlas.",
       "explanation": "Para Popper el papel clave de la observación es intentar refutar hipótesis mediante contrastaciones severas; no hay verificación definitiva.",
       "appearsIn": [
-        "Examen 2025 Febrero 1",
-        "Examen 2022 Febrero 2"
+        "Examen 2025 Febrer 1",
+        "Examen 2022 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2023 Septiembre",
+      "section": "Examen 2023 Setembre",
       "number": 6,
       "question": "¿Qué son los sesgos estadísticos?",
       "options": [
@@ -1802,11 +1802,11 @@
       "answer": "Distorsiones introducidas en el análisis estadístico, debido a deficiencias en los métodos de análisis o en la recolección de datos, a consecuencia de las cuales las conclusiones extraídas en el análisis no reflejan propiedades genuinas de la población o fenómeno estudiado.",
       "explanation": "Son distorsiones debidas a métodos/recogida de datos que hacen que el análisis no refleje propiedades reales del fenómeno o población.",
       "appearsIn": [
-        "Examen 2022 Febrero 2"
+        "Examen 2022 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2023 Septiembre",
+      "section": "Examen 2023 Setembre",
       "number": 7,
       "question": "¿Cuál es la relación entre el creacionismo y la teoría del diseño inteligente?",
       "options": [
@@ -1817,12 +1817,12 @@
       "answer": "La teoría del diseño inteligente asume el creacionismo",
       "explanation": "El diseño inteligente se presenta como reformulación del creacionismo para aparentar cientificidad.",
       "appearsIn": [
-        "Tema 10. La ciencia y sus enemigos: ciencia vs. no ciencia, pseudociencia y anticiencia",
-        "Examen 2022 Febrero 2"
+        "Tema 10. La ciència i els seus enemics: ciència vs. no-ciència, pseudociència i anticiència",
+        "Examen 2022 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2023 Septiembre",
+      "section": "Examen 2023 Setembre",
       "number": 8,
       "question": "Según los anticientificistas...",
       "options": [
@@ -1833,12 +1833,12 @@
       "answer": "No importa cuál sea el criterio de demarcación científico porque la ciencia como tal es una actividad que se debe eliminar (o al menos reconsiderar profundamente)",
       "explanation": "En posiciones fuertes, consideran que la ciencia debe eliminarse o revisarse radicalmente; por eso el criterio de demarcación les resulta irrelevante.",
       "appearsIn": [
-        "Tema 10.3. Anticiencia",
-        "Examen 2022 Febrero 2"
+        "Tema 10.3. Anticiència",
+        "Examen 2022 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2023 Septiembre",
+      "section": "Examen 2023 Setembre",
       "number": 9,
       "question": "Según los enfoques feministas de la ciencia:",
       "options": [
@@ -1849,12 +1849,12 @@
       "answer": "La ciencia está determinada por el androcentrismo de la sociedad",
       "explanation": "Se analiza cómo el androcentrismo puede sesgar preguntas, métodos e interpretaciones; no implica que solo valga la ciencia hecha por mujeres.",
       "appearsIn": [
-        "Tema 11. La ciencia como producto social",
-        "Examen 2022 Febrero 2"
+        "Tema 11. La ciència com a producte social",
+        "Examen 2022 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2023 Septiembre",
+      "section": "Examen 2023 Setembre",
       "number": 10,
       "question": "¿Qué son los ensayos clínicos?",
       "options": [
@@ -1865,11 +1865,11 @@
       "answer": "Estudios experimentales en los que se investiga la efectividad y seguridad de un medicamento o tratamiento",
       "explanation": "Son estudios experimentales para evaluar efectividad y seguridad de medicamentos o tratamientos.",
       "appearsIn": [
-        "Examen 2022 Febrero 2"
+        "Examen 2022 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2023 Febrero 1",
+      "section": "Examen 2023 Febrer 1",
       "number": 1,
       "question": "Si en un experimento se manipula la variable X y a continuación se observa un efecto Y:",
       "options": [
@@ -1880,11 +1880,11 @@
       "answer": "No siempre puede concluirse directamente que la variación en X ha causado el efecto Y: antes hay que descartar la posible interferencia de otros factores.",
       "explanation": "Puede haber factores de confusión; hay que descartar interferencias antes de afirmar causalidad.",
       "appearsIn": [
-        "Examen 2022 Septiembre"
+        "Examen 2022 Setembre"
       ]
     },
     {
-      "section": "Examen 2023 Febrero 1",
+      "section": "Examen 2023 Febrer 1",
       "number": 2,
       "question": "Holismo de la refutación empírica sostiene que:",
       "options": [
@@ -1895,11 +1895,11 @@
       "answer": "En general, la evidencia empírica no permite refutar directamente hipótesis aisladas, sino solo en combinación con otras hipótesis auxiliares y presuposiciones.",
       "explanation": "La evidencia no refuta hipótesis aisladas, sino el conjunto (hipótesis + auxiliares + condiciones iniciales) usado para derivar predicciones, según la tesis de Quine-Duhem.",
       "appearsIn": [
-        "Examen 2024 Febrero 2"
+        "Examen 2024 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2023 Febrero 1",
+      "section": "Examen 2023 Febrer 1",
       "number": 3,
       "question": "¿Cuáles son los tres criterios de demarcación principales en filosofía de la ciencia?",
       "options": [
@@ -1911,7 +1911,7 @@
       "explanation": "La verificabilidad de la Escuela de Viena, la falsabilidad de Popper y la correspondencia con el paradigma de Kuhn son los tres criterios principales de demarcación."
     },
     {
-      "section": "Examen 2023 Febrero 1",
+      "section": "Examen 2023 Febrer 1",
       "number": 4,
       "question": "¿Cuál es el papel de la probabilidad en la ciencia?",
       "options": [
@@ -1923,7 +1923,7 @@
       "explanation": "No es cierto que eliminen completamente la incertidumbre y tampoco es cierto que no sean admisibles en ciencia."
     },
     {
-      "section": "Examen 2023 Febrero 1",
+      "section": "Examen 2023 Febrer 1",
       "number": 5,
       "question": "¿Cuál es la relación entre correlación y causalidad?",
       "options": [
@@ -1934,11 +1934,11 @@
       "answer": "Causación implica correlación, pero correlación no implica causación (aunque puede constituir evidencia de la existencia de relaciones causales entre las variables correlacionadas).",
       "explanation": "Causalidad suele implicar correlación (en promedio), pero correlación no implica causalidad.",
       "appearsIn": [
-        "Tema 6. Probabilidad y estadística"
+        "Tema 6. Probabilitat i estadística"
       ]
     },
     {
-      "section": "Examen 2023 Febrero 1",
+      "section": "Examen 2023 Febrer 1",
       "number": 6,
       "question": "¿A qué se debe el sesgo a favor de la publicación de resultados positivos en revistas científicas?:",
       "options": [
@@ -1950,7 +1950,7 @@
       "explanation": "Los resultados positivos se perciben como más interesantes/novedosos y de mayor impacto, sesgando la publicación."
     },
     {
-      "section": "Examen 2023 Febrero 1",
+      "section": "Examen 2023 Febrer 1",
       "number": 7,
       "question": "La anti-ciencia...",
       "options": [
@@ -1961,11 +1961,11 @@
       "answer": "Es un discurso basado en la desconfianza hacia la ciencia.",
       "explanation": "Es un discurso de desconfianza hacia la ciencia y sus instituciones/autoridad.",
       "appearsIn": [
-        "Tema 10.3. Anticiencia"
+        "Tema 10.3. Anticiència"
       ]
     },
     {
-      "section": "Examen 2023 Febrero 1",
+      "section": "Examen 2023 Febrer 1",
       "number": 8,
       "question": "En un razonamiento deductivo inválido:",
       "options": [
@@ -1976,14 +1976,14 @@
       "answer": "Puede que las premisas sean verdaderas y las conclusiones falsas.",
       "explanation": "Un argumento deductivo inválido admite contraejemplos: es posible que las premisas sean verdaderas y la conclusión falsa.",
       "appearsIn": [
-        "Examen 2025 Febrero 1",
-        "Examen 2025 Febrero 2",
-        "Examen 2024 Febrero 2",
-        "Examen 2022 Septiembre"
+        "Examen 2025 Febrer 1",
+        "Examen 2025 Febrer 2",
+        "Examen 2024 Febrer 2",
+        "Examen 2022 Setembre"
       ]
     },
     {
-      "section": "Examen 2023 Febrero 1",
+      "section": "Examen 2023 Febrer 1",
       "number": 9,
       "question": "¿Qué es la evidencia?",
       "options": [
@@ -1994,12 +1994,12 @@
       "answer": "Pruebas o indicios acerca de la verdad de una proposición.",
       "explanation": "Evidencia son pruebas/indicios que apoyan (en distinto grado) la verdad de una proposición o hipótesis.",
       "appearsIn": [
-        "Examen 2024 Septiembre",
-        "Examen 2022 Febrero 1"
+        "Examen 2024 Setembre",
+        "Examen 2022 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2023 Febrero 1",
+      "section": "Examen 2023 Febrer 1",
       "number": 10,
       "question": "¿Qué quiere decir que dos paradigmas son inconmensurables?",
       "options": [
@@ -2011,7 +2011,7 @@
       "explanation": "Que usan marcos conceptuales y criterios de evaluación tan diferentes que la comparación no es neutral ni directa."
     },
     {
-      "section": "Examen 2023 Febrero 2",
+      "section": "Examen 2023 Febrer 2",
       "number": 1,
       "question": "Un resultado impreciso:",
       "options": [
@@ -2023,7 +2023,7 @@
       "explanation": "Un resultado puede ser impreciso y aun así verdadero/correcto dentro de un rango."
     },
     {
-      "section": "Examen 2023 Febrero 2",
+      "section": "Examen 2023 Febrer 2",
       "number": 2,
       "question": "Cuando dos variables están perfectamente correlacionadas:",
       "options": [
@@ -2034,11 +2034,11 @@
       "answer": "No siempre puede concluirse que exista una relación causal entre ellas.",
       "explanation": "Correlación no implica causalidad: puede haber variables de confusión o relaciones no causales que expliquen la correlación.",
       "appearsIn": [
-        "Examen 2024 Septiembre"
+        "Examen 2024 Setembre"
       ]
     },
     {
-      "section": "Examen 2023 Febrero 2",
+      "section": "Examen 2023 Febrer 2",
       "number": 3,
       "question": "Los estudios de replicación:",
       "options": [
@@ -2050,7 +2050,7 @@
       "explanation": "Suelen ser más difíciles de publicar que resultados positivos por incentivos y sesgo de publicación hacia lo 'novedoso'."
     },
     {
-      "section": "Examen 2023 Febrero 2",
+      "section": "Examen 2023 Febrer 2",
       "number": 4,
       "question": "En un razonamiento inductivo:",
       "options": [
@@ -2061,13 +2061,13 @@
       "answer": "La verdad de las conclusiones no está garantizada por la verdad de las premisas.",
       "explanation": "En la inducción, aunque las premisas sean verdaderas, no garantizan necesariamente la verdad de la conclusión; por eso la conclusión puede fallar.",
       "appearsIn": [
-        "Tema 5. El problema de la inducción",
-        "Examen 2025 Septiembre",
-        "Examen 2025 Febrero 2"
+        "Tema 5. El problema de la inducció",
+        "Examen 2025 Setembre",
+        "Examen 2025 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2023 Febrero 2",
+      "section": "Examen 2023 Febrer 2",
       "number": 5,
       "question": "¿Según Kuhn, qué determina que un paradigma sustituya a otro?",
       "options": [
@@ -2078,12 +2078,12 @@
       "answer": "El cambio de paradigma no siempre se debe exclusivamente a un mejor apoyo evidencial.",
       "explanation": "Para Kuhn el reemplazo de paradigmas no depende solo de 'mejor evidencia': influyen también valores, estándares y dinámicas de comunidad científica.",
       "appearsIn": [
-        "Examen 2025 Septiembre",
-        "Examen 2025 Febrero 1"
+        "Examen 2025 Setembre",
+        "Examen 2025 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2023 Febrero 2",
+      "section": "Examen 2023 Febrer 2",
       "number": 6,
       "question": "¿Cuántas observaciones son necesarias para confirmar inductivamente, de manera definitiva, una hipótesis general empírica?",
       "options": [
@@ -2094,11 +2094,11 @@
       "answer": "Por muy alto que sea el número de observaciones acordes con una generalización empírica, nunca sería suficiente para considerarla confirmada de manera definitiva (ya que siempre existe la posibilidad de encontrar un contraejemplo).",
       "explanation": "De acuerdo con el falsadcionismo de Popper no es posible demostrar inductivamente una hipótesis general de manera definitiva pero sí es posible refutarla con un contraejemplo.",
       "appearsIn": [
-        "Tema 5. El problema de la inducción"
+        "Tema 5. El problema de la inducció"
       ]
     },
     {
-      "section": "Examen 2023 Febrero 2",
+      "section": "Examen 2023 Febrer 2",
       "number": 7,
       "question": "El razonamiento desde las premisas \"Suiza tiene más población que China\" y \"Francia tiene más población que Suiza\" a la conclusión \"Francia tiene más población que China\" es:",
       "options": [
@@ -2110,7 +2110,7 @@
       "explanation": "La inferencia es deductivamente válida por transitividad, aunque las premisas sean falsas."
     },
     {
-      "section": "Examen 2023 Febrero 2",
+      "section": "Examen 2023 Febrer 2",
       "number": 8,
       "question": "¿Qué es un experimento?",
       "options": [
@@ -2121,11 +2121,11 @@
       "answer": "Un experimento consiste en la manipulación de un objeto de estudio para observar los efectos resultantes de dicha manipulación.",
       "explanation": "Un experimento implica manipular condiciones/variables para observar efectos de la manipulación.",
       "appearsIn": [
-        "Tema 3. Experimentación"
+        "Tema 3. Experimentació"
       ]
     },
     {
-      "section": "Examen 2023 Febrero 2",
+      "section": "Examen 2023 Febrer 2",
       "number": 9,
       "question": "¿Cuál de estos enunciados es falsable según Popper?",
       "options": [
@@ -2136,11 +2136,11 @@
       "answer": "La fuerza neta aplicada sobre un cuerpo es proporcional a la aceleración que adquiere dicho cuerpo",
       "explanation": "Es falsable el enunciado físico que hace predicciones observables refutables (p. ej., una ley).",
       "appearsIn": [
-        "Examen 2022 Septiembre"
+        "Examen 2022 Setembre"
       ]
     },
     {
-      "section": "Examen 2023 Febrero 2",
+      "section": "Examen 2023 Febrer 2",
       "number": 10,
       "question": "¿Qué son los modelos científicos?",
       "options": [
@@ -2152,7 +2152,7 @@
       "explanation": "Los modelos son idealizaciones que permiten aproximarse a la realidad y guiar inferencias útiles en su dominio."
     },
     {
-      "section": "Examen 2022 Septiembre",
+      "section": "Examen 2022 Setembre",
       "number": 1,
       "question": "Una verdad es objetiva si:",
       "options": [
@@ -2163,11 +2163,11 @@
       "answer": "El que sea verdad no depende de nuestras opiniones al respecto.",
       "explanation": "La objetividad consiste en independencia respecto a opiniones o creencias.",
       "appearsIn": [
-        "Tema 1. Ciencia, hechos y evidencia"
+        "Tema 1. Ciència, fets i evidència"
       ]
     },
     {
-      "section": "Examen 2022 Septiembre",
+      "section": "Examen 2022 Setembre",
       "number": 2,
       "question": "¿En qué consiste el sesgo de confirmación?",
       "options": [
@@ -2179,7 +2179,7 @@
       "explanation": "Tendencia a buscar/interpretar evidencia que confirme creencias previas."
     },
     {
-      "section": "Examen 2022 Septiembre",
+      "section": "Examen 2022 Setembre",
       "number": 3,
       "question": "La repetición y replicación de observaciones científicas:",
       "options": [
@@ -2190,12 +2190,12 @@
       "answer": "Tiene un papel esencial en la investigación, ya que permite descubrir posibles errores y garantiza que la evidencia observacional resultante sea utilizable por distintos investigadores.",
       "explanation": "Repetición y replicación permiten detectar errores y asegurar que la evidencia es utilizable intersubjetivamente por distintos investigadores.",
       "appearsIn": [
-        "Tema 2. Conocimiento empírico y observación",
-        "Examen 2025 Febrero 1"
+        "Tema 2. Coneixement empíric i observació",
+        "Examen 2025 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2022 Septiembre",
+      "section": "Examen 2022 Setembre",
       "number": 4,
       "question": "Una medida imprecisa:",
       "options": [
@@ -2207,7 +2207,7 @@
       "explanation": "Una medida imprecisa no elimina toda la incertidumbre, pero puede ser útil y correcta."
     },
     {
-      "section": "Examen 2022 Septiembre",
+      "section": "Examen 2022 Setembre",
       "number": 5,
       "question": "Si en un experimento se manipula la variable X y a continuación se observa un efecto Y ",
       "options": [
@@ -2218,11 +2218,11 @@
       "answer": "No siempre puede concluirse directamente que la variación en X ha causado el efecto Y: antes hay que descartar la posible interferencia de otros factores.",
       "explanation": "Puede haber factores de confusión; hay que descartar interferencias antes de afirmar causalidad.",
       "appearsIn": [
-        "Examen 2023 Febrero 1"
+        "Examen 2023 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2022 Septiembre",
+      "section": "Examen 2022 Setembre",
       "number": 6,
       "question": "¿Cuáles son las premisas de un razonamiento?",
       "options": [
@@ -2234,7 +2234,7 @@
       "explanation": "Las premisas son las proposiciones de las que se parte para apoyar la conclusión."
     },
     {
-      "section": "Examen 2022 Septiembre",
+      "section": "Examen 2022 Setembre",
       "number": 7,
       "question": "En un razonamiento deductivo inválido:",
       "options": [
@@ -2245,14 +2245,14 @@
       "answer": "Puede que las premisas sean verdaderas y las conclusiones falsas.",
       "explanation": "Un argumento deductivo inválido admite contraejemplos: es posible que las premisas sean verdaderas y la conclusión falsa.",
       "appearsIn": [
-        "Examen 2025 Febrero 1",
-        "Examen 2025 Febrero 2",
-        "Examen 2024 Febrero 2",
-        "Examen 2023 Febrero 1"
+        "Examen 2025 Febrer 1",
+        "Examen 2025 Febrer 2",
+        "Examen 2024 Febrer 2",
+        "Examen 2023 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2022 Septiembre",
+      "section": "Examen 2022 Setembre",
       "number": 8,
       "question": "Un modelo es aceptable científicamente:",
       "options": [
@@ -2264,7 +2264,7 @@
       "explanation": "Los modelos son idealizaciones que permiten aproximarse a la realidad y guiar inferencias útiles en su dominio."
     },
     {
-      "section": "Examen 2022 Septiembre",
+      "section": "Examen 2022 Setembre",
       "number": 9,
       "question": "¿Cuál de estos enunciados es falsable según Popper?",
       "options": [
@@ -2275,11 +2275,11 @@
       "answer": "Los metales se dilatan al ser calentados.",
       "explanation": "Es falsable el enunciado físico que hace predicciones observables refutables (p. ej., una ley).",
       "appearsIn": [
-        "Examen 2023 Febrero 2"
+        "Examen 2023 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2022 Septiembre",
+      "section": "Examen 2022 Setembre",
       "number": 10,
       "question": "¿Qué mide el factor de impacto de una revista?",
       "options": [
@@ -2291,7 +2291,7 @@
       "explanation": "Aproxima el promedio de citas recibidas por artículos de la revista en un periodo."
     },
     {
-      "section": "Examen 2022 Febrero 1",
+      "section": "Examen 2022 Febrer 1",
       "number": 1,
       "question": "¿Qué es la evidencia?",
       "options": [
@@ -2302,12 +2302,12 @@
       "answer": "Pruebas o indicios acerca de la verdad de una proposición.",
       "explanation": "Evidencia son pruebas/indicios que apoyan (en distinto grado) la verdad de una proposición o hipótesis.",
       "appearsIn": [
-        "Examen 2024 Septiembre",
-        "Examen 2023 Febrero 1"
+        "Examen 2024 Setembre",
+        "Examen 2023 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2022 Febrero 1",
+      "section": "Examen 2022 Febrer 1",
       "number": 2,
       "question": "¿Qué es un sesgo cognitivo?",
       "options": [
@@ -2318,12 +2318,12 @@
       "answer": "Una distorsión sistemática en la evaluación e interpretación de la evidencia disponible.",
       "explanation": "Un sesgo cognitivo es una distorsión sistemática en cómo evaluamos e interpretamos evidencia, que puede afectar a juicios y decisiones.",
       "appearsIn": [
-        "Tema 1. Ciencia, hechos y evidencia",
-        "Examen 2025 Febrero 1"
+        "Tema 1. Ciència, fets i evidència",
+        "Examen 2025 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2022 Febrero 1",
+      "section": "Examen 2022 Febrer 1",
       "number": 3,
       "question": "La medición de que la temperatura en una habitación es de entre 25 y 27°C:",
       "options": [
@@ -2334,12 +2334,12 @@
       "answer": "Es imprecisa, pero puede ser correcta.",
       "explanation": "Una medida puede ser imprecisa (rango) y aun así correcta si el valor real está dentro de ese rango.",
       "appearsIn": [
-        "Examen 2025 Febrero 1",
-        "Examen 2024 Febrero 1"
+        "Examen 2025 Febrer 1",
+        "Examen 2024 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2022 Febrero 1",
+      "section": "Examen 2022 Febrer 1",
       "number": 4,
       "question": "Las predicciones derivables de una hipótesis son:",
       "options": [
@@ -2350,13 +2350,13 @@
       "answer": "Las consecuencias que se seguirían de la verdad de la hipótesis.",
       "explanation": "Son consecuencias observacionales/empíricas que se seguirían si la hipótesis fuese verdadera.",
       "appearsIn": [
-        "Examen 2025 Febrero 1",
-        "Examen 2025 Febrero 2",
-        "Examen 2024 Febrero 1"
+        "Examen 2025 Febrer 1",
+        "Examen 2025 Febrer 2",
+        "Examen 2024 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2022 Febrero 1",
+      "section": "Examen 2022 Febrer 1",
       "number": 5,
       "question": "¿Puede justificarse el uso de razonamientos inductivos argumentando que en el pasado estos razonamientos han sido normalmente exitosos?",
       "options": [
@@ -2368,7 +2368,7 @@
       "explanation": "Es circular: usa inducción para justificar la inducción."
     },
     {
-      "section": "Examen 2022 Febrero 1",
+      "section": "Examen 2022 Febrer 1",
       "number": 6,
       "question": "Según el falsacionismo, no podemos estar seguros de estar en lo cierto pero podemos saber...",
       "options": [
@@ -2379,12 +2379,12 @@
       "answer": "Si estamos equivocados.",
       "explanation": "Podemos detectar errores: si una predicción falla, sabemos que la hipótesis es falsa o hay un problema auxiliar.",
       "appearsIn": [
-        "Tema 9. El criterio de demarcación",
-        "Examen 2020 Febrero 2"
+        "Tema 9. El criteri de demarcació",
+        "Examen 2020 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2022 Febrero 1",
+      "section": "Examen 2022 Febrer 1",
       "number": 7,
       "question": "¿Pueden ser aceptables en ciencia las aproximaciones?",
       "options": [
@@ -2396,7 +2396,7 @@
       "explanation": "Sí, cuando son lo bastante cercanas para el propósito científico (explicación/predicción/cálculo)."
     },
     {
-      "section": "Examen 2022 Febrero 1",
+      "section": "Examen 2022 Febrer 1",
       "number": 8,
       "question": "El paso de la astronomía ptolemáica a la copernicana es, según Kuhn, un ejemplo de:",
       "options": [
@@ -2408,7 +2408,7 @@
       "explanation": "Es un caso de revolución científica (cambio de paradigma)."
     },
     {
-      "section": "Examen 2022 Febrero 1",
+      "section": "Examen 2022 Febrer 1",
       "number": 9,
       "question": "Según el falsacionismo sofisticado de Imre Lakatos...",
       "options": [
@@ -2420,7 +2420,7 @@
       "explanation": "Lakatos sostiene que las teorías forman parte de programas de investigación; no se evalúan aisladamente."
     },
     {
-      "section": "Examen 2022 Febrero 1",
+      "section": "Examen 2022 Febrer 1",
       "number": 10,
       "question": "¿Qué es un estudio de replicación?",
       "options": [
@@ -2431,12 +2431,12 @@
       "answer": "Un estudio en el que se busca reproducir los resultados obtenidos en un experimento previo.",
       "explanation": "Un estudio de replicación intenta reproducir resultados de un estudio previo para comprobar su robustez.",
       "appearsIn": [
-        "Tema 12. ¿Cómo funcionan las instituciones científicas?",
-        "Examen 2024 Febrero 2"
+        "Tema 12. Com funcionen les institucions científiques?",
+        "Examen 2024 Febrer 2"
       ]
     },
     {
-      "section": "Examen 2022 Febrero 2",
+      "section": "Examen 2022 Febrer 2",
       "number": 1,
       "question": "Para que la observación ofrezca evidencia científica valiosa...",
       "options": [
@@ -2447,11 +2447,11 @@
       "answer": "Es deseable que se realice mediante procesos protocolarizados que puedan ser reproducidos por otros grupos de investigación.",
       "explanation": "Debe realizarse con protocolos reproducibles por otros grupos; la reproducibilidad permite control intersubjetivo.",
       "appearsIn": [
-        "Examen 2023 Septiembre"
+        "Examen 2023 Setembre"
       ]
     },
     {
-      "section": "Examen 2022 Febrero 2",
+      "section": "Examen 2022 Febrer 2",
       "number": 2,
       "question": "El uso de instrumentos de observación...",
       "options": [
@@ -2462,11 +2462,11 @@
       "answer": "Permite superar limitaciones de nuestras capacidades perceptivas.",
       "explanation": "Los instrumentos superan limitaciones perceptivas y permiten observar/medir fenómenos inaccesibles a simple vista.",
       "appearsIn": [
-        "Examen 2023 Septiembre"
+        "Examen 2023 Setembre"
       ]
     },
     {
-      "section": "Examen 2022 Febrero 2",
+      "section": "Examen 2022 Febrer 2",
       "number": 3,
       "question": "Una hipótesis que quede expuesta a ser refutada empíricamente...",
       "options": [
@@ -2477,11 +2477,11 @@
       "answer": "Es admisible como hipótesis científica, porque es falsable.",
       "explanation": "Si una hipótesis es falsable (podría ser refutada por evidencia), es admisible como hipótesis científica en sentido popperiano.",
       "appearsIn": [
-        "Examen 2023 Septiembre"
+        "Examen 2023 Setembre"
       ]
     },
     {
-      "section": "Examen 2022 Febrero 2",
+      "section": "Examen 2022 Febrer 2",
       "number": 4,
       "question": "¿Cuál es el problema de la inducción?",
       "options": [
@@ -2492,12 +2492,12 @@
       "answer": "En principio, es una posibilidad abierta que las premisas de una inferencia inductiva sean verdaderas pero la generalización alcanzada en la conclusión sea falsa (porque haya excepciones todavía no observadas a tal generalización).",
       "explanation": "Es posible que premisas observadas sean verdaderas y la generalización concluida sea falsa por excepciones no observadas.",
       "appearsIn": [
-        "Tema 5. El problema de la inducción",
-        "Examen 2023 Septiembre"
+        "Tema 5. El problema de la inducció",
+        "Examen 2023 Setembre"
       ]
     },
     {
-      "section": "Examen 2022 Febrero 2",
+      "section": "Examen 2022 Febrer 2",
       "number": 5,
       "question": "Según el falsacionismo de Popper:",
       "options": [
@@ -2508,12 +2508,12 @@
       "answer": "La función principal de la observación en la ciencia es refutar hipótesis, no confirmarlas.",
       "explanation": "Para Popper el papel clave de la observación es intentar refutar hipótesis mediante contrastaciones severas; no hay verificación definitiva.",
       "appearsIn": [
-        "Examen 2025 Febrero 1",
-        "Examen 2023 Septiembre"
+        "Examen 2025 Febrer 1",
+        "Examen 2023 Setembre"
       ]
     },
     {
-      "section": "Examen 2022 Febrero 2",
+      "section": "Examen 2022 Febrer 2",
       "number": 6,
       "question": "¿Qué son los sesgos estadísticos?",
       "options": [
@@ -2524,11 +2524,11 @@
       "answer": "Distorsiones introducidas en el análisis estadístico, debido a deficiencias en los métodos de análisis o en la recolección de datos, a consecuencia de las cuales las conclusiones extraídas en el análisis no reflejan propiedades genuinas de la población o fenómeno estudiado.",
       "explanation": "Son distorsiones debidas a métodos/recogida de datos que hacen que el análisis no refleje propiedades reales del fenómeno o población.",
       "appearsIn": [
-        "Examen 2023 Septiembre"
+        "Examen 2023 Setembre"
       ]
     },
     {
-      "section": "Examen 2022 Febrero 2",
+      "section": "Examen 2022 Febrer 2",
       "number": 7,
       "question": "¿Cuál es la relación entre el creacionismo y la teoría del diseño inteligente?",
       "options": [
@@ -2539,12 +2539,12 @@
       "answer": "La teoría del diseño inteligente asume el creacionismo",
       "explanation": "El diseño inteligente se presenta como reformulación del creacionismo para aparentar cientificidad.",
       "appearsIn": [
-        "Tema 10. La ciencia y sus enemigos: ciencia vs. no ciencia, pseudociencia y anticiencia",
-        "Examen 2023 Septiembre"
+        "Tema 10. La ciència i els seus enemics: ciència vs. no-ciència, pseudociència i anticiència",
+        "Examen 2023 Setembre"
       ]
     },
     {
-      "section": "Examen 2022 Febrero 2",
+      "section": "Examen 2022 Febrer 2",
       "number": 8,
       "question": "Según los anticientificistas...",
       "options": [
@@ -2555,12 +2555,12 @@
       "answer": "No importa cuál sea el criterio de demarcación científico porque la ciencia como tal es una actividad que se debe eliminar (o al menos reconsiderar profundamente)",
       "explanation": "En posiciones fuertes, consideran que la ciencia debe eliminarse o revisarse radicalmente; por eso el criterio de demarcación les resulta irrelevante.",
       "appearsIn": [
-        "Tema 10.3. Anticiencia",
-        "Examen 2023 Septiembre"
+        "Tema 10.3. Anticiència",
+        "Examen 2023 Setembre"
       ]
     },
     {
-      "section": "Examen 2022 Febrero 2",
+      "section": "Examen 2022 Febrer 2",
       "number": 9,
       "question": "Según los enfoques feministas de la ciencia:",
       "options": [
@@ -2571,12 +2571,12 @@
       "answer": "La ciencia está determinada por el androcentrismo de la sociedad",
       "explanation": "Se analiza cómo el androcentrismo puede sesgar preguntas, métodos e interpretaciones; no implica que solo valga la ciencia hecha por mujeres.",
       "appearsIn": [
-        "Tema 11. La ciencia como producto social",
-        "Examen 2023 Septiembre"
+        "Tema 11. La ciència com a producte social",
+        "Examen 2023 Setembre"
       ]
     },
     {
-      "section": "Examen 2022 Febrero 2",
+      "section": "Examen 2022 Febrer 2",
       "number": 10,
       "question": "¿Qué son los ensayos clínicos?",
       "options": [
@@ -2587,11 +2587,11 @@
       "answer": "Estudios experimentales en los que se investiga la efectividad y seguridad de un medicamento o tratamiento",
       "explanation": "Son estudios experimentales para evaluar efectividad y seguridad de medicamentos o tratamientos.",
       "appearsIn": [
-        "Examen 2023 Septiembre"
+        "Examen 2023 Setembre"
       ]
     },
     {
-      "section": "Examen 2020 Febrero 1",
+      "section": "Examen 2020 Febrer 1",
       "number": 1,
       "question": "El hecho de que un campo de investigación tenga potenciales aplicaciones prácticas:",
       "options": [
@@ -2603,7 +2603,7 @@
       "explanation": "La posibilidad de aplicaciones puede motivar legítimamente investigación, sin ser por sí misma evidencia de hipótesis."
     },
     {
-      "section": "Examen 2020 Febrero 1",
+      "section": "Examen 2020 Febrer 1",
       "number": 2,
       "question": "¿Es toda la ciencia empírica experimental?",
       "options": [
@@ -2614,11 +2614,11 @@
       "answer": "Existen disciplinas científicas de carácter empírico en las que el papel de los experimentos es limitado, y en las que la evidencia empírica se obtiene fundamentalmente a través de observaciones no experimentales.",
       "explanation": "Hay ciencias empíricas (p. ej. astronomía, geología) donde el experimento es limitado y predomina la observación.",
       "appearsIn": [
-        "Tema 3. Experimentación"
+        "Tema 3. Experimentació"
       ]
     },
     {
-      "section": "Examen 2020 Febrero 1",
+      "section": "Examen 2020 Febrer 1",
       "number": 3,
       "question": "¿Cuándo queda refutada o falsada empíricamente una hipótesis?",
       "options": [
@@ -2629,11 +2629,11 @@
       "answer": "Una hipótesis quedará refutada empíricamente si alguna de sus predicciones resulta ser incompatible con la evidencia empírica disponible.",
       "explanation": "Una hipótesis quedará refutada empíricamente si alguna de sus predicciones resulta ser incompatible con la evidencia empírica disponible.",
       "appearsIn": [
-        "Tema 4. El método científico"
+        "Tema 4. El mètode científic"
       ]
     },
     {
-      "section": "Examen 2020 Febrero 1",
+      "section": "Examen 2020 Febrer 1",
       "number": 4,
       "question": "¿Cuál es la conclusión de un razonamiento?",
       "options": [
@@ -2645,7 +2645,7 @@
       "explanation": "La conclusión es la proposición que se sostiene al final del razonamiento."
     },
     {
-      "section": "Examen 2020 Febrero 1",
+      "section": "Examen 2020 Febrer 1",
       "number": 5,
       "question": "¿Son falibles las generalizaciones inductivas?",
       "options": [
@@ -2656,11 +2656,11 @@
       "answer": "Incluso si una inferencia inductiva está apoyada por un gran número de observaciones, en principio siempre es posible que aparezcan excepciones inesperadas.",
       "explanation": "La aparición de un contraejemplo puede refutar una generalización inductiva.",
       "appearsIn": [
-        "Tema 5. El problema de la inducción"
+        "Tema 5. El problema de la inducció"
       ]
     },
     {
-      "section": "Examen 2020 Febrero 1",
+      "section": "Examen 2020 Febrer 1",
       "number": 6,
       "question": "¿Qué es la ciencia normal?",
       "options": [
@@ -2671,11 +2671,11 @@
       "answer": "La ciencia que se hace en el marco de un paradigma",
       "explanation": "La ciencia normal consiste en resolver problemas dentro del marco de un paradigma establecido.",
       "appearsIn": [
-        "Tema 8. Paradigmas y cambio científico"
+        "Tema 8. Paradigmes i canvi científic"
       ]
     },
     {
-      "section": "Examen 2020 Febrero 1",
+      "section": "Examen 2020 Febrer 1",
       "number": 7,
       "question": "¿Cuándo se produce un cambio de paradigma?",
       "options": [
@@ -2686,11 +2686,11 @@
       "answer": "Cuando la mayoría de los miembros de la comunidad científica decide asumir un nuevo paradigma, independientemente de los motivos por los que lo haga",
       "explanation": "La adopción de un nuevo paradigma suele estar motivada por su mayor capacidad para resolver problemas y explicar datos, pero también por factores sociales.",
       "appearsIn": [
-        "Tema 8. Paradigmas y cambio científico"
+        "Tema 8. Paradigmes i canvi científic"
       ]
     },
     {
-      "section": "Examen 2020 Febrero 1",
+      "section": "Examen 2020 Febrer 1",
       "number": 8,
       "question": "Según el verificacionismo...",
       "options": [
@@ -2701,11 +2701,11 @@
       "answer": "El conocimiento debe ser corroborado por la experiencia",
       "explanation": "El verificacionismo de la Escuela de Viena sostiene que una proposición es significativa si y solo si puede ser verificada empíricamente.",
       "appearsIn": [
-        "Tema 9. El criterio de demarcación"
+        "Tema 9. El criteri de demarcació"
       ]
     },
     {
-      "section": "Examen 2020 Febrero 1",
+      "section": "Examen 2020 Febrer 1",
       "number": 9,
       "question": "¿Cuál de estos enunciados es falsable?",
       "options": [
@@ -2717,7 +2717,7 @@
       "explanation": "La ley física concreta es falsable porque prohíbe ciertas observaciones."
     },
     {
-      "section": "Examen 2020 Febrero 1",
+      "section": "Examen 2020 Febrer 1",
       "number": 10,
       "question": "¿Por qué hay discursos no-científicos que intentan pasarse por científicos?",
       "options": [
@@ -2729,7 +2729,7 @@
       "explanation": "Son los discursos pseudocientíficos los que buscan aprovechar el prestigio social de la ciencia."
     },
     {
-      "section": "Examen 2020 Febrero 2",
+      "section": "Examen 2020 Febrer 2",
       "number": 1,
       "question": "El método científico:",
       "options": [
@@ -2741,7 +2741,7 @@
       "explanation": "El método científico se define como un procedimiento para contrastar hipótesis empíricas con evidencia, y en principio es aplicable a cualquier hipótesis sobre el mundo que sea contrastable, venga de donde venga."
     },
     {
-      "section": "Examen 2020 Febrero 2",
+      "section": "Examen 2020 Febrer 2",
       "number": 2,
       "question": "¿Cuáles son las reglas para formular hipótesis?",
       "options": [
@@ -2753,7 +2753,7 @@
       "explanation": "No hay reglas rígidas para formular hipótesis, basta con que sean contrastables empíricamente y es preferible que tengan virtudes teóricas como simplicidad y poder explicativo/predictivo."
     },
     {
-      "section": "Examen 2020 Febrero 2",
+      "section": "Examen 2020 Febrer 2",
       "number": 3,
       "question": "¿Son revisables hipótesis actualmente aceptadas por la comunidad científica?",
       "options": [
@@ -2764,11 +2764,11 @@
       "answer": "Es frecuente que la aparición de nueva evidencia empírica lleve a rechazar hipótesis científicas que estaban ampliamente aceptadas y que se ajustaban a la evidencia disponible hasta el momento.",
       "explanation": "Las hipótesis científicas son provisionales y pueden revisarse o rechazarse cuando aparece nueva evidencia empírica o mejores explicaciones.",
       "appearsIn": [
-        "Tema 4. El método científico"
+        "Tema 4. El mètode científic"
       ]
     },
     {
-      "section": "Examen 2020 Febrero 2",
+      "section": "Examen 2020 Febrer 2",
       "number": 4,
       "question": "¿Qué es la estadística inferencial?",
       "options": [
@@ -2780,7 +2780,7 @@
       "explanation": "Inferir a una población a partir de una muestra, cuantificando incertidumbre."
     },
     {
-      "section": "Examen 2020 Febrero 2",
+      "section": "Examen 2020 Febrer 2",
       "number": 5,
       "question": "Si se observa una correlación clara y significativa entre lactancia materna y buenos resultados académicos:",
       "options": [
@@ -2792,7 +2792,7 @@
       "explanation": "Opción más matizada y coherente con el temario."
     },
     {
-      "section": "Examen 2020 Febrero 2",
+      "section": "Examen 2020 Febrer 2",
       "number": 6,
       "question": "¿En qué ciencias es más frecuente el uso del modelo nomológico-deductivo?",
       "options": [
@@ -2803,11 +2803,11 @@
       "answer": "Física y química",
       "explanation": "Nomológico-deductivo es más común en ciencias físicas, donde hay leyes generales claras.",
       "appearsIn": [
-        "Tema 7. El uso de los modelos en ciencia"
+        "Tema 7. L'ús dels models en ciència"
       ]
     },
     {
-      "section": "Examen 2020 Febrero 2",
+      "section": "Examen 2020 Febrer 2",
       "number": 7,
       "question": "¿Un ser vivo puede ser un modelo científico?",
       "options": [
@@ -2818,11 +2818,11 @@
       "answer": "Sí",
       "explanation": "Un ratón, por ejemplo, puede ser un modelo científico para estudiar enfermedades humanas.",
       "appearsIn": [
-        "Tema 7. El uso de los modelos en ciencia"
+        "Tema 7. L'ús dels models en ciència"
       ]
     },
     {
-      "section": "Examen 2020 Febrero 2",
+      "section": "Examen 2020 Febrer 2",
       "number": 8,
       "question": "¿Cómo se denomina a la postura filosófica que defiende Paul Feyerabend?",
       "options": [
@@ -2834,7 +2834,7 @@
       "explanation": "El libro más conocido de Feyerabend es \"Against Method: Outline of an Anarchistic Theory of Knowledge\", donde defiende el anarquismo epistemológico."
     },
     {
-      "section": "Examen 2020 Febrero 2",
+      "section": "Examen 2020 Febrer 2",
       "number": 9,
       "question": "Según el falsacionismo, no podemos estar seguros de estar en lo cierto pero podemos saber...",
       "options": [
@@ -2845,12 +2845,12 @@
       "answer": "Si estamos equivocados",
       "explanation": "Podemos detectar errores: si una predicción falla, sabemos que la hipótesis es falsa o hay un problema auxiliar.",
       "appearsIn": [
-        "Tema 9. El criterio de demarcación",
-        "Examen 2022 Febrero 1"
+        "Tema 9. El criteri de demarcació",
+        "Examen 2022 Febrer 1"
       ]
     },
     {
-      "section": "Examen 2020 Febrero 2",
+      "section": "Examen 2020 Febrer 2",
       "number": 10,
       "question": "¿Qué es la pseudociencia?",
       "options": [
@@ -2861,8 +2861,8 @@
       "answer": "No-ciencia haciéndose pasar por ciencia",
       "explanation": "Pseudociencia: no-ciencia que intenta presentarse como ciencia para aprovechar su prestigio.",
       "appearsIn": [
-        "Tema 10.2. Pseudociencia",
-        "Examen 2024 Febrero 2"
+        "Tema 10.2. Pseudociència",
+        "Examen 2024 Febrer 2"
       ]
     }
   ]

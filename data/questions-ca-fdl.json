@@ -7,7 +7,7 @@
   "language": "ca",
   "questions": [
     {
-      "section": "Tema 1. Introducción",
+      "section": "Tema 1. Introducció",
       "number": 1,
       "question": "“Pedro robó las joyas” y “Las joyas fueron robadas por Pedro” expresan:",
       "options": [
@@ -19,7 +19,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 1. Introducción",
+      "section": "Tema 1. Introducció",
       "number": 2,
       "question": "¿De qué se ocupa la semántica?",
       "options": [
@@ -31,7 +31,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 1. Introducción",
+      "section": "Tema 1. Introducció",
       "number": 3,
       "question": "¿En cuál de los siguientes enunciados está “Pedro” usado (no mencionado)?",
       "options": [
@@ -43,7 +43,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 1. Introducción",
+      "section": "Tema 1. Introducció",
       "number": 4,
       "question": "Considera el siguiente enunciado: “Pedro” es un ladrón.",
       "options": [
@@ -55,7 +55,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 1. Introducción",
+      "section": "Tema 1. Introducció",
       "number": 5,
       "question": "Considera el siguiente enunciado: “La neige est blanche” significa en francés que la nieve es blanca. ¿Qué idioma se usa como metalenguaje?",
       "options": [
@@ -67,7 +67,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 2. Frege: sentido y referencia",
+      "section": "Tema 2. Frege: sentit i referència",
       "number": 1,
       "question": "En el análisis lógico-semántico del lenguaje que hace Frege, ¿por qué se sustituye la estructura gramatical de sujeto-predicado?",
       "options": [
@@ -78,7 +78,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 2. Frege: sentido y referencia",
+      "section": "Tema 2. Frege: sentit i referència",
       "number": 2,
       "question": "De acuerdo con Frege, el sentido de una expresión lingüística...",
       "options": [
@@ -90,7 +90,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 2. Frege: sentido y referencia",
+      "section": "Tema 2. Frege: sentit i referència",
       "number": 3,
       "question": "En la teoría de Frege, el sentido de una oración simple es:",
       "options": [
@@ -102,7 +102,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 2. Frege: sentido y referencia",
+      "section": "Tema 2. Frege: sentit i referència",
       "number": 4,
       "question": "Según, Frege, en el enunciado “Platón cree que Aristóteles está equivocado”...",
       "options": [
@@ -114,7 +114,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 2. Frege: sentido y referencia",
+      "section": "Tema 2. Frege: sentit i referència",
       "number": 5,
       "question": "De acuerdo con el principio de sustituibilidad adoptado por Frege, ¿qué es lo que no cambia al sustituir en un enunciado un término por otro término correferencial?",
       "options": [
@@ -126,7 +126,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 3. Russell y la semántica de las descripciones definidas",
+      "section": "Tema 3. Russell i la semàntica de les descripcions definides",
       "number": 1,
       "question": "La aportación de un nombre propio a la proposición singular (o russelliana) expresada por un enunciado en el que aparece dicho nombre es:",
       "options": [
@@ -138,7 +138,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 3. Russell y la semántica de las descripciones definidas",
+      "section": "Tema 3. Russell i la semàntica de les descripcions definides",
       "number": 2,
       "question": "Los enunciados ‘Héspero es un planeta’ y ‘Fósforo es un planeta’ (donde ‘Héspero’ y ‘Fósforo’ son nombres de Venus)…",
       "options": [
@@ -150,7 +150,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 3. Russell y la semántica de las descripciones definidas",
+      "section": "Tema 3. Russell i la semàntica de les descripcions definides",
       "number": 3,
       "question": "De acuerdo con Russell:",
       "options": [
@@ -162,7 +162,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 3. Russell y la semántica de las descripciones definidas",
+      "section": "Tema 3. Russell i la semàntica de les descripcions definides",
       "number": 4,
       "question": "De acuerdo con Russell, en la estructura semántica de una descripción definida hay:",
       "options": [
@@ -174,7 +174,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 3. Russell y la semántica de las descripciones definidas",
+      "section": "Tema 3. Russell i la semàntica de les descripcions definides",
       "number": 5,
       "question": "De acuerdo con Russell, las descripciones definidas:",
       "options": [
@@ -186,7 +186,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 4. Referencia directa y externismo semántico",
+      "section": "Tema 4. Referència directa i externisme semàntic",
       "number": 1,
       "question": "Siguiendo el análisis kripkeano, el enunciado “Héspero es Fósforo”:",
       "options": [
@@ -198,7 +198,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 4. Referencia directa y externismo semántico",
+      "section": "Tema 4. Referència directa i externisme semàntic",
       "number": 2,
       "question": "Supongamos que la descripción que asociamos con el nombre ‘Gabriel García Márquez’ es ‘el autor de Cien años de soledad’. Ahora imaginemos que la persona a quien habitualmente atribuimos el mérito de esa obra (Gabriel García Márquez) en realidad no la escribió, sino que se la robó a una conocida llamada Eugenia Pérez. De acuerdo con el descriptivismo, ¿a quién referiría en esta situación imaginaria el nombre ‘Gabriel García Márquez’?",
       "options": [
@@ -210,7 +210,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 4. Referencia directa y externismo semántico",
+      "section": "Tema 4. Referència directa i externisme semàntic",
       "number": 3,
       "question": "De acuerdo con Kripke, ¿qué expresiones son designadores rígidos?",
       "options": [
@@ -221,7 +221,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 4. Referencia directa y externismo semántico",
+      "section": "Tema 4. Referència directa i externisme semàntic",
       "number": 4,
       "question": "De acuerdo con el externismo…",
       "options": [
@@ -233,7 +233,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 4. Referencia directa y externismo semántico",
+      "section": "Tema 4. Referència directa i externisme semàntic",
       "number": 5,
       "question": "El descriptivismo es una teoría…",
       "options": [
@@ -245,7 +245,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 5. Significado y verdad",
+      "section": "Tema 5. Significat i veritat",
       "number": 1,
       "question": "La teoría de la verdad de Tarski:",
       "options": [
@@ -257,7 +257,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 5. Significado y verdad",
+      "section": "Tema 5. Significat i veritat",
       "number": 2,
       "question": "De acuerdo con Davidson, la tarea de dar una teoría del significado para un lenguaje equivale a la tarea de:",
       "options": [
@@ -269,7 +269,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 5. Significado y verdad",
+      "section": "Tema 5. Significat i veritat",
       "number": 3,
       "question": "Los enunciados de habla indirecta como “María dijo que los precios han vuelto a subir” tienen una semántica especialmente compleja. ¿Qué análisis propone Davidson?",
       "options": [
@@ -281,7 +281,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 5. Significado y verdad",
+      "section": "Tema 5. Significat i veritat",
       "number": 4,
       "question": "¿Qué función desempeña el principio de caridad en la situación de interpretación que plantea Davidson?",
       "options": [
@@ -293,7 +293,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 5. Significado y verdad",
+      "section": "Tema 5. Significat i veritat",
       "number": 5,
       "question": "La extensión de una expresión simple e es:",
       "options": [
@@ -305,7 +305,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 6. Indéxicos y demostrativos",
+      "section": "Tema 6. Indèxics i demostratius",
       "number": 1,
       "question": "Un indéxico se caracteriza por…",
       "options": [
@@ -317,7 +317,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 6. Indéxicos y demostrativos",
+      "section": "Tema 6. Indèxics i demostratius",
       "number": 2,
       "question": "Un ejemplo de indéxico puro o automático podría ser…",
       "options": [
@@ -329,7 +329,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 6. Indéxicos y demostrativos",
+      "section": "Tema 6. Indèxics i demostratius",
       "number": 3,
       "question": "En el análisis kaplaniano, el carácter de un indéxico es…",
       "options": [
@@ -341,7 +341,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 6. Indéxicos y demostrativos",
+      "section": "Tema 6. Indèxics i demostratius",
       "number": 4,
       "question": "Carmen, en Córdoba, y Remedios, en Sevilla, dicen ‘Aquí hace calor’. Sus proferencias tienen:",
       "options": [
@@ -353,7 +353,7 @@
       "explanation": ""
     },
     {
-      "section": "Tema 6. Indéxicos y demostrativos",
+      "section": "Tema 6. Indèxics i demostratius",
       "number": 5,
       "question": "Tomemos los dos enunciados siguientes: (1) ‘El examen es el día 20 de enero a las 10:00’. (2) ‘El examen es ahora’. Supongamos que (2) se pronuncia el día 20 de enero a las 10:00. Estos dos enunciados, en el contexto descrito…",
       "options": [

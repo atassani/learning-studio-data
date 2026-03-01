@@ -44,3 +44,9 @@ Each JSON file includes:
 - Serve stable test data:
   - `npm run dev:data:test`
   - URL: `http://localhost:4174`
+
+## Data Audit
+- Validate language wiring and translation coverage:
+  - `npm run audit:lang`
+- Fail when translation coverage is below threshold:
+  - `npm run audit:lang:strict`
