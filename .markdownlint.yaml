@@ -1,0 +1,4 @@
+# Markdownlint configuration with explanations
+MD022: false  # Ignore header blank lines (no need for blank lines around headings)
+MD032: false  # Ignore blank lines before lists (no need for blank line before list)
+MD013: false  # Ignore line length (allow long lines)
