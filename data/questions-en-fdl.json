@@ -9,233 +9,233 @@
     {
       "section": "Topic 1. Introduction",
       "number": 1,
-      "question": "“Pedro robó las joyas” y “Las joyas fueron robadas por Pedro” expresan:",
+      "question": "\"pedro stole the jewels\" and \"the jewels were stolen by pedro\" express:",
       "options": [
-        "Una misma proposición.",
+        "A misma proposición.",
         "No expresan ninguna proposición.",
         "Dos proposiciones diferentes."
       ],
-      "answer": "Una misma proposición.",
+      "answer": "A misma proposición.",
       "explanation": ""
     },
     {
       "section": "Topic 1. Introduction",
       "number": 2,
-      "question": "¿De qué se ocupa la semántica?",
+      "question": "EN What does semantics deal with?",
       "options": [
-        "De las reglas de formación gramaticales.",
-        "De los aspectos del lenguaje que tienen que ver con su uso y las prácticas comunicativas.",
-        "Del significado de las expresiones y, en concreto, de las relaciones entre lenguaje y realidad."
+        "Of the reglas of formación gramaticales.",
+        "Of the aspectos of the lenguaje that tienen that ver with su uso and the prácticas comunicativas.",
+        "Of the significado of the expresiones and, in concreto, of the relaciones entre lenguaje and realidad."
       ],
-      "answer": "Del significado de las expresiones y, en concreto, de las relaciones entre lenguaje y realidad.",
+      "answer": "Of the significado of the expresiones and, in concreto, of the relaciones entre lenguaje and realidad.",
       "explanation": ""
     },
     {
       "section": "Topic 1. Introduction",
       "number": 3,
-      "question": "¿En cuál de los siguientes enunciados está “Pedro” usado (no mencionado)?",
+      "question": "In which of the following statements is \"pedro\" used (not mentioned)?",
       "options": [
-        "“Pedro” tiene 5 letras.",
-        "“Pedro” es un nombre propio.",
-        "Pedro ha robado las joyas."
+        "“pedro” tiene 5 letras.",
+        "“pedro” is a nombre propio.",
+        "Pedro ha robado the joyas."
       ],
-      "answer": "Pedro ha robado las joyas.",
+      "answer": "Pedro ha robado the joyas.",
       "explanation": ""
     },
     {
       "section": "Topic 1. Introduction",
       "number": 4,
-      "question": "Considera el siguiente enunciado: “Pedro” es un ladrón.",
+      "question": "Consider the following statement: \"pedro\" is a thief.",
       "options": [
-        "El enunciado es falso porque Pedro no está usado sino mencionado y, por tanto, refiere a una expresión lingüística.",
-        "El enunciado es falso porque es un uso irónico.",
-        "El enunciado es verdadero en caso de que Pedro sea de hecho un ladrón."
+        "The enunciado is false porque pedro no está usado sino mencionado and, therefore, refiere a a expresión lingüística.",
+        "The enunciado is false porque is a uso irónico.",
+        "The enunciado is true in caso of that pedro sea of hecho a ladrón."
       ],
-      "answer": "El enunciado es falso porque Pedro no está usado sino mencionado y, por tanto, refiere a una expresión lingüística.",
+      "answer": "The enunciado is false porque pedro no está usado sino mencionado and, therefore, refiere a a expresión lingüística.",
       "explanation": ""
     },
     {
       "section": "Topic 1. Introduction",
       "number": 5,
-      "question": "Considera el siguiente enunciado: “La neige est blanche” significa en francés que la nieve es blanca. ¿Qué idioma se usa como metalenguaje?",
+      "question": "Consider the following statement: “the neige est blanche” means in french that snow is white. which language is used as metalanguage?",
       "options": [
         "Ambos.",
-        "El francés.",
-        "El español"
+        "The francés.",
+        "The español"
       ],
-      "answer": "El español",
+      "answer": "The español",
       "explanation": ""
     },
     {
       "section": "Topic 2. Frege: sense and reference",
       "number": 1,
-      "question": "En el análisis lógico-semántico del lenguaje que hace Frege, ¿por qué se sustituye la estructura gramatical de sujeto-predicado?",
+      "question": "EN In Frege's logical-semantic analysis of language, why is the grammatical subject-predicate structure replaced?",
       "options": [
-        "Por las categorías gramaticales de sintagma nominal y verbal.",
-        "Por la estructura lógico-matemática de argumento-función."
+        "By the categorías gramaticales of sintagma nominal and verbal.",
+        "By the estructura lógico-matemática of argument-función."
       ],
-      "answer": "Por la estructura lógico-matemática de argumento-función.",
+      "answer": "By the estructura lógico-matemática of argument-función.",
       "explanation": ""
     },
     {
       "section": "Topic 2. Frege: sense and reference",
       "number": 2,
-      "question": "De acuerdo con Frege, el sentido de una expresión lingüística...",
+      "question": "According to frege, the sense of a linguistic expression...",
       "options": [
-        "Es intersubjetivo, esto es, puede ser compartido.",
-        "Es el objeto designado por la expresión y, por tanto, es objetivo.",
-        "Es subjetivo, al igual que la representación mental."
+        "Is intersubjetivo, esto is, puede ser compartido.",
+        "Is the objeto designado by the expresión and, therefore, is objective.",
+        "Is subjetivo, al igual that the representación mental."
       ],
-      "answer": "Es intersubjetivo, esto es, puede ser compartido.",
+      "answer": "Is intersubjetivo, esto is, puede ser compartido.",
       "explanation": ""
     },
     {
       "section": "Topic 2. Frege: sense and reference",
       "number": 3,
-      "question": "En la teoría de Frege, el sentido de una oración simple es:",
+      "question": "In frege's theory, the sense of a simple sentence is:",
       "options": [
-        "Un pensamiento.",
-        "Sólo los nombres propios tienen sentido.",
-        "Su valor de verdad."
+        "A pensamiento.",
+        "Sólo the nombres propios tienen sentido.",
+        "Su valor of truth."
       ],
-      "answer": "Un pensamiento.",
+      "answer": "A pensamiento.",
       "explanation": ""
     },
     {
       "section": "Topic 2. Frege: sense and reference",
       "number": 4,
-      "question": "Según, Frege, en el enunciado “Platón cree que Aristóteles está equivocado”...",
+      "question": "According to frege, in the statement \"plato believes that aristotle is mistaken\"...",
       "options": [
-        "“Aristóteles” no tiene sentido ni referencia.",
-        "“Aristóteles” tiene referencia indirecta (refiere a su sentido usual).",
-        "“Aristóteles” tiene su referencia habitual (refiere a un individuo)."
+        "“aristóteles” no tiene sentido ni referencia.",
+        "“aristóteles” tiene referencia indirecta (refiere a su sentido usual).",
+        "“aristóteles” tiene su referencia habitual (refiere a a individuo)."
       ],
-      "answer": "“Aristóteles” tiene referencia indirecta (refiere a su sentido usual).",
+      "answer": "“aristóteles” tiene referencia indirecta (refiere a su sentido usual).",
       "explanation": ""
     },
     {
       "section": "Topic 2. Frege: sense and reference",
       "number": 5,
-      "question": "De acuerdo con el principio de sustituibilidad adoptado por Frege, ¿qué es lo que no cambia al sustituir en un enunciado un término por otro término correferencial?",
+      "question": "According to frege's principle of substitutability, what does not change when one term in a statement is replaced by a coreferential term?",
       "options": [
-        "El valor de verdad del enunciado, esto es, su referencia.",
-        "El pensamiento expresado por el enunciado, esto es, su sentido.",
-        "Cambian tanto el sentido como la referencia."
+        "The valor of truth of the enunciado, esto is, su referencia.",
+        "The pensamiento expresado by the enunciado, esto is, su sentido.",
+        "Cambian tanto the sentido como the referencia."
       ],
-      "answer": "El valor de verdad del enunciado, esto es, su referencia.",
+      "answer": "The valor of truth of the enunciado, esto is, su referencia.",
       "explanation": ""
     },
     {
       "section": "Topic 3. Russell and the semantics of definite descriptions",
       "number": 1,
-      "question": "La aportación de un nombre propio a la proposición singular (o russelliana) expresada por un enunciado en el que aparece dicho nombre es:",
+      "question": "The contribution of a proper name to the singular (or russellian) proposition expressed by a statement in which that name appears is:",
       "options": [
-        "El objeto denotado por el nombre.",
-        "El sentido del nombre.",
-        "La representación mental asociada al nombre."
+        "The objeto denotado by the nombre.",
+        "The sentido of the nombre.",
+        "The representación mental asociada al nombre."
       ],
-      "answer": "El objeto denotado por el nombre.",
+      "answer": "The objeto denotado by the nombre.",
       "explanation": ""
     },
     {
       "section": "Topic 3. Russell and the semantics of definite descriptions",
       "number": 2,
-      "question": "Los enunciados ‘Héspero es un planeta’ y ‘Fósforo es un planeta’ (donde ‘Héspero’ y ‘Fósforo’ son nombres de Venus)…",
+      "question": "The statements \"hesperus is a planet\" and \"phosphorus is a planet\" (where \"hesperus\" and \"phosphorus\" are names of venus)...",
       "options": [
-        "Expresan dos proposiciones fregeanas diferentes pero la misma proposición russelliana.",
-        "Expresan la misma proposición fregeana y la misma proposición russelliana.",
-        "Expresan la misma proposición fregeana pero proposiciones russellianas diferentes."
+        "Expresan dos proposiciones fregeanas diferentes pero the misma proposición russelliana.",
+        "Expresan the misma proposición fregeana and the misma proposición russelliana.",
+        "Expresan the misma proposición fregeana pero proposiciones russellianas diferentes."
       ],
-      "answer": "Expresan dos proposiciones fregeanas diferentes pero la misma proposición russelliana.",
+      "answer": "Expresan dos proposiciones fregeanas diferentes pero the misma proposición russelliana.",
       "explanation": ""
     },
     {
       "section": "Topic 3. Russell and the semantics of definite descriptions",
       "number": 3,
-      "question": "De acuerdo con Russell:",
+      "question": "According to russell:",
       "options": [
-        "La noción de forma lógica no debe ser utilizada en semántica, ya que es engañosa.",
-        "La forma gramatical de un enunciado es isomórfica con su forma lógica.",
-        "La forma gramatical de un enunciado puede ser engañosa y ocultar su forma lógica."
+        "The noción of forma lógica no debe ser utilizada in semántica, ya that is engañosa.",
+        "The forma gramatical of a enunciado is isomórfica with su forma lógica.",
+        "The forma gramatical of a enunciado puede ser engañosa and ocultar su forma lógica."
       ],
-      "answer": "La forma gramatical de un enunciado puede ser engañosa y ocultar su forma lógica.",
+      "answer": "The forma gramatical of a enunciado puede ser engañosa and ocultar su forma lógica.",
       "explanation": ""
     },
     {
       "section": "Topic 3. Russell and the semantics of definite descriptions",
       "number": 4,
-      "question": "De acuerdo con Russell, en la estructura semántica de una descripción definida hay:",
+      "question": "EN According to Russell, in the semantic structure of a definite description there is:",
       "options": [
-        "Un supuesto de generalidad y pluralidad.",
-        "Un supuesto de no existencia.",
-        "Un supuesto de existencia y un supuesto de unicidad."
+        "A supuesto of generalidad and pluralidad.",
+        "A supuesto of no existencia.",
+        "A supuesto of existencia and a supuesto of unicidad."
       ],
-      "answer": "Un supuesto de existencia y un supuesto de unicidad.",
+      "answer": "A supuesto of existencia and a supuesto of unicidad.",
       "explanation": ""
     },
     {
       "section": "Topic 3. Russell and the semantics of definite descriptions",
       "number": 5,
-      "question": "De acuerdo con Russell, las descripciones definidas:",
+      "question": "EN According to Russell, definite descriptions:",
       "options": [
-        "Son expresiones carentes de significado.",
-        "Son expresiones cuantificacionales.",
-        "Son expresiones referenciales, al igual que los nombres propios."
+        "Are expresiones carentes of significado.",
+        "Are expresiones cuantificacionales.",
+        "Are expresiones referenciales, al igual that the nombres propios."
       ],
-      "answer": "Son expresiones cuantificacionales.",
+      "answer": "Are expresiones cuantificacionales.",
       "explanation": ""
     },
     {
       "section": "Topic 4. Direct reference and semantic externalism",
       "number": 1,
-      "question": "Siguiendo el análisis kripkeano, el enunciado “Héspero es Fósforo”:",
+      "question": "Following kripke's analysis, the statement \"hesperus is phosphorus\":",
       "options": [
-        "Es un enunciado necesario a posteriori.",
-        "Es un enunciado contingente a posteriori.",
-        "Es un enunciado necesario a priori."
+        "Is a enunciado necesario a posteriori.",
+        "Is a enunciado contingente a posteriori.",
+        "Is a enunciado necesario a priori."
       ],
-      "answer": "Es un enunciado necesario a posteriori.",
+      "answer": "Is a enunciado necesario a posteriori.",
       "explanation": ""
     },
     {
       "section": "Topic 4. Direct reference and semantic externalism",
       "number": 2,
-      "question": "Supongamos que la descripción que asociamos con el nombre ‘Gabriel García Márquez’ es ‘el autor de Cien años de soledad’. Ahora imaginemos que la persona a quien habitualmente atribuimos el mérito de esa obra (Gabriel García Márquez) en realidad no la escribió, sino que se la robó a una conocida llamada Eugenia Pérez. De acuerdo con el descriptivismo, ¿a quién referiría en esta situación imaginaria el nombre ‘Gabriel García Márquez’?",
+      "question": "EN Suppose the description we associate with the name \"Gabriel García Márquez\" is \"the author of One Hundred Years of Solitude.\" Now imagine that the person to whom we usually attribute that work (Gabriel García Márquez) did not actually write it, but stole it from an acquaintance named Eugenia Pérez. According to descriptivism, to whom would the name \"Gabriel García Márquez\" refer in this imagined situation?",
       "options": [
-        "A Gabriel García Márquez.",
-        "A Eugenia Pérez.",
-        "A ninguno de los dos."
+        "A gabriel garcía márquez.",
+        "A eugenia pérez.",
+        "A ninguno of the dos."
       ],
-      "answer": "A Eugenia Pérez.",
+      "answer": "A eugenia pérez.",
       "explanation": ""
     },
     {
       "section": "Topic 4. Direct reference and semantic externalism",
       "number": 3,
-      "question": "De acuerdo con Kripke, ¿qué expresiones son designadores rígidos?",
+      "question": "EN According to Kripke, which expressions are rigid designators?",
       "options": [
-        "Los nombres propios.",
-        "Las descripciones definidas."
+        "The nombres propios.",
+        "The descripciones definidas."
       ],
-      "answer": "Los nombres propios.",
+      "answer": "The nombres propios.",
       "explanation": ""
     },
     {
       "section": "Topic 4. Direct reference and semantic externalism",
       "number": 4,
-      "question": "De acuerdo con el externismo…",
+      "question": "According to externalism...",
       "options": [
-        "La noción de referencia es defectuosa y debe ser reemplazada por la de sentido.",
-        "En la determinación de la referencia de un término intervienen esencialmente entidades externas a la mente.",
-        "En la determinación de la referencia de un término intervienen tanto las ideas de los hablantes como entidades externas a la mente."
+        "The noción of referencia is defectuosa and debe ser reemplazada by the of sentido.",
+        "In the determinación of the referencia of a término intervienen esencialmente entidades externas a the mente.",
+        "In the determinación of the referencia of a término intervienen tanto the ideas of the hablantes como entidades externas a the mente."
       ],
-      "answer": "En la determinación de la referencia de un término intervienen esencialmente entidades externas a la mente.",
+      "answer": "In the determinación of the referencia of a término intervienen esencialmente entidades externas a the mente.",
       "explanation": ""
     },
     {
       "section": "Topic 4. Direct reference and semantic externalism",
       "number": 5,
-      "question": "El descriptivismo es una teoría…",
+      "question": "EN Descriptivism is a theory...",
       "options": [
         "Ambas.",
         "Internista.",
@@ -247,121 +247,121 @@
     {
       "section": "Topic 5. Meaning and truth",
       "number": 1,
-      "question": "La teoría de la verdad de Tarski:",
+      "question": "Tarski's theory of truth:",
       "options": [
-        "No es recursiva.",
-        "Es recursiva y no genera esquemas V (en inglés, esquema T) para todos los enunciados de la lengua objeto.",
-        "Es recursiva y genera esquemas V (en inglés, esquema T) para todos los enunciados de la lengua objeto."
+        "No is recursiva.",
+        "Is recursiva and no genera esquemas v (in inglés, esquema t) for todos the enunciados of the lengua objeto.",
+        "Is recursiva and genera esquemas v (in inglés, esquema t) for todos the enunciados of the lengua objeto."
       ],
-      "answer": "Es recursiva y genera esquemas V (en inglés, esquema T) para todos los enunciados de la lengua objeto.",
+      "answer": "Is recursiva and genera esquemas v (in inglés, esquema t) for todos the enunciados of the lengua objeto.",
       "explanation": ""
     },
     {
       "section": "Topic 5. Meaning and truth",
       "number": 2,
-      "question": "De acuerdo con Davidson, la tarea de dar una teoría del significado para un lenguaje equivale a la tarea de:",
+      "question": "EN According to Davidson, the task of giving a theory of meaning for a language is equivalent to the task of:",
       "options": [
-        "Proporcionar sinónimos de las expresiones del lenguaje.",
-        "Indicar a qué sentido fregeano corresponde cada expresión de dicho lenguaje.",
-        "Formular la teoría de la verdad de dicho lenguaje."
+        "Proporcionar sinónimos of the expresiones of the lenguaje.",
+        "Indicar a qué sentido fregeano corresponde cada expresión of dicho lenguaje.",
+        "Formular the theory of the truth of dicho lenguaje."
       ],
-      "answer": "Formular la teoría de la verdad de dicho lenguaje.",
+      "answer": "Formular the theory of the truth of dicho lenguaje.",
       "explanation": ""
     },
     {
       "section": "Topic 5. Meaning and truth",
       "number": 3,
-      "question": "Los enunciados de habla indirecta como “María dijo que los precios han vuelto a subir” tienen una semántica especialmente compleja. ¿Qué análisis propone Davidson?",
+      "question": "Indirect speech statements such as \"maría said that prices have gone up again\" have especially complex semantics. what analysis does davidson propose?",
       "options": [
-        "Prescinde de ofrecer una análisis semántico de este tipo de enunciados.",
-        "Trata al pronombre relativo “que” como un deíctico que denota el contenido de la preferencia original.",
+        "Prescinde of ofrecer a análisis semántico of este tipo of enunciados.",
+        "Trata al pronombre relativo “that” como a deíctico that denota the contenido of the preferencia original.",
         "Recurre a sentidos fregeanos."
       ],
-      "answer": "Trata al pronombre relativo “que” como un deíctico que denota el contenido de la preferencia original.",
+      "answer": "Trata al pronombre relativo “that” como a deíctico that denota the contenido of the preferencia original.",
       "explanation": ""
     },
     {
       "section": "Topic 5. Meaning and truth",
       "number": 4,
-      "question": "¿Qué función desempeña el principio de caridad en la situación de interpretación que plantea Davidson?",
+      "question": "What role does the principle of charity play in davidson's interpretation scenario?",
       "options": [
-        "Hace posible la división del trabajo lingüístico.",
-        "Hace posible la interacción humana sin comunicación.",
-        "Hace posible la interpretación radical."
+        "Hace posible the división of the trabajo lingüístico.",
+        "Hace posible the interacción humana sin comunicación.",
+        "Hace posible the interpretación radical."
       ],
-      "answer": "Hace posible la interpretación radical.",
+      "answer": "Hace posible the interpretación radical.",
       "explanation": ""
     },
     {
       "section": "Topic 5. Meaning and truth",
       "number": 5,
-      "question": "La extensión de una expresión simple e es:",
+      "question": "The extension of a simple expression e is:",
       "options": [
-        "Una función de mundos posibles a referentes.",
-        "El sentido fregeano de e.",
-        "La contribución de e al valor de verdad del enunciado en que aparece."
+        "A función of mundos posibles a referentes.",
+        "The sentido fregeano of e.",
+        "The contribución of e al valor of truth of the enunciado in that aparece."
       ],
-      "answer": "La contribución de e al valor de verdad del enunciado en que aparece.",
+      "answer": "The contribución of e al valor of truth of the enunciado in that aparece.",
       "explanation": ""
     },
     {
       "section": "Topic 6. Indexicals and demonstratives",
       "number": 1,
-      "question": "Un indéxico se caracteriza por…",
+      "question": "An indexical is characterized by...",
       "options": [
-        "Ser un nombre propio abreviado.",
+        "Ser a nombre propio abreviado.",
         "Tener siempre extensión vacía.",
-        "Tener referente de manera relativa al contexto de uso."
+        "Tener referente of manera relativa al contexto of uso."
       ],
-      "answer": "Tener referente de manera relativa al contexto de uso.",
+      "answer": "Tener referente of manera relativa al contexto of uso.",
       "explanation": ""
     },
     {
       "section": "Topic 6. Indexicals and demonstratives",
       "number": 2,
-      "question": "Un ejemplo de indéxico puro o automático podría ser…",
+      "question": "An example of a pure or automatic indexical could be...",
       "options": [
-        "'Él'.",
-        "‘Esto’.",
-        "'Yo'."
+        "'él'.",
+        "‘esto’.",
+        "'yo'."
       ],
-      "answer": "'Yo'.",
+      "answer": "'yo'.",
       "explanation": ""
     },
     {
       "section": "Topic 6. Indexicals and demonstratives",
       "number": 3,
-      "question": "En el análisis kaplaniano, el carácter de un indéxico es…",
+      "question": "In kaplan's analysis, the character of an indexical is...",
       "options": [
-        "El valor de verdad del enunciado en que aparece el indéxico.",
-        "El referente más habitual del indéxico en cuestión.",
-        "Una regla que determina el referente del indéxico en cada contexto."
+        "The valor of truth of the enunciado in that aparece the indéxico.",
+        "The referente más habitual of the indéxico in cuestión.",
+        "A regla that determina the referente of the indéxico in cada contexto."
       ],
-      "answer": "Una regla que determina el referente del indéxico en cada contexto.",
+      "answer": "A regla that determina the referente of the indéxico in cada contexto.",
       "explanation": ""
     },
     {
       "section": "Topic 6. Indexicals and demonstratives",
       "number": 4,
-      "question": "Carmen, en Córdoba, y Remedios, en Sevilla, dicen ‘Aquí hace calor’. Sus proferencias tienen:",
+      "question": "Carmen, in córdoba, and remedios, in seville, say \"it is hot here.\" their utterances have:",
       "options": [
-        "Distinto carácter y distinto contenido.",
-        "El mismo carácter y el mismo contenido.",
-        "El mismo carácter y distinto contenido."
+        "Distinto carácter and distinto contenido.",
+        "The mismo carácter and the mismo contenido.",
+        "The mismo carácter and distinto contenido."
       ],
-      "answer": "El mismo carácter y distinto contenido.",
+      "answer": "The mismo carácter and distinto contenido.",
       "explanation": ""
     },
     {
       "section": "Topic 6. Indexicals and demonstratives",
       "number": 5,
-      "question": "Tomemos los dos enunciados siguientes: (1) ‘El examen es el día 20 de enero a las 10:00’. (2) ‘El examen es ahora’. Supongamos que (2) se pronuncia el día 20 de enero a las 10:00. Estos dos enunciados, en el contexto descrito…",
+      "question": "EN Consider the following two statements: (1) \"The exam is on January 20 at 10:00.\" (2) \"The exam is now.\" Suppose (2) is uttered on January 20 at 10:00. These two statements, in the described context...",
       "options": [
-        "Tendrían el mismo contenido y la misma significación cognitiva.",
-        "Tendrían el mismo contenido pero distinta significación cognitiva.",
-        "Tendrían distinto contenido pero la misma significación cognitiva."
+        "Tendrían the mismo contenido and the misma significación cognitiva.",
+        "Tendrían the mismo contenido pero distinta significación cognitiva.",
+        "Tendrían distinto contenido pero the misma significación cognitiva."
       ],
-      "answer": "Tendrían el mismo contenido pero distinta significación cognitiva.",
+      "answer": "Tendrían the mismo contenido pero distinta significación cognitiva.",
       "explanation": ""
     }
   ]

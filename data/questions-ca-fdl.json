@@ -9,7 +9,7 @@
     {
       "section": "Tema 1. Introducció",
       "number": 1,
-      "question": "“Pedro robó las joyas” y “Las joyas fueron robadas por Pedro” expresan:",
+      "question": "«pedro va robar les joies» i «les joies van ser robades per pedro» expressen:",
       "options": [
         "Una misma proposición.",
         "No expresan ninguna proposición.",
@@ -21,82 +21,82 @@
     {
       "section": "Tema 1. Introducció",
       "number": 2,
-      "question": "¿De qué se ocupa la semántica?",
+      "question": "CA De què s'ocupa la semàntica?",
       "options": [
-        "De las reglas de formación gramaticales.",
-        "De los aspectos del lenguaje que tienen que ver con su uso y las prácticas comunicativas.",
-        "Del significado de las expresiones y, en concreto, de las relaciones entre lenguaje y realidad."
+        "De les reglas de formación gramaticales.",
+        "De els aspectos del lenguaje que tienen que ver amb su uso i les prácticas comunicativas.",
+        "Del significado de les expresiones i, en concreto, de les relaciones entre lenguaje i realidad."
       ],
-      "answer": "Del significado de las expresiones y, en concreto, de las relaciones entre lenguaje y realidad.",
+      "answer": "Del significado de les expresiones i, en concreto, de les relaciones entre lenguaje i realidad.",
       "explanation": ""
     },
     {
       "section": "Tema 1. Introducció",
       "number": 3,
-      "question": "¿En cuál de los siguientes enunciados está “Pedro” usado (no mencionado)?",
+      "question": "CA En quin dels enunciats següents “Pedro” està usat (no esmentat)?",
       "options": [
-        "“Pedro” tiene 5 letras.",
-        "“Pedro” es un nombre propio.",
-        "Pedro ha robado las joyas."
+        "“pedro” tiene 5 letras.",
+        "“pedro” és un nombre propio.",
+        "Pedro ha robado les joyas."
       ],
-      "answer": "Pedro ha robado las joyas.",
+      "answer": "Pedro ha robado les joyas.",
       "explanation": ""
     },
     {
       "section": "Tema 1. Introducció",
       "number": 4,
-      "question": "Considera el siguiente enunciado: “Pedro” es un ladrón.",
+      "question": "Considera l'enunciat següent: «pedro» és un lladre.",
       "options": [
-        "El enunciado es falso porque Pedro no está usado sino mencionado y, por tanto, refiere a una expresión lingüística.",
-        "El enunciado es falso porque es un uso irónico.",
-        "El enunciado es verdadero en caso de que Pedro sea de hecho un ladrón."
+        "El enunciado és fals porque pedro no está usado sino mencionado i, per tant, refiere a una expresión lingüística.",
+        "El enunciado és fals porque és un uso irónico.",
+        "El enunciado és vertader en caso de que pedro sea de hecho un ladrón."
       ],
-      "answer": "El enunciado es falso porque Pedro no está usado sino mencionado y, por tanto, refiere a una expresión lingüística.",
+      "answer": "El enunciado és fals porque pedro no está usado sino mencionado i, per tant, refiere a una expresión lingüística.",
       "explanation": ""
     },
     {
       "section": "Tema 1. Introducció",
       "number": 5,
-      "question": "Considera el siguiente enunciado: “La neige est blanche” significa en francés que la nieve es blanca. ¿Qué idioma se usa como metalenguaje?",
+      "question": "CA Considera l'enunciat següent: «La neige est blanche» significa en francès que la neu és blanca. Quin idioma s'usa com a metallenguatge?",
       "options": [
         "Ambos.",
-        "El francés.",
-        "El español"
+        "CA El francés.",
+        "CA El español"
       ],
-      "answer": "El español",
+      "answer": "CA El español",
       "explanation": ""
     },
     {
       "section": "Tema 2. Frege: sentit i referència",
       "number": 1,
-      "question": "En el análisis lógico-semántico del lenguaje que hace Frege, ¿por qué se sustituye la estructura gramatical de sujeto-predicado?",
+      "question": "CA En l'anàlisi lògic-semàntica del llenguatge de Frege, per què se substitueix l'estructura gramatical subjecte-predicat?",
       "options": [
-        "Por las categorías gramaticales de sintagma nominal y verbal.",
-        "Por la estructura lógico-matemática de argumento-función."
+        "Per les categorías gramaticales de sintagma nominal i verbal.",
+        "Per la estructura lógico-matemática de argument-función."
       ],
-      "answer": "Por la estructura lógico-matemática de argumento-función.",
+      "answer": "Per la estructura lógico-matemática de argument-función.",
       "explanation": ""
     },
     {
       "section": "Tema 2. Frege: sentit i referència",
       "number": 2,
-      "question": "De acuerdo con Frege, el sentido de una expresión lingüística...",
+      "question": "CA Segons Frege, el sentit d'una expressió lingüística...",
       "options": [
-        "Es intersubjetivo, esto es, puede ser compartido.",
-        "Es el objeto designado por la expresión y, por tanto, es objetivo.",
-        "Es subjetivo, al igual que la representación mental."
+        "És intersubjetivo, esto és, puede ser compartido.",
+        "És el objeto designado per la expresión i, per tant, és objectiu.",
+        "És subjetivo, al igual que la representación mental."
       ],
-      "answer": "Es intersubjetivo, esto es, puede ser compartido.",
+      "answer": "És intersubjetivo, esto és, puede ser compartido.",
       "explanation": ""
     },
     {
       "section": "Tema 2. Frege: sentit i referència",
       "number": 3,
-      "question": "En la teoría de Frege, el sentido de una oración simple es:",
+      "question": "CA En la teoria de Frege, el sentit d'una oració simple és:",
       "options": [
         "Un pensamiento.",
-        "Sólo los nombres propios tienen sentido.",
-        "Su valor de verdad."
+        "Sólo els nombres propios tienen sentido.",
+        "Su valor de veritat."
       ],
       "answer": "Un pensamiento.",
       "explanation": ""
@@ -104,138 +104,138 @@
     {
       "section": "Tema 2. Frege: sentit i referència",
       "number": 4,
-      "question": "Según, Frege, en el enunciado “Platón cree que Aristóteles está equivocado”...",
+      "question": "CA Segons Frege, en l'enunciat «Plató creu que Aristòtil està equivocat»...",
       "options": [
-        "“Aristóteles” no tiene sentido ni referencia.",
-        "“Aristóteles” tiene referencia indirecta (refiere a su sentido usual).",
-        "“Aristóteles” tiene su referencia habitual (refiere a un individuo)."
+        "“aristóteles” no tiene sentido ni referencia.",
+        "“aristóteles” tiene referencia indirecta (refiere a su sentido usual).",
+        "“aristóteles” tiene su referencia habitual (refiere a un individuo)."
       ],
-      "answer": "“Aristóteles” tiene referencia indirecta (refiere a su sentido usual).",
+      "answer": "“aristóteles” tiene referencia indirecta (refiere a su sentido usual).",
       "explanation": ""
     },
     {
       "section": "Tema 2. Frege: sentit i referència",
       "number": 5,
-      "question": "De acuerdo con el principio de sustituibilidad adoptado por Frege, ¿qué es lo que no cambia al sustituir en un enunciado un término por otro término correferencial?",
+      "question": "CA Segons el principi de substituïbilitat adoptat per Frege, què no canvia en substituir en un enunciat un terme per un altre terme correferencial?",
       "options": [
-        "El valor de verdad del enunciado, esto es, su referencia.",
-        "El pensamiento expresado por el enunciado, esto es, su sentido.",
-        "Cambian tanto el sentido como la referencia."
+        "El valor de veritat del enunciado, esto és, su referencia.",
+        "El pensamiento expresado per el enunciado, esto és, su sentido.",
+        "CA Cambian tanto el sentido como la referencia."
       ],
-      "answer": "El valor de verdad del enunciado, esto es, su referencia.",
+      "answer": "El valor de veritat del enunciado, esto és, su referencia.",
       "explanation": ""
     },
     {
       "section": "Tema 3. Russell i la semàntica de les descripcions definides",
       "number": 1,
-      "question": "La aportación de un nombre propio a la proposición singular (o russelliana) expresada por un enunciado en el que aparece dicho nombre es:",
+      "question": "CA L'aportació d'un nom propi a la proposició singular (o russelliana) expressada per un enunciat en què apareix aquest nom és:",
       "options": [
-        "El objeto denotado por el nombre.",
-        "El sentido del nombre.",
-        "La representación mental asociada al nombre."
+        "El objeto denotado per el nombre.",
+        "CA El sentido del nombre.",
+        "CA La representación mental asociada al nombre."
       ],
-      "answer": "El objeto denotado por el nombre.",
+      "answer": "El objeto denotado per el nombre.",
       "explanation": ""
     },
     {
       "section": "Tema 3. Russell i la semàntica de les descripcions definides",
       "number": 2,
-      "question": "Los enunciados ‘Héspero es un planeta’ y ‘Fósforo es un planeta’ (donde ‘Héspero’ y ‘Fósforo’ son nombres de Venus)…",
+      "question": "CA Els enunciats «Hèsper és un planeta» i «Fòsfor és un planeta» (on «Hèsper» i «Fòsfor» són noms de Venus)...",
       "options": [
-        "Expresan dos proposiciones fregeanas diferentes pero la misma proposición russelliana.",
-        "Expresan la misma proposición fregeana y la misma proposición russelliana.",
-        "Expresan la misma proposición fregeana pero proposiciones russellianas diferentes."
+        "CA Expresan dos proposiciones fregeanas diferentes pero la misma proposición russelliana.",
+        "Expresan la misma proposición fregeana i la misma proposición russelliana.",
+        "CA Expresan la misma proposición fregeana pero proposiciones russellianas diferentes."
       ],
-      "answer": "Expresan dos proposiciones fregeanas diferentes pero la misma proposición russelliana.",
+      "answer": "CA Expresan dos proposiciones fregeanas diferentes pero la misma proposición russelliana.",
       "explanation": ""
     },
     {
       "section": "Tema 3. Russell i la semàntica de les descripcions definides",
       "number": 3,
-      "question": "De acuerdo con Russell:",
+      "question": "Segons russell:",
       "options": [
-        "La noción de forma lógica no debe ser utilizada en semántica, ya que es engañosa.",
-        "La forma gramatical de un enunciado es isomórfica con su forma lógica.",
-        "La forma gramatical de un enunciado puede ser engañosa y ocultar su forma lógica."
+        "La noción de forma lógica no debe ser utilizada en semántica, ya que és engañosa.",
+        "La forma gramatical de un enunciado és isomórfica amb su forma lógica.",
+        "La forma gramatical de un enunciado puede ser engañosa i ocultar su forma lógica."
       ],
-      "answer": "La forma gramatical de un enunciado puede ser engañosa y ocultar su forma lógica.",
+      "answer": "La forma gramatical de un enunciado puede ser engañosa i ocultar su forma lógica.",
       "explanation": ""
     },
     {
       "section": "Tema 3. Russell i la semàntica de les descripcions definides",
       "number": 4,
-      "question": "De acuerdo con Russell, en la estructura semántica de una descripción definida hay:",
+      "question": "CA Segons Russell, en l'estructura semàntica d'una descripció definida hi ha:",
       "options": [
-        "Un supuesto de generalidad y pluralidad.",
-        "Un supuesto de no existencia.",
-        "Un supuesto de existencia y un supuesto de unicidad."
+        "Un supuesto de generalidad i pluralidad.",
+        "CA Un supuesto de no existencia.",
+        "Un supuesto de existencia i un supuesto de unicidad."
       ],
-      "answer": "Un supuesto de existencia y un supuesto de unicidad.",
+      "answer": "Un supuesto de existencia i un supuesto de unicidad.",
       "explanation": ""
     },
     {
       "section": "Tema 3. Russell i la semàntica de les descripcions definides",
       "number": 5,
-      "question": "De acuerdo con Russell, las descripciones definidas:",
+      "question": "CA Segons Russell, les descripcions definides:",
       "options": [
-        "Son expresiones carentes de significado.",
-        "Son expresiones cuantificacionales.",
-        "Son expresiones referenciales, al igual que los nombres propios."
+        "Són expresiones carentes de significado.",
+        "Són expresiones cuantificacionales.",
+        "Són expresiones referenciales, al igual que els nombres propios."
       ],
-      "answer": "Son expresiones cuantificacionales.",
+      "answer": "Són expresiones cuantificacionales.",
       "explanation": ""
     },
     {
       "section": "Tema 4. Referència directa i externisme semàntic",
       "number": 1,
-      "question": "Siguiendo el análisis kripkeano, el enunciado “Héspero es Fósforo”:",
+      "question": "Seguint l'anàlisi kripkeana, l'enunciat «hèsper és fòsfor»:",
       "options": [
-        "Es un enunciado necesario a posteriori.",
-        "Es un enunciado contingente a posteriori.",
-        "Es un enunciado necesario a priori."
+        "És un enunciado necesario a posteriori.",
+        "És un enunciado contingente a posteriori.",
+        "És un enunciado necesario a priori."
       ],
-      "answer": "Es un enunciado necesario a posteriori.",
+      "answer": "És un enunciado necesario a posteriori.",
       "explanation": ""
     },
     {
       "section": "Tema 4. Referència directa i externisme semàntic",
       "number": 2,
-      "question": "Supongamos que la descripción que asociamos con el nombre ‘Gabriel García Márquez’ es ‘el autor de Cien años de soledad’. Ahora imaginemos que la persona a quien habitualmente atribuimos el mérito de esa obra (Gabriel García Márquez) en realidad no la escribió, sino que se la robó a una conocida llamada Eugenia Pérez. De acuerdo con el descriptivismo, ¿a quién referiría en esta situación imaginaria el nombre ‘Gabriel García Márquez’?",
+      "question": "CA Suposem que la descripció que associem amb el nom «Gabriel García Márquez» és «l'autor de Cent anys de solitud». Ara imaginem que la persona a qui habitualment atribuïm el mèrit d'aquesta obra (Gabriel García Márquez) en realitat no la va escriure, sinó que la va robar a una coneguda anomenada Eugenia Pérez. Segons el descriptivisme, a qui referiria en aquesta situació imaginària el nom «Gabriel García Márquez»?",
       "options": [
-        "A Gabriel García Márquez.",
-        "A Eugenia Pérez.",
-        "A ninguno de los dos."
+        "A gabriel garcía márquez.",
+        "A eugenia pérez.",
+        "A ninguno de els dos."
       ],
-      "answer": "A Eugenia Pérez.",
+      "answer": "A eugenia pérez.",
       "explanation": ""
     },
     {
       "section": "Tema 4. Referència directa i externisme semàntic",
       "number": 3,
-      "question": "De acuerdo con Kripke, ¿qué expresiones son designadores rígidos?",
+      "question": "CA Segons Kripke, quines expressions són designadors rígids?",
       "options": [
-        "Los nombres propios.",
-        "Las descripciones definidas."
+        "Els nombres propios.",
+        "Les descripciones definidas."
       ],
-      "answer": "Los nombres propios.",
+      "answer": "Els nombres propios.",
       "explanation": ""
     },
     {
       "section": "Tema 4. Referència directa i externisme semàntic",
       "number": 4,
-      "question": "De acuerdo con el externismo…",
+      "question": "Segons l'externisme...",
       "options": [
-        "La noción de referencia es defectuosa y debe ser reemplazada por la de sentido.",
-        "En la determinación de la referencia de un término intervienen esencialmente entidades externas a la mente.",
-        "En la determinación de la referencia de un término intervienen tanto las ideas de los hablantes como entidades externas a la mente."
+        "La noción de referencia és defectuosa i debe ser reemplazada per la de sentido.",
+        "CA En la determinación de la referencia de un término intervienen esencialmente entidades externas a la mente.",
+        "En la determinación de la referencia de un término intervienen tanto les ideas de els hablantes como entidades externas a la mente."
       ],
-      "answer": "En la determinación de la referencia de un término intervienen esencialmente entidades externas a la mente.",
+      "answer": "CA En la determinación de la referencia de un término intervienen esencialmente entidades externas a la mente.",
       "explanation": ""
     },
     {
       "section": "Tema 4. Referència directa i externisme semàntic",
       "number": 5,
-      "question": "El descriptivismo es una teoría…",
+      "question": "CA El descriptivisme és una teoria...",
       "options": [
         "Ambas.",
         "Internista.",
@@ -247,121 +247,121 @@
     {
       "section": "Tema 5. Significat i veritat",
       "number": 1,
-      "question": "La teoría de la verdad de Tarski:",
+      "question": "CA La teoria de la veritat de Tarski:",
       "options": [
-        "No es recursiva.",
-        "Es recursiva y no genera esquemas V (en inglés, esquema T) para todos los enunciados de la lengua objeto.",
-        "Es recursiva y genera esquemas V (en inglés, esquema T) para todos los enunciados de la lengua objeto."
+        "No és recursiva.",
+        "És recursiva i no genera esquemas v (en inglés, esquema t) per todos els enunciados de la lengua objeto.",
+        "És recursiva i genera esquemas v (en inglés, esquema t) per todos els enunciados de la lengua objeto."
       ],
-      "answer": "Es recursiva y genera esquemas V (en inglés, esquema T) para todos los enunciados de la lengua objeto.",
+      "answer": "És recursiva i genera esquemas v (en inglés, esquema t) per todos els enunciados de la lengua objeto.",
       "explanation": ""
     },
     {
       "section": "Tema 5. Significat i veritat",
       "number": 2,
-      "question": "De acuerdo con Davidson, la tarea de dar una teoría del significado para un lenguaje equivale a la tarea de:",
+      "question": "CA Segons Davidson, la tasca de donar una teoria del significat per a un llenguatge equival a la tasca de:",
       "options": [
-        "Proporcionar sinónimos de las expresiones del lenguaje.",
-        "Indicar a qué sentido fregeano corresponde cada expresión de dicho lenguaje.",
-        "Formular la teoría de la verdad de dicho lenguaje."
+        "Proporcionar sinónimos de les expresiones del lenguaje.",
+        "CA Indicar a qué sentido fregeano corresponde cada expresión de dicho lenguaje.",
+        "Formular la teoria de la veritat de dicho lenguaje."
       ],
-      "answer": "Formular la teoría de la verdad de dicho lenguaje.",
+      "answer": "Formular la teoria de la veritat de dicho lenguaje.",
       "explanation": ""
     },
     {
       "section": "Tema 5. Significat i veritat",
       "number": 3,
-      "question": "Los enunciados de habla indirecta como “María dijo que los precios han vuelto a subir” tienen una semántica especialmente compleja. ¿Qué análisis propone Davidson?",
+      "question": "CA Els enunciats de parla indirecta com «Maria va dir que els preus han tornat a pujar» tenen una semàntica especialment complexa. Quin anàlisi proposa Davidson?",
       "options": [
-        "Prescinde de ofrecer una análisis semántico de este tipo de enunciados.",
-        "Trata al pronombre relativo “que” como un deíctico que denota el contenido de la preferencia original.",
+        "CA Prescinde de ofrecer una análisis semántico de este tipo de enunciados.",
+        "CA Trata al pronombre relativo “que” como un deíctico que denota el contenido de la preferencia original.",
         "Recurre a sentidos fregeanos."
       ],
-      "answer": "Trata al pronombre relativo “que” como un deíctico que denota el contenido de la preferencia original.",
+      "answer": "CA Trata al pronombre relativo “que” como un deíctico que denota el contenido de la preferencia original.",
       "explanation": ""
     },
     {
       "section": "Tema 5. Significat i veritat",
       "number": 4,
-      "question": "¿Qué función desempeña el principio de caridad en la situación de interpretación que plantea Davidson?",
+      "question": "CA Quina funció exerceix el principi de caritat en la situació d'interpretació que planteja Davidson?",
       "options": [
-        "Hace posible la división del trabajo lingüístico.",
-        "Hace posible la interacción humana sin comunicación.",
-        "Hace posible la interpretación radical."
+        "CA Hace posible la división del trabajo lingüístico.",
+        "CA Hace posible la interacción humana sin comunicación.",
+        "CA Hace posible la interpretación radical."
       ],
-      "answer": "Hace posible la interpretación radical.",
+      "answer": "CA Hace posible la interpretación radical.",
       "explanation": ""
     },
     {
       "section": "Tema 5. Significat i veritat",
       "number": 5,
-      "question": "La extensión de una expresión simple e es:",
+      "question": "L'extensió d'una expressió simple e és:",
       "options": [
-        "Una función de mundos posibles a referentes.",
-        "El sentido fregeano de e.",
-        "La contribución de e al valor de verdad del enunciado en que aparece."
+        "CA Una función de mundos posibles a referentes.",
+        "CA El sentido fregeano de e.",
+        "La contribución de e al valor de veritat del enunciado en que aparece."
       ],
-      "answer": "La contribución de e al valor de verdad del enunciado en que aparece.",
+      "answer": "La contribución de e al valor de veritat del enunciado en que aparece.",
       "explanation": ""
     },
     {
       "section": "Tema 6. Indèxics i demostratius",
       "number": 1,
-      "question": "Un indéxico se caracteriza por…",
+      "question": "Un indèxic és caracteritza per...",
       "options": [
         "Ser un nombre propio abreviado.",
         "Tener siempre extensión vacía.",
-        "Tener referente de manera relativa al contexto de uso."
+        "CA Tener referente de manera relativa al contexto de uso."
       ],
-      "answer": "Tener referente de manera relativa al contexto de uso.",
+      "answer": "CA Tener referente de manera relativa al contexto de uso.",
       "explanation": ""
     },
     {
       "section": "Tema 6. Indèxics i demostratius",
       "number": 2,
-      "question": "Un ejemplo de indéxico puro o automático podría ser…",
+      "question": "Un exemple d'indèxic pur o automàtic podria ser...",
       "options": [
-        "'Él'.",
-        "‘Esto’.",
-        "'Yo'."
+        "'él'.",
+        "‘esto’.",
+        "'yo'."
       ],
-      "answer": "'Yo'.",
+      "answer": "'yo'.",
       "explanation": ""
     },
     {
       "section": "Tema 6. Indèxics i demostratius",
       "number": 3,
-      "question": "En el análisis kaplaniano, el carácter de un indéxico es…",
+      "question": "CA En l'anàlisi kaplanià, el caràcter d'un indèxic és...",
       "options": [
-        "El valor de verdad del enunciado en que aparece el indéxico.",
-        "El referente más habitual del indéxico en cuestión.",
-        "Una regla que determina el referente del indéxico en cada contexto."
+        "El valor de veritat del enunciado en que aparece el indéxico.",
+        "CA El referente más habitual del indéxico en cuestión.",
+        "CA Una regla que determina el referente del indéxico en cada contexto."
       ],
-      "answer": "Una regla que determina el referente del indéxico en cada contexto.",
+      "answer": "CA Una regla que determina el referente del indéxico en cada contexto.",
       "explanation": ""
     },
     {
       "section": "Tema 6. Indèxics i demostratius",
       "number": 4,
-      "question": "Carmen, en Córdoba, y Remedios, en Sevilla, dicen ‘Aquí hace calor’. Sus proferencias tienen:",
+      "question": "CA La Carmen, a Còrdova, i la Remedios, a Sevilla, diuen «Aquí fa calor». Les seves proferències tenen:",
       "options": [
-        "Distinto carácter y distinto contenido.",
-        "El mismo carácter y el mismo contenido.",
-        "El mismo carácter y distinto contenido."
+        "Distinto carácter i distinto contenido.",
+        "El mismo carácter i el mismo contenido.",
+        "El mismo carácter i distinto contenido."
       ],
-      "answer": "El mismo carácter y distinto contenido.",
+      "answer": "El mismo carácter i distinto contenido.",
       "explanation": ""
     },
     {
       "section": "Tema 6. Indèxics i demostratius",
       "number": 5,
-      "question": "Tomemos los dos enunciados siguientes: (1) ‘El examen es el día 20 de enero a las 10:00’. (2) ‘El examen es ahora’. Supongamos que (2) se pronuncia el día 20 de enero a las 10:00. Estos dos enunciados, en el contexto descrito…",
+      "question": "Prenem els dos enunciats següents: (1) «l'examen és el dia 20 de gener a les 10:00». (2) «l'examen és ara». suposem que (2) és pronuncia el dia 20 de gener a les 10:00. aquests dos enunciats, en el context descrit...",
       "options": [
-        "Tendrían el mismo contenido y la misma significación cognitiva.",
-        "Tendrían el mismo contenido pero distinta significación cognitiva.",
-        "Tendrían distinto contenido pero la misma significación cognitiva."
+        "Tendrían el mismo contenido i la misma significación cognitiva.",
+        "CA Tendrían el mismo contenido pero distinta significación cognitiva.",
+        "CA Tendrían distinto contenido pero la misma significación cognitiva."
       ],
-      "answer": "Tendrían el mismo contenido pero distinta significación cognitiva.",
+      "answer": "CA Tendrían el mismo contenido pero distinta significación cognitiva.",
       "explanation": ""
     }
   ]

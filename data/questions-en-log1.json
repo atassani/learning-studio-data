@@ -9,1094 +9,1094 @@
     {
       "section": "QUESTIONS ABOUT ARGUMENTS:",
       "number": 1,
-      "question": "Para que un argumento con premisas verdaderas sea válido, es condición necesaria pero no suficiente que su conclusión sea verdadera.",
-      "answer": "Verdadero",
-      "explanation": "Si el argumento tiene forma válida y premisas verdaderas, forzosamente ha de tener conclusión verdadera. Un argumento con premisas verdaderas y conclusión falsa no puede tener forma válida, pues la validez asegura que no se pase de lo verdadero a lo falso. Pero no es condición suficiente tener premisas verdaderas y conclusión verdadera para tener un argumento con forma válida. Por ejemplo: \"2 más 2 son 4. Por tanto, Madrid es la capital de España\" es un argumento con premisa y conclusión verdaderas, pero con forma lógica inválida."
+      "question": "Para que a argument con premises true sea valid, is a necessary but not sufficient condition que su conclusion sea true.",
+      "answer": "True",
+      "explanation": "If the argument tiene form valid and premises true, forzosamente ha of tener conclusion true. a argument con premises true and conclusion false not puede tener form valid, pues the validez asegura que not se pase of lo true a lo false. pero not es condición suficiente tener premises true and conclusion true para tener a argument con form valid. for example: \"2 más 2 son 4. therefore, madrid es the capital of españa\" es a argument con premise and conclusion true, pero con form logical invalid."
     },
     {
       "section": "QUESTIONS ABOUT ARGUMENTS:",
       "number": 2,
-      "question": "Para que un argumento sea válido basta que sean verdaderas sus premisas y la conclusión.",
-      "answer": "Falso",
-      "explanation": "Un argumento con premisas y conclusión verdaderas puede tener una forma inválida. Ejemplo: Madrid es capital de España. Por tanto, dos y dos son cuatro."
+      "question": "Para que a argument sea valid basta que sean true sus premises and the conclusion.",
+      "answer": "False",
+      "explanation": "A argument con premises and conclusion true puede tener a form invalid. ejemplo: madrid es capital of españa. therefore, dos and dos son cuatro."
     },
     {
       "section": "QUESTIONS ABOUT ARGUMENTS:",
       "number": 3,
-      "question": "Para que un argumento sea válido no es condición necesaria que sus premisas sean verdaderas.",
-      "answer": "Verdadero",
-      "explanation": "Una forma válida admite todo tipo de combinaciones en los valores de verdad de las premisas y la conclusión, excepto el caso de premisas verdaderas y conclusión falsa. De modo que hay argumentos válidos con premisas falsas."
+      "question": "Para que a argument sea valid is not a necessary condition que sus premises sean true.",
+      "answer": "True",
+      "explanation": "A form valid admite todo tipo of combinaciones en los valores of verdad of las premises and the conclusion, excepto the caso of premises true and conclusion false. of modo que hay arguments valid con premises false."
     },
     {
       "section": "QUESTIONS ABOUT ARGUMENTS:",
       "number": 4,
-      "question": "Si un argumento es válido, su conclusión es verdadera.",
-      "answer": "Falso",
-      "explanation": "La validez del argumento sigue los criterios de la implicación. En un argumento válido decimos que el conjunto de las premisas implica la conclusión. Esto significa que si las premisas fueran todas ellas verdaderas, necesariamente la conclusión también lo sería. La relación de implicación, la validez del argumento, hace imposible que lo falso se siga de lo verdadero. Ahora bien, si ponemos falsedad en las premisas, podemos tener validez en la forma y falsedad en la conclusión."
+      "question": "If a argument es valid, su conclusion es true.",
+      "answer": "False",
+      "explanation": "The validez del argument sigue los criterios of the implication. en a argument valid decimos que the conjunto of las premises implica the conclusion. esto significa que if las premises fueran todas ellas true, necesariamente the conclusion también lo sería. the relación of implication, the validez del argument, hace imposible que lo false se siga of lo true. ahora bien, if ponemos falsedad en las premises, podemos tener validez en the form and falsedad en the conclusion."
     },
     {
       "section": "QUESTIONS ABOUT ARGUMENTS:",
       "number": 5,
-      "question": "Un argumento lógicamente inválido tiene todas sus premisas verdaderas y la conclusión falsa.",
-      "answer": "Falso",
-      "explanation": "Un argumento inválido puede tener cualquier forma y cualquier valor de verdad tanto en las premisas como en la conclusión. Es inválido porque su forma permite que se pueda dar el caso de que las premisas sean verdaderas y la conclusión falsa, pero no son imposibles el resto de los casos."
+      "question": "A argument lógicamente invalid tiene todas sus premises true and the conclusion false.",
+      "answer": "False",
+      "explanation": "A argument invalid puede tener cualquier form and cualquier valor of verdad therefore en las premises como en the conclusion. es invalid because su form permite que se pueda dar the caso of que las premises sean true and the conclusion false, pero not son imposibles the resto of los casos."
     },
     {
       "section": "QUESTIONS ABOUT ARGUMENTS:",
       "number": 6,
-      "question": "Un argumento lógicamente inválido tiene todas sus premisas verdaderas y la conclusión falsa.",
-      "answer": "Falso",
-      "explanation": "El argumento inválido es aquél que tiene una forma inválida, una forma que permite la existencia de argumentos con cualquier combinación de valores de verdad, por ejemplo, premisas verdaderas y conclusión verdadera: Madrid es capital de España y Lisboa es capital de Portugal Por tanto, París es capital de Francia. Este argumento es inválido, aunque tanto premisas como conclusión son verdaderas, porque su forma permite la existencia de contraejemplos: argumentos con la misma forma que tienen premisas verdaderas y conclusión falsa: Madrid es capital de España y Lisboa es capital de Portugal, Por tanto, Roma es capital de Francia."
+      "question": "A argument lógicamente invalid tiene todas sus premises true and the conclusion false.",
+      "answer": "False",
+      "explanation": "The argument invalid es aquél que tiene a form invalid, a form que permite the existencia of arguments con cualquier combinación of valores of verdad, for example, premises true and conclusion true: madrid es capital of españa and lisboa es capital of portugal therefore, parís es capital of francia. este argument es invalid, aunque therefore premises como conclusion son true, because su form permite the existencia of contraejemplos: arguments con the misma form que tienen premises true and conclusion false: madrid es capital of españa and lisboa es capital of portugal, therefore, roma es capital of francia."
     },
     {
       "section": "QUESTIONS ABOUT ARGUMENTS:",
       "number": 7,
-      "question": "Los argumentos inválidos siempre tienen la conclusión falsa.",
-      "answer": "Falso",
-      "explanation": "Un argumento con forma inválida es aquél en el que las premisas no implican la conclusión, ya sea verdadera o falsa. La validez y la invalidez se dicen de la forma lógica del argumento. Por ejemplo, \"Londres es una ciudad pequeña. Por tanto, Londres es una ciudad española\" es un argumento inválido con conclusión falsa. Otro argumento con esa misma forma inválida, pero conclusión verdadera es: \"Londres es una ciudad pequeña. Por tanto, Londres es una ciudad inglesa\""
+      "question": "Los arguments invalid siempre tienen the conclusion false.",
+      "answer": "False",
+      "explanation": "A argument con form invalid es aquél en the que las premises not implican the conclusion, ya sea true or false. the validez and the invalidez se dicen of the form logical del argument. for example, \"londres es a ciudad pequeña. therefore, londres es a ciudad española\" es a argument invalid con conclusion false. otro argument con esa misma form invalid, pero conclusion true es: \"londres es a ciudad pequeña. therefore, londres es a ciudad inglesa\""
     },
     {
       "section": "QUESTIONS ABOUT ARGUMENTS:",
       "number": 8,
-      "question": "Si un argumento es inválido, la conjunción de las premisas y la conclusión es una contingencia.",
-      "answer": "Falso",
-      "explanation": "En un argumento con forma inválida podemos encontrar distintas combinaciones de enunciados. Por ejemplo, podemos tener una premisa contingente y una conclusión contradictoria, cuya conjunción sería también una contradicción. Lo que no podemos tener es ni premisas con contradicción, pues entonces la forma inferencial sería válida, ya que a partir de la contradicción podemos concluir cualquier cosa, ni podemos tener una conjunción entre las premisas y la conclusión que sea una tautología, pues para ello sería necesario que la conclusión fuera tautológica, pero entonces la forma inferencial sería válida. La conjunción entre las premisas y la conclusión de un argumento inválido será o una contingencia o una contradicción."
+      "question": "If a argument es invalid, the conjunción of las premises and the conclusion es a contingencia.",
+      "answer": "False",
+      "explanation": "En a argument con form invalid podemos encontrar distintas combinaciones of statements. for example, podemos tener a premise contingente and a conclusion contradictoria, cuya conjunción sería también a contradiction. lo que not podemos tener es ni premises con contradiction, pues entonces the form inferencial sería valid, ya que a partir of the contradiction podemos concluir cualquier cosa, ni podemos tener a conjunción entre las premises and the conclusion que sea a tautology, pues para ello sería necesario que the conclusion fuera tautológica, pero entonces the form inferencial sería valid. the conjunción entre las premises and the conclusion of a argument invalid será or a contingencia or a contradiction."
     },
     {
       "section": "QUESTIONS ABOUT ARGUMENTS:",
       "number": 9,
-      "question": "Un argumento con conclusión falsa no puede ser válido.",
-      "answer": "Falso",
-      "explanation": "Si en el conjunto de las premisas también hay falsedad, su forma argumentativa puede ser válida. La validez sería imposible si teniendo conclusión falsa, todas las premisas fueran verdaderas."
+      "question": "A argument con conclusion false not puede ser valid.",
+      "answer": "False",
+      "explanation": "If en the conjunto of las premises también hay falsedad, su form argumentativa puede ser valid. the validez sería imposible if teniendo conclusion false, todas las premises fueran true."
     },
     {
       "section": "QUESTIONS ABOUT ARGUMENTS:",
       "number": 10,
-      "question": "La conclusión de un argumento válido no puede ser falsa.",
-      "answer": "Falso",
-      "explanation": "Lo que no puede ocurrir en un argumento válido es que la conclusión sea falsa cuando las premisas son verdaderas, pero puede haber argumentos válidos con premisas (al menos una) falsas y conclusión falsa. La validez es de la forma del argumento. Una forma válida impide el paso de lo verdadero a lo falso."
+      "question": "The conclusion of a argument valid not puede ser false.",
+      "answer": "False",
+      "explanation": "Lo que not puede ocurrir en a argument valid es que the conclusion sea false cuando las premises son true, pero puede haber arguments valid con premises (al menos a) false and conclusion false. the validez es of the form del argument. a form valid impide the paso of lo true a lo false."
     },
     {
       "section": "QUESTIONS ABOUT ARGUMENTS:",
       "number": 11,
-      "question": "Un argumento que contiene contradicción en el conjunto de las premisas es un argumento inválido.",
-      "answer": "Falso",
-      "explanation": "De la contradicción se sigue cualquier cosa. De modo que todos los argumentos que tienen contradicción en las premisas son argumentos con forma lógica válida."
+      "question": "A argument que contiene contradiction en the conjunto of las premises es a argument invalid.",
+      "answer": "False",
+      "explanation": "Of the contradiction anything follows. of modo que todos los arguments que tienen contradiction en las premises son arguments con form logical valid."
     },
     {
       "section": "QUESTIONS ABOUT ARGUMENTS:",
       "number": 12,
-      "question": "Si un argumento tiene premisas verdaderas y conclusión falsa, no puede tener una forma lógica válida.",
-      "answer": "Verdadero",
-      "explanation": "Una forma inferencial válida impide el caso de argumento con premisas verdaderas y conclusión falsa. De lo verdadero no se sigue válidamente lo falso. Ese argumento serviría como contraejemplo que prueba la invalidez de su forma inferencial."
+      "question": "If a argument tiene premises true and conclusion false, cannot have a valid logical form.",
+      "answer": "True",
+      "explanation": "A form inferencial valid impide the caso of argument con premises true and conclusion false. of lo true not se sigue válidamente lo false. ese argument serviría como contraejemplo que prueba the invalidez of su form inferencial."
     },
     {
       "section": "QUESTIONS ABOUT ARGUMENTS:",
       "number": 13,
-      "question": "Si un argumento es incorrecto, su negación es válida.",
-      "answer": "Falso",
-      "explanation": "Los argumentos no se pueden negar."
+      "question": "If a argument es incorrecto, su negación es valid.",
+      "answer": "False",
+      "explanation": "Los arguments not se pueden negar."
     },
     {
       "section": "QUESTIONS ABOUT ARGUMENTS:",
       "number": 14,
-      "question": "Un esquema de argumento es verdadero o es falso.",
-      "answer": "Falso",
-      "explanation": "Un esquema de argumento es válido o inválido. La verdad y la falsedad son propiedades de los enunciados."
+      "question": "A scheme of argument es true or es false.",
+      "answer": "False",
+      "explanation": "A scheme of argument es valid or invalid. the verdad and the falsedad son propiedades of los statements."
     },
     {
       "section": "QUESTIONS ABOUT ARGUMENTS:",
       "number": 15,
-      "question": "Una proposición verdadera sólo implica proposiciones verdaderas.",
-      "answer": "Verdadero",
-      "explanation": "Hablamos de implicación entre dos proposiciones cuando sus formas lógicas (sus fórmulas respectivas) hacen imposible que lo falso se siga de lo verdadero."
+      "question": "A proposition true sólo implica propositions true.",
+      "answer": "True",
+      "explanation": "Hablamos of implication entre dos propositions cuando sus formas lógicas (sus fórmulas respectivas) hacen imposible que lo false se siga of lo true."
     },
     {
       "section": "QUESTIONS ABOUT ARGUMENTS:",
       "number": 16,
-      "question": "Un argumento sólo puede ser verdadero o falso.",
-      "answer": "Falso",
-      "explanation": "Los argumentos solamente tienen forma válida o inválida. \"Verdadero\" y \"falso\" se aplican únicamente a los enunciados."
+      "question": "A argument sólo puede ser true or false.",
+      "answer": "False",
+      "explanation": "Los arguments solamente tienen form valid or invalid. \"true\" and \"false\" se aplican únicamente a los statements."
     },
     {
       "section": "QUESTIONS ABOUT FORMULAS:",
       "number": 1,
-      "question": "Toda fórmula bien formada es una tautología.",
-      "answer": "Falso",
-      "explanation": "Una fórmula bien formada es la que cumple con las reglas de formación de fórmulas. Una vez obtenida una fórmula, podemos evaluarla semánticamente y determinar si se trata de una tautología, una contradicción o bien una contingencia. Hay fórmulas bien formadas de los tres tipos."
+      "question": "Toda fórmula bien formada es a tautology.",
+      "answer": "False",
+      "explanation": "A fórmula bien formada es the que cumple con las reglas of formación of fórmulas. a vez obtenida a fórmula, podemos evaluarla semánticamente and determinar if se trata of a tautology, a contradiction or bien a contingencia. hay fórmulas bien formadas of los tres tipos."
     },
     {
       "section": "QUESTIONS ABOUT FORMULAS:",
       "number": 2,
-      "question": "Si X es una fórmula contingente, Y → (X v ¬ X) también lo es.",
-      "answer": "Falso",
-      "explanation": "Dado que el consecuente tiene forma tautológica, el condicional no puede tener ningún caso en el que el antecedente sea verdadero y el consecuente falso, único caso en el que el condicional sería falso. De modo que este condicional es una tautología, una fórmula válida."
+      "question": "If x es a fórmula contingente, and → (x v ¬ x) también lo es.",
+      "answer": "False",
+      "explanation": "Dado que the consecuente tiene form tautológica, the condicional not puede tener ningún caso en the que the antecedente sea true and the consecuente false, único caso en the que the condicional sería false. of modo que este condicional es a tautology, a fórmula valid."
     },
     {
       "section": "QUESTIONS ABOUT FORMULAS:",
       "number": 3,
-      "question": "Cualquier fórmula válida es implicada por una contradicción.",
-      "answer": "Verdadero",
-      "explanation": "De una contradicción se sigue lógicamente cualquier cosa, es decir, una fórmula contradictoria implica cualquier fórmula."
+      "question": "Cualquier fórmula valid es implicada by a contradiction.",
+      "answer": "True",
+      "explanation": "Of a contradiction se sigue lógicamente cualquier cosa, es decir, a fórmula contradictoria implica cualquier fórmula."
     },
     {
       "section": "QUESTIONS ABOUT FORMULAS:",
       "number": 4,
-      "question": "Cualquier fórmula es implicada por una contradicción.",
-      "answer": "Verdadero",
-      "explanation": "La contradicción implica cualquier fórmula, de la contradicción se sigue válidamente cualquier fórmula: Ex Contradictione Quodlibet."
+      "question": "Cualquier fórmula es implicada by a contradiction.",
+      "answer": "True",
+      "explanation": "The contradiction implica cualquier fórmula, of the contradiction se sigue válidamente cualquier fórmula: ex contradictione quodlibet."
     },
     {
       "section": "QUESTIONS ABOUT FORMULAS:",
       "number": 5,
-      "question": "Si X es una fórmula válida, Y → X también lo es.",
-      "answer": "Verdadero",
-      "explanation": "Si el consecuente de ese condicional es una tautología, es imposible encontrar un caso que haga falsa la fórmula, es decir, un caso en el que Y fuera verdadero y X falso."
+      "question": "If x es a fórmula valid, and → x también lo es.",
+      "answer": "True",
+      "explanation": "If the consecuente of ese condicional es a tautology, es imposible encontrar a caso que haga false the fórmula, es decir, a caso en the que and fuera true and x false."
     },
     {
       "section": "QUESTIONS ABOUT FORMULAS:",
       "number": 6,
-      "question": "Si X es una fórmula válida, (Y ∧ ¬ Y) → X es una fórmula contingente.",
-      "answer": "Falso",
-      "explanation": "Una fórmula condicional con consecuente válido no puede tener ningún caso de falsedad, no hay ninguna interpretación que haga verdadero el antecedente y falso el consecuente. Se trata de una tautología."
+      "question": "If x es a fórmula valid, (and ∧ ¬ and) → x es a fórmula contingente.",
+      "answer": "False",
+      "explanation": "A fórmula condicional con consecuente valid not puede tener ningún caso of falsedad, not hay ninguna interpretación que haga true the antecedente and false the consecuente. se trata of a tautology."
     },
     {
       "section": "QUESTIONS ABOUT FORMULAS:",
       "number": 7,
-      "question": "Si X es una fórmula contradictoria, (Y ∧ ¬ Y) → X es una fórmula contingente.",
-      "answer": "Falso",
-      "explanation": "Es una tautología, una fórmula válida, porque el antecedente de ese condicional también es una contradicción."
+      "question": "If x es a fórmula contradictoria, (and ∧ ¬ and) → x es a fórmula contingente.",
+      "answer": "False",
+      "explanation": "Es a tautology, a fórmula valid, because the antecedente of ese condicional también es a contradiction."
     },
     {
       "section": "QUESTIONS ABOUT FORMULAS:",
       "number": 8,
-      "question": "Si X es una fórmula contradictoria, (Y ∧ ¬ Y) → X es una fórmula válida.",
-      "answer": "Verdadero",
-      "explanation": "El antecedente de ese condicional es una contradicción y una contradicción (Y ∧ ¬ Y) implica cualquier fórmula. Una implicación es un condicional válido, una tautología."
+      "question": "If x es a fórmula contradictoria, (and ∧ ¬ and) → x es a fórmula valid.",
+      "answer": "True",
+      "explanation": "The antecedente of ese condicional es a contradiction and a contradiction (and ∧ ¬ and) implica cualquier fórmula. a implication es a condicional valid, a tautology."
     },
     {
       "section": "QUESTIONS ABOUT FORMULAS:",
       "number": 9,
-      "question": "Si X es una fórmula contradictoria, (Y ∧ ¬ Y) → X es una fórmula contradictoria.",
-      "answer": "Falso",
-      "explanation": "El antecedente de ese condicional es una contradicción, por lo que el condicional nunca podrá alcanzar el valor F, pues nunca podrá darse el caso V.→ F. De modo que no sólo no es una contradicción, sino que cualquier fórmula con la forma (Y ∧ ¬ Y) → X resultará siempre una tautología."
+      "question": "If x es a fórmula contradictoria, (and ∧ ¬ and) → x es a fórmula contradictoria.",
+      "answer": "False",
+      "explanation": "The antecedente of ese condicional es a contradiction, by lo que the condicional nunca podrá alcanzar the valor f, pues nunca podrá darse the caso v.→ f. of modo que not sólo not es a contradiction, sino que cualquier fórmula con the form (and ∧ ¬ and) → x resultará siempre a tautology."
     },
     {
       "section": "QUESTIONS ABOUT FORMULAS:",
       "number": 10,
-      "question": "(¬s ∧ t) →p ∧ (¬s ∧ t) → r es una fórmula bien formada.",
-      "answer": "Falso",
-      "explanation": "Se necesitan más paréntesis para desambiguar la fórmula:"
+      "question": "(¬s ∧ t) →p ∧ (¬s ∧ t) → r es a fórmula bien formada.",
+      "answer": "False",
+      "explanation": "Se necesitan más paréntesis para desambiguar the fórmula:"
     },
     {
       "section": "QUESTIONS ABOUT FORMULAS:",
       "number": 11,
-      "question": "De la verdad de p v q se sigue la verdad de ( ¬ p ∧ r ) → q",
-      "answer": "Verdadero",
-      "explanation": "( ¬ p ∧ r ) → q equivale a r →(¬ p → q) y a r →(p v q) y a ¬ r v (p v q). De (p v q) se sigue ¬ r v (p v q) por RI v."
+      "question": "Of the verdad of p v q se sigue the verdad of ( ¬ p ∧ r ) → q",
+      "answer": "True",
+      "explanation": "( ¬ p ∧ r ) → q equivale a r →(¬ p → q) and a r →(p v q) and a ¬ r v (p v q). of (p v q) se sigue ¬ r v (p v q) by ri v."
     },
     {
       "section": "SEMANTIC TREE QUESTIONS",
       "number": 1,
-      "question": "Un árbol semántico con todas sus ramas cerradas indica que no existe ninguna interpretación bajo la cual las premisas del argumento pudieran ser verdaderas y la conclusión falsa.",
-      "answer": "Verdadero",
-      "explanation": "El árbol semántico examina si hay o no contradicción en suponer premisas verdaderas y conclusión falsa. Si se encuentra contradicción en todas las ramas (están cerradas por ello) podemos concluir que es imposible el caso de premisas verdaderas y conclusión falsa."
+      "question": "A árbol semántico con todas sus ramas cerradas indica que not existe ninguna interpretación bajo the cual las premises del argument pudieran ser true and the conclusion false.",
+      "answer": "True",
+      "explanation": "The árbol semántico examina if hay or not contradiction en suponer premises true and conclusion false. if se encuentra contradiction en todas las ramas (están cerradas by ello) podemos concluir que es imposible the caso of premises true and conclusion false."
     },
     {
       "section": "SEMANTIC TREE QUESTIONS",
       "number": 2,
-      "question": "Un árbol semántico cerrado indica que son falsas tanto las premisas como la conclusión.",
-      "answer": "Falso",
-      "explanation": "Un árbol cerrado indica que todas sus ramas contienen contradicción. Esto significa que no es posible encontrar ningún caso de premisas verdaderas y conclusión falsa. El conjunto formado por las premisas y la negación de la conclusión es inconsistente. El esquema inferencial examinado es válido."
+      "question": "A árbol semántico cerrado indica que son false therefore las premises como the conclusion.",
+      "answer": "False",
+      "explanation": "A árbol cerrado indica que todas sus ramas contienen contradiction. esto significa que not es posible encontrar ningún caso of premises true and conclusion false. the conjunto formado by las premises and the negación of the conclusion es inconsistente. the scheme inferencial examinado es valid."
     },
     {
       "section": "SEMANTIC TREE QUESTIONS",
       "number": 3,
-      "question": "Un árbol semántico abierto indica que en el conjunto de fórmulas examinado hay contradicción.",
-      "answer": "Falso",
-      "explanation": "La rama abierta indica todo lo contrario: que el conjunto de fórmulas examinado es consistente. Es posible encontrar una interpretación del conjunto en la que todos los enunciados son verdaderos."
+      "question": "A árbol semántico abierto indica que en the conjunto of fórmulas examinado hay contradiction.",
+      "answer": "False",
+      "explanation": "The rama abierta indica todo lo contrario: que the conjunto of fórmulas examinado es consistente. es posible encontrar a interpretación del conjunto en the que todos los statements son true."
     },
     {
       "section": "SEMANTIC TREE QUESTIONS",
       "number": 4,
-      "question": "Un árbol semántico abierto indica que el argumento analizado es válido.",
-      "answer": "Falso",
-      "explanation": "Un árbol abierto indica que podemos encontrar un ejemplo de argumento, con la forma examinada, en el que las premisas son verdaderas y la conclusión falsa; es decir, que podemos encontrar un contraejemplo. Por tanto, la forma inferencial examinada en ese árbol es una forma inválida."
+      "question": "A árbol semántico abierto indica que the argument analizado es valid.",
+      "answer": "False",
+      "explanation": "A árbol abierto indica que podemos encontrar a ejemplo of argument, con the form examinada, en the que las premises son true and the conclusion false; es decir, que podemos encontrar a contraejemplo. therefore, the form inferencial examinada en ese árbol es a form invalid."
     },
     {
       "section": "SEMANTIC TREE QUESTIONS",
       "number": 5,
-      "question": "Un árbol semántico con una rama abierta indica que existe exactamente una interpretación bajo la cual las premisas del argumento son verdaderas y la conclusión falsa.",
-      "answer": "Falso",
-      "explanation": "Una rama abierta indica que el esquema examinado es inválido, que existen argumentos con esa forma tales que las premisas resultan verdaderas y la conclusión falsa, es decir, que tiene contraejemplos. ¿Cuántos? Siempre infinitos, dada la recursividad del lenguaje natural."
+      "question": "A árbol semántico con a rama abierta indica que existe exactamente a interpretación bajo the cual las premises del argument son true and the conclusion false.",
+      "answer": "False",
+      "explanation": "A rama abierta indica que the scheme examinado es invalid, que existen arguments con esa form tales que las premises resultan true and the conclusion false, es decir, que tiene contraejemplos. ¿cuántos? siempre infinitos, dada the recursividad del lenguaje natural."
     },
     {
       "section": "SEMANTIC TREE QUESTIONS",
       "number": 6,
-      "question": "Un árbol semántico con cuatro ramas cerradas y una abierta indica que existe exactamente un contraejemplo del esquema de inferencia examinado.",
-      "answer": "Falso",
-      "explanation": "Indica sólo que el esquema examinado tiene contraejemplos. Cuando un esquema es inválido, tiene infinitos contraejemplos."
+      "question": "A árbol semántico con cuatro ramas cerradas and a abierta indica que existe exactamente a contraejemplo del scheme of inferencia examinado.",
+      "answer": "False",
+      "explanation": "Indica sólo que the scheme examinado tiene contraejemplos. cuando a scheme es invalid, tiene infinitos contraejemplos."
     },
     {
       "section": "SEMANTIC TREE QUESTIONS",
       "number": 7,
-      "question": "Un árbol semántico con cuatro ramas cerradas y una abierta indica que existen exactamente cuatro contraejemplos del esquema de inferencia examinado.",
-      "answer": "Falso",
-      "explanation": "La rama abierta indica que el esquema de argumento examinado no es válido, pues no hay contradicción entre premisas verdaderas y conclusión falsa. El esquema tiene contraejemplos (dada la recursividad del lenguaje, podemos decir que cuenta con infinitos contraejemplos)"
+      "question": "A árbol semántico con cuatro ramas cerradas and a abierta indica que existen exactamente cuatro contraejemplos del scheme of inferencia examinado.",
+      "answer": "False",
+      "explanation": "The rama abierta indica que the scheme of argument examinado not es valid, pues not hay contradiction entre premises true and conclusion false. the scheme tiene contraejemplos (dada the recursividad del lenguaje, podemos decir que cuenta con infinitos contraejemplos)"
     },
     {
       "section": "SEMANTIC TREE QUESTIONS",
       "number": 8,
-      "question": "Un árbol semántico con una rama abierta indica que existe una interpretación bajo la cual las premisas del argumento son verdaderas y la conclusión falsa.",
-      "answer": "Verdadero",
-      "explanation": "Existe al menos una interpretación que hace verdaderas a las premisas y falsa a la conclusión. Sería falso, si con \"una\" se quiere decir \"exactamente una\". Una rama abierta indica que el argumento es inválido y que, por tanto, tiene contraejemplos. De hecho, siempre que hay contraejemplos, hay infinitos contraejemplos (por la recursividad del lenguaje natural)."
+      "question": "A árbol semántico con a rama abierta indica que existe a interpretación bajo the cual las premises del argument son true and the conclusion false.",
+      "answer": "True",
+      "explanation": "Existe al menos a interpretación que hace true a las premises and false a the conclusion. sería false, if con \"a\" se quiere decir \"exactamente a\". a rama abierta indica que the argument es invalid and que, therefore, tiene contraejemplos. of hecho, siempre que hay contraejemplos, hay infinitos contraejemplos (by the recursividad del lenguaje natural)."
     },
     {
       "section": "SEMANTIC TREE QUESTIONS",
       "number": 9,
-      "question": "Un árbol semántico con dos ramas cerradas y dos abiertas indica que existen exactamente dos casos de validez y dos de invalidez.",
-      "answer": "Falso",
-      "explanation": "Los argumentos no tienen casos de validez, sino forma válida o inválida. Un árbol abierto (no importa cuántas ramas estén abiertas) indica que hay contraejemplos, por lo que la forma examinada es inválida."
+      "question": "A árbol semántico con dos ramas cerradas and dos abiertas indica que existen exactamente dos casos of validez and dos of invalidez.",
+      "answer": "False",
+      "explanation": "Los arguments not tienen casos of validez, sino form valid or invalid. a árbol abierto (not importa cuántas ramas estén abiertas) indica que hay contraejemplos, by lo que the form examinada es invalid."
     },
     {
       "section": "SEMANTIC TREE QUESTIONS",
       "number": 10,
-      "question": "Dada una fórmula X, si el árbol para X queda abierto y el árbol para ¬ X también queda abierto, podemos decir que la fórmula X no es ni válida ni contradictoria.",
-      "answer": "Verdadero",
-      "explanation": "Si el árbol que comienza con X queda abierto, X no es contradictoria, tiene alguna interpretación en la que resulta V. Cuando X es V, ¬ X es F. Si el árbol que comienza con ¬ X queda abierto, ¬ X no es contradictoria, tiene alguna interpretación en la que resulta V. Estos son casos en los que X es F. Es decir, X tiene casos V y casos F, por lo que es una contingencia (ni válida ni contradictoria)."
+      "question": "Dada a fórmula x, if the árbol para x queda abierto and the árbol para ¬ x también queda abierto, podemos decir que the fórmula x not es ni valid ni contradictoria.",
+      "answer": "True",
+      "explanation": "If the árbol que comienza con x queda abierto, x not es contradictoria, tiene alguna interpretación en the que resulta v. cuando x es v, ¬ x es f. if the árbol que comienza con ¬ x queda abierto, ¬ x not es contradictoria, tiene alguna interpretación en the que resulta v. estos son casos en los que x es f. es decir, x tiene casos v and casos f, by lo que es a contingencia (ni valid ni contradictoria)."
     },
     {
       "section": "GENERAL QUESTIONS",
       "number": 1,
-      "question": "El antecedente de una afirmación condicional es verdadero sólo si su consecuente no es falso.",
-      "answer": "Falso",
-      "explanation": "El antecedente de un condicional puede ser verdadero o falso independientemente de cómo sea su consecuente. Dependiendo de cómo sean lo valores de antecedente y consecuente, resultará un valor u otro del condicional."
+      "question": "The antecedente of a afirmación condicional es true sólo if su consecuente not es false.",
+      "answer": "False",
+      "explanation": "The antecedente of a condicional puede ser true or false independientemente of cómo sea su consecuente. dependiendo of cómo sean lo valores of antecedente and consecuente, resultará a valor u otro del condicional."
     },
     {
       "section": "GENERAL QUESTIONS",
       "number": 2,
-      "question": "El antecedente de una afirmación condicional es la premisa de dicha afirmación.",
-      "answer": "Falso",
-      "explanation": "Un argumento y un enunciado tienen estructuras diferentes. La forma de un enunciado se recoge en la fórmula; la del argumento en el esquema inferencial. Se puede transformar un argumento en un enunciado de tipo condicional, pero se mantiene la diferencia entre argumentar y enunciar y, paralelamente, entre premisa de un argumento y antecedente de una afirmación."
+      "question": "The antecedente of a afirmación condicional es the premise of dicha afirmación.",
+      "answer": "False",
+      "explanation": "A argument and a statement tienen estructuras diferentes. the form of a statement se recoge en the fórmula; the del argument en the scheme inferencial. se puede transformar a argument en a statement of tipo condicional, pero se mantiene the diferencia entre argumentar and enunciar and, paralelamente, entre premise of a argument and antecedente of a afirmación."
     },
     {
       "section": "GENERAL QUESTIONS",
       "number": 3,
       "question": "Algunos condicionales con consecuente contradictorios son tautologías.",
-      "answer": "Verdadero",
-      "explanation": "Cuando el antecedente también es una contradicción, la fórmula resultante es una tautología."
+      "answer": "True",
+      "explanation": "Cuando the antecedente también es a contradiction, the fórmula resultante es a tautology."
     },
     {
       "section": "GENERAL QUESTIONS",
       "number": 4,
-      "question": "Una implicación es un condicional verdadero.",
-      "answer": "Falso",
-      "explanation": "Una relación de implicación entre dos fórmulas A y B se da cuando es imposible encontrar una interpretación que haga verdadera a la primera y falsa a la segunda. Este es exactamente el caso del condicional tautológico, el condicional no es simplemente verdadero, sino lógicamente verdadero. Un condicional como “Si Madrid es capital de España, entonces París lo es de Francia”, aunque es verdadero, no es una implicación, sino un condicional contingente"
+      "question": "A implication es a condicional true.",
+      "answer": "False",
+      "explanation": "A relación of implication entre dos fórmulas a and b se da cuando es imposible encontrar a interpretación que haga true a the primera and false a the segunda. este es exactamente the caso del condicional tautológico, the condicional not es simplemente true, sino lógicamente true. a condicional como “if madrid es capital of españa, entonces parís lo es of francia”, aunque es true, not es a implication, sino a condicional contingente"
     },
     {
       "section": "GENERAL QUESTIONS",
       "number": 5,
-      "question": "Un contraejemplo es un ejemplo de contradicción.",
-      "answer": "Falso",
-      "explanation": "Un contraejemplo es una interpretación que muestra la invalidez de un esquema inferencial o la de una fórmula. Por ejemplo: \"Madrid es la capital de Navarra\" es un contraejemplo de p. Es una afirmación falsa que muestra que p no es una fórmula válida."
+      "question": "A contraejemplo es a ejemplo of contradiction.",
+      "answer": "False",
+      "explanation": "A contraejemplo es a interpretación que muestra the invalidez of a scheme inferencial or the of a fórmula. for example: \"madrid es the capital of navarra\" es a contraejemplo of p. es a afirmación false que muestra que p not es a fórmula valid."
     },
     {
       "section": "GENERAL QUESTIONS",
       "number": 6,
-      "question": "Una ley es una forma lógica que no tiene contraejemplos.",
-      "answer": "Verdadero",
-      "explanation": "Se puede demostrar a partir de un conjunto vacío de premisas. Si hacemos un árbol semántico para su negación, todas las ramas cerrarán. Si hacemos una tabla de verdad, veremos que se trata de una tautología, por lo que no es posible encontrar un enunciado (una interpretación) con dicha forma lógica que sea falso, es decir, no tiene contraejemplos."
+      "question": "A ley es a form logical que not tiene contraejemplos.",
+      "answer": "True",
+      "explanation": "Se puede demostrar a partir of a conjunto vacío of premises. if hacemos a árbol semántico para su negación, todas las ramas cerrarán. if hacemos a tabla of verdad, veremos que se trata of a tautology, by lo que not es posible encontrar a statement (a interpretación) con dicha form logical que sea false, es decir, not tiene contraejemplos."
     },
     {
       "section": "GENERAL QUESTIONS",
       "number": 7,
       "question": "Los teoremas son las reglas deductivas del cálculo axiomático.",
-      "answer": "Falso",
-      "explanation": "El cálculo axiomático no tiene reglas deductivas propiamente, sino reglas de transformación. Los teoremas son fórmulas válidas obtenidas a partir de los axiomas, mediante las reglas de transformación."
+      "answer": "False",
+      "explanation": "The cálculo axiomático not tiene reglas deductivas propiamente, sino reglas of transformación. los teoremas son fórmulas valid obtenidas a partir of los axiomas, mediante las reglas of transformación."
     },
     {
       "section": "GENERAL QUESTIONS",
       "number": 8,
-      "question": "En el cálculo axiomático solamente se utilizan fórmulas tautológicas o válidas.",
-      "answer": "Verdadero",
-      "explanation": "En el cálculo axiomático se parte de axiomas, que son verdades lógicas (tautologías, fórmulas válidas) por estipulación. Mediante reglas, se van demostrando los teoremas que conservan la validez de los axiomas. Otra Explicación: Verdadero. El cálculo axiomático parte de fórmulas que se aceptan como válidas o tautológicas no demostrables en el sistema y, mediante reglas de transformación, demuestra la validez de otras de modo que en la cadena demostrativa se escriben únicamente fórmulas válidas. Dicho de otro modo, las reglas de transformación del cálculo axiomático no solamente conservan la verdad de las premisas, si la hay, sino también la validez de su forma."
+      "question": "En the cálculo axiomático solamente se utilizan fórmulas tautológicas or valid.",
+      "answer": "True",
+      "explanation": "En the cálculo axiomático se parte of axiomas, que son verdades lógicas (tautologías, fórmulas valid) by estipulación. mediante reglas, se van demostrando los teoremas que conservan the validez of los axiomas. otra explicación: true. the cálculo axiomático parte of fórmulas que se aceptan como valid or tautológicas not demostrables en the sistema and, mediante reglas of transformación, demuestra the validez of otras of modo que en the cadena demostrativa se escriben únicamente fórmulas valid. dicho of otro modo, las reglas of transformación del cálculo axiomático not solamente conservan the verdad of las premises, if the hay, sino también the validez of su form."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 1,
-      "question": "El antecedente de una afirmación condicional es verdadero sólo si su consecuente no es falso.",
-      "answer": "Falso",
-      "explanation": "El antecedente de un condicional puede ser verdadero o falso independientemente de cómo sea su consecuente. Dependiendo de cómo sean lo valores de antecedente y consecuente, resultará un valor u otro del condicional."
+      "question": "The antecedente of a afirmación condicional es true sólo if su consecuente not es false.",
+      "answer": "False",
+      "explanation": "The antecedente of a condicional puede ser true or false independientemente of cómo sea su consecuente. dependiendo of cómo sean lo valores of antecedente and consecuente, resultará a valor u otro del condicional."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 2,
-      "question": "Para que un argumento sea válido basta que sean verdaderas sus premisas y la conclusión.",
-      "answer": "Falso",
-      "explanation": "Un argumento con premisas y conclusión verdaderas puede tener una forma inválida. Ejemplo: Madrid es capital de España. Por tanto, dos y dos son cuatro. La forma inválida de este argumento es: p/q"
+      "question": "Para que a argument sea valid basta que sean true sus premises and the conclusion.",
+      "answer": "False",
+      "explanation": "A argument con premises and conclusion true puede tener a form invalid. ejemplo: madrid es capital of españa. therefore, dos and dos son cuatro. the form invalid of este argument es: p/q"
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 3,
-      "question": "En el cálculo axiomático solamente se utilizan fórmulas tautológicas o válidas.",
-      "answer": "Verdadero",
-      "explanation": "El cálculo axiomático parte de fórmulas que se aceptan como válidas o tautológicas no demostrables en el sistema y, mediante reglas de transformación, demuestra la validez de otras de modo que en la cadena demostrativa se escriben únicamente fórmulas válidas. Dicho de otro modo, las reglas de transformación del cálculo axiomático no solamente conservan la verdad de la premisas, si la hay, sino también la validez de su forma."
+      "question": "En the cálculo axiomático solamente se utilizan fórmulas tautológicas or valid.",
+      "answer": "True",
+      "explanation": "The cálculo axiomático parte of fórmulas que se aceptan como valid or tautológicas not demostrables en the sistema and, mediante reglas of transformación, demuestra the validez of otras of modo que en the cadena demostrativa se escriben únicamente fórmulas valid. dicho of otro modo, las reglas of transformación del cálculo axiomático not solamente conservan the verdad of the premises, if the hay, sino también the validez of su form."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 4,
-      "question": "Una implicación es un condicional verdadero.",
-      "answer": "Falso",
-      "explanation": "Una relación de implicación entre dos fórmulas A y B se da cuando es imposible encontrar una interpretación que haga verdadera a la primera y falsa a la segunda. Este es exactamente el caso del condicional tautológico, el condicional no simplemente verdadero, sino lógicamente verdadero. Un condicional como “Si Madrid es capital de España, entonces París lo es de Francia”, aunque es verdadero, no es una implicación, sino un condicional contingente."
+      "question": "A implication es a condicional true.",
+      "answer": "False",
+      "explanation": "A relación of implication entre dos fórmulas a and b se da cuando es imposible encontrar a interpretación que haga true a the primera and false a the segunda. este es exactamente the caso del condicional tautológico, the condicional not simplemente true, sino lógicamente true. a condicional como “if madrid es capital of españa, entonces parís lo es of francia”, aunque es true, not es a implication, sino a condicional contingente."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 5,
-      "question": "Si X es una fórmula contradictoria, (Y ∧ ¬ Y) → X es una fórmula válida.",
-      "answer": "Verdadero",
-      "explanation": "El antecedente de ese condicional es una contradicción y una contradicción (Y ∧ ¬ Y) implica cualquier fórmula. Una implicación es un condicional válido, una tautología."
+      "question": "If x es a fórmula contradictoria, (and ∧ ¬ and) → x es a fórmula valid.",
+      "answer": "True",
+      "explanation": "The antecedente of ese condicional es a contradiction and a contradiction (and ∧ ¬ and) implica cualquier fórmula. a implication es a condicional valid, a tautology."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 6,
-      "question": "Un árbol semántico con cuatro ramas cerradas y una abierta indica que existen exactamente cuatro contraejemplos del esquema de inferencia examinado.",
-      "answer": "Falso",
-      "explanation": "La rama abierta indica que el esquema de argumento examinado no es válido, pues no hay contradicción entre premisas verdaderas y conclusión falsa. El esquema tiene contraejemplos (dada la recursividad del lenguaje, podemos decir que cuenta con infinitos contraejemplos)"
+      "question": "A árbol semántico con cuatro ramas cerradas and a abierta indica que existen exactamente cuatro contraejemplos del scheme of inferencia examinado.",
+      "answer": "False",
+      "explanation": "The rama abierta indica que the scheme of argument examinado not es valid, pues not hay contradiction entre premises true and conclusion false. the scheme tiene contraejemplos (dada the recursividad del lenguaje, podemos decir que cuenta con infinitos contraejemplos)"
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 7,
       "question": "Algunos condicionales con consecuente contradictorio son tautologías.",
-      "answer": "Verdadero",
-      "explanation": "Un condicional con antecedente contradictorio y consecuente contradictorio es una implicación, una fórmula tautológica. Se puede mostrar un caso con una tabla de verdad."
+      "answer": "True",
+      "explanation": "A condicional con antecedente contradictorio and consecuente contradictorio es a implication, a fórmula tautológica. se puede mostrar a caso con a tabla of verdad."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 8,
-      "question": "Un argumento lógicamente inválido tiene todas sus premisas verdaderas y la conclusión falsa.",
-      "answer": "Falso",
-      "explanation": "Un argumento inválido puede tener cualquier forma y cualquier valor de verdad tanto en las premisas como en la conclusión. Es inválido porque su forma permite que se pueda dar el caso de que las premisas sean verdaderas y la conclusión falsa, pero no son imposibles el resto de los casos."
+      "question": "A argument lógicamente invalid tiene todas sus premises true and the conclusion false.",
+      "answer": "False",
+      "explanation": "A argument invalid puede tener cualquier form and cualquier valor of verdad therefore en las premises como en the conclusion. es invalid because su form permite que se pueda dar the caso of que las premises sean true and the conclusion false, pero not son imposibles the resto of los casos."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 9,
-      "question": "Un argumento sólo puede ser verdadero o falso.",
-      "answer": "Falso",
-      "explanation": "Los argumentos solamente tienen forma válida o inválida. \"Verdadero\" y \"falso\" se aplican únicamente a los enunciados."
+      "question": "A argument sólo puede ser true or false.",
+      "answer": "False",
+      "explanation": "Los arguments solamente tienen form valid or invalid. \"true\" and \"false\" se aplican únicamente a los statements."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 10,
-      "question": "En el cálculo axiomático solamente se utilizan fórmulas tautológicas o válidas.",
-      "answer": "Verdadero",
-      "explanation": "En el cálculo axiomático se parte de axiomas, que son verdades lógicas (tautologías, fórmulas válidas) por estipulación. Mediante reglas, se van demostrando los teoremas que conservan la validez de los axiomas."
+      "question": "En the cálculo axiomático solamente se utilizan fórmulas tautológicas or valid.",
+      "answer": "True",
+      "explanation": "En the cálculo axiomático se parte of axiomas, que son verdades lógicas (tautologías, fórmulas valid) by estipulación. mediante reglas, se van demostrando los teoremas que conservan the validez of los axiomas."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 11,
-      "question": "Un árbol semántico abierto indica que el argumento analizado es válido.",
-      "answer": "Falso",
-      "explanation": "Un árbol abierto indica que podemos encontrar un ejemplo de argumento, con la forma examinada, en el que las premisas son verdaderas y la conclusión falsa; es decir, que podemos encontrar un contraejemplo. Por tanto la forma inferencial examinada en ese árbol es una forma inválida."
+      "question": "A árbol semántico abierto indica que the argument analizado es valid.",
+      "answer": "False",
+      "explanation": "A árbol abierto indica que podemos encontrar a ejemplo of argument, con the form examinada, en the que las premises son true and the conclusion false; es decir, que podemos encontrar a contraejemplo. therefore the form inferencial examinada en ese árbol es a form invalid."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 12,
-      "question": "El antecedente de una afirmación condicional es la premisa de dicha afirmación.",
-      "answer": "Falso",
-      "explanation": "Un argumento y un enunciado tienen estructuras diferentes. La forma de un enunciado se recoge en la fórmula; la del argumento en el esquema inferencial. Se puede transformar un argumento en un enunciado de tipo condicional, pero se mantiene la diferencia entre argumentar y enunciar y, paralelamente, entre premisa de un argumento y antecedente de una afirmación."
+      "question": "The antecedente of a afirmación condicional es the premise of dicha afirmación.",
+      "answer": "False",
+      "explanation": "A argument and a statement tienen estructuras diferentes. the form of a statement se recoge en the fórmula; the del argument en the scheme inferencial. se puede transformar a argument en a statement of tipo condicional, pero se mantiene the diferencia entre argumentar and enunciar and, paralelamente, entre premise of a argument and antecedente of a afirmación."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 13,
-      "question": "Si X es una fórmula válida, (Y ∧ ¬ Y) → X es una fórmula contingente.",
-      "answer": "Falso",
-      "explanation": "Una fórmula condicional con consecuente válido no puede tener ningún caso de falsedad, no hay ninguna interpretación que haga verdadero el antecedente y falso el consecuente. Se trata de una tautología."
+      "question": "If x es a fórmula valid, (and ∧ ¬ and) → x es a fórmula contingente.",
+      "answer": "False",
+      "explanation": "A fórmula condicional con consecuente valid not puede tener ningún caso of falsedad, not hay ninguna interpretación que haga true the antecedente and false the consecuente. se trata of a tautology."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 14,
-      "question": "Un árbol semántico con dos ramas cerradas y dos abiertas indica que existen exactamente dos casos de validez y dos de invalidez.",
-      "answer": "Falso",
-      "explanation": "Los argumentos no tienen casos de validez, sino forma válida o inválida. Un árbol abierto (no importa cuántas ramas estén abiertas) indica que hay contraejemplos, por lo que la forma examinada es inválida."
+      "question": "A árbol semántico con dos ramas cerradas and dos abiertas indica que existen exactamente dos casos of validez and dos of invalidez.",
+      "answer": "False",
+      "explanation": "Los arguments not tienen casos of validez, sino form valid or invalid. a árbol abierto (not importa cuántas ramas estén abiertas) indica que hay contraejemplos, by lo que the form examinada es invalid."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 15,
       "question": "Algunos condicionales con consecuente contradictorio son tautologías.",
-      "answer": "Verdadero",
-      "explanation": "Es el caso en el que el antecedente también es contradictorio. Cuando ambos, antecedente y consecuente son contradicciones, no existen interpretaciones con antecedente verdadero y consecuente falso, sino que todas las interpretaciones dan como resultado lo verdadero (F → F : V)."
+      "answer": "True",
+      "explanation": "Es the caso en the que the antecedente también es contradictorio. cuando ambos, antecedente and consecuente son contradicciones, not existen interpretaciones con antecedente true and consecuente false, sino que todas las interpretaciones dan como resultado lo true (f → f : v)."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 16,
-      "question": "Un argumento lógicamente inválido tiene todas sus premisas verdaderas y la conclusión falsa.",
-      "answer": "Falso",
-      "explanation": "El argumento inválido es aquél que tiene una forma inválida, una forma que permite la existencia de argumentos con cualquier combinación de valores de verdad, por ejemplo, premisas verdaderas y conclusión verdadera: Madrid es capital de España y Lisboa es capital de Portugal Por tanto, París es capital de Francia. Este argumento es inválido, aunque tanto premisas como conclusión son verdaderas, porque su forma permite la existencia de contraejemplos: argumentos con la misma forma que tienen premisas verdaderas y conclusión falsa: Madrid es capital de España y Lisboa es capital de Portugal Por tanto, Roma es capital de Francia. Forma de este argumento inválido: p ∧ q/ r"
+      "question": "A argument lógicamente invalid tiene todas sus premises true and the conclusion false.",
+      "answer": "False",
+      "explanation": "The argument invalid es aquél que tiene a form invalid, a form que permite the existencia of arguments con cualquier combinación of valores of verdad, for example, premises true and conclusion true: madrid es capital of españa and lisboa es capital of portugal therefore, parís es capital of francia. este argument es invalid, aunque therefore premises como conclusion son true, because su form permite the existencia of contraejemplos: arguments con the misma form que tienen premises true and conclusion false: madrid es capital of españa and lisboa es capital of portugal therefore, roma es capital of francia. form of este argument invalid: p ∧ q/ r"
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 17,
-      "question": "Una proposición verdadera sólo implica proposiciones verdaderas.",
-      "answer": "Verdadero",
-      "explanation": "Hablamos de implicación entre dos proposiciones cuando sus formas lógicas (sus fórmulas respectivas) hacen imposible que lo falso se siga de lo verdadero. Todas las proposiciones que tengan esas mismas formas tendrán la composición V-V, F-F o bien F-V, pero nunca V-F. Es la forma de la proposición la que imposibilita este último caso."
+      "question": "A proposition true sólo implica propositions true.",
+      "answer": "True",
+      "explanation": "Hablamos of implication entre dos propositions cuando sus formas lógicas (sus fórmulas respectivas) hacen imposible que lo false se siga of lo true. todas las propositions que tengan esas mismas formas tendrán the composición v-v, f-f or bien f-v, pero nunca v-f. es the form of the proposition the que imposibilita este último caso."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 18,
-      "question": "Si un argumento es válido, su conclusión es verdadera.",
-      "answer": "Falso",
-      "explanation": "La validez del argumento sigue los criterios de la implicación. En un argumento válido decimos que el conjunto de las premisas implica la conclusión. Esto significa que si las premisas fueran todas ellas verdaderas, necesariamente la conclusión también lo sería. La relación de implicación, la validez del argumento, hace imposible que lo falso se siga de lo verdadero. Ahora bien, si ponemos falsedad en las premisas, podemos tener validez en la forma y falsedad en la conclusión."
+      "question": "If a argument es valid, su conclusion es true.",
+      "answer": "False",
+      "explanation": "The validez del argument sigue los criterios of the implication. en a argument valid decimos que the conjunto of las premises implica the conclusion. esto significa que if las premises fueran todas ellas true, necesariamente the conclusion también lo sería. the relación of implication, the validez del argument, hace imposible que lo false se siga of lo true. ahora bien, if ponemos falsedad en las premises, podemos tener validez en the form and falsedad en the conclusion."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 19,
-      "question": "Toda fórmula bien formada es una tautología.",
-      "answer": "Falso",
-      "explanation": "Una fórmula bien formada es la que cumple con las reglas de formación de fórmulas. Una vez obtenida una fórmula, podemos evaluarla semánticamente y determinar si se trata de una tautología, una contradicción o bien una contingencia. Hay fórmulas bien formadas de los tres tipos."
+      "question": "Toda fórmula bien formada es a tautology.",
+      "answer": "False",
+      "explanation": "A fórmula bien formada es the que cumple con las reglas of formación of fórmulas. a vez obtenida a fórmula, podemos evaluarla semánticamente and determinar if se trata of a tautology, a contradiction or bien a contingencia. hay fórmulas bien formadas of los tres tipos."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 20,
-      "question": "Un árbol semántico cerrado indica que son falsas tanto las premisas como la conclusión.",
-      "answer": "Falso",
-      "explanation": "Un árbol cerrado indica que todas sus ramas contienen contradicción. Esto significa que no es posible encontrar ningún caso de premisas verdaderas y conclusión falsa. El conjunto formado por las premisas y la negación de la conclusión es inconsistente. El esquema inferencial examinado es válido."
+      "question": "A árbol semántico cerrado indica que son false therefore las premises como the conclusion.",
+      "answer": "False",
+      "explanation": "A árbol cerrado indica que todas sus ramas contienen contradiction. esto significa que not es posible encontrar ningún caso of premises true and conclusion false. the conjunto formado by las premises and the negación of the conclusion es inconsistente. the scheme inferencial examinado es valid."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 21,
-      "question": "Si un argumento es incorrecto, su negación es válida.",
-      "answer": "Falso",
-      "explanation": "Los argumentos no se pueden negar."
+      "question": "If a argument es incorrecto, su negación es valid.",
+      "answer": "False",
+      "explanation": "Los arguments not se pueden negar."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 22,
-      "question": "Una ley es una forma lógica que no tiene contraejemplos.",
-      "answer": "Verdadero",
-      "explanation": "Se puede demostrar a partir de un conjunto vacío de premisas. Si hacemos un árbol semántico para su negación, todas las ramas cerrarán. Si hacemos una tabla de verdad, veremos que se trata de una tautología, por lo que no es posible encontrar un enunciado (una interpretación) con dicha forma lógica que sea falso, es decir, no tiene contraejemplos."
+      "question": "A ley es a form logical que not tiene contraejemplos.",
+      "answer": "True",
+      "explanation": "Se puede demostrar a partir of a conjunto vacío of premises. if hacemos a árbol semántico para su negación, todas las ramas cerrarán. if hacemos a tabla of verdad, veremos que se trata of a tautology, by lo que not es posible encontrar a statement (a interpretación) con dicha form logical que sea false, es decir, not tiene contraejemplos."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 23,
-      "question": "Un árbol semántico abierto indica que en el conjunto de fórmulas examinado hay contradicción.",
-      "answer": "Falso",
-      "explanation": "La rama abierta indica todo lo contrario: que el conjunto de fórmulas examinado es consistente. Es posible encontrar una interpretación del conjunto en la que todos los enunciados son verdaderos."
+      "question": "A árbol semántico abierto indica que en the conjunto of fórmulas examinado hay contradiction.",
+      "answer": "False",
+      "explanation": "The rama abierta indica todo lo contrario: que the conjunto of fórmulas examinado es consistente. es posible encontrar a interpretación del conjunto en the que todos los statements son true."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 24,
-      "question": "La conclusión de un argumento válido no puede ser falsa.",
-      "answer": "Falso",
-      "explanation": "Lo que no puede ocurrir en un argumento válido es que la conclusión sea falsa cuando las premisas son verdaderas , pero puede haber argumentos válidos con premisas (al menos una) falsas y conclusión falsa. La validez es de la forma del argumento. Una forma válida impide el paso de lo verdadero a lo falso."
+      "question": "The conclusion of a argument valid not puede ser false.",
+      "answer": "False",
+      "explanation": "Lo que not puede ocurrir en a argument valid es que the conclusion sea false cuando las premises son true , pero puede haber arguments valid con premises (al menos a) false and conclusion false. the validez es of the form del argument. a form valid impide the paso of lo true a lo false."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 25,
-      "question": "Si X es una fórmula contradictoria, (Y∧¬ Y) → X es una fórmula contradictoria.",
-      "answer": "Falso",
-      "explanation": "El antecedente de ese condicional es una contradicción, por lo que el condicional nunca podrá alcanzar el valor F."
+      "question": "If x es a fórmula contradictoria, (and∧¬ and) → x es a fórmula contradictoria.",
+      "answer": "False",
+      "explanation": "The antecedente of ese condicional es a contradiction, by lo que the condicional nunca podrá alcanzar the valor f."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 26,
-      "question": "Un árbol semántico con una rama abierta indica que existe una interpretación bajo la cual las premisas del argumento son verdaderas y la conclusión falsa.",
-      "answer": "Verdadero",
-      "explanation": "Existe al menos una interpretación que hace verdaderas a las premisas y falsa a la conclusión. Sería falso, si con \"una\" se quiere decir \"exactamente una\". Una rama abierta indica que el argumento es inválido y que, por tanto tiene contraejemplos. De hecho, siempre que hay contraejemplos, hay infinitos contraejemplos (por la recursividad del lenguaje natural)."
+      "question": "A árbol semántico con a rama abierta indica que existe a interpretación bajo the cual las premises del argument son true and the conclusion false.",
+      "answer": "True",
+      "explanation": "Existe al menos a interpretación que hace true a las premises and false a the conclusion. sería false, if con \"a\" se quiere decir \"exactamente a\". a rama abierta indica que the argument es invalid and que, therefore tiene contraejemplos. of hecho, siempre que hay contraejemplos, hay infinitos contraejemplos (by the recursividad del lenguaje natural)."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 27,
-      "question": "Dada una fórmula X, si el árbol para X queda abierto y el árbol para ¬ X también queda abierto, podemos decir que la fórmula X no es ni válida ni contradictoria.",
-      "answer": "Verdadero",
-      "explanation": "Si el árbol que comienza con X queda abierto, X no es contradictoria, tiene alguna interpretación en la que resulta V. Cuando X es V, ¬ X es F. Si el árbol que comienza con ¬ X queda abierto, ¬ X no es contradictoria, tiene alguna interpretación en la que resulta V. Estos son casos en los que X es F. Es decir, X tiene casos V y casos F, por lo que es una contingencia (ni válida ni contradictoria)."
+      "question": "Dada a fórmula x, if the árbol para x queda abierto and the árbol para ¬ x también queda abierto, podemos decir que the fórmula x not es ni valid ni contradictoria.",
+      "answer": "True",
+      "explanation": "If the árbol que comienza con x queda abierto, x not es contradictoria, tiene alguna interpretación en the que resulta v. cuando x es v, ¬ x es f. if the árbol que comienza con ¬ x queda abierto, ¬ x not es contradictoria, tiene alguna interpretación en the que resulta v. estos son casos en los que x es f. es decir, x tiene casos v and casos f, by lo que es a contingencia (ni valid ni contradictoria)."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 28,
       "question": "Algunos condicionales con consecuente contradictorios son tautologías.",
-      "answer": "Verdadero",
-      "explanation": "Es el caso explicado en la primera respuesta. Cuando el antecedente también es una contradicción, la fórmula resultante es una tautología."
+      "answer": "True",
+      "explanation": "Es the caso explicado en the primera respuesta. cuando the antecedente también es a contradiction, the fórmula resultante es a tautology."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 29,
-      "question": "Si un argumento es inválido, la conjunción de las premisas y la conclusión es una contingencia.",
-      "answer": "Falso",
-      "explanation": "En un argumento con forma inválida podemos encontrar distintas combinaciones de enunciados. Por ejemplo, podemos tener una premisa contingente y una conclusión contradictoria, cuya conjunción sería también una contradicción. Lo que no podemos tener es ni premisas con contradicción, pues entonces la forma inferencial sería válida, ya que a partir de la contradicción podemos concluir cualquier cosa, ni podemos tener una conjunción entre las premisas y la conclusión que sea una tautología, pues para ello sería necesario que la conclusión fuera tautológica, pero entonces la forma inferencial sería válida. La conjunción entre las premisas y la conclusión de un argumento inválido será o una contingencia o una contradicción."
+      "question": "If a argument es invalid, the conjunción of las premises and the conclusion es a contingencia.",
+      "answer": "False",
+      "explanation": "En a argument con form invalid podemos encontrar distintas combinaciones of statements. for example, podemos tener a premise contingente and a conclusion contradictoria, cuya conjunción sería también a contradiction. lo que not podemos tener es ni premises con contradiction, pues entonces the form inferencial sería valid, ya que a partir of the contradiction podemos concluir cualquier cosa, ni podemos tener a conjunción entre las premises and the conclusion que sea a tautology, pues para ello sería necesario que the conclusion fuera tautológica, pero entonces the form inferencial sería valid. the conjunción entre las premises and the conclusion of a argument invalid será or a contingencia or a contradiction."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 30,
-      "question": "Un argumento con conclusión falsa no puede ser válido.",
-      "answer": "Falso",
-      "explanation": "Si en el conjunto de las premisas también hay falsedad, su forma argumentativa puede ser válida. La validez sería imposible si teniendo conclusión falsa, todas las premisas fueran verdaderas."
+      "question": "A argument con conclusion false not puede ser valid.",
+      "answer": "False",
+      "explanation": "If en the conjunto of las premises también hay falsedad, su form argumentativa puede ser valid. the validez sería imposible if teniendo conclusion false, todas las premises fueran true."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 31,
-      "question": "Un árbol semántico con cuatro ramas cerradas y una abierta indica que existe exactamente un contraejemplo del esquema de inferencia examinado.",
-      "answer": "Falso",
-      "explanation": "Indica sólo que el esquema examinado tiene contraejemplos. Cuando un esquema es inválido, tiene infinitos contraejemplos."
+      "question": "A árbol semántico con cuatro ramas cerradas and a abierta indica que existe exactamente a contraejemplo del scheme of inferencia examinado.",
+      "answer": "False",
+      "explanation": "Indica sólo que the scheme examinado tiene contraejemplos. cuando a scheme es invalid, tiene infinitos contraejemplos."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 32,
-      "question": "Un argumento que contiene contradicción en el conjunto de las premisas es un argumento inválido.",
-      "answer": "Falso",
-      "explanation": "De la contradicción se sigue cualquier cosa. De modo que todos los argumentos que tienen contradicción en las premisas son argumentos con forma lógica válida."
+      "question": "A argument que contiene contradiction en the conjunto of las premises es a argument invalid.",
+      "answer": "False",
+      "explanation": "Of the contradiction anything follows. of modo que todos los arguments que tienen contradiction en las premises son arguments con form logical valid."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 33,
-      "question": "Para que un argumento sea válido no es condición necesaria que sus premisas sean verdaderas.",
-      "answer": "Verdadero",
-      "explanation": "Una forma válida admite todo tipo de combinaciones en los valores de verdad de las premisas y la conclusión, excepto el caso de premisas verdaderas y conclusión falsa. De modo que hay argumentos válidos con premisas falsas."
+      "question": "Para que a argument sea valid is not a necessary condition que sus premises sean true.",
+      "answer": "True",
+      "explanation": "A form valid admite todo tipo of combinaciones en los valores of verdad of las premises and the conclusion, excepto the caso of premises true and conclusion false. of modo que hay arguments valid con premises false."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 34,
-      "question": "Si X es una fórmula contradictoria, (Y∧¬ Y) → X es una fórmula contingente.",
-      "answer": "Falso",
-      "explanation": "Es una tautología, una fórmula válida, porque el antecedente de ese condicional también es una contradicción."
+      "question": "If x es a fórmula contradictoria, (and∧¬ and) → x es a fórmula contingente.",
+      "answer": "False",
+      "explanation": "Es a tautology, a fórmula valid, because the antecedente of ese condicional también es a contradiction."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 35,
-      "question": "De la verdad de p v q se sigue la verdad de ( ¬ p ∧ r ) → q",
-      "answer": "Verdadero",
-      "explanation": "( ¬ p ∧ r ) → q equivale a r →(¬ p → q) y a r →(p v q) y a ¬ r v (p v q). De (p v q) se sigue ¬ r v (p v q) por RI v."
+      "question": "Of the verdad of p v q se sigue the verdad of ( ¬ p ∧ r ) → q",
+      "answer": "True",
+      "explanation": "( ¬ p ∧ r ) → q equivale a r →(¬ p → q) and a r →(p v q) and a ¬ r v (p v q). of (p v q) se sigue ¬ r v (p v q) by ri v."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 36,
       "question": "Los teoremas son las reglas deductivas del cálculo axiomático.",
-      "answer": "Falso",
-      "explanation": "El cálculo axiomático no tiene reglas deductivas propiamente, sino reglas de transformación. Los teoremas son fórmulas válidas obtenidas a partir de los axiomas, mediante las reglas de transformación."
+      "answer": "False",
+      "explanation": "The cálculo axiomático not tiene reglas deductivas propiamente, sino reglas of transformación. los teoremas son fórmulas valid obtenidas a partir of los axiomas, mediante las reglas of transformación."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 37,
-      "question": "Un contraejemplo es un ejemplo de contradicción.",
-      "answer": "Falso",
-      "explanation": "Un contraejemplo es una interpretación que muestra la invalidez de un esquema inferencial o la de una fórmula. Por ejemplo: \"Madrid es la capital de Navarra\" es un contraejemplo de p. Es una afirmación falsa que muestra que p no es una fórmula válida."
+      "question": "A contraejemplo es a ejemplo of contradiction.",
+      "answer": "False",
+      "explanation": "A contraejemplo es a interpretación que muestra the invalidez of a scheme inferencial or the of a fórmula. for example: \"madrid es the capital of navarra\" es a contraejemplo of p. es a afirmación false que muestra que p not es a fórmula valid."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 38,
-      "question": "Un esquema de argumento es verdadero o es falso.",
-      "answer": "Falso",
-      "explanation": "Un esquema de argumento es válido o inválido. La verdad y la falsedad son propiedades de los enunciados."
+      "question": "A scheme of argument es true or es false.",
+      "answer": "False",
+      "explanation": "A scheme of argument es valid or invalid. the verdad and the falsedad son propiedades of los statements."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 39,
-      "question": "Los argumentos inválidos siempre tienen la conclusión falsa.",
-      "answer": "Falso",
-      "explanation": "Un argumento con forma inválida es aquél en el que las premisas no implican la conclusión, ya sea verdadera o falsa. La validez y la invalidez se dicen de la forma lógica del argumento. Por ejemplo, \"Londres es una ciudad pequeña. Por tanto, Londres es una ciudad española\" es un argumento inválido con conclusión falsa y forma lógica: p/q Otro argumento con esa misma forma inválida, pero conclusión verdadera es: \"Londres es una ciudad pequeña. Por tanto, Londres es una ciudad inglesa\""
+      "question": "Los arguments invalid siempre tienen the conclusion false.",
+      "answer": "False",
+      "explanation": "A argument con form invalid es aquél en the que las premises not implican the conclusion, ya sea true or false. the validez and the invalidez se dicen of the form logical del argument. for example, \"londres es a ciudad pequeña. therefore, londres es a ciudad española\" es a argument invalid con conclusion false and form logical: p/q otro argument con esa misma form invalid, pero conclusion true es: \"londres es a ciudad pequeña. therefore, londres es a ciudad inglesa\""
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 40,
-      "question": "(¬s ∧ t) →p ∧ (¬s ∧ t) → r es una fórmula bien formada.",
-      "answer": "Falso",
-      "explanation": "Se necesitan más paréntesis para desambiguar la fórmula:"
+      "question": "(¬s ∧ t) →p ∧ (¬s ∧ t) → r es a fórmula bien formada.",
+      "answer": "False",
+      "explanation": "Se necesitan más paréntesis para desambiguar the fórmula:"
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 41,
-      "question": "Si un argumento tiene premisas verdaderas y conclusión falsa, no puede tener una forma lógica válida.",
-      "answer": "Verdadero",
-      "explanation": "Una forma inferencial válida impide el caso de argumento con premisas verdaderas y conclusión falsa. De lo verdadero no se sigue válidamente lo falso. Ese argumento serviría como contraejemplo que prueba la invalidez de su forma inferencial."
+      "question": "If a argument tiene premises true and conclusion false, cannot have a valid logical form.",
+      "answer": "True",
+      "explanation": "A form inferencial valid impide the caso of argument con premises true and conclusion false. of lo true not se sigue válidamente lo false. ese argument serviría como contraejemplo que prueba the invalidez of su form inferencial."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 42,
-      "question": "Si X es una fórmula válida, Y → X también lo es.",
-      "answer": "Verdadero",
-      "explanation": "Si el consecuente de ese condicional es una tautología, es imposible encontrar un caso que haga falsa la fórmula, es decir, un caso en el que Y fuera verdadero y X falso."
+      "question": "If x es a fórmula valid, and → x también lo es.",
+      "answer": "True",
+      "explanation": "If the consecuente of ese condicional es a tautology, es imposible encontrar a caso que haga false the fórmula, es decir, a caso en the que and fuera true and x false."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 43,
-      "question": "Un árbol semántico con una rama abierta indica que existe exactamente una interpretación bajo la cual las premisas del argumento son verdaderas y la conclusión falsa.",
-      "answer": "Falso",
-      "explanation": "Una rama abierta indica que el esquema examinado es inválido, que existen argumentos con esa forma tales que las premisas resultan verdaderas y la conclusión falsa, es decir, que tiene contraejemplos. ¿Cuántos? Siempre infinitos, dada la recursividad del lenguaje natural."
+      "question": "A árbol semántico con a rama abierta indica que existe exactamente a interpretación bajo the cual las premises del argument son true and the conclusion false.",
+      "answer": "False",
+      "explanation": "A rama abierta indica que the scheme examinado es invalid, que existen arguments con esa form tales que las premises resultan true and the conclusion false, es decir, que tiene contraejemplos. ¿cuántos? siempre infinitos, dada the recursividad del lenguaje natural."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 44,
-      "question": "Cualquier fórmula es implicada por una contradicción.",
-      "answer": "Verdadero",
-      "explanation": "La contradicción implica cualquier fórmula, de la contradicción se sigue válidamente cualquier fórmula: Ex Contradictione Quodlibet. Un condicional que no puede tener verdad en su antecedente, no tendrá ningún caso de falsedad, pues el condicional solamente resulta falso cuando tiene verdad en el antecedente y falsedad en el consecuente. Un condicional con contradicción en el antecedente es un condicional tautológico, una implicación."
+      "question": "Cualquier fórmula es implicada by a contradiction.",
+      "answer": "True",
+      "explanation": "The contradiction implica cualquier fórmula, of the contradiction se sigue válidamente cualquier fórmula: ex contradictione quodlibet. a condicional que not puede tener verdad en su antecedente, not tendrá ningún caso of falsedad, pues the condicional solamente resulta false cuando tiene verdad en the antecedente and falsedad en the consecuente. a condicional con contradiction en the antecedente es a condicional tautológico, a implication."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 45,
-      "question": "Para que un argumento con premisas verdaderas sea válido, es condición necesaria pero no suficiente que su conclusión sea verdadera.",
-      "answer": "Verdadero",
-      "explanation": "Si el argumento tiene forma válida y premisas verdaderas, forzosamente ha de tener conclusión verdadera. Un argumento con premisas verdaderas y conclusión falsa no puede tener forma válida, pues la validez asegura que no se pase de lo verdadero a lo falso. Pero no es condición suficiente tener premisas verdaderas y conclusión verdadera para tener un argumento con forma válida. Por ejemplo: \"2 más 2 son 4. Por tanto Madrid es la capital de España\" es un argumento con premisa y conclusión verdaderas, pero con forma lógica inválida: p/q Esta forma, inválida, sí permite pasar de lo verdadero a lo falso. Una interpretación de esta forma lógica que tiene premisa verdadera y conclusión falsa: \"2 más 2 son 4. Por tanto, el río Ebro pasa por Sevilla\"."
+      "question": "Para que a argument con premises true sea valid, is a necessary but not sufficient condition que su conclusion sea true.",
+      "answer": "True",
+      "explanation": "If the argument tiene form valid and premises true, forzosamente ha of tener conclusion true. a argument con premises true and conclusion false not puede tener form valid, pues the validez asegura que not se pase of lo true a lo false. pero not es condición suficiente tener premises true and conclusion true para tener a argument con form valid. for example: \"2 más 2 son 4. therefore madrid es the capital of españa\" es a argument con premise and conclusion true, pero con form logical invalid: p/q esta form, invalid, sí permite pasar of lo true a lo false. a interpretación of esta form logical que tiene premise true and conclusion false: \"2 más 2 son 4. therefore, the río ebro pasa by sevilla\"."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 46,
-      "question": "Si X es una fórmula contingente, Y → (X v ¬ X) también lo es.",
-      "answer": "Falso",
-      "explanation": "Dado que el consecuente tiene forma tautológica, el condicional no puede tener ningún caso en el que el antecedente sea verdadero y el consecuente falso, único caso en el que el condicional sería falso. De modo que este condicional es una tautología, una fórmula válida."
+      "question": "If x es a fórmula contingente, and → (x v ¬ x) también lo es.",
+      "answer": "False",
+      "explanation": "Dado que the consecuente tiene form tautológica, the condicional not puede tener ningún caso en the que the antecedente sea true and the consecuente false, único caso en the que the condicional sería false. of modo que este condicional es a tautology, a fórmula valid."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 47,
-      "question": "Un árbol semántico con todas sus ramas cerradas indica que no existe ninguna interpretación bajo la cual las premisas del argumento pudieran ser verdaderas y la conclusión falsa.",
-      "answer": "Verdadero",
-      "explanation": "El árbol semántico examina si hay o no contradicción en suponer premisas verdaderas y conclusión falsa. Si se encuentra contradicción en todas las ramas (están cerradas por ello) podemos concluir que es imposible el caso de premisas verdaderas y conclusión falsa."
+      "question": "A árbol semántico con todas sus ramas cerradas indica que not existe ninguna interpretación bajo the cual las premises del argument pudieran ser true and the conclusion false.",
+      "answer": "True",
+      "explanation": "The árbol semántico examina if hay or not contradiction en suponer premises true and conclusion false. if se encuentra contradiction en todas las ramas (están cerradas by ello) podemos concluir que es imposible the caso of premises true and conclusion false."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 48,
-      "question": "Cualquier fórmula válida es implicada por una contradicción.",
-      "answer": "Verdadero",
-      "explanation": "En primer lugar porque una tautología es implicada por cualquier fórmula. En segundo lugar, porque de una contradicción se sigue lógicamente cualquier cosa, es decir, una fórmula contradictoria implica cualquier fórmula."
+      "question": "Cualquier fórmula valid es implicada by a contradiction.",
+      "answer": "True",
+      "explanation": "En primer lugar because a tautology es implicada by cualquier fórmula. en segundo lugar, because of a contradiction se sigue lógicamente cualquier cosa, es decir, a fórmula contradictoria implica cualquier fórmula."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 49,
-      "question": "La forma de los argumentos nos dice si son verdaderos o falsos.",
-      "answer": "Falso",
-      "explanation": "Los argumentos no son ni verdaderos ni falsos. Solamente los enunciados lo son. Las formas argumentativas son válidas o inválidas."
+      "question": "The form of los arguments nos dice if son true or falsos.",
+      "answer": "False",
+      "explanation": "Los arguments not son ni true ni falsos. solamente los statements lo son. las formas argumentativas son valid or inválidas."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 50,
-      "question": "Las fórmulas contingentes no tienen contraejemplos.",
-      "answer": "Falso",
-      "explanation": "Al ser contingente, tendrá interpretaciones verdaderas e interpretaciones falsas. Una interpretación (un enunciado con esa forma) falsa es un contraejemplo."
+      "question": "Las fórmulas contingentes not tienen contraejemplos.",
+      "answer": "False",
+      "explanation": "Al ser contingente, tendrá interpretaciones true e interpretaciones false. a interpretación (a statement con esa form) false es a contraejemplo."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 51,
-      "question": "Toda fórmula válida es implicada por fórmulas contradictorias.",
-      "answer": "Verdadero",
-      "explanation": "Al ser válida, estando en el lugar de una conclusión, es imposible tener un caso de premisas verdaderas y conclusión falsa. Las fórmulas válidas son implicadas por todas las fórmulas, también por las contradictorias. De hecho, de la contradicción se deriva cualquier fórmula. En este caso, todas las interpretaciones serían un caso de paso de lo falso a lo verdadero. No hay ninguna posibilidad de encontrar un caso con premisas verdaderas y conclusión falsa. Si nos referimos a la implicación no como consecuencia lógica entre unas premisas y una conclusión, sino como condicional válido, podemos decir que cuando un condicional tiene una fórmula válida en el consecuente, es imposible encontrar un caso con antecedente verdadero y consecuente falso. Esto significa que hay implicación haya lo que haya en el antecedente: una fórmula válida, una contingente o una contradictoria. Toda fórmula válida es implicada por cualquier fórmula."
+      "question": "Toda fórmula valid es implicada by fórmulas contradictorias.",
+      "answer": "True",
+      "explanation": "Al ser valid, estando en the lugar of a conclusion, es imposible tener a caso of premises true and conclusion false. las fórmulas valid son implicadas by todas las fórmulas, también by las contradictorias. of hecho, of the contradiction se deriva cualquier fórmula. en este caso, todas las interpretaciones serían a caso of paso of lo false a lo true. not hay ninguna posibilidad of encontrar a caso con premises true and conclusion false. if nos referimos a the implication not como consecuencia logical entre unas premises and a conclusion, sino como condicional valid, podemos decir que cuando a condicional tiene a fórmula valid en the consecuente, es imposible encontrar a caso con antecedente true and consecuente false. esto significa que hay implication haya lo que haya en the antecedente: a fórmula valid, a contingente or a contradictoria. toda fórmula valid es implicada by cualquier fórmula."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 52,
-      "question": "La negación de una tautología es una fórmula insatisfacible.",
-      "answer": "Verdadero",
-      "explanation": "La negación de una tautología es una contradicción, una fórmula que no tiene ningún caso de verdad, es decir, insatisfacible."
+      "question": "The negación of a tautology es a fórmula insatisfacible.",
+      "answer": "True",
+      "explanation": "The negación of a tautology es a contradiction, a fórmula que not tiene ningún caso of verdad, es decir, insatisfacible."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 53,
-      "question": "Para que un argumento sea válido no es condición necesaria que su conclusión sea verdadera.",
-      "answer": "Verdadero",
-      "explanation": "La condición para la validez es que no pueda darse el caso de premisas verdaderas y conclusión falsa. Sí cabe el caso de falsedad en alguna premisa y en la conclusión."
+      "question": "Para que a argument sea valid is not a necessary condition que su conclusion sea true.",
+      "answer": "True",
+      "explanation": "The condición para the validez es que not pueda darse the caso of premises true and conclusion false. sí cabe the caso of falsedad en alguna premise and en the conclusion."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 54,
-      "question": "Ningún condicional con consecuente contradictorio puede ser una tautología.",
-      "answer": "Falso",
-      "explanation": "Un condicional con antecedente y consecuente contradictorios es una tautología."
+      "question": "Ningún condicional con consecuente contradictorio puede ser a tautology.",
+      "answer": "False",
+      "explanation": "A condicional con antecedente and consecuente contradictorios es a tautology."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 55,
-      "question": "Si un argumento es inválido, la conjunción de las premisas y la conclusión es una contradicción.",
-      "answer": "Falso",
-      "explanation": "Si el argumento es inválido, esa conjunción puede ser contradictoria o una contingencia o una tautología. Caben todas las posibilidades."
+      "question": "If a argument es invalid, the conjunción of las premises and the conclusion es a contradiction.",
+      "answer": "False",
+      "explanation": "If the argument es invalid, esa conjunción puede ser contradictoria or a contingencia or a tautology. caben todas las posibilidades."
     },
     {
       "section": "EXAM QUESTIONS",
       "number": 56,
-      "question": "Si una fórmula no es válida, su negación sí lo es.",
-      "answer": "Falso",
-      "explanation": "Si no es válida (tautología), puede ser porque es una contradicción o porque es una contingencia. Si es una contradicción, su negación es una tautología (fórmula válida), pero si es una contingencia, su negación es otra contingencia."
+      "question": "If a fórmula not es valid, su negación sí lo es.",
+      "answer": "False",
+      "explanation": "If not es valid (tautology), puede ser because es a contradiction or because es a contingencia. if es a contradiction, su negación es a tautology (fórmula valid), pero if es a contingencia, su negación es otra contingencia."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 1,
-      "question": "Para que un argumento con premisas verdaderas sea válido, es condición necesaria pero no suficiente que su conclusión sea verdadera.",
-      "answer": "Verdadero",
-      "explanation": "Si el argumento tiene forma válida y premisas verdaderas, forzosamente ha de tener conclusión verdadera. Un argumento con premisas verdaderas y conclusión falsa no puede tener forma válida, pues la validez asegura que no se pase de lo verdadero a lo falso.\nPero no es condición suficiente tener premisas verdaderas y conclusión verdadera para tener un argumento con forma válida. Por ejemplo: <i>\"2 más 2 son 4. Por tanto, Madrid es la capital de España\"</i> es un argumento con premisa y conclusión verdaderas, pero con forma lógica inválida:\n\n p / q Esta forma, inválida, sí permite pasar de lo verdadero a lo falso. Una interpretación de esta forma lógica que tiene premisa verdadera y conclusión falsa: <i>\"2 más 2 son 4. Por tanto, el río Ebro pasa por Sevilla\"</i>."
+      "question": "Para que a argument con premises true sea valid, is a necessary but not sufficient condition que su conclusion sea true.",
+      "answer": "True",
+      "explanation": "If the argument tiene form valid and premises true, forzosamente ha of tener conclusion true. a argument con premises true and conclusion false not puede tener form valid, pues the validez asegura que not se pase of lo true a lo false.\npero not es condición suficiente tener premises true and conclusion true para tener a argument con form valid. for example: <i>\"2 más 2 son 4. therefore, madrid es the capital of españa\"</i> es a argument con premise and conclusion true, pero con form logical invalid:\n\n p / q esta form, invalid, sí permite pasar of lo true a lo false. a interpretación of esta form logical que tiene premise true and conclusion false: <i>\"2 más 2 son 4. therefore, the río ebro pasa by sevilla\"</i>."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 2,
-      "question": "Para que un argumento sea válido basta que sean verdaderas sus premisas y la conclusión.",
-      "answer": "Falso",
-      "explanation": "Un argumento con premisas y conclusión verdaderas puede tener una forma inválida.\n\nLa clave para entender esto es la palabra “basta”, que hace referencia a la suficiencia de lo expuesto. Un contraejemplo de esta afirmación sería: <i>\"Madrid es capital de España. Por tanto, dos y dos son cuatro.\"</i>"
+      "question": "Para que a argument sea valid basta que sean true sus premises and the conclusion.",
+      "answer": "False",
+      "explanation": "A argument con premises and conclusion true puede tener a form invalid.\n\nthe clave para entender esto es the palabra “basta”, que hace referencia a the suficiencia of lo expuesto. a contraejemplo of esta afirmación sería: <i>\"madrid es capital of españa. therefore, dos and dos son cuatro.\"</i>"
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 3,
-      "question": "Para que un argumento sea válido no es condición necesaria que sus premisas sean verdaderas.",
-      "answer": "Verdadero",
-      "explanation": "Una forma válida admite todo tipo de combinaciones en los valores de verdad de las premisas y la conclusión, excepto el caso de premisas verdaderas y conclusión falsa.\n\nLas premisas pueden ser falsas y el argumento ser válido lógicamente. Lo único que garantiza un argumento válido es que, si las premisas son verdaderas, la conclusión también lo es, pero eso no implica que las premisas tengan que ser verdaderas para que la conclusión sea válida. De modo que hay argumentos válidos con premisas falsas."
+      "question": "Para que a argument sea valid is not a necessary condition que sus premises sean true.",
+      "answer": "True",
+      "explanation": "A form valid admite todo tipo of combinaciones en los valores of verdad of las premises and the conclusion, excepto the caso of premises true and conclusion false.\n\nlas premises pueden ser false and the argument ser valid lógicamente. lo único que garantiza a argument valid es que, if las premises son true, the conclusion también lo es, pero eso not implica que las premises tengan que ser true para que the conclusion sea valid. of modo que hay arguments valid con premises false."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 4,
-      "question": "Un argumento con conclusión falsa no puede ser válido.",
-      "answer": "Falso",
-      "explanation": "Si en el conjunto de las premisas también hay falsedad, su forma argumentativa puede ser válida. La validez sería imposible si teniendo conclusión falsa, todas las premisas fueran verdaderas."
+      "question": "A argument con conclusion false not puede ser valid.",
+      "answer": "False",
+      "explanation": "If en the conjunto of las premises también hay falsedad, su form argumentativa puede ser valid. the validez sería imposible if teniendo conclusion false, todas las premises fueran true."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 5,
-      "question": "Si un argumento es válido, su conclusión es verdadera.",
-      "answer": "Falso",
-      "explanation": "La validez del argumento sigue los criterios de la implicación lógica. En un argumento válido decimos que el conjunto de las premisas implica la conclusión. Esto significa que si las premisas fueran todas ellas verdaderas, necesariamente la conclusión también lo sería. La relación de implicación, la validez del argumento, hace imposible que lo falso se siga de lo verdadero.\n\n<i>Ahora bien, si ponemos falsedad en las premisas, podemos tener validez en la forma y falsedad en la conclusión.</i>"
+      "question": "If a argument es valid, su conclusion es true.",
+      "answer": "False",
+      "explanation": "The validez del argument sigue los criterios of the implication logical. en a argument valid decimos que the conjunto of las premises implica the conclusion. esto significa que if las premises fueran todas ellas true, necesariamente the conclusion también lo sería. the relación of implication, the validez del argument, hace imposible que lo false se siga of lo true.\n\n<i>ahora bien, if ponemos falsedad en las premises, podemos tener validez en the form and falsedad en the conclusion.</i>"
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 6,
-      "question": "Un argumento lógicamente inválido tiene todas sus premisas verdaderas y la conclusión falsa.",
-      "answer": "Falso",
-      "explanation": "Un argumento inválido puede tener cualquier forma y cualquier valor de verdad tanto en las premisas como en la conclusión. Es inválido porque su forma permite que se pueda dar el caso de que las premisas sean verdaderas y la conclusión falsa, pero no son imposibles el resto de los casos. Por ejemplo, sea el argumento de la forma (p∧q)→r<ul><li><i>\"Madrid es capital de España y Lisboa es capital de Portugal. Por tanto, París es capital de Francia.\"</i></li></ul>Este argumento es inválido, aunque tanto premisas como conclusión son verdaderas, porque su forma permite la existencia de contraejemplos: argumentos con la misma forma que tienen premisas verdaderas y conclusión falsa, como:<ul><li><i>\"Madrid es capital de España y Lisboa es capital de Portugal, Por tanto, Roma es capital de Francia.\"</i></li></ul>"
+      "question": "A argument lógicamente invalid tiene todas sus premises true and the conclusion false.",
+      "answer": "False",
+      "explanation": "A argument invalid puede tener cualquier form and cualquier valor of verdad therefore en las premises como en the conclusion. es invalid because su form permite que se pueda dar the caso of que las premises sean true and the conclusion false, pero not son imposibles the resto of los casos. for example, sea the argument of the form (p∧q)→r<ul><li><i>\"madrid es capital of españa and lisboa es capital of portugal. therefore, parís es capital of francia.\"</i></li></ul>este argument es invalid, aunque therefore premises como conclusion son true, because su form permite the existencia of contraejemplos: arguments con the misma form que tienen premises true and conclusion false, como:<ul><li><i>\"madrid es capital of españa and lisboa es capital of portugal, therefore, roma es capital of francia.\"</i></li></ul>"
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 7,
-      "question": "Los argumentos inválidos siempre tienen la conclusión falsa.",
-      "answer": "Falso",
-      "explanation": "Un argumento con forma inválida es aquél en el que las premisas no implican lógicamente la conclusión, ya sea verdadera o falsa. La validez y la invalidez se dicen de la forma lógica del argumento. Por ejemplo, <i>\"Londres es una ciudad pequeña. Por tanto, Londres es una ciudad española\"</i> es un argumento inválido con conclusión falsa y forma lógica: p → q\n\nOtro argumento con esa misma forma inválida, pero conclusión verdadera es: <i>\"Londres es una ciudad pequeña. Por tanto, Londres es una ciudad inglesa.\"</i>"
+      "question": "Los arguments invalid siempre tienen the conclusion false.",
+      "answer": "False",
+      "explanation": "A argument con form invalid es aquél en the que las premises not implican lógicamente the conclusion, ya sea true or false. the validez and the invalidez se dicen of the form logical del argument. for example, <i>\"londres es a ciudad pequeña. therefore, londres es a ciudad española\"</i> es a argument invalid con conclusion false and form logical: p → q\n\notro argument con esa misma form invalid, pero conclusion true es: <i>\"londres es a ciudad pequeña. therefore, londres es a ciudad inglesa.\"</i>"
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 8,
-      "question": "Si un argumento es inválido, la conjunción de las premisas y la conclusión es una contingencia.",
-      "answer": "Falso",
-      "explanation": "En un argumento con forma inválida podemos encontrar distintas combinaciones de enunciados. Por ejemplo, podemos tener una premisa contingente y una conclusión contradictoria, cuya conjunción sería también una contradicción. Lo que no podemos tener es premisas en contradicción, pues entonces la forma inferencial sería válida, ya que a partir de la contradicción podemos concluir cualquier cosa, ni podemos tener una conjunción entre las premisas y la conclusión que sea una tautología, pues para ello sería necesario que la conclusión fuera tautológica, pero entonces la forma inferencial sería válida.\n\nLa conjunción entre las premisas y la conclusión de un argumento inválido será o una contingencia o una contradicción."
+      "question": "If a argument es invalid, the conjunción of las premises and the conclusion es a contingencia.",
+      "answer": "False",
+      "explanation": "En a argument con form invalid podemos encontrar distintas combinaciones of statements. for example, podemos tener a premise contingente and a conclusion contradictoria, cuya conjunción sería también a contradiction. lo que not podemos tener es premises en contradiction, pues entonces the form inferencial sería valid, ya que a partir of the contradiction podemos concluir cualquier cosa, ni podemos tener a conjunción entre las premises and the conclusion que sea a tautology, pues para ello sería necesario que the conclusion fuera tautológica, pero entonces the form inferencial sería valid.\n\nthe conjunción entre las premises and the conclusion of a argument invalid será or a contingencia or a contradiction."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 9,
-      "question": "Un esquema de argumento es verdadero o es falso.",
-      "answer": "Falso",
-      "explanation": " Un esquema de argumento es válido o inválido. La verdad y la falsedad son propiedades de los enunciados."
+      "question": "A scheme of argument es true or es false.",
+      "answer": "False",
+      "explanation": " a scheme of argument es valid or invalid. the verdad and the falsedad son propiedades of los statements."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 10,
-      "question": "La conclusión de un argumento válido no puede ser falsa.",
-      "answer": "Falso",
-      "explanation": "Lo que no puede ocurrir en un argumento válido es que la conclusión sea falsa cuando las premisas son verdaderas, pero puede haber argumentos válidos con premisas (al menos una) falsas y conclusión falsa. La validez es de la forma del argumento. Una forma válida impide el paso de lo verdadero a lo falso."
+      "question": "The conclusion of a argument valid not puede ser false.",
+      "answer": "False",
+      "explanation": "Lo que not puede ocurrir en a argument valid es que the conclusion sea false cuando las premises son true, pero puede haber arguments valid con premises (al menos a) false and conclusion false. the validez es of the form del argument. a form valid impide the paso of lo true a lo false."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 11,
-      "question": "Un argumento que contiene contradicción en el conjunto de las premisas es un argumento inválido.",
-      "answer": "Falso",
-      "explanation": "De la contradicción se sigue cualquier cosa. De modo que todos los argumentos que tienen contradicción en las premisas son argumentos con forma lógica válida."
+      "question": "A argument que contiene contradiction en the conjunto of las premises es a argument invalid.",
+      "answer": "False",
+      "explanation": "Of the contradiction anything follows. of modo que todos los arguments que tienen contradiction en las premises son arguments con form logical valid."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 12,
-      "question": "Si un argumento tiene premisas verdaderas y conclusión falsa, no puede tener una forma lógica válida.",
-      "answer": "Verdadero",
-      "explanation": "Una forma inferencial válida impide el caso de argumento con premisas verdaderas y conclusión falsa. De lo verdadero no se sigue válidamente lo falso. Ese argumento serviría como contraejemplo que prueba la invalidez de su forma inferencial."
+      "question": "If a argument tiene premises true and conclusion false, cannot have a valid logical form.",
+      "answer": "True",
+      "explanation": "A form inferencial valid impide the caso of argument con premises true and conclusion false. of lo true not se sigue válidamente lo false. ese argument serviría como contraejemplo que prueba the invalidez of su form inferencial."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 13,
-      "question": "El antecedente de una afirmación condicional es la premisa de dicha afirmación.",
-      "answer": "Falso",
-      "explanation": "Un condicional es una fórmula (A → B) . Y las fórmulas no tienen premisas ni conclusión."
+      "question": "The antecedente of a afirmación condicional es the premise of dicha afirmación.",
+      "answer": "False",
+      "explanation": "A condicional es a fórmula (a → b) . and las fórmulas not tienen premises ni conclusion."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 14,
-      "question": "Una proposición verdadera sólo implica proposiciones verdaderas.",
-      "answer": "Verdadero",
-      "explanation": "Hablamos de implicación entre dos proposiciones cuando sus formas lógicas (sus fórmulas respectivas) hacen imposible que lo falso se siga de lo verdadero. Todas las proposiciones que tengan esas mismas formas tendrán la composición V-V, F-F o bien F-V, pero nunca V-F. Es la forma de la proposición la que imposibilita este último caso."
+      "question": "A proposition true sólo implica propositions true.",
+      "answer": "True",
+      "explanation": "Hablamos of implication entre dos propositions cuando sus formas lógicas (sus fórmulas respectivas) hacen imposible que lo false se siga of lo true. todas las propositions que tengan esas mismas formas tendrán the composición v-v, f-f or bien f-v, pero nunca v-f. es the form of the proposition the que imposibilita este último caso."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 15,
-      "question": "Toda fórmula bien formada es una tautología.",
-      "answer": "Falso",
-      "explanation": "Una fórmula bien formada es la que cumple con las reglas de formación de fórmulas. Una vez obtenida una fórmula, podemos evaluarla semánticamente y determinar si se trata de una tautología, una contradicción o bien una contingencia. Hay fórmulas bien formadas de los tres tipos."
+      "question": "Toda fórmula bien formada es a tautology.",
+      "answer": "False",
+      "explanation": "A fórmula bien formada es the que cumple con las reglas of formación of fórmulas. a vez obtenida a fórmula, podemos evaluarla semánticamente and determinar if se trata of a tautology, a contradiction or bien a contingencia. hay fórmulas bien formadas of los tres tipos."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 16,
-      "question": "Si X es una fórmula contingente, Y →( X ∨ ¬X ) también lo es.",
-      "answer": "Falso",
-      "explanation": "Dado que el consecuente tiene forma tautológica, el condicional no puede tener ningún caso en el que el antecedente sea verdadero y el consecuente falso, único caso en el que el condicional sería falso. De modo que este condicional es una tautología, una fórmula válida."
+      "question": "If x es a fórmula contingente, and →( x ∨ ¬x ) también lo es.",
+      "answer": "False",
+      "explanation": "Dado que the consecuente tiene form tautológica, the condicional not puede tener ningún caso en the que the antecedente sea true and the consecuente false, único caso en the que the condicional sería false. of modo que este condicional es a tautology, a fórmula valid."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 17,
-      "question": "Cualquier fórmula válida es implicada por una contradicción.",
-      "answer": "Verdadero",
-      "explanation": "En primer lugar porque una tautología es implicada por cualquier fórmula (carga de premisas). En segundo lugar, porque de una contradicción se sigue lógicamente cualquier cosa, es decir, una fórmula contradictoria implica cualquier fórmula."
+      "question": "Cualquier fórmula valid es implicada by a contradiction.",
+      "answer": "True",
+      "explanation": "En primer lugar because a tautology es implicada by cualquier fórmula (carga of premises). en segundo lugar, because of a contradiction se sigue lógicamente cualquier cosa, es decir, a fórmula contradictoria implica cualquier fórmula."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 18,
-      "question": "Un argumento sólo puede ser verdadero o falso.",
-      "answer": "Falso",
-      "explanation": "Los argumentos solamente tienen forma válida o inválida. \"Verdadero\" y \"falso\" se aplican únicamente a los enunciados."
+      "question": "A argument sólo puede ser true or false.",
+      "answer": "False",
+      "explanation": "Los arguments solamente tienen form valid or invalid. \"true\" and \"false\" se aplican únicamente a los statements."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 19,
-      "question": "El antecedente de una afirmación condicional es verdadero sólo si su consecuente no es falso.",
-      "answer": "Falso",
-      "explanation": "El antecedente de un condicional puede ser verdadero o falso independientemente de cómo sea su consecuente. Dependiendo de cómo sean lo valores de antecedente y consecuente, resultará un valor u otro del condicional."
+      "question": "The antecedente of a afirmación condicional es true sólo if su consecuente not es false.",
+      "answer": "False",
+      "explanation": "The antecedente of a condicional puede ser true or false independientemente of cómo sea su consecuente. dependiendo of cómo sean lo valores of antecedente and consecuente, resultará a valor u otro del condicional."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 20,
-      "question": "Cualquier fórmula es implicada por una contradicción.",
-      "answer": "Verdadero",
-      "explanation": "La contradicción implica cualquier fórmula, de la contradicción se sigue válidamente cualquier fórmula: <i>Ex Contradictione Quodlibet</i>.\n\n Un condicional que no puede tener verdad en su antecedente, no tendrá ningún caso de falsedad, pues el condicional solamente resulta falso cuando tiene verdad en el antecedente y falsedad en el consecuente. Un condicional con contradicción en el antecedente es un condicional tautológico, una implicación lógica."
+      "question": "Cualquier fórmula es implicada by a contradiction.",
+      "answer": "True",
+      "explanation": "The contradiction implica cualquier fórmula, of the contradiction se sigue válidamente cualquier fórmula: <i>ex contradictione quodlibet</i>.\n\n a condicional que not puede tener verdad en su antecedente, not tendrá ningún caso of falsedad, pues the condicional solamente resulta false cuando tiene verdad en the antecedente and falsedad en the consecuente. a condicional con contradiction en the antecedente es a condicional tautológico, a implication logical."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 21,
-      "question": "Si X es una fórmula válida, Y → X también lo es.",
-      "answer": "Verdadero",
-      "explanation": "Si el consecuente de ese condicional es una tautología, es imposible encontrar un caso que haga falsa la fórmula, es decir, un caso en el que Y fuera verdadero y X falso."
+      "question": "If x es a fórmula valid, and → x también lo es.",
+      "answer": "True",
+      "explanation": "If the consecuente of ese condicional es a tautology, es imposible encontrar a caso que haga false the fórmula, es decir, a caso en the que and fuera true and x false."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 22,
-      "question": "Si X es una fórmula válida, (Y ∧ ¬Y) → X es una fórmula contingente.",
-      "answer": "Falso",
-      "explanation": "Una fórmula condicional con consecuente válido no puede tener ningún caso de falsedad, no hay ninguna interpretación que haga verdadero el antecedente y falso el consecuente. Se trata de una tautología."
+      "question": "If x es a fórmula valid, (and ∧ ¬and) → x es a fórmula contingente.",
+      "answer": "False",
+      "explanation": "A fórmula condicional con consecuente valid not puede tener ningún caso of falsedad, not hay ninguna interpretación que haga true the antecedente and false the consecuente. se trata of a tautology."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 23,
-      "question": "Si X es una fórmula contradictoria, (Y ∧ ¬Y) → X es una fórmula contingente.",
-      "answer": "Falso",
-      "explanation": "Es una tautología, una fórmula válida, porque el antecedente de ese condicional también es una contradicción."
+      "question": "If x es a fórmula contradictoria, (and ∧ ¬and) → x es a fórmula contingente.",
+      "answer": "False",
+      "explanation": "Es a tautology, a fórmula valid, because the antecedente of ese condicional también es a contradiction."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 24,
-      "question": "Si X es una fórmula contradictoria, (Y ∧ ¬Y) → X es una fórmula válida.",
-      "answer": "Verdadero",
-      "explanation": "El antecedente de ese condicional es una contradicción y una contradicción (Y ∧ ¬Y) implica cualquier fórmula. Una implicación es un condicional válido, una tautología."
+      "question": "If x es a fórmula contradictoria, (and ∧ ¬and) → x es a fórmula valid.",
+      "answer": "True",
+      "explanation": "The antecedente of ese condicional es a contradiction and a contradiction (and ∧ ¬and) implica cualquier fórmula. a implication es a condicional valid, a tautology."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 25,
-      "question": "Si X es una fórmula contradictoria, (Y ∧ ¬Y) → X es una fórmula contradictoria.",
-      "answer": "Falso",
-      "explanation": "El antecedente de ese condicional es una contradicción, por lo que el condicional nunca podrá alcanzar el valor F, pues nunca podrá darse el caso V → F. De modo que no sólo no es una contradicción, sino que cualquier fórmula con la forma (Y ∧ ¬Y) → X resultará siempre una tautología."
+      "question": "If x es a fórmula contradictoria, (and ∧ ¬and) → x es a fórmula contradictoria.",
+      "answer": "False",
+      "explanation": "The antecedente of ese condicional es a contradiction, by lo que the condicional nunca podrá alcanzar the valor f, pues nunca podrá darse the caso v → f. of modo que not sólo not es a contradiction, sino que cualquier fórmula con the form (and ∧ ¬and) → x resultará siempre a tautology."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 26,
-      "question": "Una fórmula satisfacible es implicada por cualquier fórmula insatisfacible",
-      "answer": "Verdadero",
-      "explanation": "Una fórmula insatisfacible es una contradicción, de la cual se puede concluir cualquier cosa, entre ellas, una fórmula satisfacible."
+      "question": "A fórmula satisfacible es implicada by cualquier fórmula insatisfacible",
+      "answer": "True",
+      "explanation": "A fórmula insatisfacible es a contradiction, of the cual se puede concluir cualquier cosa, entre ellas, a fórmula satisfacible."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 27,
-      "question": "Una fórmula válida sólo es implicada por fórmulas válidas",
-      "answer": "Falso",
-      "explanation": "Una fórmula válida (tautología) puede ser implicada tanto por fórmulas verdaderas como por fórmulas falsas."
+      "question": "A fórmula valid sólo es implicada by fórmulas valid",
+      "answer": "False",
+      "explanation": "A fórmula valid (tautology) puede ser implicada therefore by fórmulas true como by fórmulas false."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 28,
-      "question": "Una fórmula satisfacible sólo implica fórmulas satisfacibles",
-      "answer": "Falso",
-      "explanation": "Podría darse el caso de que una fórmula satisfacible (contingente) implique fórmulas válidas (tautológicas)."
+      "question": "A fórmula satisfacible sólo implica fórmulas satisfacibles",
+      "answer": "False",
+      "explanation": "Podría darse the caso of que a fórmula satisfacible (contingente) implique fórmulas valid (tautológicas)."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 29,
-      "question": "Una fórmula válida sólo implica fórmulas válidas",
-      "answer": "Verdadero",
-      "explanation": "El hecho de que se de la implicación (que no pueda darse el caso de que ante premisas verdaderas, tengamos conclusión falsa), el hecho de que la fórmula antecedente sea tautológica (todo verdadero) exige a la fuerza que las conclusiones que implica sean también verdaderas."
+      "question": "A fórmula valid sólo implica fórmulas valid",
+      "answer": "True",
+      "explanation": "The hecho of que se of the implication (que not pueda darse the caso of que ante premises true, tengamos conclusion false), the hecho of que the fórmula antecedente sea tautológica (todo true) exige a the fuerza que las conclusions que implica sean también true."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 30,
-      "question": "Si X e Y son fórmulas lógicamente incompatibles, entonces (X ∧ Y) → Z",
-      "answer": "Verdadero",
-      "explanation": "Que sean lógicamente incompatibles quiere decir que son contradictorias, y ya que de una contradicción se sigue cualquier cosa, en efecto se puede confirmar que se de la fórmula que se nos plantea."
+      "question": "If x e and son fórmulas lógicamente incompatibles, entonces (x ∧ and) → z",
+      "answer": "True",
+      "explanation": "Que sean lógicamente incompatibles quiere decir que son contradictorias, and ya que of a contradiction anything follows, en efecto se puede confirmar que se of the fórmula que se nos plantea."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 31,
-      "question": "Si (X ∧ Y) → Z , entonces (X ∧ ¬Z) → ¬Y",
-      "answer": "Verdadero",
-      "explanation": "Lo podemos comprobar con el árbol semántico\n\n√ 1. (X ∧ Y) → Z\n√ 2. ¬[(X ∧ ¬Z) → ¬Y ]\n√ 3. X ∧ ¬ Z (α2)\n 4. Y (α2)\n 5. X (α3)\n 6. ¬Z (α2)\n √ 7.1 ¬( X ∧Y ) (β 1) 7.2 Z (β 1)\n Cierra con 6\n 8.11 ¬ X (β 7.1) 8.12 ¬Y (β 7.1) Cierra con 5 Cierra con 4\n\n Como el árbol semántico cierra, el argumento entre ambas premisas es válido, por lo que podemos afirmar que se da una implicación lógica entre ambas expresiones."
+      "question": "If (x ∧ and) → z , entonces (x ∧ ¬z) → ¬and",
+      "answer": "True",
+      "explanation": "Lo podemos comprobar con the árbol semántico\n\n√ 1. (x ∧ and) → z\n√ 2. ¬[(x ∧ ¬z) → ¬and ]\n√ 3. x ∧ ¬ z (α2)\n 4. and (α2)\n 5. x (α3)\n 6. ¬z (α2)\n √ 7.1 ¬( x ∧and ) (β 1) 7.2 z (β 1)\n cierra con 6\n 8.11 ¬ x (β 7.1) 8.12 ¬and (β 7.1) cierra con 5 cierra con 4\n\n como the árbol semántico cierra, the argument entre ambas premises es valid, by lo que podemos afirmar que se da a implication logical entre ambas expresiones."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 32,
-      "question": "Si [X ,Y , Z] ⊨ W es una deducción correcta, entonces [X ,Y] ⊨ Z → W también lo es",
-      "answer": "Verdadero",
-      "explanation": "Lo vemos mejor con el árbol semántico:\n\n √ 1. (X ∧ Y ∧Z) → W\n √ 2. ¬[(X ∧ Y) → (Z → W)]\n√ 3. X ∧ Y (α2)\n√ 4. ¬(Z → W) (α2)\n5. X (α3)\n6. Y (α3)\n7. Z (α4)\n8. ¬W (α4)\n√ 9.1 ¬(X ∧ (Y ∧ Z)) (β 1) √ 10.12 ¬(Y ∧ z ) (β 9.1) 9.2 W (β 1)\n Cierra con 8\n 10.11 ¬ X (β 9.1) Cierra con 5 10.121¬Y (β 10.12) 10.122 ¬Z (β 9.1)\nCierra con 6 Cierra con 7\n"
+      "question": "If [x ,and , z] ⊨ w es a deducción correcta, entonces [x ,and] ⊨ z → w también lo es",
+      "answer": "True",
+      "explanation": "Lo vemos mejor con the árbol semántico:\n\n √ 1. (x ∧ and ∧z) → w\n √ 2. ¬[(x ∧ and) → (z → w)]\n√ 3. x ∧ and (α2)\n√ 4. ¬(z → w) (α2)\n5. x (α3)\n6. and (α3)\n7. z (α4)\n8. ¬w (α4)\n√ 9.1 ¬(x ∧ (and ∧ z)) (β 1) √ 10.12 ¬(and ∧ z ) (β 9.1) 9.2 w (β 1)\n cierra con 8\n 10.11 ¬ x (β 9.1) cierra con 5 10.121¬and (β 10.12) 10.122 ¬z (β 9.1)\ncierra con 6 cierra con 7\n"
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 33,
-      "question": "Si [X ,Y] ⊨ Z es una deducción correcta, entonces X → (Y → Z) es una fórmula válida",
-      "answer": "Verdadero",
-      "explanation": "Corresponde con la ley de importación, pero lo vemos mejor con el árbol semántico:\n √ 1. (X ∧ Y)→ Z\n √ 2. ¬[X → (Y → Z)]\n 3. X (α2)\n √ 4. ¬(Y → Z) (α2)\n 5. Y (α4)\n 6. ¬Z (α4)\n √ 7.1 ¬( X ∧Y ) (β 1) 7.2 Z (β 1)\n Cierra en 6\n 8.11 ¬ X (β 7.1) Cierra en 3 8.12 ¬Y (β 7.1) Cierra en 5"
+      "question": "If [x ,and] ⊨ z es a deducción correcta, entonces x → (and → z) es a fórmula valid",
+      "answer": "True",
+      "explanation": "Corresponde con the ley of importación, pero lo vemos mejor con the árbol semántico:\n √ 1. (x ∧ and)→ z\n √ 2. ¬[x → (and → z)]\n 3. x (α2)\n √ 4. ¬(and → z) (α2)\n 5. and (α4)\n 6. ¬z (α4)\n √ 7.1 ¬( x ∧and ) (β 1) 7.2 z (β 1)\n cierra en 6\n 8.11 ¬ x (β 7.1) cierra en 3 8.12 ¬and (β 7.1) cierra en 5"
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 34,
-      "question": "Si X implica Y entonces es una verdad lógica",
-      "answer": "Falso",
+      "question": "If x implica and entonces es a verdad logical",
+      "answer": "False",
       "explanation": ""
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 35,
-      "question": "(¬s ∧ t) → p ∧ (¬s ∧ t) → r es una fórmula bien formada.",
-      "answer": "Falso",
-      "explanation": "Se necesitan más paréntesis para desambiguar la fórmula:<ul><li>(¬s ∧ t)→ [p ∧ (¬s ∧ t) → r]</li><li>[(¬s ∧ t) → p ∧ ( ¬s ∧ t)] → r</li><li>[(¬s ∧ t) → p] ∧ [(¬s ∧ t) → r]</li><li>{[(¬s ∧ t) → p] ∧ (¬s ∧ t)} →r</li></ul>"
+      "question": "(¬s ∧ t) → p ∧ (¬s ∧ t) → r es a fórmula bien formada.",
+      "answer": "False",
+      "explanation": "Se necesitan más paréntesis para desambiguar the fórmula:<ul><li>(¬s ∧ t)→ [p ∧ (¬s ∧ t) → r]</li><li>[(¬s ∧ t) → p ∧ ( ¬s ∧ t)] → r</li><li>[(¬s ∧ t) → p] ∧ [(¬s ∧ t) → r]</li><li>{[(¬s ∧ t) → p] ∧ (¬s ∧ t)} →r</li></ul>"
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 36,
-      "question": "De la verdad de p ∨ q se sigue la verdad de (¬p ∧ r)→ q.",
-      "answer": "Verdadero",
-      "explanation": "Para que la disyunción sea verdadera, al menos I(p)=1 o I(q)=1 (o ambos):<ul><li>Si I(p)=0 , I(p ∨ q)=1 sólo si I(q)=1 . En el condicional tendríamos entonces que el consecuente es verdadero, luego el condicional será verdadero sea cual sea el valor de verdad del antecedente.</li><li>Si I(q)=0 , I(p ∨ q)=1 sólo si I(p)=1 . En este caso el antecedente sería siempre falso, ya que la conjunción sería falsa al ser uno de los miembros la negación de p , que sería falsa. Es decir, tendríamos un antecedente falso que siempre nos dará un condicional verdadero independientemente del valor de verdad de la conclusión (que además en este caso ya sabríamos que es falsa).</li></ul>Por otro lado, tenemos que:<ul><li>{(¬p ∧ r)→ q} ≡<sub>{conm∧}</sub> {(r ∧ ¬p) → q}</li><li>{(r ∧ ¬p) → q}≡<sub>{exp}</sub> {r → (¬p → q)}</li><li>{r → (¬p → q)} ≡<sub>{r→∨}</sub>{r → (p ∨ q)}</li><li>{r → (p ∨ q)} ≡<sub>{I→∨}</sub> {¬r ∨ (p ∨ q)}</li></ul>Es decir, si tenemos p ∨ q, por la RI∨ podemos construir ¬r ∨ (p ∨ q) que acabamos de demostrar que es equivalente a (¬p ∨ r) → r"
+      "question": "Of the verdad of p ∨ q se sigue the verdad of (¬p ∧ r)→ q.",
+      "answer": "True",
+      "explanation": "Para que the disyunción sea true, al menos i(p)=1 or i(q)=1 (or ambos):<ul><li>if i(p)=0 , i(p ∨ q)=1 sólo if i(q)=1 . en the condicional tendríamos entonces que the consecuente es true, luego the condicional será true sea cual sea the valor of verdad del antecedente.</li><li>if i(q)=0 , i(p ∨ q)=1 sólo if i(p)=1 . en este caso the antecedente sería siempre false, ya que the conjunción sería false al ser uno of los miembros the negación of p , que sería false. es decir, tendríamos a antecedente false que siempre nos dará a condicional true independientemente del valor of verdad of the conclusion (que además en este caso ya sabríamos que es false).</li></ul>by otro lado, tenemos que:<ul><li>{(¬p ∧ r)→ q} ≡<sub>{conm∧}</sub> {(r ∧ ¬p) → q}</li><li>{(r ∧ ¬p) → q}≡<sub>{exp}</sub> {r → (¬p → q)}</li><li>{r → (¬p → q)} ≡<sub>{r→∨}</sub>{r → (p ∨ q)}</li><li>{r → (p ∨ q)} ≡<sub>{i→∨}</sub> {¬r ∨ (p ∨ q)}</li></ul>es decir, if tenemos p ∨ q, by the ri∨ podemos construir ¬r ∨ (p ∨ q) que acabamos of demostrar que es equivalente a (¬p ∨ r) → r"
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 37,
-      "question": "Dada una fórmula X , si el árbol para X queda abierto y el árbol para ¬X también queda abierto, podemos decir que la fórmula X no es ni válida (tautológica) ni contradictoria.",
-      "answer": "Verdadero",
-      "explanation": "Si el árbol para X queda abierto, X no es contradictoria, tiene alguna interpretación en la que resulta V. Cuando X es V, ¬X es F. Si el árbol para ¬X queda abierto, ¬X no es contradictoria, tiene alguna interpretación en la que resulta V. Estos son casos en los que ¬X es F. Es decir, ¬X tiene casos V y casos F, por lo que es una contingencia (ni válida ni contradictoria)."
+      "question": "Dada a fórmula x , if the árbol para x queda abierto and the árbol para ¬x también queda abierto, podemos decir que the fórmula x not es ni valid (tautológica) ni contradictoria.",
+      "answer": "True",
+      "explanation": "If the árbol para x queda abierto, x not es contradictoria, tiene alguna interpretación en the que resulta v. cuando x es v, ¬x es f. if the árbol para ¬x queda abierto, ¬x not es contradictoria, tiene alguna interpretación en the que resulta v. estos son casos en los que ¬x es f. es decir, ¬x tiene casos v and casos f, by lo que es a contingencia (ni valid ni contradictoria)."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 38,
-      "question": "Si un argumento es inválido, la conjunción de las premisas y la conclusión es una contradicción",
-      "answer": "Falso",
-      "explanation": "podemos tener argumento con p V y c V y que aún así presente a una forma inválida, sin que supongan así una contradicción la relación entre sus premisas y conclusión"
+      "question": "If a argument es invalid, the conjunción of las premises and the conclusion es a contradiction",
+      "answer": "False",
+      "explanation": "podemos tener argument con p v and c v and que aún así presente a a form invalid, sin que supongan así a contradiction the relación entre sus premises and conclusion"
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 39,
-      "question": "Si X es una fórmula contradictoria, (Y ∧ ¬Y) → X es una fórmula válida",
-      "answer": "Verdadero",
-      "explanation": "de una contradicción se sigue cualquier cosa. El antecedente siempre será verdadero y por tanto la fórmula será siempre tautológica, independientemente de que se trate de una fórmula contradictoria."
+      "question": "If x es a fórmula contradictoria, (and ∧ ¬and) → x es a fórmula valid",
+      "answer": "True",
+      "explanation": "of a contradiction anything follows. the antecedente siempre será true and therefore the fórmula será siempre tautológica, independientemente of que se trate of a fórmula contradictoria."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 40,
-      "question": "La negación de una tautología es una fórmula insatisfacible",
-      "answer": "Verdadero",
-      "explanation": "la negación de una tautología es una contradicción, que es a su vez una fórmula insatisfacible, es decir, que es falsa en todas sus interpretaciones. (insatisfacibilidad=contradictoriedad)"
+      "question": "The negación of a tautology es a fórmula insatisfacible",
+      "answer": "True",
+      "explanation": "the negación of a tautology es a contradiction, que es a su vez a fórmula insatisfacible, es decir, que es false en todas sus interpretaciones. (insatisfacibilidad=contradictoriedad)"
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 41,
-      "question": "Un árbol semántico con todas sus ramas cerradas indica que no existe ninguna interpretación bajo la cual las premisas del argumento pudieran ser verdaderas y la conclusión falsa.",
-      "answer": "Verdadero",
-      "explanation": "El árbol semántico examina si hay o no contradicción en suponer premisas verdaderas y conclusión falsa. Si se encuentra contradicción en todas las ramas (están cerradas por ello) podemos concluir que es imposible el caso de premisas verdaderas y conclusión falsa."
+      "question": "A árbol semántico con todas sus ramas cerradas indica que not existe ninguna interpretación bajo the cual las premises del argument pudieran ser true and the conclusion false.",
+      "answer": "True",
+      "explanation": "The árbol semántico examina if hay or not contradiction en suponer premises true and conclusion false. if se encuentra contradiction en todas las ramas (están cerradas by ello) podemos concluir que es imposible the caso of premises true and conclusion false."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 42,
-      "question": "Un árbol semántico abierto indica que en el conjunto de fórmulas examinado hay contradicción.",
-      "answer": "Falso",
-      "explanation": "La rama abierta indica todo lo contrario: que el conjunto de fórmulas examinado es consistente. Es posible encontrar una interpretación del conjunto en la que todos los enunciados son verdaderos."
+      "question": "A árbol semántico abierto indica que en the conjunto of fórmulas examinado hay contradiction.",
+      "answer": "False",
+      "explanation": "The rama abierta indica todo lo contrario: que the conjunto of fórmulas examinado es consistente. es posible encontrar a interpretación del conjunto en the que todos los statements son true."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 43,
-      "question": "Un árbol semántico abierto indica que el argumento analizado es válido.",
-      "answer": "Falso",
-      "explanation": "Un árbol abierto indica que podemos encontrar un ejemplo de argumento, con la forma examinada, en el que las premisas son verdaderas y la conclusión falsa; es decir, que podemos encontrar un contraejemplo. Por tanto, la forma inferencial examinada en ese árbol es una forma inválida."
+      "question": "A árbol semántico abierto indica que the argument analizado es valid.",
+      "answer": "False",
+      "explanation": "A árbol abierto indica que podemos encontrar a ejemplo of argument, con the form examinada, en the que las premises son true and the conclusion false; es decir, que podemos encontrar a contraejemplo. therefore, the form inferencial examinada en ese árbol es a form invalid."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 44,
-      "question": "Un árbol semántico cerrado indica que son falsas tanto premisas como conclusión.",
-      "answer": "Falso",
-      "explanation": "Un árbol cerrado indica que todas sus ramas contienen contradicción. Esto significa que no es posible encontrar ningún caso de premisas verdaderas y conclusión falsa. El conjunto formado por las premisas y la negación de la conclusión es inconsistente. El esquema inferencial examinado es válido."
+      "question": "A árbol semántico cerrado indica que son false therefore premises como conclusion.",
+      "answer": "False",
+      "explanation": "A árbol cerrado indica que todas sus ramas contienen contradiction. esto significa que not es posible encontrar ningún caso of premises true and conclusion false. the conjunto formado by las premises and the negación of the conclusion es inconsistente. the scheme inferencial examinado es valid."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 45,
-      "question": "Un árbol semántico con una rama abierta indica que existe exactamente una interpretación bajo la cual las premisas del argumento son verdaderas y la conclusión falsa.",
-      "answer": "Falso",
-      "explanation": "Una rama abierta indica que el esquema examinado es inválido, que existen argumentos con esa forma tales que las premisas resultan verdaderas y la conclusión falsa, es decir, que tiene contraejemplos. ¿Cuántos? Siempre infinitos, dada la recursividad del lenguaje natural."
+      "question": "A árbol semántico con a rama abierta indica que existe exactamente a interpretación bajo the cual las premises del argument son true and the conclusion false.",
+      "answer": "False",
+      "explanation": "A rama abierta indica que the scheme examinado es invalid, que existen arguments con esa form tales que las premises resultan true and the conclusion false, es decir, que tiene contraejemplos. ¿cuántos? siempre infinitos, dada the recursividad del lenguaje natural."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 46,
-      "question": "Un árbol semántico con cuatro ramas cerradas y una abierta indica que existen exactamente cuatro contraejemplos del esquema de inferencia examinado.",
-      "answer": "Falso",
-      "explanation": "La rama abierta indica que el esquema de argumento examinado no es válido, pues no hay contradicción entre premisas verdaderas y conclusión falsa. El esquema tiene contraejemplos (dada la recursividad del lenguaje, podemos decir que cuenta con infinitos contraejemplos)."
+      "question": "A árbol semántico con cuatro ramas cerradas and a abierta indica que existen exactamente cuatro contraejemplos del scheme of inferencia examinado.",
+      "answer": "False",
+      "explanation": "The rama abierta indica que the scheme of argument examinado not es valid, pues not hay contradiction entre premises true and conclusion false. the scheme tiene contraejemplos (dada the recursividad del lenguaje, podemos decir que cuenta con infinitos contraejemplos)."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 47,
-      "question": "Un árbol semántico con una rama abierta indica que existe una interpretación bajo la cual las premisas del argumento son verdaderas y la conclusión falsa.",
-      "answer": "Verdadero",
-      "explanation": "Existe al menos una interpretación que hace verdaderas a las premisas y falsa a la conclusión. Sería falso, si con \"una\" se quiere decir \"exactamente una\". Una rama abierta indica que el argumento es inválido y que, por tanto, tiene contraejemplos. De hecho, siempre que hay contraejemplos, hay infinitos contraejemplos (por la recursividad del lenguaje natural)."
+      "question": "A árbol semántico con a rama abierta indica que existe a interpretación bajo the cual las premises del argument son true and the conclusion false.",
+      "answer": "True",
+      "explanation": "Existe al menos a interpretación que hace true a las premises and false a the conclusion. sería false, if con \"a\" se quiere decir \"exactamente a\". a rama abierta indica que the argument es invalid and que, therefore, tiene contraejemplos. of hecho, siempre que hay contraejemplos, hay infinitos contraejemplos (by the recursividad del lenguaje natural)."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 48,
-      "question": "Un árbol semántico con dos ramas cerradas y dos abiertas indica que existen exactamente dos casos de validez y dos de invalidez.",
-      "answer": "Falso",
-      "explanation": "Los argumentos no tienen casos de validez, sino forma válida o inválida. Un árbol abierto (no importa cuántas ramas estén abiertas) indica que hay contraejemplos, por lo que la forma examinada es inválida."
+      "question": "A árbol semántico con dos ramas cerradas and dos abiertas indica que existen exactamente dos casos of validez and dos of invalidez.",
+      "answer": "False",
+      "explanation": "Los arguments not tienen casos of validez, sino form valid or invalid. a árbol abierto (not importa cuántas ramas estén abiertas) indica que hay contraejemplos, by lo que the form examinada es invalid."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 49,
-      "question": "El antecedente de una afirmación condicional es la premisa de dicha afirmación.",
-      "answer": "Falso",
-      "explanation": "Un argumento y un enunciado tienen estructuras diferentes. La forma de un enunciado se recoge en la fórmula; la del argumento en el esquema inferencial. Se puede transformar un argu mento en un enunciado de tipo condicional, pero se mantiene la diferencia entre argumentar y enunciar y, paralelamente, entre premisa de un argumento y antecedente de una afirmación."
+      "question": "The antecedente of a afirmación condicional es the premise of dicha afirmación.",
+      "answer": "False",
+      "explanation": "A argument and a statement tienen estructuras diferentes. the form of a statement se recoge en the fórmula; the del argument en the scheme inferencial. se puede transformar a argu mento en a statement of tipo condicional, pero se mantiene the diferencia entre argumentar and enunciar and, paralelamente, entre premise of a argument and antecedente of a afirmación."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 50,
-      "question": "Un contraejemplo es un ejemplo de contradicción.",
-      "answer": "Falso",
-      "explanation": "Un contraejemplo es una interpretación que muestra la invalidez de un esquema inferencial o la de una fórmula. Por ejemplo: <i>\"Madrid es la capital de Navarra\"</i> es un contraejemplo de p. Es una afirmación falsa que muestra que p no es una fórmula válida."
+      "question": "A contraejemplo es a ejemplo of contradiction.",
+      "answer": "False",
+      "explanation": "A contraejemplo es a interpretación que muestra the invalidez of a scheme inferencial or the of a fórmula. for example: <i>\"madrid es the capital of navarra\"</i> es a contraejemplo of p. es a afirmación false que muestra que p not es a fórmula valid."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 51,
       "question": "Algunos condicionales con consecuente contradictorios son tautologías.",
-      "answer": "Verdadero",
-      "explanation": "Cuando el antecedente también es una contradicción, la fórmula resultante es una tautología, ya que de ella I(X ∧ ¬X)=0 , será siempre válido el condicional sea cual sea el valor del consecuente I(Y)=0 o I(Y)=1.\n\n Cuando ambos (antecedente y consecuente) son contradicciones, no existen interpretaciones con antecedente verdadero y consecuente falso, sino que todas las interpretaciones dan como resultado lo verdadero.\n\n Un condicional con antecedente contradictorio y consecuente contradictorio es una implicación, una fórmula tautológica. Se puede mostrar un caso con una tabla de verdad."
+      "answer": "True",
+      "explanation": "Cuando the antecedente también es a contradiction, the fórmula resultante es a tautology, ya que of ella i(x ∧ ¬x)=0 , será siempre valid the condicional sea cual sea the valor del consecuente i(and)=0 or i(and)=1.\n\n cuando ambos (antecedente and consecuente) son contradicciones, not existen interpretaciones con antecedente true and consecuente false, sino que todas las interpretaciones dan como resultado lo true.\n\n a condicional con antecedente contradictorio and consecuente contradictorio es a implication, a fórmula tautológica. se puede mostrar a caso con a tabla of verdad."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 52,
-      "question": "Una implicación es un condicional verdadero.",
-      "answer": "Falso",
-      "explanation": "Una relación de implicación entre dos fórmulas A y B se da cuando es imposible encontrar una interpretación que haga verdadera a la primera y falsa a la segunda. Este es exactamente el caso del condicional tautológico, el condicional no es simplemente verdadero, sino lógicamente verdadero. Un condicional como <i>\"Si Madrid es capital de España, entonces París lo es de Francia\"</i>, aunque es verdadero, no es una implicación, sino un condicional contingente."
+      "question": "A implication es a condicional true.",
+      "answer": "False",
+      "explanation": "A relación of implication entre dos fórmulas a and b se da cuando es imposible encontrar a interpretación que haga true a the primera and false a the segunda. este es exactamente the caso del condicional tautológico, the condicional not es simplemente true, sino lógicamente true. a condicional como <i>\"if madrid es capital of españa, entonces parís lo es of francia\"</i>, aunque es true, not es a implication, sino a condicional contingente."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 53,
-      "question": "Una ley es una forma lógica que no tiene contraejemplos.",
-      "answer": "Verdadero",
-      "explanation": "Se puede demostrar a partir de un conjunto vacío de premisas. Si hacemos un árbol semántico para su negación, todas las ramas cerrarán. Si hacemos una tabla de verdad, veremos que se trata de una tautología, por lo que no es posible encontrar un enunciado (una interpretación) con dicha forma lógica que sea falso, es decir, no tiene contraejemplos.\n\nPor ejemplo: (p→q) → (¬q→¬p) <strong>Ley de contraposición (del condicional)</strong>\n\n<table><tr><th>p</th><th>q</th><th>(p→q)</th><th>(¬q→¬p)</th><th>(p→q)→(¬q→¬p)</th></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td></tr><tr><td>0</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>0</td><td>0</td><td>1</td><td>1</td><td>1</td></tr></table>\n<table class=\"no-border-table\"><tr><td colspan=\"2\" style=\"text-align: center;\">√ 1. (p → q)</td></tr><tr><td colspan=\"2\" style=\"text-align: center;\">√ 2. ¬(¬q→¬p)</td></tr><tr><td>3.1 ¬p (β 1)</td><td>3.2 q (β 1)</td><tr><td>4.1 ¬q (α 2)</td><td>4.2 ¬q (α 2)</td></tr><tr><td>5.1 p (α 2)</td><td>5.2 p (α 2)</td></tr><tr><td>Cierra con 3.1 y 5.1</td><td>Cierra con 3.2 4.2</td></tr></table>"
+      "question": "A ley es a form logical que not tiene contraejemplos.",
+      "answer": "True",
+      "explanation": "Se puede demostrar a partir of a conjunto vacío of premises. if hacemos a árbol semántico para su negación, todas las ramas cerrarán. if hacemos a tabla of verdad, veremos que se trata of a tautology, by lo que not es posible encontrar a statement (a interpretación) con dicha form logical que sea false, es decir, not tiene contraejemplos.\n\nfor example: (p→q) → (¬q→¬p) <strong>ley of contraposición (del condicional)</strong>\n\n<table><tr><th>p</th><th>q</th><th>(p→q)</th><th>(¬q→¬p)</th><th>(p→q)→(¬q→¬p)</th></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td></tr><tr><td>0</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>0</td><td>0</td><td>1</td><td>1</td><td>1</td></tr></table>\n<table class=\"not-border-table\"><tr><td colspan=\"2\" style=\"text-align: center;\">√ 1. (p → q)</td></tr><tr><td colspan=\"2\" style=\"text-align: center;\">√ 2. ¬(¬q→¬p)</td></tr><tr><td>3.1 ¬p (β 1)</td><td>3.2 q (β 1)</td><tr><td>4.1 ¬q (α 2)</td><td>4.2 ¬q (α 2)</td></tr><tr><td>5.1 p (α 2)</td><td>5.2 p (α 2)</td></tr><tr><td>cierra con 3.1 and 5.1</td><td>cierra con 3.2 4.2</td></tr></table>"
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 54,
       "question": "Los teoremas son las reglas deductivas del cálculo axiomático.",
-      "answer": "Falso",
-      "explanation": "El cálculo axiomático no tiene reglas deductivas propiamente, sino reglas de transformación. Los teoremas son fórmulas válidas obtenidas a partir de los axiomas, mediante las reglas de transformación."
+      "answer": "False",
+      "explanation": "The cálculo axiomático not tiene reglas deductivas propiamente, sino reglas of transformación. los teoremas son fórmulas valid obtenidas a partir of los axiomas, mediante las reglas of transformación."
     },
     {
       "section": "NOTES QUESTIONS",
       "number": 55,
-      "question": "En el cálculo axiomático solamente se utilizan fórmulas tautológicas o válidas.",
-      "answer": "Verdadero",
-      "explanation": "En el cálculo axiomático se parte de axiomas, que son verdades lógicas (tautologías, fórmulas válidas) por estipulación. Mediante reglas, se van demostrando los teoremas que conservan la validez de los axiomas. \n\nOtra Explicación:\nVerdadero: El cálculo axiomático parte de fórmulas que se aceptan como válidas o tautológicas no demostrables en el sistema y, mediante reglas de transformación, demuestra la validez de otras de modo que en la cadena demostrativa se escriben únicamente fórmulas válidas. Dicho de otro modo, las reglas de transformación del cálculo axiomático no solamente conservan la verdad de las premisas, si la hay, sino también la validez de su forma."
+      "question": "En the cálculo axiomático solamente se utilizan fórmulas tautológicas or valid.",
+      "answer": "True",
+      "explanation": "En the cálculo axiomático se parte of axiomas, que son verdades lógicas (tautologías, fórmulas valid) by estipulación. mediante reglas, se van demostrando los teoremas que conservan the validez of los axiomas. \n\notra explicación:\ntrue: the cálculo axiomático parte of fórmulas que se aceptan como valid or tautológicas not demostrables en the sistema and, mediante reglas of transformación, demuestra the validez of otras of modo que en the cadena demostrativa se escriben únicamente fórmulas valid. dicho of otro modo, las reglas of transformación del cálculo axiomático not solamente conservan the verdad of las premises, if the hay, sino también the validez of su form."
     }
   ]
 }
