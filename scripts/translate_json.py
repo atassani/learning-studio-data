@@ -72,6 +72,7 @@ _PLACEHOLDER_RE = re.compile(
     r"|\{[^{}\n]+\}"  # {0}, {name}
     r"|%%|%[a-zA-Z]"  # %% and %s-like tokens
 )
+_HTML_TAG_RE = re.compile(r"</?[A-Za-z][^>]*>")
 
 
 class TranslationError(RuntimeError):
@@ -557,6 +558,8 @@ class DeepLClient:
         texts: Sequence[str],
         source_lang: str,
         target_lang: str,
+        *,
+        tag_handling: str | None = None,
     ) -> List[str]:
         if not texts:
             return []
@@ -568,6 +571,8 @@ class DeepLClient:
             "preserve_formatting": "1",
             "split_sentences": "nonewlines",
         }
+        if tag_handling:
+            payload["tag_handling"] = tag_handling
         headers = {
             "Authorization": f"DeepL-Auth-Key {self.api_key}",
         }
@@ -694,6 +699,10 @@ def build_batches(
     return batches
 
 
+def contains_html(text: str) -> bool:
+    return bool(_HTML_TAG_RE.search(text))
+
+
 def collect_named_array_lengths(obj: Any, keys: set[str], path: JsonPath = ()) -> Dict[str, int]:
     result: Dict[str, int] = {}
 
@@ -777,43 +786,68 @@ def translate_entries(
     if not pending:
         return translations_by_path
 
-    new_since_flush = 0
-    batches = build_batches(
-        pending,
-        max_chars_per_batch=cfg.max_chars_per_batch,
-        max_texts_per_batch=cfg.max_texts_per_batch,
+    pending_groups = [
+        ("plain", [entry for entry in pending if not contains_html(entry.text)], None),
+        ("html", [entry for entry in pending if contains_html(entry.text)], "html"),
+    ]
+
+    total_batches = sum(
+        len(
+            build_batches(
+                group_entries,
+                max_chars_per_batch=cfg.max_chars_per_batch,
+                max_texts_per_batch=cfg.max_texts_per_batch,
+            )
+        )
+        for _, group_entries, _ in pending_groups
+        if group_entries
     )
 
-    for batch_index, batch in enumerate(batches, start=1):
-        masked_texts: List[str] = []
-        mappings: List[Dict[str, str]] = []
-        for entry in batch:
-            masked, mapping = _mask_placeholders(entry.text)
-            masked_texts.append(masked)
-            mappings.append(mapping)
+    new_since_flush = 0
+    completed_batches = 0
 
-        translated_masked = client.translate_batch(
-            masked_texts,
-            source_lang=cfg.source_lang,
-            target_lang=cfg.target_lang,
-        )
-        stats.api_calls += 1
+    for _, group_entries, tag_handling in pending_groups:
+        if not group_entries:
+            continue
 
-        for entry, translated_text, mapping in zip(batch, translated_masked, mappings):
-            restored = _unmask_placeholders(translated_text, mapping)
-            translations_by_path[entry.path] = restored
-            cache_set(cache, cfg.source_lang, cfg.target_lang, entry.text, restored)
-            stats.translated_strings += 1
-            new_since_flush += 1
-
-        _print(
-            f"Progress: batch {batch_index}/{len(batches)} | "
-            f"translated={stats.translated_strings} cache_hits={stats.cache_hits} api_calls={stats.api_calls}"
+        batches = build_batches(
+            group_entries,
+            max_chars_per_batch=cfg.max_chars_per_batch,
+            max_texts_per_batch=cfg.max_texts_per_batch,
         )
 
-        if cfg.cache_flush_every > 0 and new_since_flush >= cfg.cache_flush_every:
-            save_cache(cache, cfg.cache_path)
-            new_since_flush = 0
+        for batch in batches:
+            masked_texts: List[str] = []
+            mappings: List[Dict[str, str]] = []
+            for entry in batch:
+                masked, mapping = _mask_placeholders(entry.text)
+                masked_texts.append(masked)
+                mappings.append(mapping)
+
+            translated_masked = client.translate_batch(
+                masked_texts,
+                source_lang=cfg.source_lang,
+                target_lang=cfg.target_lang,
+                tag_handling=tag_handling,
+            )
+            stats.api_calls += 1
+            completed_batches += 1
+
+            for entry, translated_text, mapping in zip(batch, translated_masked, mappings):
+                restored = _unmask_placeholders(translated_text, mapping)
+                translations_by_path[entry.path] = restored
+                cache_set(cache, cfg.source_lang, cfg.target_lang, entry.text, restored)
+                stats.translated_strings += 1
+                new_since_flush += 1
+
+            _print(
+                f"Progress: batch {completed_batches}/{total_batches} | "
+                f"translated={stats.translated_strings} cache_hits={stats.cache_hits} api_calls={stats.api_calls}"
+            )
+
+            if cfg.cache_flush_every > 0 and new_since_flush >= cfg.cache_flush_every:
+                save_cache(cache, cfg.cache_path)
+                new_since_flush = 0
 
     return translations_by_path
 
