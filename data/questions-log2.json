@@ -1,0 +1,654 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-03-14T10:31:55Z",
+  "area": "Lógica II",
+  "type": "True False",
+  "shortName": "log2",
+  "language": "es",
+  "questions": [
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 1,
+      "question": "La Deducción Natural no permite conocer la verdad de las premisas ni tampoco la de la conclusión.",
+      "answer": "Verdadero",
+      "explanation": "Los valores de verdad de cualquier enunciado se investigan en las distintas ciencias o mediante el sentido común. La lógica puede decir algo sobre las relaciones entre unos valores y otros. Por ejemplo, dice que de una premisa lógicamente falsa (una contradicción) se puede concluir válidamente cualquier afirmación."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 2,
+      "question": "En una demostración axiomática se prueba la verdad de un teorema.",
+      "answer": "Verdadero",
+      "explanation": "Eso es exactamente un cálculo axiomático: se establecen unos axiomas y, mediante una regla de transformación y el Modus Ponens, se asegura que todo el resto de fórmulas obtenidas son teoremas, es decir, verdades lógicas. En el cálculo axiomático se parte de axiomas, que son verdades lógicas (tautologías, fórmulas válidas) por estipulación. Mediante reglas, se van demostrando los teoremas que conservan la validez de los axiomas."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 3,
+      "question": "ANOMALY La implicación lógica es independiente de la verdad o falsedad de las proposiciones involucradas.",
+      "answer": "Verdadero",
+      "explanation": "Verdadero. En el sentido de que caben los casos de antecedente verdadero o falso y consecuente verdadero o falso (V-V, F-V, F-F). Falso. En el sentido de que la implicación es incompatible con el caso de que el antecedente sea verdadero y el consecuente falso (V-F). Es decir, es independiente de los valores, pero no de su composición."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 4,
+      "question": "Si en una Deducción Natural se prueba que la conclusión se sigue lógicamente de las premisas, se ha demostrado la verdad de la conclusión.",
+      "answer": "Falso",
+      "explanation": "Queda demostrada la verdad de la conclusión únicamente si hemos puesto premisas verdaderas."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 5,
+      "question": "Dado que cualquier argumento admite diversas formalizaciones, podemos encontrarnos con que algunas formas de argumento sean válidas y otras no.",
+      "answer": "Verdadero",
+      "explanation": "Lo que es válido es una forma lógica. Cada enunciado puede ser, en principio, formalizado de varias maneras diferentes; puede ser que unas sean válidas y otras no."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 6,
+      "question": "La negación de “Todo P es Q” es “Ningún P es Q”.",
+      "answer": "Falso",
+      "explanation": "La negación es “No todo P es Q” (no es imposible que algún P sea Q)."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 7,
+      "question": "En un cálculo axiomático solamente se utilizan fórmulas válidas.",
+      "answer": "Verdadero",
+      "explanation": "En el cálculo axiomático se parte de axiomas, que son verdades lógicas (tautologías, fórmulas válidas) por estipulación. Mediante reglas, se van demostrando los teoremas que conservan la validez de los axiomas."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 8,
+      "question": "De “Todos los matemáticos están chiflados” se sigue lógicamente “Algunos matemáticos están chiflados”.",
+      "answer": "Falso",
+      "explanation": "No es imposible que no haya matemáticos. Del condicional cuantificado universalmente (∀x (Mx<br>→ Cx)) no se sigue el existencial (∃x (Mx ∧ Cx)). (Se puede aportar el árbol semántico)."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 9,
+      "question": "En el lenguaje del cálculo de predicados, las letras “x”, “y”, etc. son constantes individuales.",
+      "answer": "Falso",
+      "explanation": "Son las letras que utilizamos para ocupar el lugar vacío de los predicados, es decir, son las variables objetuales (que se usan como objetos)."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 10,
+      "question": "De dos afirmaciones particulares no se sigue lógicamente ninguna afirmación universal.",
+      "answer": "Verdadero",
+      "explanation": "En general, de lo particular no se sigue lo universal. Si bien puede darse el caso de una conclusión universal tautológica (que se sigue de cualquier afirmación)."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 11,
+      "question": "Un árbol semántico con una rama abierta indica que existe una interpretación bajo la cual las premisas del argumento son verdaderas y la conclusión falsa.",
+      "answer": "Verdadero",
+      "explanation": "Existe al menos una interpretación que hace verdaderas a las premisas y falsa a la conclusión. Sería falso, si con &quot;una&quot; se quiere decir &quot;exactamente una&quot;. Una rama abierta indica que el argumento es inválido y que, por tanto, tiene contraejemplos. De hecho, siempre que hay contraejemplos, hay infinitos contraejemplos (por la recursividad del lenguaje natural)."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 12,
+      "question": "∃x (Fa ∧ Fxx) es una fórmula mal formada.",
+      "answer": "Verdadero",
+      "explanation": "El predicado F figura como monádico y como diádico."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 13,
+      "question": "El consecuente de una afirmación de tipo condicional es la conclusión de dicha afirmación.",
+      "answer": "Falso",
+      "explanation": "El consecuente es una parte de una afirmación, la conclusión es una parte de un argumento. Una afirmación no es lo mismo que un argumento."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 14,
+      "question": "De una afirmación universal no siempre se sigue una afirmación existencial.",
+      "answer": "Verdadero",
+      "explanation": "Por ejemplo, de que todos los cisnes son blancos no se sigue ni que hay cisnes ni que hay cisnes blancos. Lo mismo ocurre con los marcianos verdes."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 15,
+      "question": "Un árbol semántico con todas sus ramas cerradas indica que no existe ninguna interpretación bajo la cual las premisas del argumento pudieran ser verdaderas y la conclusión falsa.",
+      "answer": "Verdadero",
+      "explanation": "El árbol semántico examina si hay o no contradicción en suponer premisas verdaderas y conclusión falsa. Si se encuentra contradicción en todas las ramas (están cerradas por ello) podemos concluir que es imposible el caso de premisas verdaderas y conclusión falsa."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 16,
+      "question": "Fa → ∀x Fxa es una fórmula bien formada.",
+      "answer": "Falso",
+      "explanation": "Un mismo predicado no puede ser a la vez monádico y diádico. La letra F tiene un lugar de argumento o dos, pero no uno y dos en la misma fórmula. Así, F irá seguido de a o de xa, pero no de ambas."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 17,
+      "question": "El antecedente de una afirmación condicional es la premisa de dicha afirmación.",
+      "answer": "Falso",
+      "explanation": "Un argumento y un enunciado tienen estructuras diferentes. La forma de un enunciado se recoge en la fórmula; la del argumento en el esquema inferencial. Se puede transformar un argumento en un enunciado de tipo condicional, pero se mantiene la diferencia entre argumentar y enunciar y, paralelamente, entre premisa de un argumento y antecedente de una afirmación."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 18,
+      "question": "El enunciado “Juan existe” se formaliza Pa.",
+      "answer": "Falso",
+      "explanation": "La existencia es un cuantificador, no un predicado de primer nivel. Se formaliza así: ∃x (x = a),<br>(siendo “a” Juan)."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 19,
+      "question": "Del enunciado “Todos los círculos son figuras” se sigue el enunciado “Algún círculo es una figura”.",
+      "answer": "Falso",
+      "explanation": "La primera se formaliza como ∀x (Cx → Fx), y la segunda como ∃x (Cx ∧ Fx). (Se puede hacer el<br>árbol semántico para comprobar que alguna rama completa queda abierta, sin contradicción, lo que indica que es posible una interpretación que haga verdadera la premisa y falsa la conclusión)."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 20,
+      "question": "∃x (Fx → Gx) es una fórmula bien formada.",
+      "answer": "Verdadero",
+      "explanation": "Sigue las reglas de formación de fórmulas: Fx es una fórmula bien formada. Gx es una<br>fórmula bien formada. Fx → Gx es una fórmula bien formada. ∃x (Fx → Gx) es una fórmula bien<br>formada."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 21,
+      "question": "∃x Rxx no es una fórmula bien formada de la lógica cuantificacional.",
+      "answer": "Falso",
+      "explanation": "Se construye de acuerdo con las reglas de formación de fórmulas: Rxx es una fórmula bien<br>formada. ∃x Rxx es una fórmula bien formada."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 22,
+      "question": "En la lógica cuantificacional de primer orden las letras predicativas no son susceptibles de cuantificación.",
+      "answer": "Verdadero",
+      "explanation": "La cuantificación se hace sobre los argumentos de los predicados, o, lo que es lo mismo, sobre los elementos de un conjunto: hablamos de todos ellos o de algunos de ellos o de ninguno."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 23,
+      "question": "De ∀x (Fx → Gx) se sigue formalmente ∃x (Fx ∧ Gx)",
+      "answer": "Falso",
+      "explanation": "Si no hubiera ningún F sería verdadera la primera fórmula, pero falsa la segunda."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 24,
+      "question": "El enunciado “Dos individuos son idénticos si y sólo si no hay ninguna nota que los diferencie” no es formalizable en la lógica cuantificacional de primer orden.",
+      "answer": "Verdadero",
+      "explanation": "Ese enunciado contiene una cuantificación sobre predicados, dice que dos individuos son idénticos si y sólo si para todo predicado P … En la lógica de primer orden solamente cuantificamos sobre individuos, habla de todos, algunos o ninguno de un conjunto de individuos (que puede ser vacío)."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 25,
+      "question": "De “Todo es F” se sigue “Hay algo que es F”.",
+      "answer": "Verdadero",
+      "explanation": "Si hubiera dos predicados como “todo P es F”, no se seguiría un existencial, pero en este caso, con un único predicado, sí."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 26,
+      "question": "∃x ¬ Rxa no es una fórmula bien formada de la lógica cuantificacional.",
+      "answer": "Falso",
+      "explanation": "Sigue las reglas de formación de fórmulas: Rxa es una fórmula bien formada. ¬ Rxa es una<br>fórmula bien formada. ∃x ¬ Rxa es una fórmula bien formada."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 27,
+      "question": "El enunciado “Juan existe y Andrés es alto” se formaliza (Pa ∧ Qb).",
+      "answer": "Falso",
+      "explanation": "La existencia se formaliza con el cuantificador existencial. Sería “existe un x que es Juan y Andrés<br>es alto”: ∃x (x = a) ∧ Qb."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 28,
+      "question": "De los enunciados “Todos los cuadrados tienen cuatro lados” y “Todos los triángulos tienen tres ángulos” se sigue lógicamente el enunciado “Ningún cuadrado es un triángulo”.",
+      "answer": "Falso",
+      "explanation": "No se sigue por la mera forma de los enunciados, sino porque aplicamos algún otro conocimiento matemático, como: algo tiene cuatro lados si y sólo si no tiene tres ángulos."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 29,
+      "question": "∃x (¬Fx → Gxa) es una fórmula bien formada.",
+      "answer": "Verdadero",
+      "explanation": "Sigue las reglas de formación de fórmulas: Fx es una fórmula bien formada. ¬Fx es una<br>fórmula bien formada. Gxa es una fórmula bien formada. ¬Fx → Gxa es una fórmula bien formada.<br>∃x (¬Fx → Gxa) es una fórmula bien formada."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 30,
+      "question": "∀x (Px → (Qx ∨ Rx)) implica ∀x (Px → Qx) ∨ ∀x (Px → Rx).",
+      "answer": "Falso",
+      "explanation": "Contraejemplo: “Todos los alumnos suspenden o aprueban” no implica “Todos los alumnos suspenden o todos los alumnos aprueban”."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 31,
+      "question": "Un árbol semántico con una rama abierta indica que existe una interpretación bajo la cual las premisas del argumento son verdaderas y la conclusión también.",
+      "answer": "Falso",
+      "explanation": "Indica que pueden ser verdaderas las premisas y la negación de la conclusión (ya que no entran en contradicción). Eso significa que es posible que las premisas sean verdaderas y la conclusión falsa."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 32,
+      "question": "Si X es una fórmula válida, Y ∨ X también lo es.",
+      "answer": "Verdadero",
+      "explanation": "Las leyes de la Deducción Natural aseguran la conservación de la verdad (y del tipo de verdad) y aquí lo único que se ha hecho es aplicar la regla de introducción de la disyunción."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 33,
+      "question": "El consecuente de una fórmula condicional es la conclusión de un argumento.",
+      "answer": "Falso",
+      "explanation": "Antecedente y consecuente se aplican a enunciados y a sus formas (fórmulas), premisa y conclusión se aplican a argumentos y a esquemas de argumentos. Son dos niveles de lenguaje diferentes. Los enunciados son verdaderos o falsos (sus formas, contingentes, tautológicas o contradictorias), los argumentos son válidos o inválidos."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 34,
+      "question": "Cualquier fórmula válida es implicada por una contradicción.",
+      "answer": "Verdadero",
+      "explanation": "En primer lugar, porque una tautología es implicada por cualquier fórmula. En segundo lugar, porque de una contradicción se sigue lógicamente cualquier cosa, es decir, una fórmula contradictoria implica cualquier fórmula."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 35,
+      "question": "Si un enunciado ¬ p es falso, el enunciado ¬ p también lo es.",
+      "answer": "Verdadero",
+      "explanation": "Si ¬ p es falso, p tiene que ser verdadero necesariamente. Luego, es imposible ¬ p; es<br>decir, ¬◊¬ p. Cuando p es necesariamente verdadero, ¬ p es falso."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 36,
+      "question": "El Modus Tollens no es una forma argumentativa válida.",
+      "answer": "Falso",
+      "explanation": "Es una de las reglas derivadas, es decir, una de las formas argumentativas válidas."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 37,
+      "question": "Si el enunciado ¬ p es falso, el enunciado p también lo es.",
+      "answer": "Falso",
+      "explanation": "Si ¬ p es falso, significa que necesariamente p es verdadero: p, p no puede ser falso. ¬ p es<br>imposible ( p ≡ ¬ ◊ ¬ p)."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 38,
+      "question": "De una afirmación universal siempre se sigue lógicamente una afirmación existencial.",
+      "answer": "Falso",
+      "explanation": "De que todos los marcianos son verdes no se sigue que hay marcianos verdes. (Se puede formalizar y hacer el árbol semántico)."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 39,
+      "question": "La fórmula (¬ ◊ p) equivale a la fórmula (¬ ¬ p).",
+      "answer": "Falso",
+      "explanation": "¬ ◊ p equivale a ¬ p."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 40,
+      "question": "Toda fórmula con la forma (Y → (X ∨ ¬ X) es una fórmula válida.",
+      "answer": "Verdadero",
+      "explanation": "Toda fórmula con la forma (X ∨ ¬ X) es una fórmula válida, por lo que no podrá darse el caso<br>de que Y sea verdadero y (X ∨ ¬ X) falso, que sería el único caso en el que el condicional sería falso. Por<br>tanto, toda fórmula con la forma (Y → (X ∨ ¬ X)) es siempre verdadera, es decir, es válida."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 41,
+      "question": "El principio de los indiscernibles dice que cuando dos cosas tienen exactamente las mismas propiedades, entonces son idénticas.",
+      "answer": "Falso",
+      "explanation": "El principio de indiscernibilidad (de los idénticos) dice que cuando dos entidades son idénticas, tienen las mismas propiedades, son indiscernibles."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 42,
+      "question": "Aunque un argumento tenga premisas verdaderas y conclusión falsa, puede tener una forma lógica válida.",
+      "answer": "Falso",
+      "explanation": "Si tiene premisas verdaderas y conclusión falsa, él mismo es un contraejemplo de su forma lógica; es decir, el mismo argumento es una prueba de que la forma de dicho argumento es inválida: no asegura que poniendo verdad en las premisas vayamos a obtener necesariamente verdad en la conclusión."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 43,
+      "question": "Para que un argumento sea inválido basta que la conclusión sea contradictoria.",
+      "answer": "Falso",
+      "explanation": "Una conclusión contradictoria se puede seguir válidamente de premisas falsas."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 44,
+      "question": "no es una fórmula bien formada.",
+      "answer": "Verdadero",
+      "explanation": "β no pertenece al vocabulario del lenguaje de la Lógica de Primer Orden. Detrás de una letra de predicado solamente podemos encontrar las letras de objetos a, b, c, etc., las variables de objeto x, y, z, etc. o bien las descripciones definidas. es un símbolo del metalenguaje. Además falta un paréntesis derecho."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 45,
+      "question": "no es una fórmula bien formada.",
+      "answer": "Falso",
+      "explanation": "Está construida de acuerdo a las reglas de formación de fórmulas: Px es una fórmula (letra<br>predicativa seguida de variable individual) ¬Px es una fórmula bien formada (introducción de ¬ sobre fbf)<br>(Px ∧ ¬Px) es una fórmula bien formada (introducción de ∧ sobre dos fbf) ∃x (Px ∧ ¬ Px) es una fórmula<br>bien formada (introducción de V sobre fbf) Qx es una fórmula bien formada (letra predicativa seguida de<br>variable individual) ∧ x Qx es una fórmula bien formada (introducción de ∧ sobre fbf)<br>(∃x (Px ∧ ¬Px) → ∧ x Qx) es una fórmula bien formada (introducción de sobre dos fbf)."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 46,
+      "question": "Para que un argumento sea válido no es condición necesaria que su conclusión sea verdadera.",
+      "answer": "Verdadero",
+      "explanation": "La forma argumentativa válida solamente hace imposible el caso de premisas verdaderas y conclusión falsa. El resto de las combinaciones de valores de verdad son todas posibles. Puede haber, por ejemplo, premisas falsas y conclusión falsa."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 47,
+      "question": "Un árbol semántico con todas sus ramas abiertas indica que no existe ninguna interpretación que haga verdaderas a las premisas y falsa a la conclusión.",
+      "answer": "Falso",
+      "explanation": "Las ramas abiertas indican que la forma argumentativa tiene contraejemplos y es, por tanto, inválida: sí existen interpretaciones que hacen verdaderas las premisas y falsa la conclusión."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 48,
+      "question": "∧ x (Px → (Qx ∨ Rx)) implica ∀x (Px → Qx) ∨ ∀x (Px → Rx)",
+      "answer": "Falso",
+      "explanation": "Se puede hacer el árbol semántico, poniendo ∀x (Px → (Qx ∨ Rx)) como premisa y ¬ (∀x (Px →<br>Qx) ∨ ∀x (Px → Rx)) como negación de la conclusión; y comprobar que queda al menos una rama<br>completa y abierta."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 49,
+      "question": "La negación de un argumento válido es uno inválido.",
+      "answer": "Falso",
+      "explanation": "Los argumentos no admiten negación, pues no son afirmaciones, sino conjuntos de afirmaciones con un cierto orden."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 50,
+      "question": "Si un argumento tiene premisas verdaderas y conclusión falsa, no puede tener una forma lógica válida.",
+      "answer": "Verdadero",
+      "explanation": "Una forma inferencial válida impide el caso de argumento con premisas verdaderas y conclusión falsa. De lo verdadero no se sigue válidamente lo falso. Ese argumento serviría como contraejemplo que prueba la invalidez de su forma inferencial."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 51,
+      "question": "De la afirmación de que ningún cisne es negro se sigue lógicamente que no todo cisne es negro.",
+      "answer": "Falso",
+      "explanation": "Se puede mostrar con un sencillo árbol semántico que ¬ ∃x (Cx ∧ Nx) no implica ¬ ∀x (Cx →<br>Nx)."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 52,
+      "question": "De la afirmación de que todos los marcianos son verdes se sigue lógicamente que algunos marcianos son verdes.",
+      "answer": "Falso",
+      "explanation": "Podemos formalizar y probar mediante un árbol que de ∀x (Mx → ∃x) no se sigue ∃x (Mx ∧ ∃x)."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 53,
+      "question": "(∃x (Px ∧ ¬Px) → ∀x Qx) no es una fórmula bien formada.",
+      "answer": "Falso",
+      "explanation": "Cumple con las reglas de formación de fórmulas: Px es una fórmula bien formada. ¬Px es una<br>fórmula bien formada. (Px ∧ ¬Px) es una fórmula bien formada. ∃x (Px ∧ ¬Px) es una fórmula bien<br>formada. Qx es una fórmula bien formada. ∀x Qx es una fórmula bien formada. ∃x (Px ∧ ¬Px) → ∀x Qx<br>es una fórmula bien formada."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 54,
+      "question": "Un argumento con premisas verdaderas será válido si su conclusión también es verdadera.",
+      "answer": "Falso",
+      "explanation": "Un argumento con premisas verdaderas y conclusión verdadera puede tener una forma lógica inválida. Tener conclusión verdadera no es condición suficiente para que el argumento con premisas verdaderas sea válido. Sí es una condición necesaria: Si el argumento tiene premisas verdaderas y conclusión verdadera, no necesariamente su forma es válida. En cambio, si el argumento tiene premisas verdaderas y forma válida, entonces necesariamente su conclusión es verdadera."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 55,
+      "question": "Si X es una fórmula válida, su negación ¬ X es una tautología.",
+      "answer": "Falso",
+      "explanation": "Su negación es una contradicción. Una fórmula válida es una tautología (todas sus interpretaciones son verdaderas). La negación da como resultado una fórmula contradictoria (todas sus interpretaciones son falsas)."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 56,
+      "question": "Un condicional con antecedente contradictorio es una implicación.",
+      "answer": "Verdadero",
+      "explanation": "Una implicación es un condicional tautológico. El condicional tautológico es aquel cuya forma lógica no permite una interpretación con antecedente verdadero y consecuente falso. Si el antecedente es contradictorio, no habrá ningún caso de antecedente verdadero. Sea como sea el consecuente, el condicional será tautológico."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 57,
+      "question": "Si un argumento es inválido, el árbol de su esquema presenta todas las ramas abiertas.",
+      "answer": "Falso",
+      "explanation": "Puede haber ramas cerras. Lo único seguro es que alguna de las ramas (quizás solamente una) queda abierta, no contiene contradicción, lo que indica que existen contraejemplos, que el argumento tiene una forma inválida."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 58,
+      "question": "Si X es una fórmula válida, Y → X también lo es.",
+      "answer": "Verdadero",
+      "explanation": "Si el consecuente de ese condicional es una tautología, es imposible encontrar un caso que haga falsa la fórmula, es decir, un caso en el que Y fuera verdadero y X falso."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 59,
+      "question": "De la afirmación de que todas las ballenas son mamíferos se sigue lógicamente que algunas ballenas son mamíferos.",
+      "answer": "Falso",
+      "explanation": "B: ser ballena M: ser mamífero<br>La forma lógica de ese enunciado es ∧ x (Bx → Mx), que es equivalente a ¬∃x (Bx ∧ ¬Mx). De aquí no se<br>sigue que hay ballenas (ni ballenas que sean mamíferos ni ballenas que no lo sean). El universal seguido de condicional no implica existencia ni del antecedente ni del consecuente. Un existencial se sigue de un<br>universal cuando el universal cubre un predicado simple. De ∧ x Bx sí se sigue que existen cosas que son<br>B."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 60,
+      "question": "Para que un argumento sea inválido basta que la conclusión sea falsa.",
+      "answer": "Falso",
+      "explanation": "Un argumento es inválido cuando su forma hace posible que existan argumentos con dicha forma que tengan premisas verdaderas junto a conclusión falsa; es decir, cuando permite el paso de lo verdadero a lo falso. Pero podemos tener argumentos válidos cuya conclusión es falsa y también lo es alguna de sus premisas."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 61,
+      "question": "∧ x (Px ¬ ∧ ¬Px) es una fórmula bien formada.",
+      "answer": "Falso",
+      "explanation": "Las reglas de formación de fórmulas no permiten escribir una negación seguida de una conjunción<br>(¬ ∧ ), La negación precede siempre a una fórmula, no a una conectiva: si X es una fórmula bien formada,<br>¬X también es una fórmula bien formada. Pero &quot; ∧ ¬Px&quot; no es una fórmula bien formada."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 62,
+      "question": "Si X es una fórmula válida, la fórmula (¬X ∧ Y) es una tautología.",
+      "answer": "Falso",
+      "explanation": "La negación de X será una contradicción, por lo que su conjunción con Y será también una contradicción, sea lo que sea Y."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 63,
+      "question": "La negación de “Toda regla es una deducción válida” es “Ninguna regla es una deducción válida”.",
+      "answer": "Falso",
+      "explanation": "La negación es &quot; No toda regla es una deducción válida &quot;."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 64,
+      "question": "(∃x (Pα ∧ ¬ Pxx) → ∧ x Qx) no es una fórmula bien formada.",
+      "answer": "Verdadero",
+      "explanation": "<ol><li>α no pertenece al vocabulario del lenguaje-fórmula, sino que se utiliza en el metalenguaje.</li><li>Un predicado no puede ser monádico (P α) y diádico en una misma fórmula (Pxx).</li></ol>"
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 65,
+      "question": "Para que un argumento sea válido basta que la conclusión sea verdadera.",
+      "answer": "Falso",
+      "explanation": "La validez del argumento depende de su forma y no del valor de verdad de la conclusión. Cuando un argumento tiene forma válida, es imposible encontrar ningún argumento con esa misma forma tal que sus premisas sean verdaderas y su conclusión falsa. Pero podemos encontrar argumentos con premisas falsas (al menos una) y conclusión falsa."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 66,
+      "question": "Si X es una fórmula contingente, la fórmula (¬ X ∧ Y) es una contradicción.",
+      "answer": "Falso",
+      "explanation": "La negación de X será otra contingencia, por lo que su conjunción con una fórmula cualquiera. Y nunca podrá dar lugar a una tautología, pero tampoco necesariamente a una contradicción. Será una contingencia o una contradicción, dependiendo de lo que sea Y."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 67,
+      "question": "Si un argumento es inválido, el árbol de su esquema presenta alguna rama cerrada.",
+      "answer": "Falso",
+      "explanation": "El árbol para un argumento con forma inválida presenta alguna rama abierta. No sabemos cuántas, quizás todas."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 68,
+      "question": "Dada una fórmula X, si el Árbol para X queda abierto y el Árbol para ¬ X también queda abierto, podemos decir que la fórmula X no es una tautología.",
+      "answer": "Verdadero",
+      "explanation": "Un árbol abierto para X nos indica que X tiene algún caso de verdad V. Un árbol abierto para<br>¬X nos indica que ¬X tiene algún caso de verdad V. En esos casos, X es F. Esto significa que X tiene<br>casos V y casos F. Es una fórmula contingente."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 69,
+      "question": "Una forma argumentativa inválida tiene falsedad en el conjunto de las premisas o en la conclusión.",
+      "answer": "Falso",
+      "explanation": "Las argumentaciones inválidas pueden tener cualquier valor de verdad tanto en las premisas como en la conclusión."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 70,
+      "question": "De la afirmación \"Todos los alumnos de Lógica II que se presenten a examen, aprobarán\", se sigue \"Algunos alumnos de Lógica II aprobarán\".",
+      "answer": "Falso",
+      "explanation": "De la afirmación universal no se sigue que hay individuos que aprobarán. La afirmación universal<br>tiene esta forma: ∧ x ((Px ∧ Qx) → Rx) (todo lo que es P y Q, es R), que no equivale a la forma<br>∃x (Px ∧ Rx) (hay cosas que son P y R)."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 71,
+      "question": "Un Árbol Semántico es un método para analizar formas argumentativas y también formas enunciativas o fórmulas.",
+      "answer": "Verdadero",
+      "explanation": "Con un árbol semántico se examina un conjunto de fórmulas. Lo más frecuente es que dicho conjunto conste de las premisas de un argumento y la negación de su conclusión; pero también podemos examinar un conjunto unitario, es decir, que conste únicamente de una fórmula."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 72,
+      "question": "Algunas fórmulas son verdaderas.",
+      "answer": "Falso",
+      "explanation": "Las fórmulas solamente pueden ser evaluadas como: 1) contradictorias, 2) tautológicas o válidas o bien 3) contingentes. También podemos clasificar las fórmulas en satisfacibles (las contingentes y las tautológicas) e insatisfacibles (las contradictorias). &quot;Verdadero&quot; y &quot;falso&quot; se predica únicamente de los enunciados."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 73,
+      "question": "Si X es una fórmula contingente, (Y ∧ ¬Y) → X también lo es.",
+      "answer": "Falso",
+      "explanation": "Esta fórmula tiene antecedente contradictorio, por lo que nunca se puede dar el caso de que el antecedente sea verdadero y el consecuente falso. Se trata de una tautología."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 74,
+      "question": "Dada una fórmula X, si el árbol para X queda abierto y el árbol para ¬ X también queda abierto, podemos decir que la fórmula X no es ni válida ni contradictoria.",
+      "answer": "Verdadero",
+      "explanation": "En este caso, X es una fórmula contingente, existen contraejemplos de X y de ¬X, casos en<br>los que X es falsa y casos en los que es falsa ¬X. Por tanto, también casos en los que es verdadera X y<br>casos en los que es verdadera ¬X."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 75,
+      "question": "Una equivalencia es lo mismo que una interdefinición de constantes lógicas.",
+      "answer": "Falso",
+      "explanation": "Una equivalencia es un bicondicional válido o tautológico. Todas las interdefiniciones son<br>equivalencias, pero no todas las equivalencias son necesariamente interdefiniciones. Por ejemplo: p ↔ p es<br>una equivalencia, pero no es una interdefinición."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 76,
+      "question": "Si un argumento es inválido, la conjunción de las premisas y la conclusión es una contradicción.",
+      "answer": "Falso",
+      "explanation": "En un argumento inválido tanto las premisas como la conclusión pueden tener cualquier valor de verdad, excepto contradicción en las premisas y validez (tautología) en la conclusión, pues en ese caso el argumento sería válido. Pero sí puede haber contradicción en la conjunción de premisas y conclusión como no haberla."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 77,
+      "question": "Si X es una fórmula contradictoria, X → (Y ∧ ¬Y) es una fórmula válida.",
+      "answer": "Verdadero",
+      "explanation": "De la contradicción se sigue cualquier cosa (ECQ). El condicional solamente resulta falso cuando su antecedente es V y su consecuente F, pero si X es contradictorio, ese condicional nunca tendrá antecedente V, por lo que todas sus interpretaciones serán V. Ese condicional es una tautología."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 78,
+      "question": "Un árbol semántico con cuatro ramas cerradas y una abierta indica que existen exactamente cuatro contraejemplos del esquema de inferencia examinado.",
+      "answer": "Falso",
+      "explanation": "La rama abierta indica que el esquema examinado es inválido, tiene infinitos contraejemplos."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 79,
+      "question": "La negación de una tautología es una fórmula insatisfacible.",
+      "answer": "Verdadero",
+      "explanation": "La negación de una tautología (V en todas las interpretaciones) es una contradicción (F en todas las interpretaciones)."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 80,
+      "question": "Toda fórmula con la forma (Y → (X ∨ ¬ X)) es una fórmula válida.",
+      "answer": "Verdadero",
+      "explanation": "Ya que toda fórmula con la forma (X ∨ ¬ X) es una fórmula válida, por lo que no podrá darse<br>el caso de que Y sea verdadero y (X ∨ ¬ X) falso, que sería el único caso en el que el condicional sería<br>falso. Por tanto, toda fórmula con la forma (Y → (X ∨ ¬ X)) es siempre verdadera, es decir, es válida."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 81,
+      "question": "Un árbol semántico con todas sus ramas abiertas indica que no existe ninguna interpretación que haga verdaderas a las premisas y a la conclusión.",
+      "answer": "Falso",
+      "explanation": "Las ramas abiertas indican que la forma argumentativa tiene contraejemplos y es, por tanto, inválida: sí existen interpretaciones que hacen verdaderas las premisas y falsa la conclusión."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 82,
+      "question": "∃x (Px ¬ ∧ ¬Px) es una fórmula bien formada.",
+      "answer": "Falso",
+      "explanation": "La negación no puede ir seguida de una conjunción. Según las reglas de formación de fórmulas, la<br>conjunción solamente se puede añadir a dos fórmulas bien formadas, pero Px ¬ no está bien formada."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 83,
+      "question": "La negación de “el actual rey de Francia es calvo” es “no existe actualmente ningún rey en Francia o bien no es calvo”.",
+      "answer": "Falso",
+      "explanation": "La negación es &quot;No existe actualmente un único rey en Francia o bien no es calvo&quot;, puesto que &quot;El actual rey de Francia es calvo&quot; significa que hay actualmente un rey en Francia, que no hay más de uno y que es calvo. También podríamos negarlo así &quot;No existe actualmente ningún rey en Francia o bien no existe sólo uno o bien no es calvo&quot;."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 84,
+      "question": "Sólo si las premisas no implican la conclusión, es inválido el argumento.",
+      "answer": "Verdadero",
+      "explanation": "Si el argumento es inválido, entonces las premisas no implican la conclusión, la verdad de la conclusión, si la hay, no se sigue necesariamente de la verdad de las premisas, si la hay."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 85,
+      "question": "Si X es una fórmula contingente, su negación ¬ X es una contingencia.",
+      "answer": "Verdadero",
+      "explanation": "Si X es una fórmula contingente, tiene interpretaciones verdaderas e interpretaciones falsas. Su negación tendrá exactamente tantas interpretaciones verdaderas como falsas tiene X y tantas falsas como verdaderas tiene X; es decir, tendrá también algunas interpretaciones verdaderas y otras falsas."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 86,
+      "question": "Aunque un argumento tenga premisas verdaderas y conclusión falsa, puede tener una forma lógica válida.",
+      "answer": "Falso",
+      "explanation": "Si tiene premisas verdaderas y conclusión falsa, él mismo es un contraejemplo de su forma lógica; es decir, el mismo argumento es una prueba de que la forma de dicho argumento es inválida: no asegura que poniendo verdad en las premisas vayamos a obtener necesariamente verdad en la conclusión."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 87,
+      "question": "De la afirmación de que todos los marcianos son verdes se sigue lógicamente que algunos marcianos son verdes",
+      "answer": "Falso",
+      "explanation": "<p>Todos los marcianos son verdes:<br>∀x (Mx → Gx)<br>Para todo x, si x es marciano entonces es verde.</p><p>Algunos marcianos son verdes:<br>∃x (Mx ∧ Gx)<br>Existe algún x tal que x es marciano y x es verde.</p><p>Ambos enunciados no son equivalentes, ya que el primero afirma que, en caso de existir marcianos, estos son verdes; mientras que el segundo afirma que existe algún marciano que es verde. Es por este motivo que al cuantificador particular se le llama también cuantificador existencial, porque afirma la existencia de al menos un x.</p>"
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 88,
+      "question": "\"Todos los marcianos son verdes\" se puede formalizar como ∀x (Mx ∧ ∃x) o como ∀x (Mx → ∃x)",
+      "answer": "Falso",
+      "explanation": "La forma correcta de formalizarlo sería solamente: ∀x (Mx → ∃x)<br>Ya que, de la otra forma, ∀x (Mx ∧ ∃x), estaríamos afirmando que todos los individuos del universo del<br>discurso son marcianos y verdes a la vez. Sería como decir “todos son marcianos verdes”."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 89,
+      "question": "\"Todos los x son P\" es lógicamente equivalente a \"no hay ningún x que no sea P\".",
+      "answer": "Verdadero",
+      "explanation": "Formalizamos:<br>∀x (Px), Todo x tiene propiedad P<br>¬∃x (¬Px), No hay elemento x que no tenga propiedad P.<br>Siendo ∀x y ¬∃x equivalentes, estas dos formalizaciones son entonces equivalentes."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 90,
+      "question": "De una fórmula ∀x Px se puede derivar ∃x Px solo si el universo de discurso no es vacío.",
+      "answer": "Verdadero",
+      "explanation": "En el caso de universo del discurso no vacío, del cuantificador universal se deriva el particular. Sabiendo que existen elementos en el universo, si todos los x son P entonces se cumplirá que algunos x son P. En el caso de que fuera universo vacío, del universal no se deriva el particular. Aunque sepamos que todos los x son P, si no hay elementos entonces no habría algún x que sea P."
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 91,
+      "question": "ANOMALY Aunque los cuantificadores universales y existenciales no expresen cantidades numéricas específicas por ellos mismos, sí lo pueden hacer en expresiones con la ayuda de otras herramientas de la lógica de primer orden.",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "section": "Preguntas Test Lógica II",
+      "number": 92,
+      "question": "ANOMALY En un universo de discurso finito, la regla de la eliminación del cuantificador universal se puede justificar por la regla de la eliminación de la conjunción.",
+      "answer": "",
+      "explanation": ""
+    }
+  ]
+}

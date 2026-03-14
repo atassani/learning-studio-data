@@ -1,0 +1,654 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-03-14T10:42:09Z",
+  "area": "Logic II",
+  "type": "True False",
+  "shortName": "log2",
+  "language": "en",
+  "questions": [
+    {
+      "section": "Logic II Test Questions",
+      "number": 1,
+      "question": "Natural Deduction does not allow us to know the truth of the premises nor the truth of the conclusion.",
+      "answer": "True",
+      "explanation": "The truth values of any statement are investigated in the various sciences or through common sense. Logic can say something about the relations between some values and others. For example, it says that from a logically false premise (a contradiction) any statement can be validly concluded."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 2,
+      "question": "In an axiomatic proof, the truth of a theorem is proved.",
+      "answer": "True",
+      "explanation": "That is exactly an axiomatic calculus: axioms are established and, by means of a transformation rule and Modus Ponens, it is ensured that all the rest of the formulas obtained are theorems, that is, logical truths. Axiomatic calculus starts from axioms, which are logical truths (tautologies, valid formulas) by stipulation. By means of rules, the theorems that preserve the validity of the axioms are proved."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 3,
+      "question": "ANOMALY The logical implication is independent of the truth or falsity of the propositions involved.",
+      "answer": "True",
+      "explanation": "True. In the sense that the cases of true or false antecedent and true or false consequent (V-V, F-V, F-F) are possible. False. In the sense that the implication is incompatible with the case where the antecedent is true and the consequent is false (V-F). That is, it is independent of the values, but not of their composition."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 4,
+      "question": "If in a Natural Deduction it is proved that the conclusion follows logically from the premises, the truth of the conclusion has been proved.",
+      "answer": "False",
+      "explanation": "The truth of the conclusion is demonstrated only if we have established true premises."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 5,
+      "question": "Since any argument admits different formalizations, we may find that some forms of argument are valid and others are not.",
+      "answer": "True",
+      "explanation": "What is valid is a logical form. Each statement can, in principle, be formalized in several different ways; it may be that some are valid and others are not."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 6,
+      "question": "The negation of \"All P is Q\" is \"No P is Q\".",
+      "answer": "False",
+      "explanation": "The negation is \"Not all P is Q\" (it is not impossible that some P is Q)."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 7,
+      "question": "In an axiomatic calculation only valid formulas are used.",
+      "answer": "True",
+      "explanation": "Axiomatic calculus starts from axioms, which are logical truths (tautologies, valid formulas) by stipulation. By means of rules, the theorems that preserve the validity of the axioms are proved."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 8,
+      "question": "From \"All mathematicians are nuts\" logically follows \"Some mathematicians are nuts\".",
+      "answer": "False",
+      "explanation": "It is not impossible that there are no mathematicians. The universally quantified conditional (∀x (Mx<br>→ Cx)) does not imply the existential (∃x (Mx ∧ Cx)). (The semantic tree can be provided.)"
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 9,
+      "question": "In the language of predicate calculus, the letters \"x\", \"y\", etc. are individual constants.",
+      "answer": "False",
+      "explanation": "They are the letters that we use to occupy the empty place of the predicates, that is, they are the object variables (which are used as objects)."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 10,
+      "question": "From two particular statements no universal statement logically follows.",
+      "answer": "True",
+      "explanation": "In general, from the particular does not follow the universal. Although the case of a tautological universal conclusion (which follows from any statement) may occur."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 11,
+      "question": "A semantic tree with an open branch indicates that there is an interpretation under which the premises of the argument are true and the conclusion false.",
+      "answer": "True",
+      "explanation": "There is at least one interpretation that makes the premises true and the conclusion false. It would be false, if by &quot;one&quot; is meant &quot;exactly one&quot;. An open branch indicates that the argument is invalid and therefore has counterexamples. In fact, whenever there are counterexamples, there are infinite counterexamples (because of the recursion of natural language)."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 12,
+      "question": "∃x (Fa ∧ Fxx) is an ill-formed formula.",
+      "answer": "True",
+      "explanation": "The predicate F is listed as monadic and as dyadic."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 13,
+      "question": "The consequent of a conditional statement is the conclusion of that statement.",
+      "answer": "False",
+      "explanation": "The consequent is a part of an assertion, the conclusion is a part of an argument. An assertion is not the same as an argument."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 14,
+      "question": "An existential affirmation does not always follow from a universal affirmation.",
+      "answer": "True",
+      "explanation": "For example, from the fact that all swans are white it follows neither that there are swans nor that there are white swans. The same is true of green Martians."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 15,
+      "question": "A semantic tree with all its branches closed indicates that there is no interpretation under which the premises of the argument could be true and the conclusion false.",
+      "answer": "True",
+      "explanation": "The semantic tree examines whether or not there is contradiction in assuming true premises and false conclusion. If contradiction is found in all branches (they are thus closed) we can conclude that the case of true premises and false conclusion is impossible."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 16,
+      "question": "Fa → ∀x Fxa is a well-formed formula.",
+      "answer": "False",
+      "explanation": "The same predicate cannot be both monadic and dyadic. The letter F has one argument place or two, but not one and two in the same formula. Thus, F will be followed by either a or xa, but not both."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 17,
+      "question": "The antecedent of a conditional statement is the premise of that statement.",
+      "answer": "False",
+      "explanation": "An argument and a statement have different structures. The form of a statement is contained in the formula; that of an argument in the inferential scheme. An argument can be transformed into a conditional statement, but the difference between arguing and stating and, in parallel, between the premise of an argument and the antecedent of an assertion is maintained."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 18,
+      "question": "The statement \"John exists\" is formalized Pa.",
+      "answer": "False",
+      "explanation": "Existence is a quantifier, not a first-order predicate. It is formalized as follows: ∃x (x = a),<br>(where “a” is John)."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 19,
+      "question": "From the statement \"All circles are figures\" follows the statement \"Some circles are figures\".",
+      "answer": "False",
+      "explanation": "The first is formalized as ∀x (Cx → Fx), and the second as ∃x (Cx ∧ Fx). (One can construct the semantic<br>tree to verify that some complete branch remains open, without contradiction, which indicates that there is an interpretation in which the premise is true and the conclusion is false.)"
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 20,
+      "question": "∃x (Fx → Gx) is a well-formed formula.",
+      "answer": "True",
+      "explanation": "Follow the rules for constructing formulas: Fx is a well-formed formula. Gx is a well-formed<br>formula. Fx → Gx is a well-formed formula. ∃x (Fx → Gx) is a<br>well-formed formula."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 21,
+      "question": "∃x Rxx is not a well-formed formula of quantifier logic.",
+      "answer": "False",
+      "explanation": "It is constructed in accordance with the rules for forming formulas: Rxx is a<br>well-formed formula. ∃x Rxx is a well-formed formula."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 22,
+      "question": "In first-order quantifier logic, predicative letters are not susceptible to quantification.",
+      "answer": "True",
+      "explanation": "The quantification is done on the arguments of the predicates, or, what is the same, on the elements of a set: we speak of all of them or of some of them or of none of them."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 23,
+      "question": "From ∀x (Fx → Gx) it formally follows ∃x (Fx ∧ Gx)",
+      "answer": "False",
+      "explanation": "If there were no F, the first formula would be true, but the second would be false."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 24,
+      "question": "The statement \"Two individuals are identical if and only if there is no note that differentiates them\" is not formalizable in first-order quantifier logic.",
+      "answer": "True",
+      "explanation": "This statement contains a quantification over predicates, it says that two individuals are identical if and only if for any predicate P ... In first order logic we only quantify over individuals, it speaks of all, some or none of a set of individuals (which can be empty)."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 25,
+      "question": "From \"Everything is F\" follows \"There is something that is F\".",
+      "answer": "True",
+      "explanation": "If there were two predicates such as \"all P is F\", an existential would not follow, but in this case, with a single predicate, it would."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 26,
+      "question": "∃x ¬ Rxa is not a well-formed formula of quantifier logic.",
+      "answer": "False",
+      "explanation": "Follow the rules for constructing formulas: Rxa is a well-formed formula. ¬ Rxa is a well-formed<br>formula. ∃x ¬ Rxa is a well-formed formula."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 27,
+      "question": "The statement \"John exists and Andrew is tall\" is formalized (Pa ∧ Qb).",
+      "answer": "False",
+      "explanation": "Existence is formalized using the existential quantifier. For example, “There exists an x such that x is Juan and Andrés<br>is tall” would be written as: ∃x (x = a) ∧ Qb."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 28,
+      "question": "From the statements \"All squares have four sides\" and \"All triangles have three angles\" the statement \"No square is a triangle\" logically follows.",
+      "answer": "False",
+      "explanation": "It does not follow from the mere form of the statements, but because we apply some other mathematical knowledge, such as: something has four sides if and only if it does not have three angles."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 29,
+      "question": "∃x (¬Fx → Gxa) is a well-formed formula.",
+      "answer": "True",
+      "explanation": "Follow the rules for constructing formulas: Fx is a well-formed formula. ¬Fx is a well-formed<br>formula. Gxa is a well-formed formula. ¬Fx → Gxa is a well-formed formula.<br>∃x (¬Fx → Gxa) is a well-formed formula."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 30,
+      "question": "∀x (Px → (Qx ∨ Rx)) implies ∀x (Px → Qx) ∨ ∀x (Px → Rx).",
+      "answer": "False",
+      "explanation": "Counterexample: \"All students fail or pass\" does not imply \"All students fail or all students pass\"."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 31,
+      "question": "A semantic tree with an open branch indicates that there is an interpretation under which the premises of the argument are true and the conclusion is true.",
+      "answer": "False",
+      "explanation": "It indicates that the premises and the negation of the conclusion can be true (since they do not contradict each other). This means that it is possible for the premises to be true and the conclusion to be false."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 32,
+      "question": "If X is a valid formula, Y ∨ X is also valid.",
+      "answer": "True",
+      "explanation": "The laws of Natural Deduction ensure the conservation of truth (and of the type of truth) and here the only thing that has been done is to apply the rule of introduction of disjunction."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 33,
+      "question": "The consequent of a conditional formula is the conclusion of an argument.",
+      "answer": "False",
+      "explanation": "Antecedent and consequent apply to statements and their forms (formulas), premise and conclusion apply to arguments and argument schemes. They are two different levels of language. Statements are true or false (their forms, contingent, tautological or contradictory), arguments are valid or invalid."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 34,
+      "question": "Any valid formula is implied by a contradiction.",
+      "answer": "True",
+      "explanation": "First, because a tautology is implied by any formula. Secondly, because anything logically follows from a contradiction, i.e., a contradictory formula implies any formula."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 35,
+      "question": "If a statement ¬ p is false, statement ¬ p is also false.",
+      "answer": "True",
+      "explanation": "If ¬p is false, then p must necessarily be true. Therefore, ¬p is impossible; that<br>is, ¬◊¬p. When p is necessarily true, ¬p is false."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 36,
+      "question": "Modus Tollens is not a valid form of argumentation.",
+      "answer": "False",
+      "explanation": "It is one of the derived rules, that is, one of the valid argumentative forms."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 37,
+      "question": "If statement ¬ p is false, statement p is also false.",
+      "answer": "False",
+      "explanation": "If ¬p is false, then p must be true: p cannot be false. ¬p is<br>impossible (p ≡ ¬◊ ¬p)."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 38,
+      "question": "From a universal statement an existential statement always logically follows.",
+      "answer": "False",
+      "explanation": "It does not follow from the fact that all Martians are green that there are green Martians (it is possible to formalize and make the semantic tree)."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 39,
+      "question": "The formula (¬ ◊ p) is equivalent to the formula (¬ ¬ p).",
+      "answer": "False",
+      "explanation": "¬ ◊ p equals ¬ p."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 40,
+      "question": "Any formula with the form (Y → (X ∨ ¬ X) is a valid formula.",
+      "answer": "True",
+      "explanation": "Any formula of the form (X ∨ ¬ X) is a valid formula; therefore, it cannot be the case<br>that Y is true and (X ∨ ¬ X) is false, which would be the only case in which the conditional would be false. Consequently<br>, any formula of the form (Y → (X ∨ ¬ X)) is always true; that is, it is valid."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 41,
+      "question": "The principle of indiscernibles says that when two things have exactly the same properties, then they are identical.",
+      "answer": "False",
+      "explanation": "The principle of indiscernibility (of the identical) says that when two entities are identical, have the same properties, they are indiscernible."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 42,
+      "question": "Even if an argument has true premises and a false conclusion, it can have a valid logical form.",
+      "answer": "False",
+      "explanation": "If it has true premises and a false conclusion, it is itself a counterexample of its logical form; that is, the argument itself is a proof that the form of the argument is invalid: it does not assure that by putting truth in the premises we will necessarily obtain truth in the conclusion."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 43,
+      "question": "For an argument to be invalid it is sufficient for the conclusion to be contradictory.",
+      "answer": "False",
+      "explanation": "A contradictory conclusion can validly follow from false premises."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 44,
+      "question": "is not a well-formed formula.",
+      "answer": "True",
+      "explanation": "β does not belong to the vocabulary of the language of First Order Logic. Behind a predicate letter we can only find object letters a, b, c, etc., object variables x, y, z, etc. or else definite descriptions. is a symbol of the metalanguage. In addition, a right parenthesis is missing."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 45,
+      "question": "is not a well-formed formula.",
+      "answer": "False",
+      "explanation": "It is constructed according to the rules for forming formulas: Px is a formula (a<br>predicate followed by an individual variable); ¬Px is a well-formed formula (introduction of ¬ over fbf)<br>(Px ∧ ¬Px) is a well-formed formula (introduction of ∧ over two fbf) ∃x (Px ∧ ¬Px) is a well-formed<br>formula (introduction of V over well-formed formulas) Qx is a well-formed formula (predicate letter followed by<br>an individual variable) ∧ x Qx is a well-formed formula (introduction of ∧ over well-formed formulas)<br>(∃x (Px ∧ ¬Px) → ∧ x Qx) is a well-formed formula (introduction of ∧ over two well-formed formulas)."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 46,
+      "question": "For an argument to be valid, it is not necessary for its conclusion to be true.",
+      "answer": "True",
+      "explanation": "The valid argumentative form only makes impossible the case of true premises and false conclusion. The rest of the combinations of truth values are all possible. There can be, for example, false premises and false conclusion."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 47,
+      "question": "A semantic tree with all its branches open indicates that there is no interpretation that makes the premises true and the conclusion false.",
+      "answer": "False",
+      "explanation": "The open branches indicate that the argumentative form has counterexamples and is therefore invalid: there are interpretations that make the premises true and the conclusion false."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 48,
+      "question": "∧ x (Px → (Qx ∨ Rx)) implies ∀x (Px → Qx) ∨ ∀x (Px → Rx)",
+      "answer": "False",
+      "explanation": "You can construct the semantic tree by taking ∀x (Px → (Qx ∨ Rx)) as the premise and ¬ (∀x (Px →<br>Qx) ∨ ∀x (Px → Rx)) as the negation of the conclusion; and verify that at least one complete and open<br>branch remains."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 49,
+      "question": "The negation of a valid argument is an invalid one.",
+      "answer": "False",
+      "explanation": "Arguments do not admit negation, since they are not assertions, but sets of assertions with a certain order."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 50,
+      "question": "If an argument has true premises and false conclusion, it cannot have a valid logical form.",
+      "answer": "True",
+      "explanation": "A valid inferential form prevents the case of argument with true premises and false conclusion. From the true does not validly follow the false. Such an argument would serve as a counterexample proving the invalidity of its inferential form."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 51,
+      "question": "From the statement that no swan is black it follows logically that not every swan is black.",
+      "answer": "False",
+      "explanation": "A simple semantic tree can be used to show that ¬ ∃x (Cx ∧ Nx) does not imply ¬ ∀x (Cx →<br>Nx)."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 52,
+      "question": "From the statement that all Martians are green it follows logically that some Martians are green.",
+      "answer": "False",
+      "explanation": "We can formalize and prove by a tree that from ∀x (Mx → ∃x) does not follow ∃x (Mx ∧ ∃x)."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 53,
+      "question": "(∃x (Px ∧ ¬Px) → ∀x Qx) is not a well-formed formula.",
+      "answer": "False",
+      "explanation": "It satisfies the rules for formula formation: Px is a well-formed formula. ¬Px is a well-formed<br>formula. (Px ∧ ¬Px) is a well-formed formula. ∃x (Px ∧ ¬Px) is a<br>well-formed formula. Qx is a well-formed formula. ∀x Qx is a well-formed formula. ∃x (Px ∧ ¬Px) → ∀x Qx<br>is a well-formed formula."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 54,
+      "question": "An argument with true premises will be valid if its conclusion is also true.",
+      "answer": "False",
+      "explanation": "An argument with true premises and true conclusion can have an invalid logical form. Having true conclusion is not a sufficient condition for the argument with true premises to be valid. It is a necessary condition: If the argument has true premises and true conclusion, its form is not necessarily valid. On the other hand, if the argument has true premises and valid form, then necessarily its conclusion is true."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 55,
+      "question": "If X is a valid formula, its negation ¬ X is a tautology.",
+      "answer": "False",
+      "explanation": "Its negation is a contradiction. A valid formula is a tautology (all its interpretations are true). The negation results in a contradictory formula (all its interpretations are false)."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 56,
+      "question": "A conditional with contradictory antecedent is an implication.",
+      "answer": "True",
+      "explanation": "An implication is a tautological conditional. A tautological conditional is one whose logical form does not allow an interpretation with true antecedent and false consequent. If the antecedent is contradictory, there will be no case of true antecedent. Whatever the consequent is, the conditional will be tautological."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 57,
+      "question": "If an argument is invalid, the tree of your schema presents all open branches.",
+      "answer": "False",
+      "explanation": "There may be closed branches. The only sure thing is that one of the branches (perhaps only one) remains open, does not contain contradiction, which indicates that there are counterexamples, that the argument has an invalid form."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 58,
+      "question": "If X is a valid formula, Y → X is also valid.",
+      "answer": "True",
+      "explanation": "If the consequent of that conditional is a tautology, it is impossible to find a case that makes the formula false, that is, a case in which Y would be true and X false."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 59,
+      "question": "From the statement that all whales are mammals it follows logically that some whales are mammals.",
+      "answer": "False",
+      "explanation": "B: being a whale M: being a mammal<br>The logical form of this statement is ∧ x (Bx → Mx), which is equivalent to ¬∃x (Bx ∧ ¬Mx). It does<br>not follow from this that there are whales (neither whales that are mammals nor whales that are not). A universal followed by a conditional does not imply the existence of either the antecedent or the consequent. An existential follows from a<br>universal when the universal covers a simple predicate. From ∧ x Bx, it does follow that there are things that are<br>B."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 60,
+      "question": "For an argument to be invalid it is sufficient for the conclusion to be false.",
+      "answer": "False",
+      "explanation": "An argument is invalid when its form makes possible the existence of arguments with such form that have true premises together with a false conclusion; that is, when it allows the passage from true to false. But we can have valid arguments whose conclusion is false and so is one of their premises."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 61,
+      "question": "∧ x (Px ¬ ∧ ¬Px) is a well-formed formula.",
+      "answer": "False",
+      "explanation": "The rules for forming formulas do not allow a negation to be followed by a conjunction<br>(¬ ∧). A negation always precedes a formula, not a connective: if X is a well-formed formula, then<br>¬X is also a well-formed formula. But &quot;∧ ¬Px&quot; is not a well-formed formula."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 62,
+      "question": "If X is a valid formula, the formula (¬X ∧ Y) is a tautology.",
+      "answer": "False",
+      "explanation": "The negation of X will be a contradiction, so its conjunction with Y will also be a contradiction, whatever Y is."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 63,
+      "question": "The negation of \"Every rule is a valid deduction\" is \"No rule is a valid deduction\".",
+      "answer": "False",
+      "explanation": "The negation is \"Not every rule is a valid deduction\"."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 64,
+      "question": "(∃x (Pα ∧ ¬ Pxx) → ∧ x Qx) is not a well-formed formula.",
+      "answer": "True",
+      "explanation": "<ol><li>α does not belong to the vocabulary of the formula language, but is used in the metalanguage.</li><li>A predicate cannot be both monadic (P α) and dyadic in the same formula (Pxx).</li></ol>"
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 65,
+      "question": "For an argument to be valid, it is sufficient that the conclusion be true.",
+      "answer": "False",
+      "explanation": "The validity of the argument depends on its form and not on the truth value of the conclusion. When an argument has a valid form, it is impossible to find any argument with the same form such that its premises are true and its conclusion false. But we can find arguments with false premises (at least one) and false conclusion."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 66,
+      "question": "If X is a contingent formula, the formula (¬ X ∧ Y) is a contradiction.",
+      "answer": "False",
+      "explanation": "The negation of X will be another contingency, so its conjunction with any formula. Y can never give rise to a tautology, but neither can it necessarily give rise to a contradiction. It will be either a contingency or a contradiction, depending on what Y is."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 67,
+      "question": "If an argument is invalid, the tree of your schema has some closed branch.",
+      "answer": "False",
+      "explanation": "The tree for an argument with invalid form presents some open branch. We don't know how many, maybe all of them."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 68,
+      "question": "Given a formula X, if the Tree for X remains open and the Tree for ¬ X also remains open, we can say that the formula X is not a tautology.",
+      "answer": "True",
+      "explanation": "An open tree for X indicates that X has some truth instances V. An open tree for<br>¬X indicates that ¬X has some truth instances V. In such cases, X is F. This means that X has<br>both V instances and F instances. It is a contingent formula."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 69,
+      "question": "An invalid argumentative form has falsity in the set of premises or in the conclusion.",
+      "answer": "False",
+      "explanation": "Invalid arguments can have any truth value in both premises and conclusion."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 70,
+      "question": "From the statement \"All Logic II students who take the exam will pass\", it follows \"Some Logic II students will pass\".",
+      "answer": "False",
+      "explanation": "It does not follow from a universal statement that there are individuals who satisfy it. A universal statement<br>takes the following form: ∧ x ((Px ∧ Qx) → Rx) (everything that is P and Q is R), which is not equivalent to the form<br>∃x (Px ∧ Rx) (there are things that are P and R)."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 71,
+      "question": "A Semantic Tree is a method for analyzing argumentative forms as well as enunciative forms or formulas.",
+      "answer": "True",
+      "explanation": "A semantic tree is used to examine a set of formulas. Most often, such a set consists of the premises of an argument and the negation of its conclusion; but we can also examine a unitary set, i.e., consisting of only one formula."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 72,
+      "question": "Some formulas are true.",
+      "answer": "False",
+      "explanation": "Formulas can only be evaluated as: 1) contradictory, 2) tautological or valid, or 3) contingent. We can also classify formulas into satisfiable (the contingent and tautological ones) and unsatisfiable (the contradictory ones). true&quot; and &quot;false&quot; are predicated only of statements."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 73,
+      "question": "If X is a contingent formula, (Y ∧ ¬Y) → X is also contingent.",
+      "answer": "False",
+      "explanation": "This formula has a contradictory antecedent, so it can never be the case that the antecedent is true and the consequent is false. It is a tautology."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 74,
+      "question": "Given a formula X, if the tree for X remains open and the tree for ¬ X also remains open, we can say that the formula X is neither valid nor contradictory.",
+      "answer": "True",
+      "explanation": "In this case, X is a contingent formula; there are counterexamples to both X and ¬X—cases in<br>which X is false and cases in which ¬X is false. Therefore, there are also cases in which X is true and<br>cases in which ¬X is true."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 75,
+      "question": "An equivalence is the same as an interdefinition of logical constants.",
+      "answer": "False",
+      "explanation": "An equivalence is a valid or tautological biconditional. All interdefinitions are<br>equivalences, but not all equivalences are necessarily interdefinitions. For example: p ↔ p is<br>an equivalence, but it is not an interdefinition."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 76,
+      "question": "If an argument is invalid, the conjunction of premises and conclusion is a contradiction.",
+      "answer": "False",
+      "explanation": "In an invalid argument both the premises and the conclusion can have any truth value, except contradiction in the premises and validity (tautology) in the conclusion, because in that case the argument would be valid. But there can be contradiction in the conjunction of premises and conclusion or not."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 77,
+      "question": "If X is a contradictory formula, X → (Y ∧ ¬Y) is a valid formula.",
+      "answer": "True",
+      "explanation": "Anything follows from contradiction (ECQ). The conditional is only false when its antecedent is V and its consequent F, but if X is contradictory, that conditional will never have antecedent V, so all its interpretations will be V. This conditional is a tautology."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 78,
+      "question": "A semantic tree with four closed branches and one open branch indicates that there are exactly four counterexamples of the examined inference scheme.",
+      "answer": "False",
+      "explanation": "The open branch indicates that the examined scheme is invalid, it has infinite counterexamples."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 79,
+      "question": "The negation of a tautology is an unsatisfiable formula.",
+      "answer": "True",
+      "explanation": "The negation of a tautology (V in all interpretations) is a contradiction (F in all interpretations)."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 80,
+      "question": "Any formula with the form (Y → (X ∨ ¬ X)) is a valid formula.",
+      "answer": "True",
+      "explanation": "Since every formula of the form (X ∨ ¬ X) is a valid formula, it cannot be<br>the case that Y is true and (X ∨ ¬ X) is false—which would be the only case in which the conditional would be<br>false. Therefore, every formula of the form (Y → (X ∨ ¬ X)) is always true, that is, it is valid."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 81,
+      "question": "A semantic tree with all its branches open indicates that there is no interpretation that makes the premises and the conclusion true.",
+      "answer": "False",
+      "explanation": "The open branches indicate that the argumentative form has counterexamples and is therefore invalid: there are interpretations that make the premises true and the conclusion false."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 82,
+      "question": "∃x (Px ¬ ∧ ¬Px) is a well-formed formula.",
+      "answer": "False",
+      "explanation": "A negation cannot be followed by a conjunction. According to the rules for constructing formulas, a<br>conjunction can only be added to two well-formed formulas, but Px ¬ is not well-formed."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 83,
+      "question": "The negation of \"the current king of France is bald\" is \"there is currently no king in France or else he is not bald\".",
+      "answer": "False",
+      "explanation": "The negation is &quot;There is currently not only one king in France or he is not bald&quot;, since &quot;The current king of France is bald&quot; means that there is currently one king in France, that there is not more than one and that he is bald. We could also deny it like this &quot;There is currently no king in France or else there is only one or else he is not bald&quot;."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 84,
+      "question": "Only if the premises do not imply the conclusion is the argument invalid.",
+      "answer": "True",
+      "explanation": "If the argument is invalid, then the premises do not imply the conclusion, the truth of the conclusion, if any, does not necessarily follow from the truth of the premises, if any."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 85,
+      "question": "If X is a contingent formula, its negation ¬ X is a contingency.",
+      "answer": "True",
+      "explanation": "If X is a contingent formula, it has true interpretations and false interpretations. Its negation will have exactly as many true interpretations as X has false ones and as many false ones as X has true ones; that is, it will also have some true interpretations and some false ones."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 86,
+      "question": "Even if an argument has true premises and a false conclusion, it can have a valid logical form.",
+      "answer": "False",
+      "explanation": "If it has true premises and a false conclusion, it is itself a counterexample of its logical form; that is, the argument itself is a proof that the form of the argument is invalid: it does not assure that by putting truth in the premises we will necessarily obtain truth in the conclusion."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 87,
+      "question": "From the statement that all Martians are green it follows logically that some Martians are green",
+      "answer": "False",
+      "explanation": "<p>All Martians are green:<br>∀x (Mx → Gx)<br>For every x, if x is a Martian, then x is green.</p><p>Some Martians are green:<br>∃x (Mx ∧ Gx)<br>There exists some x such that x is a Martian and x is green.</p><p>These two statements are not equivalent, since the first asserts that, if Martians exist, they are green; whereas the second asserts that there exists some Martian who is green. This is why the particular quantifier is also called the existential quantifier, because it asserts the existence of at least one x.</p>"
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 88,
+      "question": "\"All Martians are green\" can be formalized as ∀x (Mx ∧ ∃x) or as ∀x (Mx → ∃x)",
+      "answer": "False",
+      "explanation": "The correct way to formulate this would be simply: ∀x (Mx → ∃x)<br>. This is because, in the alternative form, ∀x (Mx ∧ ∃x), we would be asserting that all individuals in the universe of<br>discourse are both Martians and green. It would be like saying “they are all green Martians.”"
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 89,
+      "question": "\"All x are P\" is logically equivalent to \"there is no x that is not P\".",
+      "answer": "True",
+      "explanation": "We formalize:<br>∀x (Px), Every x has property P<br>; ¬∃x (¬Px), There is no element x that does not have property P.<br>Since ∀x and ¬∃x are equivalent, these two formalizations are therefore equivalent."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 90,
+      "question": "From a formula ∀x Px one can derive ∃x Px only if the universe of discourse is nonempty.",
+      "answer": "True",
+      "explanation": "In the case of a non-empty universe of discourse, the particular is derived from the universal quantifier. Knowing that there are elements in the universe, if all x's are P then it will be true that some x's are P. In the case of an empty universe, the universal does not derive the particular from the universal. Even if we know that all x's are P, if there are no elements then there would not be any x's that are P."
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 91,
+      "question": "ANOMALY Although universal and existential quantifiers do not express specific numerical quantities by themselves, they can do so in expressions with the help of other tools of first-order logic.",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "section": "Logic II Test Questions",
+      "number": 92,
+      "question": "ANOMALY In a finite universe of discourse, the rule of universal quantifier elimination can be justified by the rule of conjunction elimination.",
+      "answer": "",
+      "explanation": ""
+    }
+  ]
+}

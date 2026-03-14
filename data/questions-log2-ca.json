@@ -1,0 +1,654 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-03-14T10:42:09Z",
+  "area": "Lògica II",
+  "type": "True False",
+  "shortName": "log2",
+  "language": "ca",
+  "questions": [
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 1,
+      "question": "La deducció natural no ens permet determinar la veritat de les premisses, ni la de la conclusió.",
+      "answer": "Cert",
+      "explanation": "Els valors de veritat de qualsevol afirmació s'investiguen dins de les diverses ciències o mitjançant el sentit comú. La lògica ens pot dir alguna cosa sobre les relacions entre diferents valors de veritat. Per exemple, estableix que qualsevol afirmació es pot inferir vàlidament a partir d'una premissa lògicament falsa (una contradicció)."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 2,
+      "question": "En una demostració axiomàtica, es demostra la veritat d'un teorema.",
+      "answer": "Cert",
+      "explanation": "Això és precisament el que és el càlcul axiomàtic: s'estableixen axiomes i, mitjançant regles de transformació i el Modus Ponens, s'assegura que totes les altres fórmules obtingudes són teoremes, és a dir, veritats lògiques. En el càlcul axiomàtic, es parteix d'axiomes, que són veritats lògiques (tautologies, fórmules vàlides) per stipulació. Mitjançant regles, es procedeix a demostrar els teoremes que preserven la validesa dels axiomes."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 3,
+      "question": "ANOMALIA La implicació lògica és independent de si les proposicions implicades són veritables o falses.",
+      "answer": "Cert",
+      "explanation": "Cert. En el sentit que cobreix els casos en què l'antecedent és veritable o fals i el consequent és veritable o fals (T-T, F-T, F-F). Fals. En el sentit que la implicació és incompatible amb el cas en què l'antecedent és veritable i el consequent és fals (T-F). En altres paraules, és independent dels valors, però no de la seva combinació."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 4,
+      "question": "Si, en una deducció natural, es demostra que la conclusió se'n deriva lògicament de les premisses, s'ha demostrat la veritat de la conclusió.",
+      "answer": "Fals",
+      "explanation": "La veritat de la conclusió s'estableix només si les premisses són veritables."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 5,
+      "question": "Atès que qualsevol argument es pot expressar de diverses maneres, podem trobar que algunes formes de l'argument són vàlides i d'altres no.",
+      "answer": "Cert",
+      "explanation": "El que és vàlid és una forma lògica. En principi, cada proposició es pot formalitzar de diverses maneres; algunes poden ser vàlides i d'altres no."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 6,
+      "question": "La negació de «Cada P és Q» és «Cap P és Q».",
+      "answer": "Fals",
+      "explanation": "La negació és «No tots els P són Q» (no és impossible que alguns P siguin Q)."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 7,
+      "question": "En un sistema axiomàtic, només s'utilitzen fórmules vàlides.",
+      "answer": "Cert",
+      "explanation": "El càlcul axiomàtic es basa en axiomes, que per definició són veritats lògiques (tautologies, fórmules vàlides). Mitjançant regles, es demostren teoremes que preserven la validesa dels axiomes."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 8,
+      "question": "Es deriva lògicament de «Tots els matemàtics són bojos» que «Alguns matemàtics són bojos».",
+      "answer": "Fals",
+      "explanation": "No és impossible que no hi hagi matemàtics. El condicional universalment quantificat (∀x (Mx<br>→ Cx)) no implica l&#x27;existencial (∃x (Mx ∧ Cx)). (Es pot proporcionar l&#x27;arbre semàntic.)"
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 9,
+      "question": "En el llenguatge del càlcul predicati, les lletres 'x', 'y', etc. són constants individuals.",
+      "answer": "Fals",
+      "explanation": "Aquestes són les lletres que fem servir per omplir el lloc buit dels predicats; en altres paraules, són variables d'objecte (que s'utilitzen com a objectes)."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 10,
+      "question": "No es pot derivar lògicament cap afirmació universal de dues afirmacions particulars.",
+      "answer": "Cert",
+      "explanation": "En general, l'universal no es pot deduir del particular. Tot i que hi pot haver casos de conclusions universals tautològiques (que es deriven de qualsevol afirmació)."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 11,
+      "question": "Un arbre semàntic amb una branca oberta indica que hi ha una interpretació segons la qual les premisses de l'argument són certes i la conclusió és falsa.",
+      "answer": "Cert",
+      "explanation": "Hi ha almenys una interpretació que fa que les premisses siguin certes i la conclusió falsa. Seria fals si per «un» entenem «exactament un». Una branca oberta indica que l'argument és invàlid i, per tant, té contraexemples. De fet, sempre que hi ha contraexemples, n'hi ha infinitament molts (a causa de la recursivitat del llenguatge natural)."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 12,
+      "question": "∃x (Fa ∧ Fxx) és una fórmula mal formada.",
+      "answer": "Cert",
+      "explanation": "El predicat F apareix tant com a monàdic com a diàdic."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 13,
+      "question": "La conseqüència d'una sentència condicional és la conclusió d'aquesta sentència.",
+      "answer": "Fals",
+      "explanation": "La conseqüència forma part d'una afirmació; la conclusió forma part d'un argument. Una afirmació no és el mateix que un argument."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 14,
+      "question": "Una afirmació universal no sempre implica una afirmació existencial.",
+      "answer": "Cert",
+      "explanation": "Per exemple, el fet que tots els cignes siguin blancs no implica que hi hagi cignes, ni que hi hagi cignes blancs. El mateix s'aplica als Martians verds."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 15,
+      "question": "Un arbre semàntic amb totes les seves branques tancades indica que no hi ha cap interpretació sota la qual les premisses de l'argument puguin ser veritables i la conclusió falsa.",
+      "answer": "Cert",
+      "explanation": "L'arbre semàntic examina si hi ha o no una contradicció en assumir premisses veritables i una conclusió falsa. Si es troba una contradicció en totes les branques (que per tant queden tancades), podem concloure que el cas de premisses veritables i conclusió falsa és impossible."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 16,
+      "question": "Fa → ∀x Fxa és una fórmula ben formada.",
+      "answer": "Fals",
+      "explanation": "El mateix predicat no pot ser alhora monàdic i diàdic. La lletra F pot tenir un o dos arguments, però no tots dos en la mateixa fórmula. Així, F anirà seguida de a o de xa, però no de tots dos."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 17,
+      "question": "L'antecedent d'una frase condicional és la premissa d'aquesta frase.",
+      "answer": "Fals",
+      "explanation": "Un argument i una proposició tenen estructures diferents. La forma d'una proposició es recull en la fórmula; la d'un argument, en l'esquema inferencial. Un argument es pot transformar en una proposició condicional, però la distinció entre argumentar i afirmar roman, i, de manera similar, entre la premissa d'un argument i l'antecedent d'una proposició."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 18,
+      "question": "L'expressió «En Joan existeix» es formalitza com a Pa.",
+      "answer": "Fals",
+      "explanation": "L&#x27;existència és un quantificador, no un predicat de primer ordre. Es formalitza de la manera següent: ∃x (x = a),<br>(on &#x27;a&#x27; és John)."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 19,
+      "question": "De la proposició «Tots els cercles són formes» se'n deriva la proposició «Alguns cercles són formes».",
+      "answer": "Fals",
+      "explanation": "El primer es formalitza com ∀x (Cx → Fx), i el segon com ∃x (Cx ∧ Fx). (Es pot construir<br>l&#x27;arbre semàntic per verificar que alguna branca completa roman oberta, sense contradicció, cosa que indica que hi ha una interpretació en la qual la premissa és veritable i la conclusió és falsa.)"
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 20,
+      "question": "∃x (Fx → Gx) és una fórmula ben formada.",
+      "answer": "Cert",
+      "explanation": "Seguiu les regles per a la construcció de fórmules: Fx és una fórmula ben formada. Gx és una<br>fórmula ben formada. Fx → Gx és una fórmula ben formada. ∃x (Fx → Gx) és una fórmula ben<br>formada."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 21,
+      "question": "∃x Rxx no és una fórmula ben formada en lògica quantificacional.",
+      "answer": "Fals",
+      "explanation": "Està construït d&#x27;acord amb les regles per formar fórmules: Rxx és una fórmula ben<br>formada. ∃x Rxx és una fórmula ben formada."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 22,
+      "question": "En la lògica quantificacional de primer ordre, les lletres de predicat no es poden quantificar.",
+      "answer": "Cert",
+      "explanation": "La quantificació s'aplica als arguments dels predicats, o, per dir-ho d'una altra manera, als elements d'un conjunt: ens referim a tots ells, a alguns d'ells o a cap d'ells."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 23,
+      "question": "De ∀x (Fx → Gx) se'n dedueix formalment que ∃x (Fx ∧ Gx)",
+      "answer": "Fals",
+      "explanation": "Si no hi hagués cap F, la primera fórmula seria certa, però la segona seria falsa."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 24,
+      "question": "L'afirmació «Dos individus són idèntics si i només si no hi ha cap propietat que els distingeixi» no es pot formalitzar en la lògica quantificacional de primer ordre.",
+      "answer": "Cert",
+      "explanation": "Aquesta afirmació implica la quantificació sobre predicats; afirma que dos individus són idèntics si i només si, per a cada predicat P … En la lògica de primer ordre, només quantifiquem sobre individus; parlem de tots, alguns o cap d'un conjunt d'individus (que pot estar buit)."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 25,
+      "question": "Es deriva de «Tot és F» que «Hi ha alguna cosa que és F».",
+      "answer": "Cert",
+      "explanation": "Si hi hagués dos predicats com ara «tot P és F», no se'n derivaria un quantificador existencial; però en aquest cas, amb un sol predicat, sí que se'n deriva."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 26,
+      "question": "∃x ¬ Rxa no és una fórmula ben formada en lògica quantificacional.",
+      "answer": "Fals",
+      "explanation": "Segueix les regles per a la construcció de fórmules: Rxa és una fórmula ben formada. ¬ Rxa és una<br>fórmula ben formada. ∃x ¬ Rxa és una fórmula ben formada."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 27,
+      "question": "L'expressió «En Juan existeix i l'Andrés és alt» es formalitza com a (Pa ∧ Qb).",
+      "answer": "Fals",
+      "explanation": "L&#x27;existència es formalitza mitjançant el quantificador existencial. Per exemple: &quot;Existeix un x tal que x és Juan i Andrés<br>és alt&quot;: ∃x (x = a) ∧ Qb."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 28,
+      "question": "D'acord amb les afirmacions «Tots els quadrats tenen quatre costats» i «Tots els triangles tenen tres angles», se'n dedueix lògicament que «Cap quadrat és un triangle».",
+      "answer": "Fals",
+      "explanation": "Això no es dedueix simplement de la formulació de les afirmacions, sinó perquè apliquem algun altre coneixement matemàtic, com ara: una figura té quatre costats si i només si no té tres angles."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 29,
+      "question": "∃x (¬Fx → Gxa) és una fórmula ben formada.",
+      "answer": "Cert",
+      "explanation": "Seguiu les regles per a la construcció de fórmules: Fx és una fórmula ben formada. ¬Fx és una<br>fórmula ben formada. Gxa és una fórmula ben formada. ¬Fx → Gxa és una fórmula ben formada.<br>∃x (¬Fx → Gxa) és una fórmula ben formada."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 30,
+      "question": "∀x (Px → (Qx ∨ Rx)) implica ∀x (Px → Qx) ∨ ∀x (Px → Rx).",
+      "answer": "Fals",
+      "explanation": "Contraexemple: «Tots els estudiants o bé suspenen o bé aproven» no implica «Tots els estudiants suspenen o tots els estudiants aproven»."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 31,
+      "question": "Un arbre semàntic amb una branca oberta indica que hi ha una interpretació segons la qual les premisses de l'argument són veritables i la conclusió també és veritable.",
+      "answer": "Fals",
+      "explanation": "Indica que tant les premisses com la negació de la conclusió poden ser veritables (ja que no es contradiuen entre si). Això significa que és possible que les premisses siguin veritables i la conclusió sigui falsa."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 32,
+      "question": "Si X és una fórmula vàlida, aleshores Y ∨ X també és vàlida.",
+      "answer": "Cert",
+      "explanation": "Les lleis de deducció natural garanteixen la preservació de la veritat (i la naturalesa de la veritat), i tot el que s'ha fet aquí és aplicar la regla d'introducció de la disjunció."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 33,
+      "question": "El consequent d'una fórmula condicional és la conclusió d'un argument.",
+      "answer": "Fals",
+      "explanation": "Antecedent i consequent s'apliquen a les proposicions i a les seves formes (fórmules), mentre que premissa i conclusió s'apliquen als arguments i a les estructures argumentals. Són dos nivells diferents de llenguatge. Les proposicions són veritables o falses (les seves formes poden ser contingents, tautològiques o contradictòries), mentre que els arguments són vàlids o invàlids."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 34,
+      "question": "Qualsevol fórmula vàlida s'implícita per una contradicció.",
+      "answer": "Cert",
+      "explanation": "En primer lloc, perquè qualsevol fórmula implica una tautologia. En segon lloc, perquè de qualsevol contradicció se'n pot deduir lògicament qualsevol cosa; en altres paraules, una fórmula contradictòria implica qualsevol fórmula."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 35,
+      "question": "Si la proposició ¬ p és falsa, aleshores la proposició ¬ p també és falsa.",
+      "answer": "Cert",
+      "explanation": "Si ¬p és fals, aleshores p ha de ser necessàriament veritable. Per tant, ¬p és impossible; és<br>a dir, ¬◊¬p. Quan p és necessàriament veritable, ¬p és fals."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 36,
+      "question": "Modus Tollens no és una forma vàlida d'argument.",
+      "answer": "Fals",
+      "explanation": "És una de les regles derivades, és a dir, una de les formes vàlides d'argumentació."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 37,
+      "question": "Si la proposició ¬ p és falsa, aleshores la proposició p també és falsa.",
+      "answer": "Fals",
+      "explanation": "Si ¬ p és fals, això significa que p ha de ser veritable: p no pot ser fals. ¬ p és<br>impossible (p ≡ ¬ ◊ ¬ p)."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 38,
+      "question": "Una afirmació universal sempre implica lògicament una afirmació existencial.",
+      "answer": "Fals",
+      "explanation": "El fet que tots els Martians siguin verds no implica que hi hagi Martians verds. (Això es pot formalitzar i construir un arbre semàntic.)"
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 39,
+      "question": "La fórmula (¬ ◊ p) és equivalent a la fórmula (¬ ¬ p).",
+      "answer": "Fals",
+      "explanation": "¬ ◊ p és equivalent a ¬ p."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 40,
+      "question": "Qualsevol fórmula de la forma (Y → (X ∨ ¬X)) és una fórmula vàlida.",
+      "answer": "Cert",
+      "explanation": "Qualsevol fórmula de la forma (X ∨ ¬ X) és una fórmula vàlida; per tant, no pot ser<br>que Y sigui veritable i (X ∨ ¬ X) sigui falsa, ja que aquest seria l&#x27;únic cas en què el condicional seria fals. En<br>conseqüència, qualsevol fórmula de la forma (Y → (X ∨ ¬ X)) és sempre veritable; és a dir, és vàlida."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 41,
+      "question": "El principi dels indiscernibles afirma que quan dues coses tenen exactament les mateixes propietats, són idèntiques.",
+      "answer": "Fals",
+      "explanation": "El principi d'indiscernibilitat (d'entitats idèntiques) estableix que quan dues entitats són idèntiques, tenen les mateixes propietats i, per tant, són indistinguibles."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 42,
+      "question": "Fins i tot si un raonament té premisses veritables i una conclusió falsa, pot tenir una forma lògica vàlida.",
+      "answer": "Fals",
+      "explanation": "Si les premisses són certes però la conclusió és falsa, l'argument mateix serveix com a contraexemple de la seva forma lògica; en altres paraules, l'argument mateix demostra que la seva forma és invàlida: no garanteix que, si les premisses són certes, la conclusió sigui necessàriament certa."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 43,
+      "question": "Perquè un raonament sigui invàlid, n'hi ha prou que la conclusió sigui contradictòria.",
+      "answer": "Fals",
+      "explanation": "Una conclusió contradictòria pot derivar vàlidament de premisses falses."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 44,
+      "question": "No és una fórmula ben formada.",
+      "answer": "Cert",
+      "explanation": "β no pertany al vocabulari del llenguatge de la lògica de primer ordre. Després d'una lletra de predicat, només podem trobar lletres d'objecte com a, b, c, etc., variables d'objecte com x, y, z, etc., o descripcions ben definides. És un símbol de la metallengua. A més, falta un parèntesi de tancament."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 45,
+      "question": "No és una fórmula ben formada.",
+      "answer": "Fals",
+      "explanation": "Es construeix d&#x27;acord amb les regles per formar fórmules: Px és una fórmula (un<br>predicat seguit d&#x27;una variable individual); ¬Px és una fórmula ben formada (introducció de ¬ sobre fbf)<br>(Px ∧ ¬Px) és una fórmula ben formada (introducció de ∧ sobre dues fbf) ∃x (Px ∧ ¬Px) és una fórmula<br>ben formada (introducció de V sobre fórmules ben formades) Qx és una fórmula ben formada (predicat seguit<br>d&#x27;una variable individual) ∧ x Qx és una fórmula ben formada (introducció de ∧ sobre fórmules ben formades)<br>(∃x (Px ∧ ¬Px) → ∧ x Qx) és una fórmula ben formada (introducció de ∧ sobre dues fórmules ben formades)."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 46,
+      "question": "Perquè un raonament sigui vàlid, no és necessari que la seva conclusió sigui veritable.",
+      "answer": "Cert",
+      "explanation": "Un argument vàlid només descarta la possibilitat de premisses veritables i una conclusió falsa. Totes les altres combinacions de valors de veritat són possibles. Pot haver-hi, per exemple, premisses falses i una conclusió falsa."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 47,
+      "question": "Un arbre semàntic amb totes les seves branques obertes indica que no hi ha cap interpretació en què les premisses siguin veritables i la conclusió sigui falsa.",
+      "answer": "Fals",
+      "explanation": "Les branques obertes indiquen que la forma argumentativa té contraexemples i, per tant, és invàlida: de fet, hi ha interpretacions en què les premisses són veritables i la conclusió és falsa."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 48,
+      "question": "∧ x (Px → (Qx ∨ Rx)) implica ∀x (Px → Qx) ∨ ∀x (Px → Rx)",
+      "answer": "Fals",
+      "explanation": "Podeu construir l&#x27;arbre semàntic prenent ∀x (Px → (Qx ∨ Rx)) com a premissa i ¬ (∀x (Px →<br>Qx) ∨ ∀x (Px → Rx)) com a negació de la conclusió; i verificar que almenys una branca<br>completa i oberta roman."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 49,
+      "question": "La negació d'un argument vàlid és un argument invàlid.",
+      "answer": "Fals",
+      "explanation": "Els arguments no es poden negar, ja que no són afirmacions per si mateixos, sinó més aviat conjunts d'afirmacions organitzades en un ordre particular."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 50,
+      "question": "Si un argument té premisses veritables i una conclusió falsa, no pot tenir una forma lògica vàlida.",
+      "answer": "Cert",
+      "explanation": "Una forma de inferència vàlida exclou arguments amb premisses veritables i una conclusió falsa. El fals no es pot inferir vàlidament del veritable. Un argument d'aquest tipus serviria com a contraexemple per demostrar la invalidesa de la seva forma de inferència."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 51,
+      "question": "Es deriva lògicament de l'afirmació que cap cigne és negre que no tots els cignes són negres.",
+      "answer": "Fals",
+      "explanation": "Un arbre semàntic senzill es pot utilitzar per mostrar que ¬ ∃x (Cx ∧ Nx) no implica ¬ ∀x (Cx →<br>Nx)."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 52,
+      "question": "Es deriva lògicament de l'afirmació que tots els Martians són verds que alguns Martians són verds.",
+      "answer": "Fals",
+      "explanation": "Podem formalitzar i demostrar, mitjançant un arbre, que de ∀x (Mx → ∃x) no se'n segueix que ∃x (Mx ∧ ∃x)."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 53,
+      "question": "(∃x (Px ∧ ¬Px) → ∀x Qx) no és una fórmula ben formada.",
+      "answer": "Fals",
+      "explanation": "Cumplix les regles per formar fórmules: Px és una fórmula ben formada. ¬Px és una<br>fórmula ben formada. (Px ∧ ¬Px) és una fórmula ben formada. ∃x (Px ∧ ¬Px) és una fórmula ben<br>formada. Qx és una fórmula ben formada. ∀x Qx és una fórmula ben formada. ∃x (Px ∧ ¬Px) → ∀x Qx<br>és una fórmula ben formada."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 54,
+      "question": "Un raonament amb premisses veritables serà vàlid si la seva conclusió també és veritable.",
+      "answer": "Fals",
+      "explanation": "Un argument amb premisses veritables i una conclusió veritable pot tenir una forma lògica invàlida. Tenir una conclusió veritable no és una condició suficient perquè un argument amb premisses veritables sigui vàlid. És, però, una condició necessària: si un argument té premisses veritables i una conclusió veritable, la seva forma no és necessàriament vàlida. A la inversa, si un argument té premisses veritables i una forma vàlida, la seva conclusió és necessàriament veritable."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 55,
+      "question": "Si X és una fórmula vàlida, la seva negació ¬X és una tautologia.",
+      "answer": "Fals",
+      "explanation": "La seva negació és una contradicció. Una fórmula vàlida és una tautologia (totes les seves interpretacions són veritables). La negació dona com a resultat una fórmula contradictòria (totes les seves interpretacions són falses)."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 56,
+      "question": "Una clàusula condicional amb un antecedent contradictori és una implicació.",
+      "answer": "Cert",
+      "explanation": "Una implicació és un condicional tautològic. Un condicional tautològic és aquell la forma lògica del qual no permet cap interpretació en què l'antecedent sigui veritat i el consequent sigui fals. Si l'antecedent és contradictori, no hi haurà cap instància en què l'antecedent sigui veritat. Sigui quin sigui el consequent, el condicional serà tautològic."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 57,
+      "question": "Si un argument és invàlid, l'arbre que representa el seu esquema té totes les branques obertes.",
+      "answer": "Fals",
+      "explanation": "Poden existir branques tancades. L'única certesa és que una de les branques (potser només una) roman oberta i no conté cap contradicció, cosa que indica que existeixen contraexemples i que l'argument és invàlid."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 58,
+      "question": "Si X és una fórmula vàlida, aleshores Y → X també és vàlida.",
+      "answer": "Cert",
+      "explanation": "Si el consequent d'aquest condicional és una tautologia, és impossible trobar un cas que faci la fórmula falsa; és a dir, un cas en què Y és veritable i X és fals."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 59,
+      "question": "Es deriva lògicament de l'afirmació que totes les balenes són mamífers que algunes balenes són mamífers.",
+      "answer": "Fals",
+      "explanation": "B: ser una balena M: ser un mamífer<br>La forma lògica d&#x27;aquesta afirmació és ∧ x (Bx → Mx), que és equivalent a ¬∃x (Bx ∧ ¬Mx). D&#x27;això no se&#x27;n<br>dedueix que hi hagi balenes (ni balenes que siguin mamífers ni balenes que no ho siguin). Un universal seguit d&#x27;un condicional no implica l&#x27;existència ni de l&#x27;antecedent ni de la conseqüència. Un existencial se&#x27;n dedueix d&#x27;un<br>universal quan aquest cobreix un predicat simple. De ∧ x Bx sí que se&#x27;n dedueix que hi ha coses que són<br>B."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 60,
+      "question": "Perquè un raonament sigui invàlid, n'hi ha prou que la conclusió sigui falsa.",
+      "answer": "Fals",
+      "explanation": "Un argument és invàlid quan la seva forma permet l'existència d'arguments d'aquesta forma que tenen premisses veritables però una conclusió falsa; és a dir, quan permet la transició del veritable al fals. Tanmateix, podem tenir arguments vàlids la conclusió dels quals és falsa i en els quals algunes de les premisses també són falses."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 61,
+      "question": "∧ x (Px ¬ ∧ ¬Px) és una fórmula ben formada.",
+      "answer": "Fals",
+      "explanation": "Les regles per formar fórmules no permeten escriure una negació immediatament després d&#x27;una conjunció<br>(¬ ∧). Una negació sempre precedeix una fórmula, no un connector: si X és una fórmula ben formada,<br>aleshores ¬X també és una fórmula ben formada. Tanmateix, &quot;∧ ¬Px&quot; no és una fórmula ben formada."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 62,
+      "question": "Si X és una fórmula vàlida, aleshores la fórmula (¬X ∧ Y) és una tautologia.",
+      "answer": "Fals",
+      "explanation": "La negació de X serà una contradicció, per tant la seva conjunció amb Y també serà una contradicció, sigui quin sigui Y."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 63,
+      "question": "La negació de «Cada regla és una inferència vàlida» és «Cap regla és una inferència vàlida».",
+      "answer": "Fals",
+      "explanation": "La negació és: \"No totes les regles són una deducció vàlida.\""
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 64,
+      "question": "(∃x (Pα ∧ ¬ Pxx) → ∧ x Qx) no és una fórmula ben formada.",
+      "answer": "Cert",
+      "explanation": "<ol><li>α no pertany al vocabulari del llenguatge de fórmula, però s&#x27;utilitza en la metallengua.</li><li>Un predicat no pot ser alhora monàdic (P α) i diàdic en la mateixa fórmula (Pxx).</li></ol>"
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 65,
+      "question": "Perquè un raonament sigui vàlid, n'hi ha prou que la conclusió sigui veritable.",
+      "answer": "Fals",
+      "explanation": "La validesa d'un argument depèn de la seva forma, no del valor de veritat de la seva conclusió. Quan un argument té una forma vàlida, és impossible trobar cap argument amb la mateixa forma en què les premisses siguin veritables i la conclusió sigui falsa. Tanmateix, podem trobar arguments amb premisses falses (almenys una) i una conclusió falsa."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 66,
+      "question": "Si X és una proposició contingenta, aleshores la proposició (¬X ∧ Y) és una contradicció.",
+      "answer": "Fals",
+      "explanation": "La negació de X serà una altra contingència, i també ho serà la seva conjunció amb qualsevol fórmula. Y mai no pot resultar en una tautologia, però tampoc no resulta necessàriament en una contradicció. Serà o bé una contingència o bé una contradicció, depenent del que sigui Y."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 67,
+      "question": "Si un argument és invàlid, el seu arbre d'esquema conté una branca tancada.",
+      "answer": "Fals",
+      "explanation": "L'arbre per a un argument invàlid conté algunes branques obertes. No sabem quantes; potser totes."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 68,
+      "question": "Donada una fórmula X, si l'arbre de X és obert i l'arbre de ¬X també és obert, podem dir que la fórmula X no és una tautologia.",
+      "answer": "Cert",
+      "explanation": "Un arbre obert per a X indica que X té algunes instàncies de veritat V. Un arbre obert per<br>a ¬X indica que ¬X té algunes instàncies de veritat V. En aquests casos, X és F. Això significa que X té<br>instàncies V i instàncies F. És una fórmula contingenta."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 69,
+      "question": "Un argument invàlid conté una falsedat o bé en el conjunt de premisses o bé en la conclusió.",
+      "answer": "Fals",
+      "explanation": "Els arguments invàlids poden tenir qualsevol valor de veritat tant en les premisses com en la conclusió."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 70,
+      "question": "De la frase «Tots els estudiants que fan l'examen de Lògica II aprovaran», se'n dedueix que «Alguns estudiants que fan l'examen de Lògica II aprovaran».",
+      "answer": "Fals",
+      "explanation": "No se&#x27;n segueix d&#x27;una afirmació universal que hi hagi individus als quals s&#x27;apliqui. Una afirmació universal<br>té la forma següent: ∧ x ((Px ∧ Qx) → Rx) (tot allò que és P i Q és R), que no és equivalent a la forma<br>∃x (Px ∧ Rx) (hi ha coses que són P i R)."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 71,
+      "question": "Un arbre semàntic és un mètode per analitzar estructures argumentatives així com estructures enunciatives o fórmules.",
+      "answer": "Cert",
+      "explanation": "S'utilitza un arbre semàntic per analitzar un conjunt de fórmules. El més habitual és que aquest conjunt estigui format per les premisses d'un argument i la negació de la seva conclusió; tanmateix, també podem analitzar una sola fórmula."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 72,
+      "question": "Algunes fórmules són veritables.",
+      "answer": "Fals",
+      "explanation": "Les fórmules només es poden classificar com: 1) contradictòries, 2) tautològiques o vàlides, o 3) contingents. També podem classificar les fórmules com satisfactibles (les contingents i les tautològiques) i insatisfactibles (les contradictòries). \"Veritat\" i \"fals\" només es prediquen de proposicions."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 73,
+      "question": "Si X és una fórmula contingenta, aleshores (Y ∧ ¬Y) → X també és una fórmula contingenta.",
+      "answer": "Fals",
+      "explanation": "Aquesta fórmula té un antecedent contradictori, per tant mai no es dóna el cas que l'antecedent sigui veritable i el consequent fals. És una tautologia."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 74,
+      "question": "Donada una fórmula X, si l'arbre de X és obert i l'arbre de ¬X també és obert, podem dir que la fórmula X no és ni vàlida ni contradictòria.",
+      "answer": "Cert",
+      "explanation": "En aquest cas, X és una fórmula contingenta; hi ha contraexemples tant per a X com per a ¬X — casos en<br>què X és fals i casos en què ¬X és fals. Per tant, també hi ha casos en què X és veritat i<br>casos en què ¬X és veritat."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 75,
+      "question": "Una equivalència és el mateix que una definició creuada de constants lògiques.",
+      "answer": "Fals",
+      "explanation": "Una equivalència és una bicondicional vàlida o tautològica. Totes les interdefinicions són<br>equivalències, però no totes les equivalències són necessàriament interdefinicions. Per exemple: p ↔ p és<br>una equivalència, però no és una interdefinició."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 76,
+      "question": "Si un raonament és invàlid, la combinació de les premisses i la conclusió és una contradicció.",
+      "answer": "Fals",
+      "explanation": "En un argument invàlid, tant les premisses com la conclusió poden tenir qualsevol valor de veritat, excepte una contradicció en les premisses i la validesa (tautologia) en la conclusió, ja que en aquest cas l'argument seria vàlid. Tanmateix, pot haver-hi o no una contradicció en la combinació de les premisses i la conclusió."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 77,
+      "question": "Si X és una fórmula contradictòria, aleshores X → (Y ∧ ¬Y) és una fórmula vàlida.",
+      "answer": "Cert",
+      "explanation": "D'una contradicció se'n deriva qualsevol cosa (ECQ). Un condicional és fals només quan el seu antecedent és veritable i el seu consequent és fals, però si X és contradictori, aquell condicional mai no tindrà un antecedent veritable, de manera que totes les seves interpretacions seran veritables. Aquell condicional és una tautologia."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 78,
+      "question": "Un arbre semàntic amb quatre branques tancades i una branca oberta indica que hi ha exactament quatre contraexemples de l'esquema d'inferència considerat.",
+      "answer": "Fals",
+      "explanation": "La branca oberta indica que l'esquema en consideració és invàlid; té un nombre infinit d'exemples contraris."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 79,
+      "question": "La negació d'una tautologia és una fórmula insatisfàbil.",
+      "answer": "Cert",
+      "explanation": "La negació d'una tautologia (T en totes les interpretacions) és una contradicció (F en totes les interpretacions)."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 80,
+      "question": "Qualsevol fórmula de la forma (Y → (X ∨ ¬ X)) és una fórmula vàlida.",
+      "answer": "Cert",
+      "explanation": "Com que tota fórmula de la forma (X ∨ ¬ X) és una fórmula vàlida, no pot ser<br>que Y sigui veritat i (X ∨ ¬ X) sigui fals, ja que aquest seria l&#x27;únic cas en què la condicional seria<br>falsa. Per tant, qualsevol fórmula de la forma (Y → (X ∨ ¬ X)) és sempre veritable, és a dir, és vàlida."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 81,
+      "question": "Un arbre semàntic amb totes les seves branques obertes indica que no hi ha cap interpretació que faci que les premisses i la conclusió siguin veritables.",
+      "answer": "Fals",
+      "explanation": "Les branques obertes indiquen que la forma argumentativa té contraexemples i, per tant, és invàlida: de fet, hi ha interpretacions en què les premisses són veritables i la conclusió és falsa."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 82,
+      "question": "∃x (Px ¬ ∧ ¬Px) és una fórmula ben formada.",
+      "answer": "Fals",
+      "explanation": "Una negació no pot anar seguida d&#x27;una conjunció. Segons les regles de construcció de fórmules, una<br>conjunció només es pot afegir a dues fórmules ben formades, però Px ¬ no està ben formada."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 83,
+      "question": "La negació de «l'actual rei de França és calb» és «actualment no hi ha cap rei a França, o ell no és calb».",
+      "answer": "Fals",
+      "explanation": "La negació és «Actualment no hi ha cap rei a França, o bé no és calb», ja que «L'actual rei de França és calb» implica que actualment hi ha un rei a França, que no n'hi ha més d'un i que és calb. També podríem negar-ho de la manera següent: «Actualment no hi ha cap rei a França, o bé no n'hi ha només un, o bé no és calb»."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 84,
+      "question": "L'argument és invàlid només si les premisses no comporten la conclusió.",
+      "answer": "Cert",
+      "explanation": "Si l'argument és invàlid, les premisses no comporten la conclusió; la veritat de la conclusió, si n'hi ha, no es deriva necessàriament de la veritat de les premisses, si n'hi ha."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 85,
+      "question": "Si X és una proposició contingenta, la seva negació ¬X és una contingència.",
+      "answer": "Cert",
+      "explanation": "Si X és una fórmula contingenta, té tant interpretacions veritables com falses. La seva negació tindrà exactament tantes interpretacions veritables com X té falses, i tantes interpretacions falses com X té veritables; és a dir, també tindrà algunes interpretacions veritables i algunes falses."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 86,
+      "question": "Fins i tot si un raonament té premisses veritables i una conclusió falsa, pot tenir una forma lògica vàlida.",
+      "answer": "Fals",
+      "explanation": "Si les premisses són veritables però la conclusió és falsa, l'argument mateix serveix com a contraexemple de la seva forma lògica; en altres paraules, l'argument mateix demostra que la seva forma és invàlida: no garanteix que si les premisses són veritables, la conclusió sigui necessàriament veritable."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 87,
+      "question": "Es deriva lògicament de l'afirmació que tots els Martians són verds que alguns Martians són verds.",
+      "answer": "Fals",
+      "explanation": "<p>Tots els Martians són verds:<br>∀x (Mx → Gx)<br>Per a cada x, si x és un Martià, aleshores x és verd.</p><p>Alguns marcianes són verds:<br>∃x (Mx ∧ Gx)<br>Existeix algun x tal que x és un marcian i x és verd.</p><p>Aquestes dues afirmacions no són equivalents, ja que la primera afirma que, si els Martians existeixen, són verds; mentre que la segona afirma que existeix algun Martià que és verd. És per aquesta raó que el quantificador particular també s&#x27;anomena quantificador existencial, perquè afirma l&#x27;existència d&#x27;almenys un x.</p>"
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 88,
+      "question": "«Tots els Martians són verds» es pot formalitzar com ∀x (Mx ∧ ∃x) o com ∀x (Mx → ∃x)",
+      "answer": "Fals",
+      "explanation": "La manera correcta de formular això seria simplement: ∀x (Mx → ∃x). Això<br>és perquè, en la forma alternativa ∀x (Mx ∧ ∃x), estaríem afirmant que cada individu de l&#x27;univers del<br>discurs és alhora marcian i verd. Seria com dir &quot;són tots marcian verds&quot;."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 89,
+      "question": "\"Tots els x són P\" és lògicament equivalent a \"no hi ha cap x que no sigui P\".",
+      "answer": "Cert",
+      "explanation": "Formalizem:<br>∀x (Px), tot x té la propietat P<br>; ¬∃x (¬Px), no hi ha cap element x que no tingui la propietat P.<br>Com que ∀x i ¬∃x són equivalents, aquestes dues formalitzacions són, per tant, equivalents."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 90,
+      "question": "A partir de la fórmula ∀x Px, només es pot derivar ∃x Px si el domini de discurs no està buit.",
+      "answer": "Cert",
+      "explanation": "En el cas d'un univers de discurs no buit, el particular se'n dedueix de l'universal. Atès que hi ha elements en l'univers, si tots els x són P, aleshores se'n dedueix que alguns x són P. En el cas d'un univers buit, el particular no se'n dedueix de l'universal. Fins i tot si sabem que tots els x són P, si no hi ha elements, no hi hauria cap x que fos P."
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 91,
+      "question": "ANOMALIA Tot i que els quantificadors universals i existencials no expressen quantitats numèriques específiques per si mateixos, poden fer-ho en expressions amb l'ajuda d'altres eines de la lògica de primer ordre.",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "section": "Pregunta de proves lògiques II",
+      "number": 92,
+      "question": "ANOMALIA En un univers de discurs finit, la regla d'eliminació del quantificador universal es pot justificar mitjançant la regla d'eliminació de la conjunció.",
+      "answer": "",
+      "explanation": ""
+    }
+  ]
+}

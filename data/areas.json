@@ -23,6 +23,13 @@
       "shortName": "fdl",
       "language": "es"
     },
+        {
+      "area": "Lógica II",
+      "file": "questions-log2.json",
+      "type": "True False",
+      "shortName": "log2",
+      "language": "es"
+    },
     {
       "area": "Lògica I",
       "file": "questions-log1-ca.json",
@@ -45,6 +52,13 @@
       "language": "ca"
     },
     {
+      "area": "Lògica II",
+      "file": "questions-log2-ca.json",
+      "type": "True False",
+      "shortName": "log2",
+      "language": "ca"
+    },
+    {
       "area": "Logic I",
       "file": "questions-log1-en.json",
       "type": "True False",
@@ -63,6 +77,13 @@
       "file": "questions-fdl-en.json",
       "type": "Multiple Choice",
       "shortName": "fdl",
+      "language": "en"
+    },
+    {
+      "area": "Logic II",
+      "file": "questions-log2-en.json",
+      "type": "True False",
+      "shortName": "log2",
       "language": "en"
     }
   ]
